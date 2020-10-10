@@ -32,3 +32,7 @@
   - 6.3 - Agriculture and Food
   - 6.4 - Industry and Infrastructure
   - 6.5 - Community and Society
+- 7 - Reference Grammar
+  - 7.1 - Noun and Adjective Inflections
+  - 7.2 - Verb, Adverb, Locative and Tag Inflections
+  - 7.3 - Vocab notes
