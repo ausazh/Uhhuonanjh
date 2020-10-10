@@ -34,8 +34,8 @@ HEADER = '''
 
 SECTION_HEADER = '''
 
-|Uhhuonanjh|IPA|Part of Speech|English|Explanation|Notes|
-|----------|---|--------------|-------|-----------|-----|
+|Uhhuonanjh|Pronunciation|Part of Speech|English|Explanation|Notes|
+|----------|-------------|--------------|-------|-----------|-----|
 '''
 
 def tablify ():
