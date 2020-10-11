@@ -1,6 +1,27 @@
 # Introduction to Uħħuonanjh
 
-**Uħħuonanjh** /ˈuħˌħuo̯næɲ̊/ is the language spoken during the Bronze and Iron Ages by the **Uħħuononj** /ˈuħˌħuo̯nɔɲ/ people.  The Uħħuononj, one of three groups descended from the Vuhîñkam, descend from the people who chose to stay in the Vuhînkam homeland rather than migrate outwards.  The prevailing mythology among the Uħħuononj explains this as dedication to their ancestors resting in the ground below them, though this hasn't stopped the people from migrating outwards from the river valley.
+**Uħħuonanjh** /ˈuħˌħuo̯næɲ̊/ is the language spoken during the Bronze and Iron Ages by the **Uħħuononj** /ˈuħˌħuo̯nɔɲ/ people.  The Uħħuononj, one of three groups descended from the Vuhîñkam, descend from the people who chose to stay in the Vuhînkam homeland rather than migrate outwards (the others being Shechageghern and X).  The prevailing mythology among the Uħħuononj explains this as dedication to their ancestors resting in the ground below them, though this hasn't stopped the people from migrating outwards from the river valley.
+
+The words *Uħħuononj* and *Uħħuonanjh* simply mean 'tribe' and 'language spoken by a tribe' respectively - the Uħħuononj as a whole were never a united people and there was no specific word to denote them as a group as opposed to other groups.
+
+Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* region (the river valley) and its surrounds, known variably as *Qamkonj* 'Land of Ancestors', *Ljiħħeimonj* 'Land of Birth' or *Kuskonj* 'Land of Plenty'.
+
+## Overview Timeline
+
+- Late Neolithic - Shechageghern-X migration
+- Early Bronze Age - Cities form in the Lower Valley (*Puruttśonj* and *Xärrhättśonj* regions)
+- Early-Mid Bronze Age - Cities form in the Upper Valley (*Xâeputtśonj*); Kingdoms form in the Lower Valley region
+- Mid Bronze Age - Lower Kingdoms come to dominate the entire *Qamkonj* (homeland) region, building new cities in the region but also triggering local tribes to migrate further afield
+- Late Bronze Age - A combination of invasions and catastrophic floods decimates the Lower Kingdoms, leading to the creation of Upper Valley kingdoms as well as a large emigration from the Lower Valley towards lands outside the *Qamkonj* (homelands).
+- Early Iron Age - The discovery of ironworking propels one particular kingdom in the Upper Valley to harness it for military use, quickly subjugating its neighbours and then unifying the entire *Uonjëkkouonj* (river valley).
+- Mid Iron Age - The central kingdom continues to expand through the *Qamkonj* (homeland) region and beyond.  They are able to expand rapidly through the south, but are unable to expand very far north and east due to thick forests and difficult terrain.
+- Late Iron Age - Political troubles, droughts and foreign invasions in the central kingdom lead to its fracture into a number of separate states and a long period of chaos, during which a large portion of *Qamkonj* inhabitants emigrate northward.
+
+## Interaction
+
+Little direct contact with PTU, most trade and contact was done through Shechageghern intermediaries.
+
+Trade routes between Uhhuonanj and Shechageghern lands were common, trading X.
 
 ## Chapters
 

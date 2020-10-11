@@ -1,50 +1,148 @@
 
 
-qurhiħa;qu'fërhiħa;qurhiħa;qurhiħe,ˈɢuˌr̥iħæ;ˈɢuʔfɤˌr̥iħæ;ˈɢuˌr̥iħæ;ˈɢuˌr̥iħɛ,V-PP;V-PN;V-VP;V-VI,to float (on/in water),,
-rhü;jêñreu;rhü;rhüe,ˈr̥y;ˈjeɴrøʊ̯;ˈr̥y;ˈr̥yɛ,V-PP;V-PN;V-VP;V-VI,to melt (intrans),CAUS = to melt (trans),
-ħanħaome;iñanħaome;ħanħaome;ħanħaome,ˈħæn̥ˌħæo̯mɛ;ˈiɴæn̥ˌħæo̯mɛ;ˈħæn̥ˌħæo̯mɛ;ˈħæn̥ˌħæo̯mɛ,V-PP;V-PN;V-VP;V-VI,to burn (intrans),CAUS = to burn (trans),CF: *ħanjmanjh* 'fire'
+qurhiħa;qu'fërhiħa;qurhiħa;qurhiħe,ˈɢuˌr̥iħæ;ˈɢuʔfɤˌr̥iħæ;ˈɢuˌr̥iħæ;ˈɢuˌr̥iħɛ,V-PP;V-PN;V-VP;V-VI,to float (on/in water),
+rhü;jêñreu;rhü;rhüe,ˈr̥y;ˈjeɴrøʊ̯;ˈr̥y;ˈr̥yɛ,V-PP;V-PN;V-VP;V-VI,to melt (intrans),CAUS = (trans),
+ħanħaome;iñanħaome;ħanħaome;ħanħaome,ˈħæn̥ˌħæo̯mɛ;ˈiɴæn̥ˌħæo̯mɛ;ˈħæn̥ˌħæo̯mɛ;ˈħæn̥ˌħæo̯mɛ,V-PP;V-PN;V-VP;V-VI,to burn (intrans),CAUS = (trans);CF: *ħanjmanjh* 'fire'
+quñëź;quźjiñêź;ququoźnjof;ququoźanjh,ˈɢuɴɤʑ;ˈɢuʑˌjiɴeʑ;ˈɢuˌɢuo̯ʑɲɔf;ˈɢuˌɢuo̯ʑæɲ̊,V-PP;V-PN;V-VP;V-VI,to flow,
+qu'uccou;quźjë'uccou;qu'uccünjef;qu'uccüanjh,ˈɢuˌʔuccou̯;ˈɢuʑjɤˌʔuccou̯;ˈɢuʔucˌcyɲɛf;ˈɢuʔucˌcyæɲ̊,V-PP;V-PN;V-VP;V-VI,to freeze (intrans),CAUS = (trans);REG: quña'uccou
+
+vanśke,ˈʋæɲ̊ɕkɛ,N-D,sky,REG: vaśnjaogge
+rhiikke,ˈr̥iˌikkɛ,N-D,sun,
+vaśke,ˈʋæɕkɛ,N-D,moon,
+cêrrheagge,ˈcer̥ˌr̥eɐ̯ggɛ,N-D,star,
+verxanjh,ˈʋɛr̥xæɲ̊,N-A,rain,
+virxenjh,ˈʋir̥xɛɲ̊,N-A,heavy rain,
+vaśxanjh,ˈʋæɕxæɲ̊,N-A,clouds,
+veśxenjh,ˈʋɛɕxɛɲ̊,N-A,stormclouds,
+vaftnjanjh,ˈʋæftɲ̊æɲ̊,N-A,wind;weather,FROM: *vatfenjh* 'to blow'
+ħa'üccünjh,ˈħæˌʔyccyɲ̊,N-A,snow (falling),FROM: *ħa'üccüa'* 'snow';CF: *ħa'üccüyenjh* 'blizzard'
+ya'üccünjh,ˈɟæˌʔyccyɲ̊,N-A,hail,FROM: *ya'üccüa'* 'ice'
+ħa'üccüyenjh,ˈħæʔycˌcyɟɛɲ̊,N-A,blizzard / snowstorm,CF: *ħa'üccünjh* 'snow'
+ca'iccenjh,ˈcæʔˌiccɛɲ̊,N-A,dust storm,FROM: *ca'icca* 'dust'
+ħanjmanjh,ˈħæɲ̊m̥æɲ̊,N-A,fire,
+ħa'uħħo,ˈħæʔˌuħħɔ,N-I,ashes,
+ârrâyanjh,ʌrˈrʌɟæɲ̊,N-A,flow / current,
+me'rhesanjh,ˈmɛʔˌr̥ɛsæɲ̊,N-A,tide,FROM: *me'rhe-esa* 'sea-cycle'
+tfaanjh,ˈtfææɲ̊,N-A,wave,
+kubrhâyanjh,ˈkubˌrʌɟæɲ̊,N-A,strong current,FROM: *kup-ârrâyanjh* 'much-flow'
+ku'rhu,ˈkuʔr̥u,N-I,flood (due to river/melt),FROM: *kup-rhü* 'much-melt'
+kumverxa,ˈkumˌʋɛr̥xæ,N-I,flood (due to rain),FROM: *kup-verxa* 'much-rain'
+kuttfa,ˈkuttfæ,N-A,flood (due to sea),FROM: *kup-tfa* 'much-wave'
+
+niño,ˈniɴɔ,N-I,night,
+yinddźo,ˈɟiɲɟɟ͡ʑɔ,N-I,day,
+qu'ħuśśa,ˈɢuʔˌħuɕɕæ,N-I,year,CF: *ħêśśa* 'cycle'
+vaśħêśśa,ˈʋæɕˌħeɕɕæ,N-I,month,FROM: *vaś-ħêśśa* 'moon-cycle'
+ħêśśa,ˈħeɕɕæ,N-I,cycle,
+esa,ˈɛsæ,N-I,cyclical phase / season;period of time,
+kusko,ˈkuskɔ,N-I,summer,merged form w/ *kusko* 'plenitude';FROM: *kus-esa* 'plenitude-phase'
+ħusko,ˈħuskɔ,N-I,autumn,FROM: *Qu'ħus-esa* 'God of Harvest-phase'
+iske,ˈiskɛ,N-I,winter,FROM: *ni-esa* 'night-phase';CF: *Ienj(eħħonj)* 'Northlands'
+rhüźakke,ˈr̥yˌʑækkɛ,N-I,spring,FROM: *rhü-esa* 'melt-phase'
 
 
 
-ħanjmanjh,ˈħæɲ̊m̥æɲ̊,N-A,fire,,
-ħa'uħħo,ˈħæʔˌuħħɔ,N-I,ashes,,
+euź,ø̯ʊʑ,N-I,water,generic word;CF: *jêźikke* 'the water';CF: *quttśia* 'drinking water'
+me'eqqa,ˈmɛʔˌɛɢɢæ,N-I,soil,CF: *me'ekke* 'ground'
+erreqqa,ɛrˈrɛɢɢæ,N-I,stone,
+erreqqe,ɛrˈrɛɢɢɛ,N-I,pebble,
+jêreqqa,ˈjeˌrɛɢɢæ,N-I,sand,FROM: 'jêź-reqqa' 'water-stone'
+xekka',ˈxɛkkæʔ,N-A,path,esp. natural path,
+ca'icca,ˈcæʔˌiccæ,N-I,dust,
+ħa'üccüa',ˈħæʔycˌcyæʔ,N-I,snow,CF: *ħa'üccünjh* 'falling snow'
+ya'üccüa',ˈɟæʔycˌcyæʔ,N-I,ice,CF: *ya'üccünjh* 'hail';CF: *qu'uccou* 'to freeze'
+
+jêźikke,ˈjeˌʑikkɛ,N-D,(the) water,"water as terrain;(seas, lakes & rivers);CF: *euź* 'water'"
+me'ekke,ˈmɛʔˌɛkkɛ,N-D,(the) ground,FROM: *me'eqqa* 'soil'
+yeħħa,ˈɟɛħħæ,N-I,land,
+niñâe,ˈniɴɑe̯,N-I,tundra,FROM: *niño* 'night';ORIG: northern lands;CF: *Ienjeħħonj* 'The Northlands'
+yinddźoeħħa,ˈɟiɲɟɟ͡ʑɔˌɛħħæ,N-I,plains,FROM: *yinddźo* 'day';ORIG: southern lands;CF: *Yinddźaħonj* 'The Southlands'
+ârrhâemâe,ʌr̥ˈr̥ɑe̯mɑe̯,N-I,highlands,CF: *ârrhâem'* 'high';CF: *ârrhâfonj* 'The Highlands'
+marrhöâe,ˈmær̥ˌr̥øɑe̯,N-I,lowlands,CF: *me'rhenjh* 'sea'
+arrhacca',ær̥ˈr̥æccæʔ,N-I,mountain/s,CF: *xacca* 'above';CF: *ârrhâem* 'up'
+ħuoñdvaś,ˈħuo̯ɴdʋæɕ,N-I,forest,CF: *tfaśśa* 'tree'
+quieźanjh,ˈɢuˌie̯ʑæɲ̊,N-I,river,
+meccieźanjh,ˈmɛcˌcie̯ʑæɲ̊,N-A,lake,
+ca'iccüźonj,ˈcæʔicˌcyʑɔɲ,N-A,oasis,FROM: *ca'icca-euź* 'dust-water'
+me'rhenjh,ˈmɛʔˌr̥ɛɲ̊,N-A,sea,
+tfirrha,ˈtfir̥r̥æ,N-I,hill,
+kixeź,ˈkixɛʑ,N-I,beach,
+arrharrä,ær̥ˈr̥ærra,N-I,coast,
+fienja',ˈfie̯ɲæʔ,N-I,base / foot / bottom,
+vaoña',ˈʋæo̯ɴæʔ,N-I,summit / peak / top,
+uoyyeħħa,ˈuo̯ɟˌɟɛħħæ,N-I,valley,
+üâe,ˈyɑe̯,N-I,island,CF: *üma* 'knee'
+
+
+
+Vaoñdunj,ˈʋæo̯ɴduɲ,N-H,Realm of the Living;The Known World,often excluding Ljanêrmonj;FROM: *Vaoñdv(ikke)* 'Goddess of the Living World'
+Yeħke,ˈɟɛħkɛ,N-D,The World,"all lands, known or unknown, in practice often synonymous w/ Vaoñdunj;FROM: *yeħħa* 'land'"
+Ljiħħeimonj,ˈʎiħˌħei̯mɔɲ,N-H,The Homeland ('Land of Birth'),FROM: *Ljiħħeim(ge)* 'Goddess of Creation/Birth'
+Qamkonj,ˈɢæm̥kɔɲ,N-H,The Homeland ('Land of Ancestors'),FROM: *qamke* '(personal) ancestor'
+Kuskonj,ˈkuskɔɲ,N-H,The Homeland ('Land of Plenty'),FROM: *kusko* 'plenitude'
+Ienjeħħonj,ˈie̯ˌɲɛħħɔɲ,N-H,The Northlands,FROM: *ni-eħħa* 'night-land';CF: *niñâe* 'tundra'
+Yinddźaħonj,ˈɟiɲɟˌɟ͡ʑæħɔɲ,N-H,The Southlands,FROM: *yinddźo-eħħa* 'day-land';CF: *yinddźoeħħa* 'plains'
+Ârrhâfonj,ʌr̥ˈr̥ʌfɔɲ,N-H,The Highlands,FROM: *ârrhâem-eħħa* 'high-land';CF: *ârrhâemâe* 'highlands'
+Puruttśonj,ˈpuˌrucc͡ɕɔɲ,N-H,Lower River Region,FROM: *pur-uieźanjh* 'low-river'
+Xâeputtśonj,ˈxɑe̯ˌpucc͡ɕɔɲ,N-H,Upper River Region,FROM: *xâep-uieźanjh* 'up-river'
+Xärrhättśonj,ˈxar̥ˌr̥acc͡ɕɔɲ,N-H,River Coast Region,FROM: *xarrä-uieźanjh* 'coast-river'
+Śaśśüênj,ˈɕæɕˌɕyeɲ,N-H,Seadragon Strait,FROM *śaśśöranjh* 'sea dragon'
+Śaśśüħênj,ˈɕæɕˌɕyħeɲ,N-H,Seadragon Strait Coast,FROM *Śaśśüênj-eħħa* 'SDS-land'
+Pfośħonj,ˈpfɔɕħɔɲ,N-H,Albatross Island,FROM *pfośśüenjh-eħħa* 'albatross'
+Meccêźeamonj,ˈmɛcceʑˌeɐ̯mɔɲ,N-H,Westlake Region,FROM: *meccieź-iħeim* 'lake-left'
+Meccêźaorrânj,ˈmɛcceʑˌæo̯rrʌɲ,N-H,Eastlake Region,FROM: *meccieź-âur* 'lake-right'
+Jêiśħeimonj,ˈjeiɕˌħei̯mɔɲ,N-H,Mountain Springs Region,FROM: *jêź-ljiħħeim* 'water-birth'
+Meffeśteħħênj,ˈmɛffɛɕˌtɛħħeɲ,N-H,Elephant Plains Region,FROM: *me'fośt-eħħa* 'elephant-land'
+Ghaźbêrrânj,ˈɣæʑˌberrʌɲ,N-H,Olive Coast Region,FROM: *arraźba* 'olive'
+Rhiemênj,ˈr̥ie̯meɲ,N-H,The Savannah Region,FROM: *rhi* 'sun'
+Uttüvâencox,ˈuttyˌʋɑe̯ɲ̊cɔx,N-H.pl,Fisher Islands,FROM: *uttum-üâe-anyex* 'fisher-island-pl'
+Quoźo'âenqënj,ˈɢuo̯ʑɔʔˌɑe̯nɢɤɲ,N-H.d,The Two Rivers Region,FROM: *quieźanj-quonj* 'river-dual'
+Moanduâenyox,ˈmoɐ̯nduˌɑe̯ɲɟɔx,N-H.pl,Pine Forests Region,FROM: *moa-ħuodvaś-anyex* 'pine-forest-pl'
+Fienjafrhienyex,ˈfie̯ɲæˌfr̥ie̯ɲɟɛx,N-H.pl,The Foothills Region,FROM: *fienja'-tfirrha-anyex* 'base-hill-pl'
+Varcindüaonyex,ˈʋær̥cindyˌæo̯ɲɟɛx,N-H.pl,Hunter Forests,FROM: *varħaccin-ħuodvaś-anyex* 'hunter-forest-pl'
+Ghaonyappaonyex,ˈɣæo̯ɲɟæpˌpæo̯ɲɟɛx,N-H.pl,Rockbird Mountains,FROM: *ghâeñośko-xaccap-anyex* 'rockbird-mountain-pl'
+Ljanêrmonj,ˈʎæˌnermɔɲ,N-H,Realm of the Dead;The Cursed Desert,FROM: *Ljaearm(ikke)* 'Goddess of the Dead'
+Ħancśicceuźikke,ˈħæɲ̊c͡ɕiccøʊ̯ˌʑikkɛ,N-D,Oasis of Spirits,FROM: *ħanħś-ca'iccüźonj* 'spirit-oasis'
+Ħa'üħħercakke,ˈħæʔyħħɛr̥ˌcækkɛ,N-D,Ashen Mountains,FROM: *ħa'uħħo-xaccap* 'ash-mountain'
+Firca'innjikke,ˈfir̥cæʔiɲ̊ˌɲ̊ikkɛ,N-D,The Eternal Duststorm;Plains of,FROM: *firrhêm-ca'iccenjh* 'eternal-duststorm'
+Färhemvaonjonj,ˈfar̥ɛmˌʋæo̯ɲɔɲ,N-H,The Last Outpost,FROM: *färrhänjh-meħħaonjonj* 'last-camp'
 
 
 
 
-quirömaś,ˈɢuɪ̯ˌrømæɕ,V,to kill (common),,CF REG: *qunjoghârömaś* (formal)
-qunjoghârömaś;quźjëcoghârömaś;qunjoghârömaś;qunjoghârâaśe,ˈɢuɲɔɣʌˌrømæɕ;ˈɢuʑjɤcɔɣʌˌrømæɕ;ˈɢuɲɔɣʌˌrømæɕ;ˈɢuɲɔɣʌrʌˌæɕɛ,V-PP;V-PN;V-VP;V-VI,to kill (formal),,CF: *quirömaś* (common)
-qu'fa';qu'fi'fa';qu'fa';qu'fae,ˈɢuʔfæʔ;ˈɢuʔˌfiʔfæʔ;ˈɢuʔfæʔ;ˈɢuʔˌfæɛ,V-PP;V-PN;V-VP;V-VI,to suck,,
-ghu'fa';nearghu'fa';ghu'fa';ghu'fae,ˈɣuʔfæʔ;ˈneɐ̯rˌɣuʔfæʔ;ˈɣuʔfæʔ;ˈɣuʔˌfæɛ,V-PP;V-PN;V-VP;V-VI,to spit,,
-vônlunjh;vôxfienlünjh;vônlunjh;vônlunjo,ˈʋonluɲ̊;ˈʋoxˌfie̯nlyɲ̊;ˈʋonluɲ̊;ˈʋonˌluɲ̊ɔ,V-PP;V-PN;V-VP;V-VI,to hit,,
-vouu;vôxfüü;vouu;vouo,ˈʋou̯u;ˈʋoxˌfyy;ˈʋou̯u;ˈʋou̯ɔ,V-PP;V-PN;V-VP;V-VI,to stab,,
-vanca;qêħnja;vanca;vanje,ˈʋæɲ̊cæ;ˈɢeħɲ̊æ;ˈʋæɲ̊cæ;ˈʋæɲ̊ɛ,V-PP;V-PN;V-VP;V-VI,to scratch,,
+quirömaś,ˈɢuɪ̯ˌrømæɕ,V,to kill (common),CF REG: *qunjoghârömaś* (formal)
+qunjoghârömaś;quźjëcoghârömaś;qunjoghârömaś;qunjoghârâaśe,ˈɢuɲɔɣʌˌrømæɕ;ˈɢuʑjɤcɔɣʌˌrømæɕ;ˈɢuɲɔɣʌˌrømæɕ;ˈɢuɲɔɣʌrʌˌæɕɛ,V-PP;V-PN;V-VP;V-VI,to kill (formal),CF: *quirömaś* (common)
+qu'fa';qu'fi'fa';qu'fa';qu'fae,ˈɢuʔfæʔ;ˈɢuʔˌfiʔfæʔ;ˈɢuʔfæʔ;ˈɢuʔˌfæɛ,V-PP;V-PN;V-VP;V-VI,to suck,
+ghu'fa';nearghu'fa';ghu'fa';ghu'fae,ˈɣuʔfæʔ;ˈneɐ̯rˌɣuʔfæʔ;ˈɣuʔfæʔ;ˈɣuʔˌfæɛ,V-PP;V-PN;V-VP;V-VI,to spit,
+vônlunjh;vôxfienlünjh;vônlunjh;vônlunjo,ˈʋonluɲ̊;ˈʋoxˌfie̯nlyɲ̊;ˈʋonluɲ̊;ˈʋonˌluɲ̊ɔ,V-PP;V-PN;V-VP;V-VI,to hit,
+vouu;vôxfüü;vouu;vouo,ˈʋou̯u;ˈʋoxˌfyy;ˈʋou̯u;ˈʋou̯ɔ,V-PP;V-PN;V-VP;V-VI,to stab,
+vanca;qêħnja;vanca;vanje,ˈʋæɲ̊cæ;ˈɢeħɲ̊æ;ˈʋæɲ̊cæ;ˈʋæɲ̊ɛ,V-PP;V-PN;V-VP;V-VI,to scratch,
 
 
-quttśeaâenjh,ˈɢucˌc͡ɕeɐ̯ɑe̯ɲ̊,N-A,heart,,
-xikrhänjh,ˈxikr̥aɲ̊,N-A,tongue,,
-vaoñanjh,ˈʋæo̯ɴæɲ̊,N-A,head,,
-pu'a',ˈpuʔæʔ,N-I,skin,,
-ñaa,ˈɴææ,N-I,flesh,,CF: *ñieña* 'meat'
-jêñieña,ˈjeˌɴie̯ɴæ,N-I,Blood,,CF: *ñieña* 'meat'
-ârrhôttśo,ʌr̥ˈr̥occ͡ɕɔ,N-I,hair,,
-arrömañh,ærˈrømæɴ̥,N-I,ear,,
-jêmma',ˈjemmæʔ,N-I,eye (common),,
-jêñghuoma',ˈjeɴˌɣuo̯mæʔ,N-I,eye (formal),,
-fśeazma,ˈfɕeɐ̯zmæ,N-I,nose (common),,
-fśeazgaoma,ˈfɕeɐ̯zˌgæo̯mæ,N-I,nose (formal),,
-vatf,ˈʋætf,N-I,mouth,,
-quña,ˈɢuɴæ,N-I,tooth,,
-feñxa,ˈfɛɴ̥xæ,N-I,foot,,
-üma,ˈymæ,N-I,knee,,
-ljêrâe',ˈʎerɑe̯ʔ,N-I,hand,,
-mure'aś,ˈmuˌrɛʔæɕ,N-I,belly,,
-quomaħ,ˈɢuo̯mæħ,N-I,neck,,
-arraombanjh,ærˈræo̯mbæɲ̊,N-I,horn,,
-luppärh,ˈluppar̥,N-I,tail,,
-errhiħanjh,ɛr̥ˈr̥iħæɲ̊,N-I,feather,,
-uffarh,ˈuffær̥,N-I,claw,,
-ârrhôâemljanjh,ʌr̥ˈr̥oˌɑe̯mʎæɲ̊,N-I,wing,,
-ljixxamh,ˈʎixxæm̥,N-I,back,,
-ponħonjh,ˈpɔn̥ħɔɲ̊,N-I,side (of body),,
+quttśeaâenjh,ˈɢucˌc͡ɕeɐ̯ɑe̯ɲ̊,N-A,heart,
+xikrhänjh,ˈxikr̥aɲ̊,N-A,tongue,
+vaoñanjh,ˈʋæo̯ɴæɲ̊,N-A,head,
+pu'a',ˈpuʔæʔ,N-I,skin,
+ñaa,ˈɴææ,N-I,flesh,CF: *ñieña* 'meat'
+jêñieña,ˈjeˌɴie̯ɴæ,N-I,Blood,CF: *ñieña* 'meat'
+ârrhôttśo,ʌr̥ˈr̥occ͡ɕɔ,N-I,hair,
+arrömañh,ærˈrømæɴ̥,N-I,ear,
+jêmma',ˈjemmæʔ,N-I,eye (common),
+jêñghuoma',ˈjeɴˌɣuo̯mæʔ,N-I,eye (formal),
+fśeazma,ˈfɕeɐ̯zmæ,N-I,nose (common),
+fśeazgaoma,ˈfɕeɐ̯zˌgæo̯mæ,N-I,nose (formal),
+vatf,ˈʋætf,N-I,mouth,
+quña,ˈɢuɴæ,N-I,tooth,
+feñxa,ˈfɛɴ̥xæ,N-I,foot,
+üma,ˈymæ,N-I,knee,
+ljêrâe',ˈʎerɑe̯ʔ,N-I,hand,
+mure'aś,ˈmuˌrɛʔæɕ,N-I,belly,
+quomaħ,ˈɢuo̯mæħ,N-I,neck,
+arraombanjh,ærˈræo̯mbæɲ̊,N-I,horn,
+luppärh,ˈluppar̥,N-I,tail,
+errhiħanjh,ɛr̥ˈr̥iħæɲ̊,N-I,feather,
+uffarh,ˈuffær̥,N-I,claw,
+ârrhôâemljanjh,ʌr̥ˈr̥oˌɑe̯mʎæɲ̊,N-I,wing,
+ljixxamh,ˈʎixxæm̥,N-I,back,
+ponħonjh,ˈpɔn̥ħɔɲ̊,N-I,side (of body),
 

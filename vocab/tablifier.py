@@ -34,8 +34,8 @@ HEADER = '''
 
 SECTION_HEADER = '''
 
-|Uhhuonanjh|Pronunciation|Part of Speech|English|Explanation|Notes|
-|----------|-------------|--------------|-------|-----------|-----|
+|Uhhuonanjh|Pronunciation|Part of Speech|English|Miscellaneous Notes|
+|----------|-------------|--------------|-------|-------------------|
 '''
 
 def tablify ():
@@ -57,6 +57,6 @@ def tablify ():
                 # separate distinct lines (marked w/ semicolon)
                 for x in line:
                     f.write('|')
-                    f.write('<br/>'.join(x.split(';')))
+                    f.write('.​'.join('<br/>'.join(x.split(';')).split('.')))
                 f.write('|\n')
 tablify()
