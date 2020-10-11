@@ -78,9 +78,14 @@ Palatal digraphs with J, /ɲ̊/, /ɲ/ and /ʎ/, are written without the J when p
 
 ## Prosody
 
-**Stress** is noticeable but rarely phonemic; very few minimal pairs exist for stress.  Stress primarily exists as a marker of morphological separation.  Most words have up to 2 stressed syllables by default, although certain affixes carry their own stress.  Speech is primarily stress-timed.
+**Stress** is noticeable but rarely phonemic; very few minimal pairs exist for stress.  Stress primarily exists as a marker of word separation.  Most words have up to 2 stressed syllables by default, although certain affixes carry their own stress.  Speech is primarily stress-timed.  Pitch changes are also noticeable in the language, but entirely tied to stress.
 
-The first stress of a word root is the Primary Stress, this is realised with a high pitch and high volume.  Every other stress is a Secondary Stress, this is realised with a mid-low pitch and high volume.  Some affixes carry their own Primary Stress, though this is rare (mostly derivational affixes).
+The first stress of a word root is the Primary Stress, realised with a high pitch and high volume, or mid-high pitch when no secondary stress is present.  Every other stress is a Secondary Stress, this is realised with a low pitch and equally high volume, or mid-low when another secondary stress follows.  Syllables after the primary and before a secondary stress tend to carry mid-high pitch; all other unstressed syllables carry a mid to mid-low pitch.  Some affixes carry their own Primary Stress, though this is rare (mostly derivational affixes).  An example of stress and pitch:
+
+- Quoźo'âenquëx quo'onjëx fesqampondoxkou
+  - 'to the family/ies of the couple from The Twin Rivers'
+  - /ˈɢuo̯ʑɔˌʔɑe̯nɢuɤx ˈɢuo̯ʔɔɲɤx ˈfɛsˌɢæm̥pɔnˌdɔxkou̯/
+  - /ˈɢuo̯˥ʑɔ˦ˌʔɑe̯n˩ɢu˧ɤx˧ ˈɢuo̯˦ʔɔ˧ɲɤx˧ ˈfɛs˥ˌɢæm̥˨pɔn˧ˌdɔx˩kou̯˧/
 
 Sentence final tags can sometimes contain long strings with no stress; instead stress is inserted wherever necessary, sometimes to emphasise certain points but often arbitrarily.  These 'informal stresses' are generally somewhat softer than secondary stress.
 
