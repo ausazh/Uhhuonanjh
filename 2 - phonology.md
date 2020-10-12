@@ -51,7 +51,7 @@ In writing, vowel diphthongs are not distinguished from vowels in hiatus, though
 |phoneme|written|phoneme|written|phoneme|written|phoneme|written|
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | /i/   | i     | /y/   | ü     | /uɪ̯/  | ui    | /u/   | u     |
-| /e/   | ê     | /ø/   | ø     | /ɤ/   | ë     | /o/   | ô     |
+| /e/   | ê     | /ø/   | ö     | /ɤ/   | ë     | /o/   | ô     |
 | /ɛ/   | e     | /æ/   | a     | /ʌ/   | â     | /ɔ/   | o     |
 | /ie̯/  | ie    | /ei̯/  | ei    | /uo̯/  | uo    | /ou̯/  | ou    |
 | /øʊ̯/  | eu    | /eɐ̯/  | ea    | /ɤɪ̯/  | oi    | /oɐ̯/  | oa    |
