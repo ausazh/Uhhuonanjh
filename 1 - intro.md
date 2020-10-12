@@ -32,15 +32,14 @@ Trade routes between Uhhuonanj and Shechageghern lands were common, trading X.
   - 3.1 - Nouns, Determiners, Pronouns
   - 3.2 - Verbs, Locational Pronouns
   - 3.3 - Tags
+  - 3.4 - Adjectives
+  - 3.5 - Adverbs
 - 4 - Syntax
   - 4.1 - Sentence Structure
   - 4.3 - Verb Phrases, Participles, Relative Clauses
 
 ### Incomplete
 
-- 3 - Morphology
-  - 3.4 - Adjectives
-  - 3.5 - Adverbs
 - 4 - Syntax
   - 4.2 - Noun Phrases, Postpositions
 - 5 - Semantics

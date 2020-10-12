@@ -108,7 +108,7 @@ neuljinj,ˈnøʊ̯ʎiɲ,NUM,thirty,
 se'uźljënj,ˈsɛʔˌuʑʎɤɲ,NUM,forty,
 ljêraljinj,ˈʎeræʎiɲ,NUM,fifty,
 
-vae,ˈʋæɛ,ADJ,first,CF: *vaoñanjh* 'head'
+vae,ˈʋæɛ,ADJ,first;foremost,CF: *vaoñanjh* 'head'
 yêrra,ˈɟerræ,ADJ,second,CF: *yêre* 'follow'
 âumo,ˈɑʊ̯mɔ,ADJ,third,FROM: *oum-o* 'three-ish'
 se'uźo,ˈsɛʔˌuʑɔ,ADJ,fourth,FROM: *se'üś-o* 'four-ish'
@@ -126,20 +126,20 @@ irhêrqênj,ˈiˌr̥erɢeɲ,ADJ,tenth,FROM: *i-ljêrqênj* 'of-ten'
 quttśo;qu'fittśe;quttśo;quttśee,ˈɢucc͡ɕɔ;ˈɢuʔˌficc͡ɕɛ;ˈɢucc͡ɕɔ;ˈɢucˌc͡ɕɛɛ,V-PP;V-PN;V-VP;V-VI,to drink,
 qompëñ;qoxfmëñ;qompëñ;qompuo,ˈɢɔm̥pɤɴ;ˈɢɔxfmɤɴ;ˈɢɔm̥pɤɴ;ˈɢɔm̥ˌpuɔ,V-PP;V-PN;V-VP;V-VI,to eat,
 quñonj;quźjiñonj;quñonj;quomâenjo,ˈɢuɴɔɲ;ˈɢuʑˌjiɴɔɲ;ˈɢuɴɔɲ;ˈɢuo̯ˌmɑe̯ɲɔ,V-PP;V-PN;V-VP;V-VI,to bite,
-vaħħoñ;ümoñ;vaħħoñ;vaħħaoe,ˈʋæħħɔɴ;ˈymɔɴ;ˈʋæħħɔɴ;ˈʋæħˌħæo̯ɛ,V-PP;V-PN;V-VP;V-VI,to say / tell / talk (about),ACC: words;DAT: listener;GEN: topic of talking;ORIG: to ask
+vaħħoñ;ümoñ;vaħħoñ;vaħħaoe,ˈʋæħħɔɴ;ˈymɔɴ;ˈʋæħħɔɴ;ˈʋæħˌħæo̯ɛ,V-PP;V-PN;V-VP;V-VI,to say / tell / talk (about),ACC: words;DAT or LOC-PRN: listener;GEN: topic of talking;ORIG: to ask
 qomë;yi'ħempê;qemieñef;qomëñ,ˈɢɔmɤ;ˈɟiʔˌħɛm̥pe;ˈɢɛˌmie̯ɴɛf;ˈɢɔmɤɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to live;PERF: to survive,PART-NEG is equivalent to 'to be dead';REG: qghomë;CF: *yi'ħêmpê* 'to die'
 vatfanjh;ündvanjh;vatfñef;vatfañh,ˈʋætfæɲ̊;ˈyndʋæɲ̊;ˈʋætfɴ̥ɛf;ˈʋætfæɴ̥,V-PP;V-PN;V-VP;V-VI,IMPF: to be alive;PERF: to come to life,
 yi'ħêmpê;yicceghemê;yi'ħêmbieñef;yi'ħêmpêñ,ˈɟiʔˌħem̥pe;ˈɟicˌcɛɣɛme;ˈɟiʔħemˌbie̯ɴɛf;ˈɟiʔˌħem̥peɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to be dead;PERF: to die,CF: *qjomë* 'to live'
 peffi'ħê;jêmvi'ħê;peffi'ħeiñef;peffi'ħêñ,ˈpɛfˌfiʔħe;ˈjemˌʋiʔħe;ˈpɛffiʔˌħei̯ɴɛf;ˈpɛfˌfiʔħeɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to sleep;PERF: to go to sleep,
 uonjë';quħħuonjë';uonjë';uocie,ˈuo̯ɲɤʔ;ˈɢuħˌħuo̯ɲɤʔ;ˈuo̯ɲɤʔ;ˈuo̯ˌciɛ,V-PP;V-PN;V-VP;V-VI,to cut,
-maonyi;âempâenyë;maonyi;maonyiñe,ˈmæo̯ɲɟi;ˈɑe̯m̥ˌpɑe̯ɲɟɤ;ˈmæo̯ɲɟi;ˈmæo̯ɲˌɟiɴɛ,V-PP;V-PN;V-VP;V-VI,to say / tell / talk (about),ACC: words;DAT: listener;GEN: topic of talking;REG: maonylji
+maonyi;âempâenyë;maonyi;maonyiñe,ˈmæo̯ɲɟi;ˈɑe̯m̥ˌpɑe̯ɲɟɤ;ˈmæo̯ɲɟi;ˈmæo̯ɲˌɟiɴɛ,V-PP;V-PN;V-VP;V-VI,to throw,REG: maonylji
 vatfenjh;ündvenjh;vaftnjef;vaftenjh,ˈʋætfɛɲ̊;ˈyndʋɛɲ̊;ˈʋæftɲ̊ɛf;ˈʋæftɛɲ̊,V-PP;V-PN;V-VP;V-VI,to blow,subject as winds (or nil subject) or people,
 qunljar;quźjinljar;qunyiśnjef;qunyiśanjh,ˈɢuɲʎær;ˈɢuʑˌjiɲʎær;ˈɢuɲˌɟiɕɲ̊ɛf;ˈɢuɲˌɟiɕæɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to be in conflict;PERF: to fight,physical and metaphorical fighting,
 
 
 
 
-ljomë;quljâmpë;ljomieñef;ljomëñ,ˈʎɔmɤ;ˈɢuˌʎʌm̥pɤ;ˈʎɔˌmie̯ɴɛf;ˈʎɔmɤɴ,V-PP;V-PN;V-VP;V-VI,to create,CF REG ORIG: *uiomë* 'give birth'
+ljomë;quljâmpë;ljomieñef;ljomëñ,ˈʎɔmɤ;ˈɢuˌʎʌm̥pɤ;ˈʎɔˌmie̯ɴɛf;ˈʎɔmɤɴ,V-PP;V-PN;V-VP;V-VI,to create / make,CF REG ORIG: *uiomë* 'give birth'
 tuolja;jêtuolja;tuolja;tuoljo,ˈtuo̯ʎæ;ˈjeˌtuo̯ʎæ;ˈtuo̯ʎæ;ˈtuo̯ʎɔ,V-PP;V-PN;V-VP;V-VI,IMPF: to be different;PERF: to change (intrans),CAUS = to change (transitive),
 ljienjunco;quśśiunco;ljienjunco;ljienjüncaoñe,ˈʎie̯ˌɲuɲ̊cɔ;ˈɢuɕɕiˌuɲ̊cɔ;ˈʎie̯ˌɲuɲ̊cɔ;ˈʎie̯ɲyɲ̊ˌcæo̯ɴɛ,V-PP;V-PN;V-VP;V-VI,to make / force,to make/force someone (ACC) to do something (DAT),
 vônvë;vôxfienvê;vônvë;vônuoño,ˈʋonʋɤ;ˈʋoxˌfie̯nʋe;ˈʋonʋɤ;ˈʋonˌuo̯ɴɔ,V-PP;V-PN;V-VP;V-VI,to split / separate / take away,
@@ -173,3 +173,65 @@ arräqqe;arräqqêe,ærˈraɢɢɛ;ærˈraɢˌɢeɛ,N-I;ADJ;,Black,
 paomva;paomvaie,ˈpæo̯mʋæ;ˈpæo̯mˌʋæɪ̯ɛ,N-I;ADJ,White,
 vaś;vaśe,ˈʋæɕ;ˈʋæɕɛ,N-I;ADJ,Blue,CF: *vanśke* 'sky'
 tfaolj;tfaolje,ˈtfæo̯ʎ;ˈtfæo̯ʎɛ,N-I;ADJ,Green-Yellow,CF: *tfaśśa* 'tree'
+
+
+
+qâuo,ˈɢɑʊ̯ɔ,ADV,Near,âve,ˈʔaːvɐ
+erriemüħ,ɛrˈrie̯myħ,ADV,Far,rêmuh,ˈriːmuħ
+âur,ˈɑʊ̯r,ADV,Right,ghug,ˈɐʊ̯ɣ
+yiħħeimbi,ˈɟiħˌħei̯mbi,ADV,Left,ighêmpi,ˈʔiħˌħɨːmbi
+xam,ˈxæm,ADV,Up,CF REG: *ârrhâem* 'high'
+pur,ˈpur,ADV,Down,CF: *pur* 'low'
+
+pur,ˈpur,ADJ,Low,CF: *pur* 'down'
+ârrhâem,ʌr̥ˈr̥ɑe̯m,ADJ,High (regular),CF: *xam* 'up'
+
+meccafe,ˈmɛcˌcæfɛ,ADJ,Big,metafke,ˈmɛt̚ˌtæfkɐ
+pefe,ˈpɛfɛ,ADJ,Small,pefke,ˈpɛfkɐ
+rhe,ˈr̥ɛ,ADJ,Hot,pre,ˈpr̥ɛ
+ya'ü',ˈɟæʔyʔ,ADJ,Cold,aut,ˈʔæʔut̚
+vif,ˈʋif,ADJ,Full,vêf,ˈvif
+qmuś,ˈɢm̥uɕ,ADJ,Empty,qmul,ˈqm̥uɬ
+ete',ˈɛtɛʔ,ADJ,New,kertop,ˈkɛʈɐp̚
+vômvo,ˈʋomʋɔ,ADJ,Old,ômve,ˈwoːmvɐ
+ñêra,ˈɴeræ,ADJ,Round,ñîxe,ˈŋĩɣɐ
+frhiccê,ˈfr̥icce,ADJ,Dry,fritô,ˈfr̥it̚tɘː
+qu'ħa'e,ˈɢuʔˌħæʔɛ,ADJ,Long,ukhae,ˈʔuk̚ˌħæʔɐ
+pumvljoñh,ˈpumʋʎɔɴ̥,ADJ,Short,pûvloñ,ˈpũːvlɐŋ̊
+njarh,ˈɲær̥,ADJ,Narrow,nex,ˈnɛx
+qoarânjo,ˈɢoɐ̯rʌɲɔ,ADJ,Wide,ugane,ˈʔuːɣnɐ
+frhicce,ˈfr̥iccɛ,ADJ,Thick,frito,ˈfr̥it̚tɐ
+ârroaromh,ʌrˈroɐ̯rɔm̥,ADJ,Thin,gôrkem,ˈɣuːrgɐm̥
+aoa,ˈæo̯æ,ADJ,Beginning/Initial/Starting;senior,âa,ˈʔaːæ
+ħou,ˈħou̯,ADJ,Good,hev,ˈħɜːv
+yirper,ˈɟir̥pɛr,ADJ,Bad,irpêg,ˈʔir̥pɘːɣ
+quovjë,ˈɢuo̯ʋjɤ,ADJ,Rotten,uvewî,ˈʔuːvɥiː
+ħâero,ˈħɑe̯rɔ,ADJ,Dirty,hârke,ˈħaːrgɐ
+uonjâenjh,ˈuo̯ɲɑe̯ɲ̊,ADJ,Sharp,wôthan,ˈwuːd̚ɑɛ̯n̥
+ârrôźyë,ʌrˈroʑɟɤ,ADJ,Dull,grûsti,ˈɣrũzdi
+pumfë,ˈpum̥fɤ,ADJ,Correct,pumwê,ˈpum̥ɸɘː
+frhi,ˈfr̥i,ADJ,Other,fri,ˈfr̥i
+marrhê,ˈmær̥r̥e,ADJ,Useful,mexî,ˈmɛxxiː
+ârrônjë,ʌrˈroɲɤ,ADJ,Powerful,gûtji,ˈɣũːd̚ji
+gheħħemh,ˈɣɛħħɛm̥,ADJ,Proud,jewom,ˈjɛxxʷɐm̥
+arralji',ærˈræʎiʔ,ADJ,Mighty,glip,ˈɣlip̚
+aśśo,ˈæɕɕɔ,ADJ,Smug/Priggish,kalâ,ˈkæɬɬɑː
+firrhêm,ˈfir̥r̥em,ADJ,Eternal,firêm,ˈfir̥r̥ɘːm
+êrrhatarh,ˈer̥ˌr̥ætær̥,ADJ,Heavy,kigertar,ˈkixˌxɛʈær̥
+moaoa',ˈmoɐ̯oɐ̯ʔ,ADJ,Straight,mughet,ˈmuɐ̯ɐːt̚
+mjeare,ˈmjeɐ̯rɛ,ADJ,Hard/Difficult,mwîgegh,ˈmɥĩːɣɘː
+yikkiś,ˈɟikkiɕ,ADJ,Great/Magnificent,ichis,ˈʔit̚t͡ʃis
+pefśe,ˈpɛfɕɛ,ADJ,Humble,pefse,ˈpɛfsɐ
+yaśta,ˈɟæɕtæ,ADJ,Friendly/Friend-like,astra,ˈʔæsʈæ
+ħouźo,ˈħou̯ʑɔ,ADJ,Good-natured,hevse,ˈħɜːvzɐ
+
+fieñe,ˈfie̯ɴɛ,ADV,in all / in total,ORIG: all
+ħeffa,ˈħɛffæ,ADV,well,FROM: *ħou-afa* 'good-ly';REG: ħeffafa
+yirpfa,ˈɟir̥pfæ,ADV,badly,FROM: *yirper-afa* 'bad-ly';REG: yirperäfa
+vieffa,ˈʋie̯ffæ,ADV,fully / completely,FROM: *vif-afa* 'full-ly';REG: viefafa
+njarfa,ˈɲær̥fæ,ADV,narrowly / just (common),CF REG: *njarrhäfa* (formal)
+njarrhäfa,ˈɲær̥ˌr̥afæ,ADV,narrowly / just (formal),FROM: *njarh-afa* 'narrow-ly';CF: *njarfa* (common)
+pumfa,ˈpum̥fæ,ADV,correctly / well (common),CF REG: *pumfofa* (formal)
+pumfofa,ˈpum̥ˌfɔfæ,ADV,correctly / well (formal),FROM: *pumfë-afa* 'correct-ly';CF: *pumfa* (common)
+firmva,ˈfirmʋæ,ADV,always / eternally (common),CF REG: *firrhiemva* (formal)
+firrhiemva,ˈfir̥ˌr̥ie̯mʋæ,ADV,always / eternally (formal),FROM: *firrhêm-afa* 'eternal-ly';CF: *firmva* (common)
