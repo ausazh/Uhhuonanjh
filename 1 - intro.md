@@ -25,8 +25,6 @@ Trade routes between Uhhuonanj and Shechageghern lands were common, trading X.
 
 ## Chapters
 
-### Complete
-
 - 2 - Phonology and Romanisation
 - 3 - Morphology
   - 3.1 - Nouns, Determiners, Pronouns
@@ -36,23 +34,27 @@ Trade routes between Uhhuonanj and Shechageghern lands were common, trading X.
   - 3.5 - Adverbs
 - 4 - Syntax
   - 4.1 - Sentence Structure
-  - 4.3 - Verb Phrases, Participles, Relative Clauses
-
-### Incomplete
-
-- 4 - Syntax
   - 4.2 - Noun Phrases, Postpositions
-- 5 - Semantics
-  - 5.1 - Derivational Affixes
-  - 5.2 - Noun Class-Change and Derivation
-  - 5.3 - Perfective and Imperfective Verbs
-- 6 - Culture and Vocabulary
-  - 6.1 - Nature and Environment
-  - 6.2 - Mythology
-  - 6.3 - Agriculture and Food
-  - 6.4 - Industry and Infrastructure
-  - 6.5 - Community and Society
-- 7 - Reference Grammar
-  - 7.1 - Noun and Adjective Inflections
-  - 7.2 - Verb, Adverb, Locative and Tag Inflections
-  - 7.3 - Vocab notes
+  - 4.3 - Verb Phrases, Participles, Relative Clauses
+  - 4.4 - Derivational Affixes
+- 5 - Reference Grammar
+  - 5.1 - Noun Inflections
+  - 5.2 - Adjective Inflections
+  - 5.3 - Pronouns
+  - 5.4 - Determiners
+  - 5.3 - Verb, Adverb and Locative Inflections
+  - 5.4 - Tag Inflections
+
+<!-- ## Appendix chapters
+
+These chapters will come in a separate document
+
+- 6 - Semantics
+  - 6.1 - Noun Class-Change and Derivation
+  - 6.2 - Perfective and Imperfective Verbs
+- 7 - Culture and Vocabulary
+  - 7.1 - Nature and Environment
+  - 7.2 - Mythology
+  - 7.3 - Agriculture and Food
+  - 7.4 - Industry and Infrastructure
+  - 7.5 - Community and Society -->
