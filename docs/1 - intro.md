@@ -1,6 +1,6 @@
 # Introduction to Uħħuonanjh
 
-**Uħħuonanjh** /ˈuħˌħuo̯næɲ̊/ is the language spoken during the Bronze and Iron Ages by the **Uħħuononj** /ˈuħˌħuo̯nɔɲ/ people.  The Uħħuononj, one of three groups descended from the Vuhîñkam, descend from the people who chose to stay in the Vuhînkam homeland rather than migrate outwards (the others being Shechageghern and X).  The prevailing mythology among the Uħħuononj explains this as dedication to their ancestors resting in the ground below them, though this hasn't stopped the people from migrating outwards from the river valley.
+**Uħħuonanjh** /ˈuħˌħuo̯næɲ̊/ is the language spoken during the Bronze and Iron Ages by the **Uħħuononj** /ˈuħˌħuo̯nɔɲ/ people.  The Uħħuononj, one of three groups descended from the Vuhîñkam, descend from the people who chose to stay in the Vuhînkam homeland rather than migrate outwards (the others being Shechageghern and *Proto-TypUserian).  The prevailing mythology among the Uħħuononj explains this as dedication to their ancestors resting in the ground below them, though this hasn't stopped the people from migrating outwards from the river valley.
 
 The words *Uħħuononj* and *Uħħuonanjh* simply mean 'tribe' and 'language spoken by a tribe' respectively - the Uħħuononj as a whole were never a united people and there was no specific word to denote them as a group as opposed to other groups.
 
@@ -8,7 +8,7 @@ Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* region (the ri
 
 ## Overview Timeline
 
-- Late Neolithic - Shechageghern-X migration
+- Late Neolithic - Shechageghern migration
 - Early Bronze Age - Cities form in the Lower Valley (*Puruttśonj* and *Xärrhättśonj* regions)
 - Early-Mid Bronze Age - Cities form in the Upper Valley (*Xâeputtśonj*); Kingdoms form in the Lower Valley region
 - Mid Bronze Age - Lower Kingdoms come to dominate the entire *Qamkonj* (homeland) region, building new cities in the region but also triggering local tribes to migrate further afield
@@ -42,8 +42,8 @@ Trade routes between Uhhuonanj and Shechageghern lands were common, trading X.
   - 5.2 - Adjective Inflections
   - 5.3 - Pronouns
   - 5.4 - Determiners
-  - 5.3 - Verb, Adverb and Locative Inflections
-  - 5.4 - Tag Inflections
+  - 5.5 - Verb, Adverb and Locative Inflections
+  - 5.6 - Tag Inflections
 
 <!-- ## Appendix chapters
 

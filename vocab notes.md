@@ -60,6 +60,7 @@ Vocab will be given in order of *THEME* (approximately).  These are:
   - Simple Abstract Actions
   - Simple Concepts
   - Simple Descriptors
+  - Postpositions
 - 2. Nature and Environment
   - Time, Weather, Seasons and the Sky
   - Terrain, Climate and Regions
@@ -73,7 +74,8 @@ Vocab will be given in order of *THEME* (approximately).  These are:
   - Worship and Festivity
 - 4. Agriculture and Food
   - Hunting, Foraging and Fishing
-  - Agriculture
+  - Crops
+  - Livestock and Pets
   - Food and Drink
   - Herbs and Medicine
 - 5. People and Society
