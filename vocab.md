@@ -16,7 +16,7 @@
 |arrhai|ær̥ˈr̥æi|N-I|stance / attitude|CF ORIG: *xea* 'stand > exist'<br/>CF: *arrhea* 'status'|
 |uqqo|ˈuɢɢɔ|N-I|existence|ORIG: to be<br/>CF: *qâe* 'to be'|
 |ħakkeu|ˈħækkøʊ̯|N-I|possession|FROM: *ħaqqekkeu* '(thing) owned'<br/>FROM: *ħaqqe'* 'to own'|
-|ħakkeuöm|ˈħækkøʊ̯øm|N-I|possession|FROM: *ħaqqekkeu* '(thing) owned'<br/>FROM: *ħaqqe'* 'to own'|
+|ħaqqe'enj|ˈħæɢɢɛʔɛɲ|N-H|owner||
 |âulgo|ˈɑʊ̯lgɔ|N-D|future|FROM: *âulqo* 'to become'<br/>CF: *xerke/xeagge* 'past/present'|
 |xerke|ˈxɛr̥kɛ|N-D|past (time)|FROM: *xea-ârh* 'there was'<br/>CF: *âulgo/xeagge* 'future/present'|
 |xeagge|ˈxeɐ̯ggɛ|N-D|present (time)|FROM: *xea* 'there is'<br/>CF: *âulgo/xerke* 'future/past'|
