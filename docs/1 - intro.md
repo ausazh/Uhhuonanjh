@@ -4,7 +4,7 @@
 
 The words *Uħħuononj* and *Uħħuonanjh* simply mean 'tribe' and 'language spoken by a tribe' respectively - the Uħħuononj as a whole were never a united people and there was no specific word to denote them as a group as opposed to other groups.
 
-Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* region (the river valley) and its surrounds, known variably as *Qamkonj* 'Land of Ancestors', *Ljiħħeimonj* 'Land of Birth' or *Kuskonj* 'Land of Plenty'.
+Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* /ˈuo̯ɲɤkˌkou̯ɔɲ/ region (the river valley) and its surrounds, known variably as *Qamkonj* /ˈɢæm̥kɔɲ/ 'Land of Ancestors', *Ljiħħeimonj* /ˈʎiħˌħei̯mɔɲ/ 'Land of Birth' or *Kuskonj* /ˈkuskɔɲ/ 'Land of Plenty'.  The major river is known as the *Vônvënjh* /ˈʋonʋɤɲ̊/.
 
 ## Overview Timeline
 
