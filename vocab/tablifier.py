@@ -16,7 +16,8 @@ CSV_FILES = [
     '6 - Industry.csv',
 ]
 
-DESTINATION_FILE = '../vocab.md'
+DESTINATION_MD_FILE = '../vocab.md'
+DESTINATION_CSV_FILE = '../vocab.csv'
 
 SECTION_HEADINGS = [
     'Basic Vocabulary',
@@ -46,7 +47,7 @@ def tablify ():
             reader = csv.reader(f)
             data.append(list(reader))
 
-    with open(DESTINATION_FILE, 'w', newline='', encoding='utf-8') as f:
+    with open(DESTINATION_MD_FILE, 'w', newline='', encoding='utf-8') as f:
         f.write(HEADER)
         for i in range(len(data)):
             cat = data[i]
@@ -59,4 +60,28 @@ def tablify ():
                     f.write('|')
                     f.write('.​'.join('<br/>'.join(x.split(';')).split('.')))
                 f.write('|\n')
+
+    with open(DESTINATION_CSV_FILE, 'w', newline='', encoding='utf-8') as f:
+        for i in range(len(data)):
+            cat = data[i]
+            for line in cat:
+                # separate distinct lines (marked w/ semicolon)
+                # first 3 separate into distinct entries; final into multiple columns
+                lst = []
+                for i in range(len(line)):
+                    print(line[i])
+                    if i == 0:
+                        sublines = line[i].split(';')
+                        for j in range(len(sublines)):
+                            lst.append([sublines[j]])
+                    elif i <= 2:
+                        sublines = line[i].split(';')
+                        for j in range(len(sublines)):
+                            lst[j].append(sublines[j])
+                    else:
+                        for j in range(len(sublines)):
+                            lst[j].append(line[i])
+                for l in lst:
+                    f.write(','.join(l))
+                    f.write('\n')
 tablify()
