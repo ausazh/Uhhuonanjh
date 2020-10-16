@@ -26,9 +26,9 @@ Xeañ minj, sunjmonjëx ponôra quñëź, quonj quieźanjh ljañenjh.  Ña�
 
 Vaħħoñ vae quieźanjh ljaqenjh, “Qunduomoa ħârpëñ feśqa'rhäħħonj, vekko mi'ürhikkeu ħaqqencêrh, Yeħkix ñieñêra quñëźenjêrh, ħâunjiljarhu'!”
 
-Yaorüm minj yêrra quieźanjh vaencêrh ljaqenjyênjh.  “Jêño, cafħouqoñ mu iemüħ camh qâenjmo, verh, ħaonjh vekko ârrârhmieggeu teñquëx yiźmärhenjêrh yêrenjêrh qâenjmoljarhveħ.”
+Yaorüm minj yêrra quieźanjh vaencêrh ljaqenyênjh.  “Jêño, cafħouqoñ mu iemüħ camh qâenjmo, verh, ħaonjh vekko ârrârhmieggeu teñquëx yiźmärhenjêrh yêrenjêrh qâenjmoljarhveħ.”
 
-Camh minj quonj quieźañkeu püvoħ ljaljivenjqâ, aośêra xarrhenj komponj qâu vaoñdvañah ljaqonj.  Quieźancex ljanci yeañix miakkêrh vaaśenjêrh ljañenjyênj.
+Camh minj quonj quieźañkeu püvoħ ljaljivenjqâ, aośêra xarrhenj komponj qâu vaoñdvañah ljaqonj.  Quieźancex ljanci yeañix miakkêrh vaaśenjêrh ljañenyênj.
 
 “Ulompërä', feŕe qunduomoa vorhâr vônvëkounox feśquieźanjh camh mu ħâunljarh âencu'?”, vanjef kompononj ljañenjh.  “Quieźancex, ghâeñ vâe njifäme ħeffaf püvoħto źieñix uirâ qâqâyêrme.  Feŕe camh nji śanjme, marrhêqoñ cafrônjë ârrâyañah qâme.”
 
@@ -92,14 +92,14 @@ more-D   power-ACC    acquire.PT-DAT, All.Lands-GEN through-INS flow.PT-DAT
 
 The second river disagreed with the first.  “No, staying apart will be better, as we will have more freedom to follow our own ideals.”
 
-Yaorüm minj yêrra quieźanjh vaencêrh ljaqenjyênjh.  “Jêño, cafħouqoñ mu iemüħ camh qâenjmo, verh, ħaonjh vekko ârrârhmieggeu teñquëx yiźmärhenjêrh yêrenjêrh qâenjmoljarhveħ.”
+Yaorüm minj yêrra quieźanjh vaencêrh ljaqenyênjh.  “Jêño, cafħouqoñ mu iemüħ camh qâenjmo, verh, ħaonjh vekko ârrârhmieggeu teñquëx yiźmärhenjêrh yêrenjêrh qâenjmoljarhveħ.”
 
 'The second river there disagreed to the first.  “To not be, I think staying far will be better here, because, I think we will have more freedom for following to two selves' ideals.”'
 
 /ˈɟæo̯rym miɲ ˈɟerræ ˈɢuˌie̯ʑæɲ̊ ˈʋæɛɲ̊cer̥ ʎæɢɛɲ̊ɟeɲ̊.  ˈjeɴɔ, cæfˈħou̯ɢɔɴ mu ˈie̯myħ ˈcæm̥ ˈɢɑe̯ɲmo, ˈʋɛr̥, ˈħæo̯ɲ̊ ˈʋɛkkɔ ʌrˈrʌr̥ˌm̥ie̯ggøʊ̯ ˈtɛɴˌɢuɤx ˈɟiʑmar̥ɛɲer̥ ˈɟerɛɲer̥  ˈɢɑe̯ɲmoʎær̥ʋɛħ/
 
 ```
-yaorüm      minj yêrra  quieźa-njh vae-n-cêrh  lja-qenj-yênjh
+yaorüm      minj yêrra  quieźa-njh vae-n-cêrh  lja-qen-yênjh
 disagree.PF DST  second river-NOM  first-A-DAT NAR.PAST-3As.NOM-3As.OBL
 /ˈɟæo̯rym    miɲ  ˈɟerræ ˈɢuˌie̯ʑæɲ̊  ˈʋæɛɲ̊cer̥    ʎæɢɛɲ̊ɟeɲ̊/
 
@@ -116,7 +116,7 @@ have-IM more-D freedom-ACC    self-H.d-GEN ideal-DAT      follow.PT-DAT SPC-1s.N
 
 As the two rivers were locked in their argument, a man passed by on a nearby road. The rivers looked to him to ask for his wisdom.
 
-Camh minj quonj quieźañkeu püvoħ ljaljivenjqâ, aośêra xarrhenj komponj qâu vaoñdvañah ljaqonj.  Quieźancex ljanci yeañix miakkêrh vaaśenjêrh ljañenjyênj.
+Camh minj quonj quieźañkeu püvoħ ljaljivenjqâ, aośêra xarrhenj komponj qâu vaoñdvañah ljaqonj.  Quieźancex ljanci yeañix miakkêrh vaaśenjêrh ljañenyênj.
 
 'The two rivers were made to stay there by arguing, during this a man passed by on a nearby road.  The rivers, they turned to him to ask for his wisdom.'
 
@@ -131,7 +131,7 @@ aoś-êra     xarrhenj   kompo-nj qâu    vaoñdva-ñah lja-qonj
 this.IN-LOC pass.by.PF man-NOM  nearby road-LOC    NAR.PAST-3Hs.NOM
 /ˈæo̯ɕeræ    ˈxær̥r̥ɛɲ    ˈkɔm̥pɔɲ  ˈɢɑʊ̯   ˈʋæo̯ɴdʋæɴ̥æħ ʎæɢɔɲ/
 
-quieźa-ncex   ljanci  yeañ-ix miak-kêrh  vaaś-enjêrh lja-ñenj-yênj
+quieźa-ncex   ljanci  yeañ-ix miak-kêrh  vaaś-enjêrh lja-ñen-yênj
 river-pl.NOM  turn.PF 3Hs-GEN wisdom-DAT ask-DAT     NAR.PAST-3Ap.NOM-3Hs.OBL
 /ˈɢuˌie̯ʑæɲ̊cɛx ˈʎæɲ̊ci  ˈɟeɐ̯ɴix ˈmiˌækker̥  ˈʋææɕɛɲer̥   ʎæɴɛɲ̊ɟeɲ/
 ```

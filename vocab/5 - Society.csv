@@ -7,6 +7,19 @@ cfärrhânj,ˈcfar̥r̥ʌɲ,N-H,child,REG: yarhfärrhânj;CF: *yerrhenj* 'ba
 yerrhenj,ˈɟɛr̥r̥ɛɲ,N-H,baby,
 yaśtanj,ˈɟæɕtæɲ,N-H,friend,FROM: *yaśta* 'friendly'
 
+uruum,ˈuruum,N-H,sadness,CF: *uruë* 'sad'
+śoħum,ˈɕɔħum,N-H,happiness,CF: *śoħuo* 'happy'
+tfâemâego,ˈtfɑe̯ˌmɑe̯gɔ,N-D,tranquility / calmness,CF: *tfâemo* 'calm'
+muoñoumë,ˈmuo̯ˌɴou̯mɤ,N-I,agitation / jumpiness,CF: *iħħöni* 'agitated'
+muneure,ˈmuˌnøʊ̯rɛ,N-I,strangeness / foreignness,CF: *yeure* 'strange'
+tukko,ˈtukkɔ,N-D,trueness / veracity,CF: *tu'* 'true'
+tutto,ˈtuttɔ,N-I,truth / fact,CF: *tu'* 'true'
+âumuźonj,ɑʊ̯ˈmuʑɔɲ,N-H,care,CF: *âumuź* 'soft'
+mâeħâugo,ˈmɑe̯ˌħɑʊ̯gɔ,N-D,beauty,CF: *moħâu* 'beautiful'
+murgo,ˈmurgɔ,N-D,ugliness,CF: *murë* 'ugly'
+muomikke,ˈmuo̯ˌmikkɛ,N-D,fertility,CF: *ma'ma'* 'fertile'
+muogźa,ˈmuo̯gʑæ,N-I,skillfulness / ability,CF: *kiśśa* 'skillful'
+
 gheħħemh,ˈɣɛħħɛm̥,ADJ,proud,
 arralji',ærˈræʎiʔ,ADJ,mighty,
 aśśo,ˈæɕɕɔ,ADJ,smug,
@@ -20,6 +33,20 @@ loħħanħaś,ˈlɔħˌħæn̥ħæɕ,ADJ,angry,FROM: *ulo-ħanħaś(xanjh)* 'wit
 ulokku,ˈulɔkku,ADJ,rich,FROM: *ulo-ku'* 'with-much'
 ulârrhâ,ˈulʌr̥r̥ʌ,ADJ,poor,FROM: *ulo-xê* 'with-little'
 ulompë,ˈulɔm̥pɤ,ADJ,wise (lit. with wisdom),
+uruë,uˈruɤ,ADJ,sad,CF: *uruum* 'sadness'
+śoħuo,ˈɕɔħuo̯,ADJ,happy,CF: *śoħum* 'happiness'
+tfâemo,ˈtfɑe̯mɔ,ADJ,calm,CF: *tfâemâego* 'calmness'
+iħħöni,ˈiħˌħøni,ADJ,agitated,CF: *muoñoumë* 'agitation'
+yeure,ˈɟøʊ̯rɛ,ADJ,strange / foreign,CF: *muneure* 'strangeness'
+moħâu,ˈmɔħɑʊ̯,ADJ,beautiful,CF: *mâeħâugo* 'beauty'
+murë,ˈmurɤ,ADJ,ugly,CF: *murgo* 'ugliness'
+fasa,ˈfæsæ,ADJ,comfortable,
+yümasa,ˈɟyˌmæsæ,ADJ,uncomfortable,
+ma'ma',ˈmæʔm̥æʔ,ADJ,fertile,CF: *muomikke* 'fertility'
+yamma',ˈɟæm̥m̥æʔ,ADJ,infertile,
+kiśśa,ˈkiɕɕæ,ADJ,skillful / capable / able,CF: *muogźa* 'skillfulness'
+jêgźa,ˈjegʑæ,ADJ,clumsy / incapable,
+turomh,ˈturɔm̥,ADJ,loyal,CF: *turmikke* 'loyalty';CF: *atturum* 'fealty'
 
 frhiffa,ˈfr̥iffæ,ADV,strangely,
 ârrônjofa,ʌrˈroɲɔˌɣɔfæ,ADV,powerfully,
@@ -32,6 +59,8 @@ loħħanħaoafa,ˈlɔħħæn̥ˌħæo̯æfæ,ADV,angrily,
 ulompofa,ˈulɔm̥ˌpɔfæ,ADV,wisely,
 
 quo'oñqoñ,ˈɢuo̯ˌʔɔɴɢɔɲ,V,IMPF: to be married;PERF: to marry,FROM *quo'onj* 'married couple'
+ljantür;qêśśantür;ljantür;ljanturo,ˈʎæn̥tyr;ˈɢeɕˌɕæn̥tyr;ˈʎæn̥tyr;ˈʎæn̥ˌturɔ,V-PP;V-PN;V-VP;V-VI,to pass down,
+ljanjom;qêśśanjom;ljanjom;ljanjaoe,ˈʎæɲ̊ɔm;ˈɢeɕˌɕæɲ̊ɔm;ˈʎæɲ̊ɔm;ˈʎæɲ̊ˌæo̯ɛ,V-PP;V-PN;V-VP;V-VI,to inherit,
 
 quo'onj,ˈɢuo̯ʔɔɲ,N-H.d,married couple,FROM *quonj-onj* 'two-person'
 vaxxonj,ˈʋæxxɔɲ,N-H,wife,
@@ -107,6 +136,11 @@ Vottuogo,ˈʋɔtˌtuo̯gɔ,N-D,king (of the Central Kingdom),
 vaħħonj,ˈʋæħħɔɲ,N-H,elder / senior,
 vakkeħħonj,ˈʋækˌkɛħħɔɲ,N-H,kingdom,
 vakkênj,ˈʋækkeɲ,N-H,king,
+a'mukko,ˈæʔˌm̥ukkɔ,N-D,duty,
+turmikke,ˈturˌmikkɛ,N-D,loyalty,CF: *turomh* 'loyal'
+atturum,ˈætˌturum,N-H,fealty / allegiance,CF: *turomh* 'loyal'
+atturgo,ˈætˌturgɔ,N-D,dedication,CF: *turomh* 'loyal'
+
 ljyzötênj,ˈʎyzøteɲ,N-H,Shch. king,FROM: Shch. /ˈlivʐoʈe/
 Sêtsaoeren,seˈt͡ʃæo̯ˌɛrɛn,N-H,Shechageghern language/people,FROM: *Shechageghern /ʂeˈʈ͡ʂageɣeɳ/* (endonym)
 

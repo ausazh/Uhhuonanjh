@@ -80,9 +80,9 @@ Vocab will be given in order of *THEME* (approximately).  These are:
   - Herbs and Medicine
 - 5. People and Society
   - Basic People
+  - Appearance and Personality
   - Family and Ancestry
   - Daily Life
-  - Appearance and Personality
   - Social Interaction
   - Work and Status
   - Towns and Cities
