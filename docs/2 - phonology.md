@@ -35,12 +35,13 @@ All consonants may be geminated, though it is only common for stops, fricatives 
 |lateral apx|       |/l/      |/ʎ/      |       |       |
 |trill      |       |/r̥/ /r/  |         |       |       |
 
-- Voiced and unvoiced nasals and trills are found in complimentary distribution in most clusters, but are distinguished between vowels and word-finally.  Voiced and unvoiced nasals are beginning to merge.
+- Voiced and unvoiced nasals and trills are found in complimentary distribution in most clusters, but are distinguished between vowels and morpheme-finally.  Voiced and unvoiced nasals are beginning to merge.
 - The two trills are a result of a merger between earlier alveolar and guttural trills.  The resulting phoneme is realised differently among different areas - /r/ can be realised variously as \[r ~ ɾ], \[ɽ], \[ʐ], \[ʀ], \[ʁ], etc.
 - The exact pronunciation of the postalveolar affricates /t͡ʃ/ and /d͡ʒ/ varies.  In addition to being pronounced as written, they may also be alveolar \[t͡s] \[d͡z], retroflex \[t͡ʂ] \[d͡ʐ] (reflecting earlier pronunciation) or may merge with palatal.
-- /f/ and /ʋ/ are labiodental and assimilate adjacent bilabials to labiodentals.  /ʋ/ can sometimes be vocalised to \[u ~ ʊ].
+- /f/ and /ʋ/ are labiodental and assimilate adjacent bilabials to labiodentals.  /ʋ/ can sometimes be vocalised to \[ʊ ~ ʏ], especially when sandwiched in the middle of clusters/word-finally, e.g. /ˈmɛʔɔdʋ/ > \[ˈmɛʔɔdʊ]; /ˈɢæo̯rdʋɲæ/ > \[ˈɢæo̯rdʏɲæ]
 - Uvular nasals will assimilate to nearby velars, becoming \[ŋ̊] \[ŋ].
 - Glottal stop /ʔ/ can assimilate to nearby consonants, though in careful speech this is avoided.
+- Most dialects assimilate voicing of nasals and trills when not otherwise assimilated in clusters (usually across morpheme boundaries), e.g. /ɴɛɲ̊/ + /ɟeɲ/ > \[ɴɛɲɟeɲ]
 
 ## Romanisation
 
@@ -96,3 +97,7 @@ The maximum syllable size is CLLVCL, with only the central V mandatory.  Most sy
 Primary stress *usually* occurs on the first syllable of a word (barring prefixes), although this is not always the case, especially with *vowel + geminated trill* word initials.  Similarly, secondary stress *usually* occurs on the penultimate syllable of words with more than 3 syllables, but again this is not always the case due to merged or inserted syllables.
 
 Front stressed syllables tend to lead to fronting of back vowels while Back stressed syllables tend to lead to backing of front vowels, though many historical vowels resisted these changes and vowel harmony is particularly strict.  Certain suffixes have both front and back variants - depending on the dialect, these will change either depending on the final vowel or on the last stressed vowel.  If required to agree with central vowel Ä /ä/, these affixes may change arbitrarily and either form would be considered correct.
+
+## Alternations
+
+Over the course of phonological evolution, some words picked up an unstressed prefix before an initial trill (note that some initial trills were generated *after* this process and thus don't have one).  This prefix is removed when a prefix is added to the word.  Example: *yiñ + (ar)rhanjh* 'pre- + standing' >> *yiñrhanjh*

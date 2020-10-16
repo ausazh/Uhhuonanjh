@@ -43,9 +43,13 @@ gheanjh;neargheanjh;ghencef;gheanjh,ˈɣɛæɲ̊;ˈneɐ̯rˌɣɛæɲ̊;ˈɣɛɲ�
 qumboñ,ˈɢumbɔɴ,V,to migrate,FROM: *qumboñanjh* 'migration'
 yêre;yiźêre;yearainjef;yearaianjh,ˈɟerɛ;ˈɟiˌʑerɛ;ˈɟeɐ̯ˌræɪ̯ɲɛf;ˈɟeɐ̯ˌræɪ̯æɲ̊,V-PP;V-PN;V-VP;V-VI,to follow,DAT: object;CF: *yêre (yearef)* 'follow > agree'
 ghärrhe;nearghärrhe;ghärrhe;ghärrheañe,ˈɣar̥r̥ɛ;ˈneɐ̯rˌɣar̥r̥ɛ;ˈɣar̥r̥ɛ;ˈɣar̥ˌr̥eɐ̯ɴɛ,V-PP;V-PN;V-VP;V-VI,to fall,CF: *ghäxxe* 'fall > fail'
-camh;jêcamh;caf;camh,ˈcæm̥;ˈjecæm̥;ˈcæf;ˈcæm̥,V-PP;V-PN;V-VP;V-VI,to remain / stay,CF REG: *camħe* 'remain > inhabit'
+camh;jêcamh;caf;camh,ˈcæm̥;ˈjecæm̥;ˈcæf;ˈcæm̥,V-PP;V-PN;V-VP;V-VI,to remain / stay,CAUS = to make stay/hold in place;CF REG: *camħe* 'remain > inhabit'
 ljanci;qêśśanci;ljanci;ljancie,ˈʎæɲ̊ci;ˈɢeɕˌɕæɲ̊ci;ˈʎæɲ̊ci;ˈʎæɲ̊ˌciɛ,V-PP;V-PN;V-VP;V-VI,to turn / change direction,
 iem;jêñêm;iem;ieme,ˈie̯m;ˈjeɴem;ˈie̯m;ˈie̯mɛ,V-PP;V-PN;V-VP;V-VI,to bend,
+färh;eumärh;färh;färha,ˈfar̥;ˈøʊ̯mar̥;ˈfar̥;ˈfar̥æ,V-PP;V-PN;V-VP;V-VI,to stop / finish,
+qaoa;qaorhaoa;qaoa;qaoae,ˈɢæo̯æ;ˈɢæo̯ˌr̥æo̯æ;ˈɢæo̯æ;ˈɢæo̯ˌæɛ,V-PP;V-PN;V-VP;V-VI,to start / begin,
+eumärh,ˈøʊ̯mar̥,V,to continue,FROM: *eumärh* 'to not stop'
+
 
 quljârâ,ˈɢuʎʌrʌ,N-I,movement,FROM: *quljârâ* 'to go'
 arrhanjh,ær̥ˈr̥æɲ̊,N-I,journey (by land),FROM: *arrhanjh* 'walk > travel by land'
@@ -68,7 +72,7 @@ qâugge,ˈɢɑʊ̯ggɛ,N-D,knowledge,FROM: *qâuga* 'to know'
 qâuañge,ˈɢɑʊ̯ˌæɴgɛ,N-D,thinking / thought,FROM: *qâuanjh* 'to think'
 qâuñkögge,ˈɢɑʊ̯ɴ̥ˌkøgɛ,N-D,thought,FROM: *qâuanjh* 'to think'
 
-vaaś;ünyaaś;vanjef;vaanjh,ˈʋææɕ;ˈyɲˌɟææɕ;ˈʋæɲ̊ɛf;ˈʋææɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to want / mean;PERF: to request,GEN: thing wanted/requested;DAT: target of want/request;ORIG: to say;CF: *qaoimh* 'to not want'
+vaaś;ünyaaś;vanjef;vaanjh,ˈʋææɕ;ˈyɲˌɟææɕ;ˈʋæɲ̊ɛf;ˈʋææɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to want / mean;PERF: to ask/request,ACC: thing asked;GEN: thing wanted/requested;DAT: target of want/request;ORIG: to say;CF: *qaoimh* 'to not want'
 qaoimh;jêñaoimh;qaoinjef;qaoinjh,ˈɢæo̯im̥;ˈjeˌɴæo̯im̥;ˈɢæo̯ˌiɲ̊ɛf;ˈɢæo̯iɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to not want;PERF: to request to not,GEN: thing wanted/requested;DAT: target of want/request;CF ORIG: *qaoi'ħêmh* 'to fear'; CF: *vaaś* 'to want'
 qaoi'ħêmh;jêñoi'ħêmh;qaoi'ħêncef;qaoi'ħêñanjh,ˈɢæo̯ˌiʔħem̥;ˈjeɴɔˌiʔħem̥;ˈɢæo̯iʔˌħeɲ̊cɛf;ˈɢæo̯iʔˌħeɴ̥æɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to fear;PERF: to become afraid,GEN: thing feared;CF: *qaoimh* 'to not want'
 ljanji;nealjanji;ljanjienjef;ljanjin,ˈʎæɲ̊i;ˈneɐ̯ˌʎæɲ̊i;ˈʎæˌɲ̊ie̯ɲɛf;ˈʎæɲ̊in,V-PP;V-PN;V-VP;V-VI,IMPF: to like / prefer;PERF: to choose,DAT: thing liked; ACC: thing chosen;NOTE: PARTs merged with *ljanji* 'to give' and 'to take' (formal);CF semi-REG: *qaoimh* 'to love/adore'
@@ -153,6 +157,7 @@ färrhänjh,ˈfar̥r̥aɲ̊,N-A,end,
 ljighmanjh,ˈʎiɣmæɲ̊,N-A,shadow,FROM: *ljixxamh* 'back'
 yasrhuoljanjh,ˈɟæsˌr̥uo̯ʎæɲ̊,N-A,reflection / image
 suncamh;sunjmonjh;sunjmonj;sunjke,ˈsuɲ̊cæm̥;ˈsuɲ̊m̥ɔɲ̊;ˈsuɲ̊m̥ɔɲ;ˈsuɲ̊kɛ,N-I;N-A;N-H;N-D,other / other one
+ten;tenh;ten;tenge,ˈtɛn;ˈtɛn̥;ˈtɛn;ˈtɛngɛ,N-I;N-A;N-H;N-D,same / self / same one
 kuinjaś,ˈkuɪ̯ɲæɕ,N-I,size
 
 oar;oaro,ˈoɐ̯r;ˈoɐ̯rɔ,N-I;ADJ,red,
@@ -167,6 +172,7 @@ âur,ˈɑʊ̯r,ADV,right,
 ceimbi,ˈcei̯mbi,ADV,left,REG: yiħħeimbi
 xam,ˈxæm,ADV,up,CF REG: *ârrhâem* 'high'
 pur,ˈpur,ADV,down,CF: *pur* 'low'
+feŕe,ˈfɛɹɛ,ADV,together,FROM: *feś-rhe* 'as-one'
 
 pur,ˈpur,ADJ,low,CF: *pur* 'down'
 ârrhâem,ʌr̥ˈr̥ɑe̯m,ADJ,high,CF: *xam* 'up'
@@ -179,6 +185,8 @@ vif,ˈʋif,ADJ,full,
 qmuś,ˈɢm̥uɕ,ADJ,empty,
 ete',ˈɛtɛʔ,ADJ,new,
 vômvo,ˈʋomʋɔ,ADJ,old,
+qâu,ˈɢɑʊ̯,ADJ,nearby,
+iemh,ˈie̯m̥,ADJ,faraway,
 ñêra,ˈɴeræ,ADJ,round,
 moaoa',ˈmoɐ̯oɐ̯ʔ,ADJ,straight,
 frhiccê,ˈfr̥icce,ADJ,dry,
@@ -201,7 +209,7 @@ ârrôźyë,ʌrˈroʑɟɤ,ADJ,dull,
 pumfë,ˈpum̥fɤ,ADJ,correct,
 uloħħrha,ˈulɔħħr̥æ,ADJ,wrong / mistaken,FROM: *ulo-vaħħrha* 'with-mistake'
 frhi,ˈfr̥i,ADJ,other,
-tene,ˈtɛnɛ,ADJ,same / self,
+tene,ˈtɛnɛ,ADJ,same / self,CF: *ten* 'same one'
 marrhê,ˈmær̥r̥e,ADJ,useful,
 ârrônjë,ʌrˈroɲɤ,ADJ,powerful,
 firrhêm,ˈfir̥r̥em,ADJ,eternal,
@@ -268,3 +276,6 @@ färh,ˈfar̥,N-Postpos,after
 vorhâr,ˈʋɔr̥ʌr,CONJ,or,
 rhu,ˈr̥u,CONJ,if,
 verh,ˈʋɛr̥,CONJ,because,
+tso,ˈt͡ʃɔ,CONJ,but,
+
+feśśaś,ˈfɛɕɕæɕ,ADV,so / thus / in this way / like this,FROM: *feś+aoś* 'like-this'
