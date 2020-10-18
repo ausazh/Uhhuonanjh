@@ -6,12 +6,12 @@
 |Uhhuonanjh|Pronunciation|Part of Speech|English|Miscellaneous Notes|
 |----------|-------------|--------------|-------|-------------------|
 |xea<br/>nêre<br/>xeañef<br/>xeañ|ˈxeɐ̯<br/>ˈnerɛ<br/>ˈxeɐ̯ɴɛf<br/>ˈxeɐ̯ɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to exist / there is<br/>PERF: to happen / appear|REG: arrhea<br/>ORIG: to stand<br/>CF: *arrhea* 'status'<br/>CF: *xeagge* 'present'|
-|qâe<br/>jêño<br/>qâeñof<br/>qâeñ|ˈɢɑe̯<br/>ˈjeɴɔ<br/>ˈɢɑe̯ɴɔf<br/>ˈɢɑe̯ɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be (copula)<br/>PERF: to become|REG: quqqo<br/>CF: *uqqo* 'existence'|
+|qâe<br/>jêño<br/>qâeñof<br/>qâeñ|ˈɢɑe̯<br/>ˈjeɴɔ<br/>ˈɢɑe̯ɴɔf<br/>ˈɢɑe̯ɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be (copula)<br/>PERF: to become|DAT: thing become<br/>REG: quqqo<br/>CF: *uqqo* 'existence'|
 |ħa'<br/>ighe'<br/>ħanjof<br/>ħaonjh|ˈħæʔ<br/>ˈiɣɛʔ<br/>ˈħæɲ̊ɔf<br/>ˈħæo̯ɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to have<br/> PERF: to get|CF REG: *ħaqqe'* 'have > own'|
 |ħaqqe'<br/>igheqe<br/>ħaqqonjof<br/>ħaqqoanjh|ˈħæɢɢɛʔ<br/>ˈiɣɛɢɛʔ<br/>ˈħæɢˌɢɔɲ̊ɔf<br/>ˈħæɢˌɢɔæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to own / possess<br/> PERF: to acquire|CF ORIG: *ħa'* 'to have'|
 |ljoña'<br/>qêljeaña'<br/>ljienjof<br/>ljiâenjh|ˈʎɔɴæʔ<br/>ˈɢeˌʎeɐ̯ɴæʔ<br/>ˈʎie̯ɲ̊ɔf<br/>ˈʎiɑe̯ɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to hold<br/> PERF: to grab / grab onto|REG: uioña'<br/>CF semi-REG: *ioña'* 'hold > take'|
 |âulqo<br/>ienjaolqe<br/>âulqo<br/>âulqâo|ˈɑʊ̯lɢɔ<br/>ˈie̯ˌɲæo̯lɢɛ<br/>ˈɑʊ̯lɢɔ<br/>ˈɑʊ̯lˌɢʌɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to suit / fit / be used to<br/>PERF: to fit / get used to|NOM suits/fits DAT (environment)<br/>ORIG: *become*<br/>CF: *âulqo* 'become > future'|
-|ñuo<br/>âeñqë<br/>ñuo<br/>ñuoño|ˈɴuo̯<br/>ˈɑe̯ɴɢɤ<br/>ˈɴuo̯<br/>ˈɴuo̯ɴɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|PERF: to do<br/>IMPF: to work/do for work||
+|ñuo<br/>âeñqë<br/>ñuo<br/>ñuoño|ˈɴuo̯<br/>ˈɑe̯ɴɢɤ<br/>ˈɴuo̯<br/>ˈɴuo̯ɴɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|PERF: to do<br/>IMPF: to work/do for work|sometimes used as a suffix for 'do X' verbs<br/>CF: *a'muñ-ñuo* 'to work (repay) debt'|
 |arrhea|ær̥ˈr̥eɐ̯|N-I|status / state|CF ORIG: *xea* 'stand > exist'<br/>CF: *arrhai* 'stance'|
 |arrhai|ær̥ˈr̥æi|N-I|stance / attitude|CF ORIG: *xea* 'stand > exist'<br/>CF: *arrhea* 'status'|
 |uqqo|ˈuɢɢɔ|N-I|existence|ORIG: to be<br/>CF: *qâe* 'to be'|
@@ -20,6 +20,8 @@
 |âulgo|ˈɑʊ̯lgɔ|N-D|future|FROM: *âulqo* 'to become'<br/>CF: *xerke/xeagge* 'past/present'|
 |xerke|ˈxɛr̥kɛ|N-D|past (time)|FROM: *xea-ârh* 'there was'<br/>CF: *âulgo/xeagge* 'future/present'|
 |xeagge|ˈxeɐ̯ggɛ|N-D|present (time)|FROM: *xea* 'there is'<br/>CF: *âulgo/xerke* 'future/past'|
+|qâe|ˈɢɑe̯|PHR|yes|lit.​ 'being', used when no obvious verb to repeat|
+|jêño|ˈjeɴɔ|PHR|no|lit.​ 'not being', used when no obvious verb to repeat|
 |mâerâ<br/>âempâerâ<br/>mâer<br/>maorñe|ˈmɑe̯rʌ<br/>ˈɑe̯m̥ˌpɑe̯rʌ<br/>ˈmɑe̯r<br/>ˈmæo̯rˌɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to come (common)|CF REG: *mâenjârâ* 'to come (formal)'|
 |mâenjârâ<br/>âempâenjârâ<br/>mâenjârâ<br/>maonjareañe|ˈmɑe̯ɲʌrʌ<br/>ˈɑe̯m̥ˌpɑe̯ɲʌrʌ<br/>ˈmɑe̯ɲʌrʌ<br/>ˈmæo̯ɲæˌreɐ̯ɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to come (formal)|CF: *mâerâ* 'to come (common)'|
 |uirâ<br/>ujöre<br/>uir<br/>uirñe|ˈuɪ̯rʌ<br/>ˈuˌjørɛ<br/>ˈuɪ̯r<br/>ˈuɪ̯rˌɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to go (common)|CF REG: *quljârâ* 'to go (formal)'|
@@ -47,28 +49,40 @@
 |qumboñ|ˈɢumbɔɴ|V|to migrate|FROM: *qumboñanjh* 'migration'|
 |yêre<br/>yiźêre<br/>yearainjef<br/>yearaianjh|ˈɟerɛ<br/>ˈɟiˌʑerɛ<br/>ˈɟeɐ̯ˌræɪ̯ɲɛf<br/>ˈɟeɐ̯ˌræɪ̯æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to follow|DAT: object<br/>CF: *yêre (yearef)* 'follow > agree'|
 |ghärrhe<br/>nearghärrhe<br/>ghärrhe<br/>ghärrheañe|ˈɣar̥r̥ɛ<br/>ˈneɐ̯rˌɣar̥r̥ɛ<br/>ˈɣar̥r̥ɛ<br/>ˈɣar̥ˌr̥eɐ̯ɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to fall|CF: *ghäxxe* 'fall > fail'|
-|camh<br/>jêcamh<br/>caf<br/>camh|ˈcæm̥<br/>ˈjecæm̥<br/>ˈcæf<br/>ˈcæm̥|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to remain / stay|CF REG: *camħe* 'remain > inhabit'|
+|camh<br/>jêcamh<br/>caf<br/>camh|ˈcæm̥<br/>ˈjecæm̥<br/>ˈcæf<br/>ˈcæm̥|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to remain / stay|CAUS = to make stay/hold in place<br/>CF REG: *camħe* 'remain > inhabit'|
 |ljanci<br/>qêśśanci<br/>ljanci<br/>ljancie|ˈʎæɲ̊ci<br/>ˈɢeɕˌɕæɲ̊ci<br/>ˈʎæɲ̊ci<br/>ˈʎæɲ̊ˌciɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to turn / change direction||
 |iem<br/>jêñêm<br/>iem<br/>ieme|ˈie̯m<br/>ˈjeɴem<br/>ˈie̯m<br/>ˈie̯mɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to bend||
+|färh<br/>eumärh<br/>färh<br/>färha|ˈfar̥<br/>ˈøʊ̯mar̥<br/>ˈfar̥<br/>ˈfar̥æ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to stop / finish||
+|qaoa<br/>qaorhaoa<br/>qaoa<br/>qaoae|ˈɢæo̯æ<br/>ˈɢæo̯ˌr̥æo̯æ<br/>ˈɢæo̯æ<br/>ˈɢæo̯ˌæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to start / begin||
+|eumärh|ˈøʊ̯mar̥|V|to continue|FROM: *eumärh* 'to not stop'|
+|ca'o<br/>jêddo<br/>ca'o<br/>ca'aoñe|ˈcæʔɔ<br/>ˈjeddɔ<br/>ˈcæʔɔ<br/>ˈcæʔˌæo̯ɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to climb|CF: *ca'êr* 'ladder'|
+|fiete'<br/>eumêete'<br/>fiete'<br/>fieñetoo|ˈfiˌɛtɛʔ<br/>ˈøʊ̯meˌɛtɛʔ<br/>ˈfiˌɛtɛʔ<br/>ˈfie̯ɴɛˌtɔɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to return / go back|CF: *etuomva* 'again'<br/>CF: *ete'* 'new'|
+|puo<br/>jêmê<br/>puoñof<br/>puoñ|ˈpuo̯<br/>ˈjeme<br/>ˈpuo̯ɴɔf<br/>ˈpuo̯ɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be grown<br/>PERF: to grow (up) (intrans)|CAUS = to raise/rear|
 |quljârâ|ˈɢuʎʌrʌ|N-I|movement|FROM: *quljârâ* 'to go'|
 |arrhanjh|ær̥ˈr̥æɲ̊|N-I|journey (by land)|FROM: *arrhanjh* 'walk > travel by land'|
 |quoźa|ˈɢuo̯ʑæ|N-I|voyage (by sea)|FROM: *quoźa* 'swim > travel by sea'|
 |qumboñanjh|ˈɢumˌbɔɴæɲ̊|N-A|journey (by air)<br/> migration|literally of birds, but metaphorically of any animal<br/>FROM: *qumboñaś* 'fly'|
+|ljin<br/>qêśśin<br/>ljin<br/>ljienje|ˈʎin<br/>ˈɢeɕɕin<br/>ˈʎin<br/>ˈʎie̯ɲɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to feel / touch|GEN = thing felt<br/>DAT/ACC = thing touched<br/>ORIG: to wipe<br/>CF: *ljêrâe'* 'hand'|
 |yañrhê<br/>yañqarrê<br/>yañqref<br/>yañqrênjh|ˈɟæɴ̥r̥e<br/>ˈɟæɴˌɢærre<br/>ˈɟæɴɢrɛf<br/>ˈɟæɴɢreɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to hear||
 |jêñgha'<br/>jêxieñgha'<br/>jêñghaf<br/>jêñghanjh|ˈjeɴɣæʔ<br/>ˈjeˌxie̯ɴɣæʔ<br/>ˈjeɴɣæf<br/>ˈjeɴɣæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to see||
 |qâuga<br/>jêqâuga<br/>qâugancef<br/>qâuganjh|ˈɢɑʊ̯gæ<br/>ˈjeˌɢɑʊ̯gæ<br/>ˈɢɑʊ̯ˌgæɲ̊cɛf<br/>ˈɢɑʊ̯gæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to know<br/> PERF: to find out||
+|qâuga|ˈɢɑʊ̯gæ|V|IMPF: to be acquainted with<br/>PERF: to acquaint / meet / visit|FROM: 'to find (out)'|
 |qâuanjh<br/>jêqâuanjh<br/>qâunjof<br/>qâuanjh|ˈɢɑʊ̯æɲ̊<br/>ˈjeˌɢɑʊ̯æɲ̊<br/>ˈɢɑʊ̯ɲɔf<br/>ˈɢɑʊ̯æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to think / believe<br/> PERF: to think (up / of)||
 |vaftce<br/>ündvecce<br/>vatfenjef<br/>vatfeenjh|ˈʋæftcɛ<br/>ˈynˌdʋɛccɛ<br/>ˈʋætˌfɛɲ̊ɛf<br/>ˈʋætˌfɛɛɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to smell||
 |qâugoś<br/>jêqâugoś<br/>qâugoś<br/>qâugeśe|ˈɢɑʊ̯gɔɕ<br/>ˈjeˌɢɑʊ̯gɔɕ<br/>ˈɢɑʊ̯gɔɕ<br/>ˈɢɑʊ̯ˌgɛɕɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be aware of<br/>PERF: to realise|GEN: object||
+|ârvo'<br/>nearve'<br/>ârvonjof<br/>ârvoanjh|ʌrˈʋɔʔ<br/>ˈneɐ̯rʋɛʔ<br/>ʌrˈʋɔɲ̊ɔf<br/>ʌrˈʋɔæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to not know<br/>PERF: to ignore|not know (have never known)|
+|ârmâenj<br/>nearmonj<br/>ârmâenjof<br/>armaoanjh|ʌrˈmɑe̯ɲ<br/>ˈneɐ̯rmɔɲ<br/>ʌrˈmɑe̯ɲɔf<br/>ærˈmæo̯æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to not know<br/>PERF: to forget|not know (have forgotten something once known)|
+|vaoñga<br/>qêħħaoñga<br/>vaoñgancef<br/>vaoñganjh|ˈʋæo̯ɴgæ<br/>ˈɢeħˌħæo̯ɴgæ<br/>ˈʋæo̯ɴˌgæɲ̊cɛf<br/>ˈʋæo̯ɴgæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to know<br/>PERF: to remember||
 |yañrhê|ˈɟæɴ̥r̥e|N-I|hearing|FROM: *yañrhê* 'to hear'|
 |pamfianjh|ˈpæm̥ˌfiæɲ̊|N-A|sound||
 |jêñgha'|ˈjeɴɣæʔ|N-I|sight (sense of)|FROM: *jêñgha* 'to see'|
 |vaftce|ˈʋæftcɛ|N-I|smell (sense of)|FROM: *vaftce* 'to smell'|
 |ħanśanjh|ˈħæn̥ɕæɲ̊|N-A|smell / odour|CF REG: *ħanħaśxanjh* 'smoke'|
+|qumvośenjh|ˈɢumʋɔɕɛɲ̊|N-A|whiff|also used metaphorically for 'small taste/sample'<br/>FROM: *qumvoś* 'to float'|
 |qâugge|ˈɢɑʊ̯ggɛ|N-D|knowledge|FROM: *qâuga* 'to know'|
 |qâuañge|ˈɢɑʊ̯ˌæɴgɛ|N-D|thinking / thought|FROM: *qâuanjh* 'to think'|
 |qâuñkögge|ˈɢɑʊ̯ɴ̥ˌkøgɛ|N-D|thought|FROM: *qâuanjh* 'to think'|
-|vaaś<br/>ünyaaś<br/>vanjef<br/>vaanjh|ˈʋææɕ<br/>ˈyɲˌɟææɕ<br/>ˈʋæɲ̊ɛf<br/>ˈʋææɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to want / mean<br/>PERF: to request|GEN: thing wanted/requested<br/>DAT: target of want/request<br/>ORIG: to say<br/>CF: *qaoimh* 'to not want'|
+|vaaś<br/>ünyaaś<br/>vanjef<br/>vaanjh|ˈʋææɕ<br/>ˈyɲˌɟææɕ<br/>ˈʋæɲ̊ɛf<br/>ˈʋææɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to want / mean<br/>PERF: to ask/request|ACC: thing asked<br/>GEN: thing wanted/requested<br/>DAT: target of want/request<br/>ORIG: to say<br/>CF: *qaoimh* 'to not want'|
 |qaoimh<br/>jêñaoimh<br/>qaoinjef<br/>qaoinjh|ˈɢæo̯im̥<br/>ˈjeˌɴæo̯im̥<br/>ˈɢæo̯ˌiɲ̊ɛf<br/>ˈɢæo̯iɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to not want<br/>PERF: to request to not|GEN: thing wanted/requested<br/>DAT: target of want/request<br/>CF ORIG: *qaoi'ħêmh* 'to fear'<br/> CF: *vaaś* 'to want'|
 |qaoi'ħêmh<br/>jêñoi'ħêmh<br/>qaoi'ħêncef<br/>qaoi'ħêñanjh|ˈɢæo̯ˌiʔħem̥<br/>ˈjeɴɔˌiʔħem̥<br/>ˈɢæo̯iʔˌħeɲ̊cɛf<br/>ˈɢæo̯iʔˌħeɴ̥æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to fear<br/>PERF: to become afraid|GEN: thing feared<br/>CF: *qaoimh* 'to not want'|
 |ljanji<br/>nealjanji<br/>ljanjienjef<br/>ljanjin|ˈʎæɲ̊i<br/>ˈneɐ̯ˌʎæɲ̊i<br/>ˈʎæˌɲ̊ie̯ɲɛf<br/>ˈʎæɲ̊in|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to like / prefer<br/>PERF: to choose|DAT: thing liked<br/> ACC: thing chosen<br/>NOTE: PARTs merged with *ljanji* 'to give' and 'to take' (formal)<br/>CF semi-REG: *qaoimh* 'to love/adore'|
@@ -79,6 +93,7 @@
 |kśanjh|ˈkɕæɲ̊|V|IMPF: to be able to / can<br/>PERF: to succeed (at)/ achieve|DAT: ability/outcome<br/>FROM: *xaśanjh* 'to arrive (common)'|
 |ghäxxe<br/>nearghäxe<br/>ghäñqef<br/>ghäxxänjh|ˈɣaxxɛ<br/>ˈneɐ̯rˌɣaxxɛ<br/>ˈɣaɴɢɛf<br/>ˈɣaxˌxaɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be unable to do<br/>PERF: to fail|DAT: thing unable<br/>ACC: thing failed<br/>CF REG: *ghärrhe* 'to fall'|
 |ghärrhänjh<br/>nearghärrhänjh<br/>ghärrhanjef<br/>ghärrhänjh|ˈɣar̥r̥aɲ̊<br/>ˈneɐ̯rˌɣar̥r̥aɲ̊<br/>ˈɣar̥ˌr̥æɲ̊ɛf<br/>ˈɣar̥r̥aɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to wait|DAT: thing waited for<br/>CF: *ghänjh* 'wait > expect'|
+|sħoñuo<br/>niźgheñei<br/>sħienjeannjef<br/>sħienjeañanjh|ˈsħɔɴuo̯<br/>ˈniʑˌɣɛɴei̯<br/>ˈsħie̯ˌɲeɐ̯ɲɲɛf<br/>ˈsħie̯ˌɲeɐ̯ɴæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to believe<br/>PERF: to come to believe||
 |vaaś|ˈʋææɕ|N-I|request / want|FROM: *vaaś* 'say > request/want'|
 |ljañkeu|ˈʎæɴ̥køʊ̯|N-I|like / preference|FROM: *ljanjikeu* 'thing preferred'|
 |ghaljanj|ˈɣæʎæɲ|N-H|love|FROM: *ghaljanji* 'to love'|
@@ -113,8 +128,8 @@
 |qompëñ<br/>qoxfmëñ<br/>qompëñ<br/>qompuo|ˈɢɔm̥pɤɴ<br/>ˈɢɔxfmɤɴ<br/>ˈɢɔm̥pɤɴ<br/>ˈɢɔm̥ˌpuɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to eat||
 |quñonj<br/>quźjiñonj<br/>quñonj<br/>quomâenjo|ˈɢuɴɔɲ<br/>ˈɢuʑˌjiɴɔɲ<br/>ˈɢuɴɔɲ<br/>ˈɢuo̯ˌmɑe̯ɲɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to bite||
 |vaħħoñ<br/>ümoñ<br/>vaħħoñ<br/>vaħħaoe|ˈʋæħħɔɴ<br/>ˈymɔɴ<br/>ˈʋæħħɔɴ<br/>ˈʋæħˌħæo̯ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to say / tell / talk (about)|ACC: words<br/>DAT or LOC-PRN: listener<br/>GEN: topic of talking<br/>ORIG: to ask|
-|qomë<br/>yi'ħempê<br/>qemieñef<br/>qomëñ|ˈɢɔmɤ<br/>ˈɟiʔˌħɛm̥pe<br/>ˈɢɛˌmie̯ɴɛf<br/>ˈɢɔmɤɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to live<br/>PERF: to survive|PART-NEG is equivalent to 'to be dead'<br/>REG: qghomë<br/>CF: *yi'ħêmpê* 'to die'|
-|vatfanjh<br/>ündvanjh<br/>vatfñef<br/>vatfañh|ˈʋætfæɲ̊<br/>ˈyndʋæɲ̊<br/>ˈʋætfɴ̥ɛf<br/>ˈʋætfæɴ̥|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be alive<br/>PERF: to come to life||
+|qomë<br/>yi'ħempê<br/>qemieñef<br/>qomëñ|ˈɢɔmɤ<br/>ˈɟiʔˌħɛm̥pe<br/>ˈɢɛˌmie̯ɴɛf<br/>ˈɢɔmɤɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to live<br/>PERF: to survive|PART-NEG is equivalent to 'to be dead'<br/>REG: qghomë<br/>CF: *yi'ħêmpê* 'to die'<br/>PF-HAB = to endure/stand (GEN object)|
+|vatfanjh<br/>ündvanjh<br/>vatfñef<br/>vatfañh|ˈʋætfæɲ̊<br/>ˈyndʋæɲ̊<br/>ˈʋætfɴ̥ɛf<br/>ˈʋætfæɴ̥|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be alive<br/>PERF: to come to life|ORIG: to breathe|
 |yi'ħêmpê<br/>yicceghemê<br/>yi'ħêmbieñef<br/>yi'ħêmpêñ|ˈɟiʔˌħem̥pe<br/>ˈɟicˌcɛɣɛme<br/>ˈɟiʔħemˌbie̯ɴɛf<br/>ˈɟiʔˌħem̥peɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be dead<br/>PERF: to die|CF: *qjomë* 'to live'|
 |peffi'ħê<br/>jêmvi'ħê<br/>peffi'ħeiñef<br/>peffi'ħêñ|ˈpɛfˌfiʔħe<br/>ˈjemˌʋiʔħe<br/>ˈpɛffiʔˌħei̯ɴɛf<br/>ˈpɛfˌfiʔħeɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to sleep<br/>PERF: to go to sleep||
 |uonjë'<br/>quħħuonjë'<br/>uonjë'<br/>uocie|ˈuo̯ɲɤʔ<br/>ˈɢuħˌħuo̯ɲɤʔ<br/>ˈuo̯ɲɤʔ<br/>ˈuo̯ˌciɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to cut||
@@ -130,7 +145,12 @@
 |yêrämh<br/>yiźêrämh<br/>yêrämh<br/>yearäme|ˈɟeram̥<br/>ˈɟiˌʑeram̥<br/>ˈɟeram̥<br/>ˈɟeɐ̯ˌram̥ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to help||
 |vônluum<br/>vôxfëtśuum<br/>vônluum<br/>vônluienje|ˈʋonˌluum<br/>ˈʋoxfɤˌc͡ɕuum<br/>ˈʋonˌluum<br/>ˈʋonluˌie̯ɲɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to break (something)|PASV = to break (intrans)||
 |metlü<br/>âemtlu<br/>metlü<br/>metluo|ˈmɛtly<br/>ˈɑe̯m̥tlu<br/>ˈmɛtly<br/>ˈmɛtˌluɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to press / compress||
-|gharke|ˈɣær̥kɛ|N-D|life|
+|tśarh<br/>jêmljarh<br/>tśarh<br/>tśarhe|ˈc͡ɕær̥<br/>ˈjemʎær̥<br/>ˈc͡ɕær̥<br/>ˈc͡ɕær̥ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to find||
+|źmoar<br/>niźmör<br/>źmoar<br/>źmoarâ|ˈʑmoɐ̯r<br/>ˈniʑmør<br/>ˈʑmoɐ̯r<br/>ˈʑmoɐ̯rʌ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to rest||
+|xek<br/>nighek<br/>xek<br/>xeke|ˈxɛk<br/>ˈniɣɛk<br/>ˈxɛk<br/>ˈxɛkɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to damage||
+|kuinjë<br/>jêkuinjë<br/>kuinjë<br/>kuinjo|ˈkuɪ̯ɲɤ<br/>ˈjeˌkuɪ̯ɲɤ<br/>ˈkuɪ̯ɲɤ<br/>ˈkuɪ̯ɲɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to protect / guard||
+|faorva<br/>jêñvaorva<br/>faorva<br/>faorvae|ˈfæo̯rʋæ<br/>ˈjeɴˌʋæo̯rʋæ<br/>ˈfæo̯rʋæ<br/>ˈfæo̯rˌʋæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to shake||
+|gharke|ˈɣær̥kɛ|N-D|life|FROM: *ghar* 'alive'|
 |kusko|ˈkuskɔ|N-D|plentitude / abundance|merged form w/ *kusko* 'summer'<br/>CF: *kuppa* 'many'|
 |vifke|ˈʋifkɛ|N-D|victory||
 |mi'ürhikke|ˈmiʔyˌr̥ikkɛ|N-D|power||
@@ -147,29 +167,43 @@
 |ljighmanjh|ˈʎiɣmæɲ̊|N-A|shadow|FROM: *ljixxamh* 'back'|
 |yasrhuoljanjh|ˈɟæsˌr̥uo̯ʎæɲ̊|N-A|reflection / image|
 |suncamh<br/>sunjmonjh<br/>sunjmonj<br/>sunjke|ˈsuɲ̊cæm̥<br/>ˈsuɲ̊m̥ɔɲ̊<br/>ˈsuɲ̊m̥ɔɲ<br/>ˈsuɲ̊kɛ|N-I<br/>N-A<br/>N-H<br/>N-D|other / other one|
-|kuinjaś|ˈkuɪ̯ɲæɕ|N-I|size|
+|ten<br/>tenh<br/>ten<br/>tenge|ˈtɛn<br/>ˈtɛn̥<br/>ˈtɛn<br/>ˈtɛngɛ|N-I<br/>N-A<br/>N-H<br/>N-D|same / self / same one|
+|xekke'|ˈxɛkkɛʔ|N-I|damage|CF *xek* 'to damage'|
+|ee'|ˈɛɛʔ|N-I|danger||
 |oar<br/>oaro|ˈoɐ̯r<br/>ˈoɐ̯rɔ|N-I<br/>ADJ|red||
 |arräqqe<br/>arräqqêe|ærˈraɢɢɛ<br/>ærˈraɢˌɢeɛ|N-I<br/>ADJ|black||
 |paomva<br/>paomvaie|ˈpæo̯mʋæ<br/>ˈpæo̯mˌʋæɪ̯ɛ|N-I<br/>ADJ|white||
 |vaś<br/>vaśe|ˈʋæɕ<br/>ˈʋæɕɛ|N-I<br/>ADJ|blue|CF: *vanśke* 'sky'|
 |tfaolj<br/>tfaolje|ˈtfæo̯ʎ<br/>ˈtfæo̯ʎɛ|N-I<br/>ADJ|green-yellow|CF: *tfaśśa* 'tree'|
-|qâuo|ˈɢɑʊ̯ɔ|ADV|near||
+|qâuo|ˈɢɑʊ̯ɔ|ADV|recently<br/>near||
 |iemüħ|ˈie̯myħ|ADV|far|REG: erriemüħ|
 |âur|ˈɑʊ̯r|ADV|right||
 |ceimbi|ˈcei̯mbi|ADV|left|REG: yiħħeimbi|
 |xam|ˈxæm|ADV|up|CF REG: *ârrhâem* 'high'|
 |pur|ˈpur|ADV|down|CF: *pur* 'low'|
+|feŕe|ˈfɛɹɛ|ADV|together|FROM: *feś-rhe* 'as-one'|
+|uruzqâu<br/>nüruzqâu<br/>uruzqâu<br/>uruzqâuo|ˈuruzɢɑʊ̯<br/>ˈnyˌruzɢɑʊ̯<br/>ˈuruzɢɑʊ̯<br/>ˈuruzˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to darken (trans)|CF: *uruź* 'dark'|
+|âumuzqâu<br/>nealuzqâu<br/>âumuzqâu<br/>âumuzqâuo|ɑʊ̯ˈmuzɢɑʊ̯<br/>ˈneɐ̯ˌluzɢɑʊ̯<br/>ɑʊ̯ˈmuzɢɑʊ̯<br/>ɑʊ̯ˈmuzˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to slow (trans)|MERGED: 'to soften' (but not neg)<br/>CF: *âumuź* 'slow'|
+|âumuzqâu<br/>eamñuzqâu<br/>âumuzqâu<br/>âumuzqâuo|ɑʊ̯ˈmuzɢɑʊ̯<br/>ˈeɐ̯ˌmɴuzɢɑʊ̯<br/>ɑʊ̯ˈmuzɢɑʊ̯<br/>ɑʊ̯ˈmuzˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to soften (trans)|soften feel/volume<br/>MERGED: 'to slow' (but not neg)<br/>CF: *âumuź* 'soft'|
+|nealuzqâu|ˈneɐ̯ˌluzɢɑʊ̯|V|to not slow (common) (neg = to slow)|
+|eamñuzqâu|ˈeɐ̯ˌmɴuzɢɑʊ̯|V|to not soften (common) (neg = to soften)|
+|uruifqâu<br/>nürêifqâu<br/>uruifqâu<br/>uruëfqâuo|ˈuruˌifɢɑʊ̯<br/>ˈnyreˌifɢɑʊ̯<br/>ˈuruˌifɢɑʊ̯<br/>ˈuruɤfˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to sadden (trans)|CF: *uruë* 'sad'|
+|śaoifqâu<br/>jêddźoifqâu<br/>śaoifqâu<br/>śaoifqâuo|ˈɕæo̯ˌifɢɑʊ̯<br/>ˈjeɟɟ͡ʑɔˌifɢɑʊ̯<br/>ˈɕæo̯ˌifɢɑʊ̯<br/>ˈɕæo̯ifˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to cheer (trans)|CF: *śoħuo* 'happy'|
+|tfâemqâu<br/>jêtfaomqâu<br/>tfâemqâu<br/>tfâemqâuo|ˈtfɑe̯mɢɑʊ̯<br/>ˈjeˌtfæo̯mɢɑʊ̯<br/>ˈtfɑe̯mɢɑʊ̯<br/>ˈtfɑe̯mˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to calm (trans)|CF: *tfâemo* 'calm'|
+|iħħöqâu<br/>jêñeuqâu<br/>iħħöqâu<br/>iħħöqâuo|ˈiħˌħøɢɑʊ̯<br/>ˈjeɴˌøʊ̯ɢɑʊ̯<br/>ˈiħˌħøɢɑʊ̯<br/>ˈiħħøˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to agitate (trans)|CF: *iħħöni* 'agitated'|
 |pur|ˈpur|ADJ|low|CF: *pur* 'down'|
-|ârrhâem|ʌr̥ˈr̥ɑe̯m|ADJ|high|CF: *xam* 'up'|
+|ârrhâem|ʌr̥ˈr̥ɑe̯m|ADJ|high / tall|CF: *xam* 'up'|
 |mefe|ˈmɛfɛ|ADJ|big (common)||
 |meccafe|ˈmɛcˌcæfɛ|ADJ|big (formal)||
 |pefe|ˈpɛfɛ|ADJ|small||
 |rhe|ˈr̥ɛ|ADJ|hot||
 |ya'ü'|ˈɟæʔyʔ|ADJ|cold||
-|vif|ˈʋif|ADJ|full||
+|vif|ˈʋif|ADJ|full<br/>entire / whole||
 |qmuś|ˈɢm̥uɕ|ADJ|empty||
 |ete'|ˈɛtɛʔ|ADJ|new||
 |vômvo|ˈʋomʋɔ|ADJ|old||
+|qâu|ˈɢɑʊ̯|ADJ|nearby||
+|iemh|ˈie̯m̥|ADJ|faraway|CF: *muoriemüħ* 'distance'|
 |ñêra|ˈɴeræ|ADJ|round||
 |moaoa'|ˈmoɐ̯oɐ̯ʔ|ADJ|straight||
 |frhiccê|ˈfr̥icce|ADJ|dry||
@@ -189,10 +223,11 @@
 |ħâero|ˈħɑe̯rɔ|ADJ|dirty||
 |uonjâenjh|ˈuo̯ɲɑe̯ɲ̊|ADJ|sharp||
 |ârrôźyë|ʌrˈroʑɟɤ|ADJ|dull||
-|pumfë|ˈpum̥fɤ|ADJ|correct||
-|uloħħrha|ˈulɔħħr̥æ|ADJ|wrong / mistaken|FROM: *ulo-vaħħrha* 'with-mistake'|
+|pumfë|ˈpum̥fɤ|ADJ|correct|used only for the answer, not the person<br/>you are correct > your words are correct|
+|uloħħrha|ˈulɔħħr̥æ|ADJ|wrong / mistaken|used only for the answer, not the person<br/>FROM: *ulo-vaħħrha* 'with-mistake'|
 |frhi|ˈfr̥i|ADJ|other||
-|tene|ˈtɛnɛ|ADJ|same / self||
+|tuolja|ˈtuo̯ʎæ|ADJ|different|FROM: verb|
+|tene|ˈtɛnɛ|ADJ|same / self|CF: *ten* 'same one'|
 |marrhê|ˈmær̥r̥e|ADJ|useful||
 |ârrônjë|ʌrˈroɲɤ|ADJ|powerful||
 |firrhêm|ˈfir̥r̥em|ADJ|eternal||
@@ -200,6 +235,45 @@
 |mjeare|ˈmjeɐ̯rɛ|ADJ|hard / difficult||
 |pâem|ˈpɑe̯m|ADJ|easy||
 |ljëñghuoma'|ˈʎɤɴˌɣuo̯mæʔ|ADJ|evident / clear|FROM: *ulo-jêñghuoma'* 'with-eye'|
+|śeś|ˈɕɛɕ|ADJ|fast|CF: *muoñoljoś* 'speed'|
+|âumuź|ɑʊ̯ˈmuʑ|ADJ|slow|MERGER: 'soft'|
+|feś|ˈfɛɕ|ADJ|hard (not soft) / harsh / loud|CF: *muoñvoś* 'loudness'|
+|âumuź|ɑʊ̯ˈmuʑ|ADJ|soft / tender / soft (sound)|MERGER: 'slow'<br/>CF: *âumuźonj* 'care'|
+|uruź|ˈuruʑ|ADJ|dark||
+|śa'|ˈɕæʔ|ADJ|light / bright|CF: *muoddźa'* 'brightness'|
+|toto|ˈtɔtɔ|ADJ|next||
+|undo|ˈundɔ|ADJ|last / previous||
+|tu'|ˈtuʔ|ADJ|true|CF: *tukko* 'veracity'<br/>CF: *tutto* 'fact'|
+|ferrhe|ˈfɛr̥r̥ɛ|ADJ|central / middle||
+|ħaśi'|ˈħæɕiʔ|ADJ|fresh|CF: *muoħośë'* 'freshness'|
+|ârmuñ|ʌrˈmuɴ|ADJ|sturdy / strong|CF: *moarmuñ* 'strength'|
+|źmo'|ˈʑmɔʔ|ADJ|frail / weak|CF: *muźmo'* 'weakness'|
+|vincin|ˈʋiɲ̊cin|ADJ|dense / rich (in resources)||
+|yünjin|ˈɟyɲin|ADJ|sparse / poor (in resources)|CF: *munünjin* 'scarcity'|
+|môrhâm|ˈmor̥ʌm|N-I|height|CF: *ârrhâem* 'high'|
+|kuinjaś|ˈkuɪ̯ɲæɕ|N-I|size|
+|muomro|ˈmuo̯mrɔ|N-I|heat<br/>temperature|CF: *rhe* 'hot'|
+|mua'ü'|ˈmuˌæʔyʔ|N-I|cold(ness)|CF: *ya'ü'* 'cold'|
+|muovof|ˈmuo̯ʋɔf|N-I|(measure of/) fullness|CF: *vif* 'full'|
+|muoñmuś|ˈmuo̯ɴmuɕ|N-I|emptiness|CF: *qmuś* 'empty'|
+|muete'|ˈmuˌɛtɛʔ|N-I|newness|CF: *ete'* 'new'|
+|muuomvo|ˈmuˌuo̯mʋɔ|N-I|oldness|CF: *vômvo* 'old'|
+|muu'ħa'e|ˈmuuʔˌħæʔɛ|N-I|length|CF: *qu'ħa'e* 'long'|
+|muoarânjo|ˈmuˌoɐ̯rʌɲɔ|N-I|width|CF: *qoarânjo* 'wide'|
+|muħou|ˈmuħou̯|N-I|goodness / morality|CF: *ħou* 'good'|
+|muuonjâenjh|ˈmuˌuo̯ɲɑe̯ɲ̊|N-I|sharpness|CF: *uonjâenjh* 'sharp'|
+|muomrâ|ˈmuo̯mrʌ|N-I|usefulness|CF: *marrhê* 'useful'|
+|muoñratarh|ˈmuo̯ɴˌrætær̥|N-I|weight|CF: *êrrhatarh* 'heavy'|
+|muomjeare|ˈmuo̯mˌjeɐ̯rɛ|N-I|difficulty|CF: *mjeare* 'difficult'|
+|muomom|ˈmuo̯mɔm|N-I|ease / easiness|CF: *pâem* 'easy'|
+|muoñvoś|ˈmuo̯ɴʋɔɕ|N-I|loudness|CF: *feś* 'hard'|
+|muoħośë'|ˈmuo̯ˌħɔɕɤʔ|N-I|freshness|CF: *ħaśi'* 'fresh'|
+|moarmuñ|ˈmoɐ̯rmuɴ|N-I|strength|CF: *ârmuñ* 'strong'|
+|muźmo'|ˈmuʑmɔʔ|N-I|weakness|CF: *źmo'* 'weak'|
+|munünjin|ˈmuˌnyɲin|N-I|scarcity / rarity|CF: *yünjin* 'sparse'|
+|muoñoljoś|ˈmuo̯ɴɔʎɔɕ|N-I|speed|CF: *śeś* 'fast'|
+|muoriemüħ|ˈmuo̯ˌrie̯myħ|N-I|distance|CF: *iemh* 'faraway'<br/>CF: *erriemaofa* 'far-ly'|
+|muoddźa'|ˈmuo̯ɟɟ͡ʑæʔ|N-I|brightness|CF: *śa'* 'bright'|
 |fieñe|ˈfie̯ɴɛ|ADV|in all / in total|ORIG: all|
 |ħeffa|ˈħɛffæ|ADV|well|FROM: *ħou-afa* 'good-ly'<br/>REG: ħeffafa|
 |yirpfa|ˈɟir̥pfæ|ADV|badly|FROM: *yirper-afa* 'bad-ly'<br/>REG: yirperäfa|
@@ -220,7 +294,7 @@
 |mjearaofa|ˈmjeɐ̯ˌræo̯fæ|ADV|with difficulty<br/>hardly / barely||
 |paomafa|ˈpæo̯ˌmæfæ|ADV|with ease<br/>easily / comfortably||
 |qâuofa|ˈɢɑʊ̯ˌɔfæ|ADV|nearly / almost||
-|erriemaofa|ɛrˈrie̯mˌæo̯fæ|ADV|not at all nearly / 'farly'||
+|erriemaofa|ɛrˈrie̯mˌæo̯fæ|ADV|not at all nearly / 'farly'|CF: *muoriemüħ* 'distance'|
 |qmuśśofa|ˈɢm̥uɕˌɕɔfæ|ADV|emptily||
 |vômvofa|ˈʋomˌʋɔfæ|ADV|oldly / since long ago||
 |eteppafa|ˈɛtɛpˌpæfæ|ADV|newly / recently||
@@ -229,6 +303,10 @@
 |qoarânjofa|ˈɢoɐ̯rʌˌɲɔfæ|ADV|widely / with much room to spare||
 |qaoaffa|ˈɢæo̯ˌæffæ|ADV|initially / at first||
 |uloffa|ˈulɔfˌfæffæ|ADV|finally / lastly||
+|uruiva|ˈuruɪ̯ʋæ|ADV|sadly<br/> unfortunately|CF: *uruë* 'sad'|
+|śaxfa|ˈɕæxfæ|ADV|happily / willingly<br/> fortunately|CF: *śoħuo* 'happy'|
+|etuomva|ˈɛˌtuo̯mʋæ|ADV|again|CF: *ete'* 'new'|
+|tuffa|ˈtuffæ|ADV|truly|CF: *tu'* 'true'|
 |fśeaz|ˈfɕeɐ̯z|N-Postpos|front||
 |ljix|ˈʎix|N-Postpos|back / behind||
 |pon|ˈpɔn̥|N-Postpos|side / beside / next to||
@@ -248,14 +326,17 @@
 |vaoñ|ˈʋæo̯ɴ|N-Postpos|outside||
 |ñieñ|ˈɴie̯ɴ|N-Postpos|through / throughout / during / over||
 |ñêr|ˈɴer|N-Postpos|surrounds / around||
-|yêrh|ˈɟer̥|N-Postpos|result||
-|itfe|ˈitfɛ|N-Postpos|cause||
+|yêrh|ˈɟer̥|N-Postpos|result / intention||
+|itfe|ˈitfɛ|N-Postpos|cause / reason||
 |ao|ˈæo̯|N-Postpos|before / beginning|
 |färh|ˈfar̥|N-Postpos|after|
+|ten|ˈtɛn|N-Postpos|same (manner/likeness)|INS = like|
 |ħuom|ˈħuo̯m|CONJ|and||
 |vorhâr|ˈʋɔr̥ʌr|CONJ|or||
 |rhu|ˈr̥u|CONJ|if||
 |verh|ˈʋɛr̥|CONJ|because||
+|tso|ˈt͡ʃɔ|CONJ|but||
+|feśśaś|ˈfɛɕɕæɕ|ADV|so / thus / in this way / like this|FROM: *feś+aoś* 'like-this'|
 ## Nature and Environment
 
 |Uhhuonanjh|Pronunciation|Part of Speech|English|Miscellaneous Notes|
@@ -314,7 +395,7 @@
 |erreqqa|ɛrˈrɛɢɢæ|N-I|stone||
 |erreqqe|ɛrˈrɛɢɢɛ|N-I|pebble||
 |jêreqqa|ˈjeˌrɛɢɢæ|N-I|sand|FROM: 'jêź-reqqa' 'water-stone'|
-|xekka'|ˈxɛkkæʔ|N-A|path|esp.​ natural path||
+|xekka'|ˈxɛkkæʔ|N-I|path<br/>way / path taken|||
 |ca'icca|ˈcæʔˌiccæ|N-I|dust||
 |ħa'üccüa'|ˈħæʔycˌcyæʔ|N-I|snow|CF: *ħa'üccünjh* 'falling snow'|
 |ya'üccüa'|ˈɟæʔycˌcyæʔ|N-I|ice|CF: *ya'üccünjh* 'hail'<br/>CF: *qu'uccou* 'to freeze'|
@@ -346,6 +427,8 @@
 |Ljiħħeimonj|ˈʎiħˌħei̯mɔɲ|N-H|The Homeland ('Land of Birth')|FROM: *Ljiħħeim(ge)* 'Goddess of Creation/Birth'|
 |Qamkonj|ˈɢæm̥kɔɲ|N-H|The Homeland ('Land of Ancestors')|FROM: *qamke* '(personal) ancestor'|
 |Kuskonj|ˈkuskɔɲ|N-H|The Homeland ('Land of Plenty')|FROM: *kusko* 'plenitude'|
+|Uonjëkkouonj|ˈuo̯ɲɤkˌkou̯ɔɲ|N-H|The River Valley|FROM: *uonjë'-kou* 'cut-ACC'|
+|Vônvënjh|ˈʋonʋɤɲ̊|N-H|The River|FROM: *vônvë* 'split'|
 |Ienjeħħonj|ˈie̯ˌɲɛħħɔɲ|N-H|The Northlands|FROM: *ni-eħħa* 'night-land'<br/>CF: *niñâe* 'tundra'|
 |Yinddźaħonj|ˈɟiɲɟˌɟ͡ʑæħɔɲ|N-H|The Southlands|FROM: *yinddźo-eħħa* 'day-land'<br/>CF: *yinddźoeħħa* 'plains'|
 |Ârrhâfonj|ʌr̥ˈr̥ʌfɔɲ|N-H|The Highlands|FROM: *ârrhâem-eħħa* 'high-land'<br/>CF: *ârrhâemâe* 'highlands'|
@@ -377,14 +460,17 @@
 |tfaśśe|ˈtfæɕɕɛ|N-I|plant||
 |arrêamh|ærˈreæm̥|N-I|leaf||
 |suppa'|ˈsuppæʔ|N-I|tree bark||
+|tśeuź|ˈc͡ɕøʊ̯ʑ|N-I|tree sap<br/>tree resin|FROM: *tfaśśe-euź* 'tree-water'|
 |yêrħa|ˈɟer̥ħæ|N-I|fruit||
 |itfe|ˈitfɛ|N-I|seed||
 |ma'|ˈmæʔ|N-I|flower||
 |ye'ma'|ˈɟɛʔm̥æʔ|N-I|grass||
 |moaźlja|ˈmoɐ̯ʑʎæ|N-I|pine tree||
-|paccantśa|ˈpæcˌcæɲ̊c͡ɕæ|N-I|oak tree||
+|paccantśa|ˈpæcˌcæɲ̊c͡ɕæ|N-I|oak tree|CF: *paccanjh* 'tannin'|
 |ve'njetfe|ˈʋɛʔˌɲ̊ɛtfɛ|N-I|juniper tree||
 |jüljanjh|ˈjyʎæɲ̊|N-A|fish|
+|śâuo|ˈɕɑʊ̯ɔ|N-A|shellfish|CF: *jêddźâu* 'shell'|
+|jêddźâu|ˈjeɟɟ͡ʑɑʊ̯|N-I|shell<br/>>skull|FROM: *jê-śâuo* 'NEG-shellfish'<br/>CF *jêddźâugou* 'purple'|
 |pvaomanjh|ˈpʋæo̯mæɲ̊|N-A|bird|
 |qârränjh|ˈɢʌrraɲ̊|N-A|animal|
 |pfośśüenjh|ˈpfɔɕˌɕyɛɲ̊|N-A|albatross|
@@ -405,6 +491,9 @@
 |yeppinjenjh|ˈɟɛpˌpiɲɛɲ̊|N-A|whimper||
 |yappinjanjh|ˈɟæpˌpiɲæɲ̊|N-A|growl / bark||
 |qoppinjenjh|ˈɢɔpˌpiɲɛɲ̊|N-A|roar||
+|mettśgheña'<br/>âemtśghoña'<br/>mettśgheña'<br/>mettśiħae|ˈmɛcˌc͡ɕɣɛɴæʔ<br/>ˈɑe̯m̥ˌc͡ɕɣɔɴæʔ<br/>ˈmɛcˌc͡ɕɣɛɴæʔ<br/>ˈmɛcc͡ɕiˌħæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to squeeze||
+|ljêrêś<br/>qêśśêrêś<br/>ljêrêś<br/>ljearêśe|ˈʎereɕ<br/>ˈɢeɕˌɕereɕ<br/>ˈʎereɕ<br/>ˈʎeɐ̯ˌreɕɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to rub||
+|ljêrao<br/>qêśśêrao<br/>ljêrao<br/>ljearöe|ˈʎeræo̯<br/>ˈɢeɕˌɕeræo̯<br/>ˈʎeræo̯<br/>ˈʎeɐ̯ˌrøɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to wash||
 |quirömaś|ˈɢuɪ̯ˌrømæɕ|V|to kill (common)|CF REG: *qunjoghârömaś* (formal)|
 |qunjoghârömaś<br/>quźjëcoghârömaś<br/>qunjoghârömaś<br/>qunjoghârâaśe|ˈɢuɲɔɣʌˌrømæɕ<br/>ˈɢuʑjɤcɔɣʌˌrømæɕ<br/>ˈɢuɲɔɣʌˌrømæɕ<br/>ˈɢuɲɔɣʌrʌˌæɕɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to kill (formal)|CF: *quirömaś* (common)|
 |qu'fa'<br/>qu'fi'fa'<br/>qu'fa'<br/>qu'fae|ˈɢuʔfæʔ<br/>ˈɢuʔˌfiʔfæʔ<br/>ˈɢuʔfæʔ<br/>ˈɢuʔˌfæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to suck||
@@ -412,6 +501,8 @@
 |vônlunjh<br/>vôxfienlünjh<br/>vônlunjh<br/>vônlunjo|ˈʋonluɲ̊<br/>ˈʋoxˌfie̯nlyɲ̊<br/>ˈʋonluɲ̊<br/>ˈʋonˌluɲ̊ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to hit||
 |vouu<br/>vôxfüü<br/>vouu<br/>vouo|ˈʋou̯u<br/>ˈʋoxˌfyy<br/>ˈʋou̯u<br/>ˈʋou̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to stab||
 |vanca<br/>qêħnja<br/>vanca<br/>vanje|ˈʋæɲ̊cæ<br/>ˈɢeħɲ̊æ<br/>ˈʋæɲ̊cæ<br/>ˈʋæɲ̊ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to scratch||
+|ghâr<br/>nearghâr<br/>ghârânjof<br/>ghaoränjh|ˈɣʌr<br/>ˈneɐ̯rɣʌr<br/>ˈɣʌrʌɲɔf<br/>ˈɣæo̯raɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be tired<br/>PERF: to tire (intrans)|CAUS = to tire (trans)<br/>CF: *ghâeñ* 'to prevent'|
+|vâeoffa<br/>ümooffa<br/>vâeofnjof<br/>vâeofanjh|ˈʋɑe̯ˌɔffæ<br/>ˈymɔˌɔffæ<br/>ˈʋɑe̯ˌɔfɲ̊ɔf<br/>ˈʋɑe̯ˌɔfæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be in pain<br/>PERF: to get hurt (Participle)|CAUS = to cause pain<br/>CF: *vâeo* 'to be shocked'|
 |quttśeaâenjh|ˈɢucˌc͡ɕeɐ̯ɑe̯ɲ̊|N-A|heart||
 |xikrhänjh|ˈxikr̥aɲ̊|N-A|tongue||
 |vaoñanjh|ˈʋæo̯ɴæɲ̊|N-A|head||
@@ -459,6 +550,8 @@
 |źüśko|ˈʑyɕkɔ|N-D|noble (hexagonal) tomb|FROM: *źü* 'six'|
 |zuiśko|ˈzuɕɪ̯kɔ|N-D|royal (heptagonal) tomb|FROM: *zui* 'seven'|
 |vanħaonöri<br/>ümanħaonöri<br/>vanħonurëñqof<br/>vanħaonöriñh|ˈʋæn̥ˌħæo̯nøri<br/>ˈymæn̥ˌħæo̯nøri<br/>ˈʋæn̥ħɔˌnurɤɴɢɔf<br/>ˈʋæn̥ˌħæo̯nøriɴ̥|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to worship<br/>PERF: to praise|IMPF: belong to the cult of<br/>CF ORIG: *vaodri* 'sing'|
+|attür<br/>jêddür<br/>atturnjof<br/>atturanjh|ˈættyr<br/>ˈjeddyr<br/>ˈætˌturɲɔf<br/>ˈætˌturæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be dedicated/loyal to<br/>PERF: to dedicate/swear allegiance to|CF: *atturgo* 'dedication'|
+|atturgo|ˈætˌturgɔ|N-D|dedication (to a deity)|FROM: *attür* 'to dedicate'<br/>CF: *turomh* 'loyal'<br/>CF: *atturum* 'fealty'|
 |ghâudokko|ˈɣɑʊ̯ˌdɔkkɔ|N-D|deity<br/>pantheon||
 |Vaśnjoqquoggo|ˈʋæɕɲ̊ɔɢˌɢuo̯ggɔ|N-D|The Pair of the Sky (Ienjaoge and Yinddźaoge)|FROM: 'sky-dual'|
 |Ienjaoge|ˈie̯ˌɲæo̯gɛ|N-D|God of the Night|FROM: 'night'|
@@ -473,8 +566,8 @@
 |Vaoñdvikke|ˈʋæo̯ɴˌdʋikkɛ|N-D|Goddess of Travels/Knowledge/The Living World|FROM: 'road'|
 |Ljaearmikke|ˈʎæeɐ̯ˌrmikkɛ|N-D|Goddess of the Dead/Ancestors/The Spirit World|FROM: 'ancestor-help'|
 |Esakkxikke|ˈɛsækˌkxikkɛ|N-D|The Trio of Cycles (Ljiħħeimge, Qunljarge and Jêñghakke)|FROM: 'cycle-plur'|
-|Ljiħħeimge|ˈʎiħˌħei̯mgɛ|N-D|Goddess of Creation/Birth||
-|Qunljarge|ˈɢuɲˌʎærgɛ|N-D|God of Destruction/War|FROM: 'fight'|
+|Ljiħħeimge|ˈʎiħˌħei̯mgɛ|N-D|Goddess of Creation/Birth/Health||
+|Qunljarge|ˈɢuɲˌʎærgɛ|N-D|God of Destruction/War/Disease|FROM: 'fight'|
 |Jêñghakke|ˈjeɴˌɣækkɛ|N-D|The Watcher/The Balancer/The Judge|FROM: 'see'|
 |Vônjoutśko|ˈʋoˌɲou̯c͡ɕkɔ|N-D|The Frost Bird|REG: vônjoubuħośko|
 |Ħanjmitśko|ˈħæɲ̊ˌm̥ic͡ɕkɔ|N-D|The Flame Bird|REG: ħanjmipüħośko|
@@ -483,16 +576,21 @@
 |Ghâeñoyattśko|ˈɣɑe̯ɴɔˌɟæcc͡ɕkɔ|N-D|The Mountain Bird|REG: ghâeñoyappuħośko|
 |Vaśnjaontśko|ˈʋæɕˌɲ̊æo̯ɲ̊c͡ɕkɔ|N-D|The Mother Bird||
 |vôŕmosko|ˈʋoˌɹmɔskɔ|N-D|mammoth (legendary animal)||
-|caśikke|ˈcæɕˌikkɛ|N-D|enchanted bone||
-|ghu'iegge|ˈɣuʔˌie̯ggɛ|N-D|purifying honey||
 |yiźmärrhänjh|ˈɟiʑˌmar̥r̥aɲ̊|N-A|idol / holy sculpture||
-|vaśśüge|ˈʋæɕˌɕygɛ|N-D|period / cleansing||
 |ljakke|ˈʎækkɛ|N-D|ancestor (general)|CF *qamke* 'ancestor (personal)'|
+|faondva<br/>ümaondva<br/>faondva<br/>faondvae|ˈfæo̯ndʋæ<br/>ˈyˌmæo̯dnʋæ<br/>ˈfæo̯ndʋæ<br/>ˈfæo̯nˌdʋæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to celebrate / carouse|CF: *faondvikke* 'revelry'|
+|vôñolja<br/>vôxfieñelja<br/>vôośnjof<br/>vôośanjh|ˈʋoɴɔʎæ<br/>ˈʋoxˌfie̯ɴɛʎæ<br/>ˈʋoˌɔɕɲ̊ɔf<br/>ˈʋoˌɔɕæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to play music|CF: *vôñoljikke* 'music'|
+|mama<br/>âemcma<br/>mamancef<br/>mamanjh|ˈmæʔm̥æ<br/>ˈɑe̯m̥cm̥æ<br/>ˈmæˌm̥æɲ̊cɛf<br/>ˈmæm̥æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to dance|CF: *ma'mikke* 'dance'|
+|fâendvuś<br/>ümaondvüś<br/>fâendvuśnjof<br/>fâendvuśanjh|ˈfɑe̯ndʋuɕ<br/>ˈyˌmæo̯ndʋyɕ<br/>ˈfɑe̯nˌdʋuɕɲ̊ɔf<br/>ˈfɑe̯nˌdʋuɕæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to enjoy / to have fun||
 |Vae Rhüge|ˈʋæɛ ˈr̥ygɛ|N-D|The First Melt|celebration at the start of spring|
 |Vae Yêrrhâugo|ˈʋæɛ ˈɟer̥r̥ɑʊ̯gɔ|N-D|The First Harvest|celebration at the start of autumn|
 |Ulfärh Yêrrhâugo|ˈulfar̥ ˈɟer̥r̥ɑʊ̯gɔ|N-D|The Final Harvest|celebration at the end of autumn|
 |rhüźaindükke|ˈr̥yʑæɪ̯nˌdykkɛ|N-H|spring messenger||
 |ħanħaśke|ˈħæn̥ˌħæɕkɛ|N-D|incense<br/> smell of incense|used for any aromatic/odorous fume, including cannabis<br/>FROM *ħanħaśxanjh* 'smoke'<br/>CF: *ħanśanjh* 'odour'|
+|vômdo|ˈʋomdɔ|N-I|feast||
+|faondvikke|ˈfæo̯nˌʋikkɛ|N-D|festival<br/>revelry|FROM: *faondva* 'to celebrate'|
+|vôñoljikke|ˈʋoɴɔˌʎikkɛ|N-D|music|FROM: *vôñolja* 'to play music'|
+|ma'mikke|ˈmæʔˌm̥ikkɛ|N-D|dance|FROM: *ma'ma* 'to dance'|
 ## Food and Agriculture
 
 |Uhhuonanjh|Pronunciation|Part of Speech|English|Miscellaneous Notes|
@@ -562,6 +660,7 @@
 |ma'maoi|ˈmæʔˌm̥æo̯i|N-I|goat pasture|
 |voazzuoźñë|ˈʋoɐ̯zˌzuo̯ʑɴɤ|N-I|bee hive|REG: ârrhoazzuoźñë<br/>FROM: *voaźñonjh* 'bee'|
 |fimtśanjh|ˈfim̥c͡ɕæɲ̊|N-A|dog|
+|viźo<br/>ünmiźo<br/>viźaonjef<br/>viźaoanjh|ˈʋiʑɔ<br/>ˈyˌnmiʑɔ<br/>ˈʋiˌʑæo̯ɲɛf<br/>ˈʋiˌʑæo̯æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be spoilt<br/>PERF: to spoil / rot||
 |ħanħaś|ˈħæn̥ħæɕ|V|to smoke (food)|FROM: *ħanħaśxanjh* 'smoke'|
 |emrö|ˈɛmrø|V|to boil (trans)||
 |cerh|ˈcɛr̥|V|to grind / mill / crush||
@@ -581,6 +680,7 @@
 |tfuolj|ˈtfuo̯ʎ|N-I|fork||
 |tfuonulj|ˈtfuo̯nuʎ|N-I|knife||
 |ârâu|ˈʌrɑʊ̯|N-I|spoon||
+|fiśśêr|ˈfiɕɕer|N-I|drying rack|fisôr|ˈfissɘːr|
 |ñieña|ˈɴie̯ɴæ|N-I|meat (to eat)||
 |eama|ˈeɐ̯mæ|N-I|egg||
 |meccieźya|ˈmɛcˌcie̯ʑɟæ|N-I|salt||
@@ -589,7 +689,7 @@
 |rhe'rhe'a|ˈr̥ɛʔˌr̥ɛʔæ|N-I|ground chilli||
 |arraźbe'a|ærˈræʑˌbɛʔæ|N-I|olive oil||
 |quttśia|ˈɢucˌc͡ɕiæ|N-I|drinking water||
-|emreuź|ˈɛmrøʊ̯ʑ|N-I|boiling water||
+|emreuź|ˈɛmrøʊ̯ʑ|N-I|boiling water<br/>boiled water||
 |yampia|ˈɟæm̥ˌpiæ|N-I|milk (human and animal)||
 |püañh|ˈpyæɴ̥|N-I|meat stew||
 |jereamañh|ˈjɛˌreɐ̯mæɴ̥|N-I|vegetable soup||
@@ -603,6 +703,30 @@
 |rhätso|ˈr̥at͡ʃɔ|N-I|cheese||
 |qu'ñë<br/>qu'fi'ñi<br/>qu'ñë<br/>qu'ñiñe|ˈɢuʔɴ̥ɤ<br/>ˈɢuʔˌfiʔɴ̥i<br/>ˈɢuʔɴ̥ɤ<br/>ˈɢuʔˌɴ̥iɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to swell||
 |vafnjaanjh<br/>ündvenjanjh<br/>vafnja'njef<br/>vafnjaanjh|ˈʋæfˌɲ̊ææɲ̊<br/>ˈynˌdʋɛɲ̊æɲ̊<br/>ˈʋæfˌɲ̊æʔɲ̊ɛf<br/>ˈʋæfˌɲ̊ææɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be sick<br/>PERF: to vomit|REG: vatfnjaanjh|
+|fiŕe<br/>ünmiŕe<br/>fiŕe'njef<br/>fiŕeanjh|ˈfiɹɛ<br/>ˈyˌnmiɹɛ<br/>ˈfiˌɹɛʔɲ̊ɛf<br/>ˈfiˌɹɛæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be healthy<br/>PERF: to heal||
+|tfuovnu<br/>jêtfuovnu<br/>tfuovnu'njof<br/>tfuovnuanjh|ˈtfuo̯ʋnu<br/>ˈjeˌtfuo̯ʋnu<br/>ˈtfuo̯ʋˌnuʔɲ̊ɔf<br/>ˈtfuo̯ʋˌnuæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be safe<br/>PERF: to find shelter||
+|pfapfanjh<br/>jêmvapfanjh<br/>pfapfanjh<br/>pfapfanje|ˈpfæpfæɲ̊<br/>ˈjemˌʋæpfæɲ̊<br/>ˈpfæpfæɲ̊<br/>ˈpfæˌpfæɲ̊ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to sneeze|REG: pfatfanjh (changed by dissimilation w/ ħfatfanjh)|
+|ħfakfanjh<br/>ighaomakfanjh<br/>ħfakfanjh<br/>ħfakfanje|ˈħfækfæɲ̊<br/>ˈiɣæo̯ˌmækfæɲ̊<br/>ˈħfækfæɲ̊<br/>ˈħfæˌkfæɲ̊ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to cough|REG: ħfatfanjh (changed by dissimilation w/ pfatfanjh)|
+|gharhqâu<br/>qêxxarhqâu<br/>gharhqâu<br/>gharhqâuo|ˈɣær̥ɢɑʊ̯<br/>ˈɢexˌxær̥ɢɑʊ̯<br/>ˈɣær̥ɢɑʊ̯<br/>ˈɣær̥ˌɢɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to bring to life<br/>to energise|FROM: *gharh* 'alive/lively'|
+|vaśśüge|ˈʋæɕˌɕygɛ|V|to cleanse / purify|FROM: *vaśśüge* 'cleansing / period'|
+|vaśśüge|ˈʋæɕˌɕygɛ|N-D|period / cleansing|FROM: *vaś(ke)-euź* 'moon-water'|
+|tfuovnu|ˈtfuo̯ʋnu|N-I|safety|FROM: *tfuovnu* 'to be safe'<br/>CF: *tfuovo'* 'shelter'|
+|fiŕin|ˈfiɹin|N-H|healer|FROM: *fiŕe* 'to heal'|
+|ljêrêśke|ˈʎeˌreɕkɛ|N-D|(medicinal) ointment|FROM: *ljêrêś* 'to rub'|
+|ma'rheuźge|ˈmæʔˌr̥øʊ̯ʑgɛ|N-D|(medicinal) drink / potion|FROM: *ma'reuź* 'tea'|
+|ma'rheuź|ˈmæʔr̥øʊ̯ʑ|N-I|tea|FROM: *ma'-emreuź* 'flower-boiled.​water'|
+|caśikke|ˈcæɕˌikkɛ|N-D|enchanted bone||
+|ghu'iegge|ˈɣuʔˌie̯ggɛ|N-D|purifying honey||
+|tsurë|ˈt͡ʃurɤ|N-I|garlic|
+|tsurma'|ˈt͡ʃurmæʔ|N-I|garlic plant|
+|caśśpa'|ˈcæɕɕpæʔ|N-I|cinnamon|CF: *suppa'* 'tree bark' |
+|caśśpattśa|ˈcæɕˈɕpæcc͡ɕæ|N-I|cinnamon tree|
+|murveuź|ˈmurʋøʊ̯ʑ|N-I|myrrh|CF: *tśeuź* 'resin'|
+|mureftśa|ˈmuˌrɛfc͡ɕæ|N-I|myrrh tree|
+|uruzqâugou|ˈuruzˌɢɑʊ̯gou̯|ADJ|blind|FROM: *uruzqâu* 'to darken'|
+|âumuzqâugou|ɑʊ̯ˈmuzˌɢɑʊ̯gou̯|ADJ|deaf|FROM: *âumuzqâu* 'to soften'|
+|yümömê|ˈɟymøme|ADJ|dumb / mute|FROM: *i-ulompë* 'not-wise'|
+|gharh|ˈɣær̥|ADJ|alive<br/>lively|CF: *gharke* 'life'|
 ## People and Society
 
 |Uhhuonanjh|Pronunciation|Part of Speech|English|Miscellaneous Notes|
@@ -612,13 +736,30 @@
 |ghomonj|ˈɣɔmɔɲ|N-H|woman||
 |komponj|ˈkɔm̥pɔɲ|N-H|man (common)|CF REG *ko'amponj*|
 |ko'amponj|ˈkɔʔˌæm̥pɔɲ|N-H|man (formal)||
-|cfärrhânj|ˈcfar̥r̥ʌɲ|N-H|child|REG: yarhfärrhânj<br/>CF: *yerrhenj* 'baby'|
+|cfärrhânj|ˈcfar̥r̥ʌɲ|N-H|child|both general & specific<br/>REG: yarhfärrhânj<br/>CF: *yerrhenj* 'baby'|
 |yerrhenj|ˈɟɛr̥r̥ɛɲ|N-H|baby||
 |yaśtanj|ˈɟæɕtæɲ|N-H|friend|FROM: *yaśta* 'friendly'|
+|ulompënj|ˈulɔm̥pɤɲ|N-H|elder / wise person|FROM: *ulompë* 'wise'|
+|uruum|ˈuruum|N-H|sadness|CF: *uruë* 'sad'|
+|śoħum|ˈɕɔħum|N-H|happiness|CF: *śoħuo* 'happy'|
+|tfâemâego|ˈtfɑe̯ˌmɑe̯gɔ|N-D|tranquility / calmness|CF: *tfâemo* 'calm'|
+|muoñoumë|ˈmuo̯ˌɴou̯mɤ|N-I|agitation / jumpiness|CF: *iħħöni* 'agitated'|
+|muneure|ˈmuˌnøʊ̯rɛ|N-I|strangeness / foreignness|CF: *yeure* 'strange'|
+|tukko|ˈtukkɔ|N-D|trueness / veracity|CF: *tu'* 'true'|
+|tutto|ˈtuttɔ|N-I|truth / fact|CF: *tu'* 'true'|
+|âumuźonj|ɑʊ̯ˈmuʑɔɲ|N-H|care|CF: *âumuź* 'soft'|
+|mâeħâugo|ˈmɑe̯ˌħɑʊ̯gɔ|N-D|beauty|CF: *moħâu* 'beautiful'|
+|murgo|ˈmurgɔ|N-D|ugliness|CF: *murë* 'ugly'|
+|muomikke|ˈmuo̯ˌmikkɛ|N-D|fertility|CF: *ma'ma'* 'fertile'|
+|muogźa|ˈmuo̯gʑæ|N-I|skillfulness / ability|CF: *kiśśa* 'skillful'|
+|muijomh|ˈmuɪ̯jɔm̥|N-I|pride|CF: *gheħħemh* 'proud'|
+|moarâljë'|ˈmoɐ̯rʌʎɤʔ|N-I|might|CF: *arralji'* 'mighty'|
+|muikke|ˈmuˌikkɛ|N-D|greatness / magnificence|CF: *yikkiś* 'great'|
 |gheħħemh|ˈɣɛħħɛm̥|ADJ|proud||
 |arralji'|ærˈræʎiʔ|ADJ|mighty||
 |aśśo|ˈæɕɕɔ|ADJ|smug||
 |yikkiś|ˈɟikkiɕ|ADJ|great / magnificent||
+|yikkemh|ˈɟikkɛm̥|ADJ|noble / 'upper class'|FROM: *yikkiś* 'great'|
 |pefśe|ˈpɛfɕɛ|ADJ|humble||
 |yaśta|ˈɟæɕtæ|ADJ|friendly / amicable||
 |ħouźo|ˈħou̯ʑɔ|ADJ|good-natured|CF: *ħou* 'good'|
@@ -628,6 +769,21 @@
 |ulokku|ˈulɔkku|ADJ|rich|FROM: *ulo-ku'* 'with-much'|
 |ulârrhâ|ˈulʌr̥r̥ʌ|ADJ|poor|FROM: *ulo-xê* 'with-little'|
 |ulompë|ˈulɔm̥pɤ|ADJ|wise (lit.​ with wisdom)||
+|uruë|uˈruɤ|ADJ|sad|CF: *uruum* 'sadness'|
+|śoħuo|ˈɕɔħuo̯|ADJ|happy|CF: *śoħum* 'happiness'|
+|tfâemo|ˈtfɑe̯mɔ|ADJ|calm|CF: *tfâemâego* 'calmness'|
+|iħħöni|ˈiħˌħøni|ADJ|agitated|CF: *muoñoumë* 'agitation'|
+|yeure|ˈɟøʊ̯rɛ|ADJ|strange / foreign|CF: *muneure* 'strangeness'|
+|moħâu|ˈmɔħɑʊ̯|ADJ|beautiful|CF: *mâeħâugo* 'beauty'|
+|murë|ˈmurɤ|ADJ|ugly|CF: *murgo* 'ugliness'|
+|fasa|ˈfæsæ|ADJ|comfortable||
+|yümasa|ˈɟyˌmæsæ|ADJ|uncomfortable||
+|ma'ma'|ˈmæʔm̥æʔ|ADJ|fertile|CF: *muomikke* 'fertility'|
+|yamma'|ˈɟæm̥m̥æʔ|ADJ|infertile||
+|kiśśa|ˈkiɕɕæ|ADJ|skillful / capable / able|CF: *muogźa* 'skillfulness'|
+|jêgźa|ˈjegʑæ|ADJ|clumsy / incapable||
+|turomh|ˈturɔm̥|ADJ|loyal|CF: *turmikke* 'loyalty'<br/>CF: *atturum* 'fealty'|
+|cfärrhâ|ˈcfar̥r̥ʌ|ADJ|childish / puerile<br/>child-like|no neg.​ connot.​ when used for children<br/>back-formed FROM: *cfärrhânj* 'child'|
 |frhiffa|ˈfr̥iffæ|ADV|strangely||
 |ârrônjofa|ʌrˈroɲɔˌɣɔfæ|ADV|powerfully||
 |arraljippafa|ærˈræʎipˌpæfæ|ADV|mightily||
@@ -638,6 +794,8 @@
 |loħħanħaoafa|ˈlɔħħæn̥ˌħæo̯æfæ|ADV|angrily||
 |ulompofa|ˈulɔm̥ˌpɔfæ|ADV|wisely||
 |quo'oñqoñ|ˈɢuo̯ˌʔɔɴɢɔɲ|V|IMPF: to be married<br/>PERF: to marry|FROM *quo'onj* 'married couple'|
+|ljantür<br/>qêśśantür<br/>ljantür<br/>ljanturo|ˈʎæn̥tyr<br/>ˈɢeɕˌɕæn̥tyr<br/>ˈʎæn̥tyr<br/>ˈʎæn̥ˌturɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to pass down||
+|ljanjom<br/>qêśśanjom<br/>ljanjom<br/>ljanjaoe|ˈʎæɲ̊ɔm<br/>ˈɢeɕˌɕæɲ̊ɔm<br/>ˈʎæɲ̊ɔm<br/>ˈʎæɲ̊ˌæo̯ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to inherit||
 |quo'onj|ˈɢuo̯ʔɔɲ|N-H.​d|married couple|FROM *quonj-onj* 'two-person'|
 |vaxxonj|ˈʋæxxɔɲ|N-H|wife||
 |źimqonj|ˈʑim̥ɢɔɲ|N-H|husband||
@@ -654,14 +812,14 @@
 |ħumqamponj|ˈħumˌɢæm̥pɔɲ|N-H|family/clan member|FROM: *ħum-qamke-onj* 'from-ancestor-person'|
 |ħumqampaonyex|ˈħumɢæm̥ˌpao̯ɲɟɛx|N-H.​pl|(extended) family / clan||
 |uljerhfârh|ˈuʎɛr̥fʌr̥|ADJ|pregnant|FROM: *ulo-yerhfärrhânj* 'with-baby'|
-|mettśgheña'<br/>âemtśghoña'<br/>mettśgheña'<br/>mettśiħae|ˈmɛcˌc͡ɕɣɛɴæʔ<br/>ˈɑe̯m̥ˌc͡ɕɣɔɴæʔ<br/>ˈmɛcˌc͡ɕɣɛɴæʔ<br/>ˈmɛcc͡ɕiˌħæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to squeeze||
-|ljêrêś<br/>qêśśêrêś<br/>ljêrêś<br/>ljearêśe|ˈʎereɕ<br/>ˈɢeɕˌɕereɕ<br/>ˈʎereɕ<br/>ˈʎeɐ̯ˌreɕɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to rub||
-|ljêrao<br/>qêśśêrao<br/>ljêrao<br/>ljearöe|ˈʎeræo̯<br/>ˈɢeɕˌɕeræo̯<br/>ˈʎeræo̯<br/>ˈʎeɐ̯ˌrøɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to wash||
-|ljin<br/>qêśśin<br/>ljin<br/>ljienje|ˈʎin<br/>ˈɢeɕɕin<br/>ˈʎin<br/>ˈʎie̯ɲɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to wipe||
 |quljo<br/>quźjüme<br/>quljnjof<br/>quljonjh|ˈɢuʎɔ<br/>ˈɢuʑˌjymɛ<br/>ˈɢuʎɲɔf<br/>ˈɢuʎɔɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to lack / be missing (trans)<br/>PERF: to lose / misplace|PASS = to be/get lost||
+|vaonya<br/>qêħħaonya<br/>vaonya<br/>vaonyae|ˈʋæo̯ɲɟæ<br/>ˈɢeħˌħæo̯ɲɟæ<br/>ˈʋæo̯ɲɟæ<br/>ˈʋæo̯ɲˌɟæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to mark||
+|vaonvra<br/>qêħħaonvra<br/>vaonvra<br/>vaonvrae|ˈʋæo̯nʋræ<br/>ˈɢeħˌħæo̯nʋræ<br/>ˈʋæo̯nʋræ<br/>ˈʋæo̯nˌʋræɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to draw||
+|fxuntu<br/>eumênü<br/>fxuntu<br/>fxuntuño|ˈfxun̥tu<br/>ˈøʊ̯meny<br/>ˈfxun̥tu<br/>ˈfxun̥ˌtuɴɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to borrow||
 |yêre<br/>yiźêre<br/>yearef<br/>yearanjh|ˈɟerɛ<br/>ˈɟiˌʑerɛ<br/>ˈɟeɐ̯rɛf<br/>ˈɟeɐ̯ræɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to agree|GEN: thing agreed upon<br/>DAT: person agreed with<br/>CF REG: *yêre (yearainjef)* 'to follow'|
 |yaorüm<br/>yaiörüm<br/>yaorüm<br/>yaoruomo|ˈɟæo̯rym<br/>ˈɟæɪ̯ørym<br/>ˈɟæo̯rym<br/>ˈɟæo̯ˌruo̯mɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to disagree|GEN: thing disagreed upon<br/>DAT: person disagreed with||
 |püvoħ<br/>jêmvoħ<br/>püvoħ<br/>piffaħe|ˈpyʋɔħ<br/>ˈjemʋɔħ<br/>ˈpyʋɔħ<br/>ˈpifˌfæħɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to argue|GEN: thing argued over<br/>DAT: person argued with||
+|kxâudvui<br/>jêñghâudvui<br/>kxâudvui<br/>kxâudvuio|ˈkxɑʊ̯dʋuɪ̯<br/>ˈjeɴˌɣɑʊ̯dʋuɪ̯<br/>ˈkxɑʊ̯dʋuɪ̯<br/>ˈkxɑʊ̯ˌdʋuɪ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to warn||
 |ñärrhör<br/>âeñrhoar<br/>ñärrhör<br/>ñärrhoarâ|ˈɴar̥r̥ør<br/>ˈɑe̯ɴ̥r̥oɐ̯r<br/>ˈɴar̥r̥ør<br/>ˈɴar̥ˌr̥oɐ̯rʌ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to meet||
 |va'fonj<br/>üma'fonj<br/>va'fonj<br/>va'faonje|ˈʋæʔfɔɲ<br/>ˈyˌmæʔfɔɲ<br/>ˈʋæʔfɔɲ<br/>ˈʋæʔˌfæo̯ɲɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to shout||
 |yatfa<br/>yatfa<br/>yaftnjef<br/>yaftanjh|ˈɟætfæ<br/>ˈɟætfæ<br/>ˈɟæftɲ̊ɛf<br/>ˈɟæftæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF:to be amused<br/>PERF: to laugh|CAUS = to amuse<br/>NEG.​PART commonly rep'd with reg.​ quyatfa||
@@ -671,7 +829,7 @@
 |poarânj|ˈpoɐ̯rʌɲ|N-H|name||
 |poarâkko|ˈpoɐ̯ˌrʌkkɔ|N-D|ruler name (extra name chosen by ruler)||
 |vaħħeinanjh|ˈʋæħˌħei̯næɲ̊|N-A|argument||
-|zuomanjh|ˈzuo̯mæɲ̊|N-A|speech / voice / words||
+|zuomanjh|ˈzuo̯mæɲ̊|N-A|speech / voice / words|words is sing.​ unless there are multiple 'speeches'|
 |zuomum|ˈzuo̯mum|N-H|orator||
 |zuñgo|ˈzuɴgɔ|N-D|eulogy|FROM: *zuom* 'words'|
 |ljandünj|ˈʎæɲdyɲ|N-H|messenger|
@@ -692,22 +850,43 @@
 |erriemvaonj|ɛrˈrie̯mʋæo̯ɲ|N-H|outpost / colony|FROM: 'far + camp'|
 |yiŕea<br/>yiźiŕea<br/>yiŕea<br/>yiŕâeo|ˈɟiɹeɐ̯<br/>ˈɟiˌʑiɹeɐ̯<br/>ˈɟiɹeɐ̯<br/>ˈɟiˌɹɑe̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to arrange / organise||
 |qa'rhäħħonj|ˈɢæʔˌr̥aħħɔɲ|N-H|team||
-|meħħaonjonj|ˈmɛħˌħæo̯ɲɔɲ|N-H|camp||
-|qu'njonj|ˈɢuʔɲ̊ɔɲ|N-H|settlement||
-|yeħħonj|ˈɟɛħħɔɲ|N-H|territory|land claimed by a state/tribe<br/>FROM: *yeħħa* 'land'|
 |uħħuononj|ˈuħˌħuo̯nɔɲ|N-H|tribe / group||
 |uħħuonanjh|ˈuħˌħuo̯næɲ̊|N-A|tribal/common language||
+|meħħaonjonj|ˈmɛħˌħæo̯ɲɔɲ|N-H|camp||
+|yeħħonj|ˈɟɛħħɔɲ|N-H|territory<br/>land / region|land claimed by a *state/tribe* or with a boundary<br/>FROM: *yeħħa* 'land'|
+|vakkuoñanj|ˈʋækˌkuo̯ɴæɲ|N-H|domain / territory|land ruled by a ruler/authority<br/>FROM: *vakkênj-ñaħ* 'king-place'|
+|qu'njonj|ˈɢuʔɲ̊ɔɲ|N-H|settlement||
+|oionj|ˈɤɪ̯ɔɲ|N-H|town||
+|âuvghënj|ˈɑʊ̯ʋɣɤɲ|N-H|city||
+|tfuovo'|ˈtfuo̯ʋɔʔ|N-I|shelter<br/>haven / harbour|CF: *tfuovnu* 'safety'|
+|śâeño'<br/>jênljaoñe'<br/>śâeño'<br/>śaoee|ˈɕɑe̯ɴɔʔ<br/>ˈjeɲˌʎæo̯ɴɛʔ<br/>ˈɕɑe̯ɴɔʔ<br/>ˈɕæo̯ˌɛɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to enslave||
+|śâermë<br/>jênljaormê<br/>śâermë<br/>śaormieñe|ˈɕɑe̯rmɤ<br/>ˈjeɲˌʎæo̯rme<br/>ˈɕɑe̯rmɤ<br/>ˈɕæo̯rˌmie̯ɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to free / liberate||
+|a'muk|ˈæʔm̥uk|V|to be/get into debt|
+|a'muñ-ñuo|ˈæʔm̥uɴˌɴuo̯|V|to perform a duty<br/>to repay debt|FROM: *a'muk-ñuo* 'debt-work'|
+|vakkêñ-ñuo|ˈʋækkeɴˌɴuo̯|V|to rule as a king|FROM: *vakkênj* 'king'|
 |Fieggeħħuogo|ˈfie̯ggɛħˌħuo̯gɔ|N-D|the Central Kingdom||
 |Vottuogo|ˈʋɔtˌtuo̯gɔ|N-D|king (of the Central Kingdom)||
+|vâeâemënj|ˈʋɑe̯ˌɑe̯mɤɲ|N-H|capital city||
 |vaħħonj|ˈʋæħħɔɲ|N-H|elder / senior||
 |vakkeħħonj|ˈʋækˌkɛħħɔɲ|N-H|kingdom||
 |vakkênj|ˈʋækkeɲ|N-H|king||
+|âenonj|ˈɑe̯nɔɲ|N-H|master / boss||
+|kuinjum|ˈkuɪ̯ɲum|N-H|guard||
+|eppenjh|ˈɛppɛɲ̊|N-A|slave||
+|jêñghappin|ˈjeɴˌɣæppin|N-H|judge / mediator|FROM: *Jêñghakke* 'The Judge (deity)'|
+|a'mukko|ˈæʔˌm̥ukkɔ|N-D|duty / obligation<br/>debt||
+|turmikke|ˈturˌmikkɛ|N-D|loyalty|CF: *turomh* 'loyal'|
+|atturum|ˈætˌturum|N-H|fealty / allegiance|CF: *turomh* 'loyal'<br/>CF: *atturgo* 'dedication (to a god)'|
+|jêñghakkuolgo|ˈjeɴɣækˌkuo̯lgɔ|N-D|justice / balance|CF: *jêñghappin* 'judge'|
 |ljyzötênj|ˈʎyzøteɲ|N-H|Shch.​ king|FROM: Shch.​ /ˈlivʐoʈe/|
 |Sêtsaoeren|seˈt͡ʃæo̯ˌɛrɛn|N-H|Shechageghern language/people|FROM: *Shechageghern /ʂeˈʈ͡ʂageɣeɳ/* (endonym)|
 |sighegäxom|siˈɣegaxom|N-I|astronomy|FROM: Shch.​ /ʂiˈɣegaxom/|
 |xidmê|ˈxidme|N-I|accounting|FROM: Shch.​ /ˈhidme/|
+|mâezuk<br/>âempâezuk<br/>mâezuk<br/>mâezuko|ˈmɑe̯zuk<br/>ˈɑe̯m̥ˌpɑe̯zuk<br/>ˈmɑe̯zuk<br/>ˈmɑe̯ˌzukɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to trade in X<br/>PERF: to trade||
 |ħârpë<br/>ienjâerpë<br/>ħârpuoñof<br/>ħârpëñ|ˈħʌr̥pɤ<br/>ˈie̯ˌɲɑe̯r̥pɤ<br/>ˈħʌr̥ˌpuo̯ɴɔf<br/>ˈħʌr̥pɤɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be prosperous<br/>PERF: to prosper||
 |elljeñi|ɛʎˈʎɛɲ̊i|V|to sell|FROM: Shch.​ /ˈɣlɛŋki/|
+|uorâu|ˈuo̯rɑʊ̯|N-I|(trade) goods||
+|müaodvonj|ˈmyˌæo̯dʋɔɲ|N-H|central square / market||
 |suozaz|ˈsuo̯zæz|N-I|value / price|FROM: Shch.​ /ˈʂuʐaʐ/|
 |vaodri<br/>ümaodri<br/>vodrëñqof<br/>vaodriñh|ˈʋæo̯dri<br/>ˈyˌmæo̯dri<br/>ˈʋɔˌdrɤɴɢɔf<br/>ˈʋæo̯driɴ̥|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to sing|IMPF default<br/>CF REG: *vanħaonöri* '> praise'|
 |venmenjh<br/>nünjmenjh<br/>venjmencef<br/>venjmenjh|ˈʋɛn̥m̥ɛɲ̊<br/>ˈnyɲ̊m̥ɛɲ̊<br/>ˈʋɛɲ̊ˌm̥ɛɲ̊cɛf<br/>ˈʋɛɲ̊m̥ɛɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to play (game)|IMPF default||
@@ -716,6 +895,7 @@
 |ħanjmo<br/>ighenjempo<br/>ħanjmo<br/>ħanjmaoñe|ˈħæɲ̊m̥ɔ<br/>ˈiɣɛˌɲɛm̥pɔ<br/>ˈħæɲ̊m̥ɔ<br/>ˈħæɲ̊ˌm̥æo̯ɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to set on fire|FROM: *ħanjm(anjh)* 'fire'|
 |qamfonj<br/>jêqamfonj<br/>qamfonj<br/>qamfaonje|ˈɢæm̥fɔɲ<br/>ˈjeˌɢæm̥fɔɲ<br/>ˈɢæm̥fɔɲ<br/>ˈɢæm̥ˌfæo̯ɲɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to entreat (one's ancestors)||
 |qompi'fênj<br/>jêñempi'fênj<br/>qompi'fênj<br/>qompë'fuonjo|ˈɢɔm̥ˌpiʔfeɲ<br/>ˈjeɴɛm̥ˌpiʔfeɲ<br/>ˈɢɔm̥ˌpiʔfeɲ<br/>ˈɢɔm̥pɤʔˌfuo̯ɲɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to shout a battlecry||
+|xuorva<br/>jêñghuorva<br/>xuorva<br/>xuorvae|ˈxuo̯rʋæ<br/>ˈjeɴˌɣuo̯rʋæ<br/>ˈxuo̯rʋæ<br/>ˈxuo̯rˌʋæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to scout / explore||
 |vôonj<br/>vôxfionj<br/>vôonj<br/>vôâenjo|ˈʋoɔɲ<br/>ˈʋoxˌfiɔɲ<br/>ˈʋoɔɲ<br/>ˈʋoˌɑe̯ɲɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to defeat||
 |vôlljonj<br/>vôxfielljonj<br/>vôlljonj<br/>vôlljonjo|ˈʋoʎʎɔɲ<br/>ˈʋoxˌfie̯ʎʎɔɲ<br/>ˈʋoʎʎɔɲ<br/>ˈʋoʎˌʎɔɲɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to lose (a battle/game)|REG: vôggoljonj|
 |aljarni<br/>nearranji<br/>aljarni<br/>aljartiñe|æˈʎærn̥i<br/>ˈneɐ̯rˌræɲ̊i<br/>æˈʎærn̥i<br/>æˈʎærˌtiɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to give up / surrender|REG: arraljanji<br/>CF ORIG: *ljoña'* 'to give'|
@@ -741,6 +921,7 @@
 |voudvum|ˈʋou̯dʋum|N-H|spearman||
 |uonvum|ˈuo̯nʋum|N-H|axeman||
 |vônlum|ˈʋonlum|N-H|warrior wielding a club<br/>(generally) warrior||
+|xuorvonj|ˈxuo̯rʋɔɲ|N-H|scout / explorer|FROM: *xuorva* 'to scout'|
 |qunjoghu|ˈɢuɲɔɣu|N-H|battle||
 |qunnjë|ˈɢuɲɲɤ|N-H|war||
 |ljizamimêr|ʎiˈzæmimer|N-I|saddle|FROM: Shch.​ /liˈʐamimeɣ/|
@@ -776,6 +957,7 @@
 |źñârhâ|ˈʑɴʌr̥ʌ|N-I|metal tool||
 |źñârhôm|ˈʑɴʌr̥om|N-H|metalworker||
 |źñärhên|ˈʑɴar̥en|N-H|miner||
+|qaoŕiħ|ˈɢæo̯ɹiħ|N-H|gemstone||
 |rheśrhä|ˈr̥ɛɕr̥a|N-I|gold||
 |to'rhä|ˈtɔʔr̥a|N-I|copper||
 |totfrhä|ˈtɔtfr̥a|N-I|tin||
@@ -788,12 +970,18 @@
 |orrâeë|ɔrˈrɑe̯ɤ|N-I|cast||
 |errettün|ɛrˈrɛttyn|N-H|mason<br/>(generally) builder||
 |oħkum|ˈɔħkum|N-H|carpenter<br/>(generally) builder||
+|ghâuaś|ˈɣɑʊ̯æɕ|N-I|roof|FROM: *ghâeñ-vaś* 'prevent-sky'|
+|ghâeñdo|ˈɣɑe̯ɴdɔ|N-I|wall|FROM: *ghâeñ* 'to prevent'|
+|quljok|ˈɢuʎɔk|N-I|gate|CF: *quljârâ* 'to go'|
+|ca'êr|ˈcæʔer|N-I|ladder|FROM: *ca'o* 'to climb'|
 |ħuiccenjh<br/>iñêccenjh<br/>ħuiccenjh<br/>ħuëccenje|ˈħuˌiccɛɲ̊<br/>ˈiˌɴeccɛɲ̊<br/>ˈħuˌiccɛɲ̊<br/>ˈħuɤcˌcɛɲ̊ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to tie||
 |jêmdlü<br/>jêxiemdlü<br/>jêmdlü<br/>jêmdluo|ˈjemdly<br/>ˈjeˌxie̯mdly<br/>ˈjemdly<br/>ˈjemˌdluɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to make felt||
 |rhaoinjh<br/>jêmraoinjh<br/>rhaoinjh<br/>rhaoinje|ˈr̥æo̯iɲ̊<br/>ˈjemˌræo̯iɲ̊<br/>ˈr̥æo̯iɲ̊<br/>ˈr̥æo̯ˌiɲ̊ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to dye||
 |ljanśanjh<br/>qêśnśanjh<br/>ljanśancef<br/>ljanśanjh|ˈʎæɲ̊ɕæɲ̊<br/>ˈɢeɕɲ̊ɕæɲ̊<br/>ˈʎæɲ̊ˌɕæɲ̊cɛf<br/>ˈʎæɲ̊ɕæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to spin (intrans)|CAUS = to spin (trans, e.​g.​ to make yarn)|
 |indvü<br/>jêindvü<br/>indvü<br/>indvuo|ˈindʋy<br/>ˈjeˌindʋy<br/>ˈindʋy<br/>ˈinˌdʋuɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to weave||
 |ħo'iścênj<br/>iñe'iścênj<br/>ħo'iścênj<br/>ħo'ëścienje|ˈħɔʔˌiɕceɲ<br/>ˈiɴɛʔˌiɕceɲ<br/>ˈħɔʔˌiɕceɲ<br/>ˈħɔʔɤɕˌcie̯ɲɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to sew||
+|faiâu<br/>ümaiâu<br/>faiâu<br/>faiâuo|ˈfæɪ̯ɑʊ̯<br/>ˈyˌmæɪ̯ɑʊ̯<br/>ˈfæɪ̯ɑʊ̯<br/>ˈfæɪ̯ˌɑʊ̯ɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to paint|CF: *faiâuo* 'paint'|
+|quccëñ<br/>qu'ficcêñ<br/>quccëñ<br/>quttuo|ˈɢuccɤɴ<br/>ˈɢuʔˌficceɴ<br/>ˈɢuccɤɴ<br/>ˈɢutˌtuɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to tan||
 |quttampa'|ˈɢutˌtæm̥pæʔ|N-I|rope||
 |quttampâeo|ˈɢuttæm̥ˌpɑe̯ɔ|ADJ|made of rope|
 |uttë|ˈuttɤ|N-I|net||
@@ -804,9 +992,9 @@
 |undë|ˈundɤ|N-I|string / yarn (any kind)||
 |ujëś|ˈujɤɕ|N-I|cloth (any kind)||
 |vôggoś|ˈʋoggɔɕ|N-I|leather||
+|vôgglum|ˈʋogglum|N-H|tanner|CF: *vôggoś* 'leather'|
 |jêmekkeś|ˈjeˌmɛkkɛɕ|N-I|felt||
 |jêmdlün|ˈjemdlyn|N-H|feltmaker||
-|rhaoi|ˈr̥æo̯i|N-I|dye<br/>colour||
 |ljanśnjemh|ˈʎæɲ̊ɕɲ̊ɛm̥|N-A|spinning wheel (textile)||
 |indvê|ˈindʋe|N-I|loom||
 |indvüm|ˈindʋym|N-H|weaver<br/>(generally) textile worker||
@@ -816,3 +1004,13 @@
 |viñrênj|ˈʋiɴreɲ|N-H|coat||
 |nje'uśśonj|ˈɲɛʔˌuɕɕɔɲ|N-H|skirt||
 |quttśonj|ˈɢucc͡ɕɔɲ|N-H|tunic||
+|rhaoi|ˈr̥æo̯i|N-I|dye<br/>colour||
+|jêddźâugou|ˈjeɟˌɟ͡ʑɑʊ̯gou̯|N-I|purple dye<br/>purple|CF: *jêddźâu* 'shell'|
+|toprhâeë|ˈtɔpˌr̥ɑe̯ɤ|N-I|turquoise dye<br/>turquoise (colour)|FROM: *tot-rhaoi* 'turq.​dye'|
+|tottśof|ˈtɔcc͡ɕɔf|N-I|turquoise (mineral)|CF: *to'rhä* 'copper'|
+|paccanjrhaoi|ˈpæccæɲ̊ˌr̥æo̯i|N-I|crimson dye<br/>crimson|FROM: *pa'nj-rhaoi* 'crimson-dye'|
+|pa'njanjh|ˈpæʔɲ̊æɲ̊|N-A|crimson insect (kermes)|CF: *paccantśa* 'oak'|
+|paccanjh|ˈpæccæɲ̊|N-I|tannin|CF: *paccantśa* 'oak'|
+|rhaiün|ˈr̥æɪ̯yn|N-H|dyemaker|CF: *rhaoi* 'dye'|
+|rhaiin|ˈr̥æɪ̯in|N-H|dyer|CF: *rhaoi* 'dye'|
+|faiâuo|ˈfæɪ̯ˌɑʊ̯ɔ|N-I|paint||
