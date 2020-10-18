@@ -28,7 +28,7 @@ Cfärrhânj: Qâe, pumfëqoñ zuomanjh qâenj, Ulompërä'.  Qemieñef mu 
 
 *Child: Elder!  I want to go travel the world when I grow up!  I want to go everywhere and see everything, just like Lady Vaoñdvikke!*
 
-Cfärrhânj: Ulompërä'! Arrhanjh ħuomënj Yeħkix ñieñêra puoëx färhñaħ vâurmo!  Uir jêñghaf huomënj qeaħ enjêrh yikkemh Vaoñdvikkix tenêra vâur!
+Cfärrhânj: Ulompërä'! Arrhanjh ħuomënj Yeħkix ñieñêra puoëx färhñaħ vâurmo!  Uir jêñghaf huomënj qeaħenjêrh yikkemh Vaoñdvikkix tenêra vâur!
 
 Child: Wise (you)!  I intend to be travelling so much out there throughout the World after growing up!  (I) intend to go and see everywhere/thing just like Lady Vaoñdvikke!
 
