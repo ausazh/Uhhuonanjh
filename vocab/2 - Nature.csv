@@ -92,6 +92,8 @@ Yeħke,ˈɟɛħkɛ,N-D,The World,"all lands, known or unknown, in practice often
 Ljiħħeimonj,ˈʎiħˌħei̯mɔɲ,N-H,The Homeland ('Land of Birth'),FROM: *Ljiħħeim(ge)* 'Goddess of Creation/Birth'
 Qamkonj,ˈɢæm̥kɔɲ,N-H,The Homeland ('Land of Ancestors'),FROM: *qamke* '(personal) ancestor'
 Kuskonj,ˈkuskɔɲ,N-H,The Homeland ('Land of Plenty'),FROM: *kusko* 'plenitude'
+Uonjëkkouonj,ˈuo̯ɲɤkˌkou̯ɔɲ,N-H,The River Valley,FROM: *uonjë'-kou* 'cut-ACC'
+Vônvënjh,ˈʋonʋɤɲ̊,N-H,The River,FROM: *vônvë* 'split'
 Ienjeħħonj,ˈie̯ˌɲɛħħɔɲ,N-H,The Northlands,FROM: *ni-eħħa* 'night-land';CF: *niñâe* 'tundra'
 Yinddźaħonj,ˈɟiɲɟˌɟ͡ʑæħɔɲ,N-H,The Southlands,FROM: *yinddźo-eħħa* 'day-land';CF: *yinddźoeħħa* 'plains'
 Ârrhâfonj,ʌr̥ˈr̥ʌfɔɲ,N-H,The Highlands,FROM: *ârrhâem-eħħa* 'high-land';CF: *ârrhâemâe* 'highlands'
@@ -124,6 +126,7 @@ tfaśśa,ˈtfæɕɕæ,N-I,tree,
 tfaśśe,ˈtfæɕɕɛ,N-I,plant,
 arrêamh,ærˈreæm̥,N-I,leaf,
 suppa',ˈsuppæʔ,N-I,tree bark,
+tśeuź,ˈc͡ɕøʊ̯ʑ,N-I,tree sap;tree resin,FROM: *tfaśśe-euź* 'tree-water'
 yêrħa,ˈɟer̥ħæ,N-I,fruit,
 itfe,ˈitfɛ,N-I,seed,
 ma',ˈmæʔ,N-I,flower,
@@ -134,7 +137,7 @@ ve'njetfe,ˈʋɛʔˌɲ̊ɛtfɛ,N-I,juniper tree,
 
 jüljanjh,ˈjyʎæɲ̊,N-A,fish
 śâuo,ˈɕɑʊ̯ɔ,N-A,shellfish,CF: *jêddźâu* 'shell'
-jêddźâu,ˈjeɟɟ͡ʑɑʊ̯,N-I,shell,FROM: *jê-śâuo* 'NEG-shellfish';CF *jêddźâugou* 'purple'
+jêddźâu,ˈjeɟɟ͡ʑɑʊ̯,N-I,shell;>skull,FROM: *jê-śâuo* 'NEG-shellfish';CF *jêddźâugou* 'purple'
 pvaomanjh,ˈpʋæo̯mæɲ̊,N-A,bird
 qârränjh,ˈɢʌrraɲ̊,N-A,animal
 pfośśüenjh,ˈpfɔɕˌɕyɛɲ̊,N-A,albatross
@@ -156,6 +159,10 @@ yeppinjenjh,ˈɟɛpˌpiɲɛɲ̊,N-A,whimper,
 yappinjanjh,ˈɟæpˌpiɲæɲ̊,N-A,growl / bark,
 qoppinjenjh,ˈɢɔpˌpiɲɛɲ̊,N-A,roar,
 
+
+mettśgheña';âemtśghoña';mettśgheña';mettśiħae,ˈmɛcˌc͡ɕɣɛɴæʔ;ˈɑe̯m̥ˌc͡ɕɣɔɴæʔ;ˈmɛcˌc͡ɕɣɛɴæʔ;ˈmɛcc͡ɕiˌħæɛ,V-PP;V-PN;V-VP;V-VI,to squeeze,
+ljêrêś;qêśśêrêś;ljêrêś;ljearêśe,ˈʎereɕ;ˈɢeɕˌɕereɕ;ˈʎereɕ;ˈʎeɐ̯ˌreɕɛ,V-PP;V-PN;V-VP;V-VI,to rub,
+ljêrao;qêśśêrao;ljêrao;ljearöe,ˈʎeræo̯;ˈɢeɕˌɕeræo̯;ˈʎeræo̯;ˈʎeɐ̯ˌrøɛ,V-PP;V-PN;V-VP;V-VI,to wash,
 quirömaś,ˈɢuɪ̯ˌrømæɕ,V,to kill (common),CF REG: *qunjoghârömaś* (formal)
 qunjoghârömaś;quźjëcoghârömaś;qunjoghârömaś;qunjoghârâaśe,ˈɢuɲɔɣʌˌrømæɕ;ˈɢuʑjɤcɔɣʌˌrømæɕ;ˈɢuɲɔɣʌˌrømæɕ;ˈɢuɲɔɣʌrʌˌæɕɛ,V-PP;V-PN;V-VP;V-VI,to kill (formal),CF: *quirömaś* (common)
 qu'fa';qu'fi'fa';qu'fa';qu'fae,ˈɢuʔfæʔ;ˈɢuʔˌfiʔfæʔ;ˈɢuʔfæʔ;ˈɢuʔˌfæɛ,V-PP;V-PN;V-VP;V-VI,to suck,
@@ -163,6 +170,9 @@ ghu'fa';nearghu'fa';ghu'fa';ghu'fae,ˈɣuʔfæʔ;ˈneɐ̯rˌɣuʔfæʔ;ˈɣuʔf�
 vônlunjh;vôxfienlünjh;vônlunjh;vônlunjo,ˈʋonluɲ̊;ˈʋoxˌfie̯nlyɲ̊;ˈʋonluɲ̊;ˈʋonˌluɲ̊ɔ,V-PP;V-PN;V-VP;V-VI,to hit,
 vouu;vôxfüü;vouu;vouo,ˈʋou̯u;ˈʋoxˌfyy;ˈʋou̯u;ˈʋou̯ɔ,V-PP;V-PN;V-VP;V-VI,to stab,
 vanca;qêħnja;vanca;vanje,ˈʋæɲ̊cæ;ˈɢeħɲ̊æ;ˈʋæɲ̊cæ;ˈʋæɲ̊ɛ,V-PP;V-PN;V-VP;V-VI,to scratch,
+ghâr;nearghâr;ghârânjof;ghaoränjh,ˈɣʌr;ˈneɐ̯rɣʌr;ˈɣʌrʌɲɔf;ˈɣæo̯raɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to be tired;PERF: to tire (intrans),CAUS = to tire (trans);CF: *ghâeñ* 'to prevent'
+vâeoffa;ümooffa;vâeofnjof;vâeofanjh,ˈʋɑe̯ˌɔffæ;ˈymɔˌɔffæ;ˈʋɑe̯ˌɔfɲ̊ɔf;ˈʋɑe̯ˌɔfæɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to be in pain;PERF: to get hurt (Participle),CAUS = to cause pain;CF: *vâeo* 'to be shocked'
+
 
 quttśeaâenjh,ˈɢucˌc͡ɕeɐ̯ɑe̯ɲ̊,N-A,heart,
 xikrhänjh,ˈxikr̥aɲ̊,N-A,tongue,

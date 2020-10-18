@@ -1,6 +1,6 @@
 
 xea;nêre;xeañef;xeañ,ˈxeɐ̯;ˈnerɛ;ˈxeɐ̯ɴɛf;ˈxeɐ̯ɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to exist / there is;PERF: to happen / appear,REG: arrhea;ORIG: to stand;CF: *arrhea* 'status';CF: *xeagge* 'present'
-qâe;jêño;qâeñof;qâeñ,ˈɢɑe̯;ˈjeɴɔ;ˈɢɑe̯ɴɔf;ˈɢɑe̯ɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to be (copula);PERF: to become,REG: quqqo;CF: *uqqo* 'existence'
+qâe;jêño;qâeñof;qâeñ,ˈɢɑe̯;ˈjeɴɔ;ˈɢɑe̯ɴɔf;ˈɢɑe̯ɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to be (copula);PERF: to become,DAT: thing become;REG: quqqo;CF: *uqqo* 'existence'
 ħa';ighe';ħanjof;ħaonjh,ˈħæʔ;ˈiɣɛʔ;ˈħæɲ̊ɔf;ˈħæo̯ɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to have; PERF: to get,CF REG: *ħaqqe'* 'have > own'
 ħaqqe';igheqe;ħaqqonjof;ħaqqoanjh,ˈħæɢɢɛʔ;ˈiɣɛɢɛʔ;ˈħæɢˌɢɔɲ̊ɔf;ˈħæɢˌɢɔæɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to own / possess; PERF: to acquire,CF ORIG: *ħa'* 'to have'
 ljoña';qêljeaña';ljienjof;ljiâenjh,ˈʎɔɴæʔ;ˈɢeˌʎeɐ̯ɴæʔ;ˈʎie̯ɲ̊ɔf;ˈʎiɑe̯ɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to hold; PERF: to grab / grab onto,REG: uioña';CF semi-REG: *ioña'* 'hold > take'
@@ -15,6 +15,8 @@ uqqo,ˈuɢɢɔ,N-I,existence,ORIG: to be;CF: *qâe* 'to be'
 âulgo,ˈɑʊ̯lgɔ,N-D,future,FROM: *âulqo* 'to become';CF: *xerke/xeagge* 'past/present'
 xerke,ˈxɛr̥kɛ,N-D,past (time),FROM: *xea-ârh* 'there was';CF: *âulgo/xeagge* 'future/present'
 xeagge,ˈxeɐ̯ggɛ,N-D,present (time),FROM: *xea* 'there is';CF: *âulgo/xerke* 'future/past'
+qâe,ˈɢɑe̯,PHR,yes,"lit. 'being', used when no obvious verb to repeat"
+jêño,ˈjeɴɔ,PHR,no,"lit. 'not being', used when no obvious verb to repeat"
 
 mâerâ;âempâerâ;mâer;maorñe,ˈmɑe̯rʌ;ˈɑe̯m̥ˌpɑe̯rʌ;ˈmɑe̯r;ˈmæo̯rˌɴɛ,V-PP;V-PN;V-VP;V-VI,to come (common),CF REG: *mâenjârâ* 'to come (formal)'
 mâenjârâ;âempâenjârâ;mâenjârâ;maonjareañe,ˈmɑe̯ɲʌrʌ;ˈɑe̯m̥ˌpɑe̯ɲʌrʌ;ˈmɑe̯ɲʌrʌ;ˈmæo̯ɲæˌreɐ̯ɴɛ,V-PP;V-PN;V-VP;V-VI,to come (formal),CF: *mâerâ* 'to come (common)'
@@ -51,7 +53,7 @@ qaoa;qaorhaoa;qaoa;qaoae,ˈɢæo̯æ;ˈɢæo̯ˌr̥æo̯æ;ˈɢæo̯æ;ˈɢæo̯
 eumärh,ˈøʊ̯mar̥,V,to continue,FROM: *eumärh* 'to not stop'
 ca'o;jêddo;ca'o;ca'aoñe,ˈcæʔɔ;ˈjeddɔ;ˈcæʔɔ;ˈcæʔˌæo̯ɴɛ,V-PP;V-PN;V-VP;V-VI,to climb,CF: *ca'êr* 'ladder'
 fiete';eumêete';fiete';fieñetoo,ˈfiˌɛtɛʔ;ˈøʊ̯meˌɛtɛʔ;ˈfiˌɛtɛʔ;ˈfie̯ɴɛˌtɔɔ,V-PP;V-PN;V-VP;V-VI,to return / go back,CF: *etuomva* 'again';CF: *ete'* 'new'
-
+puo;jêmê;puoñof;puoñ,ˈpuo̯;ˈjeme;ˈpuo̯ɴɔf;ˈpuo̯ɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to be grown;PERF: to grow (up) (intrans),CAUS = to raise/rear
 
 
 quljârâ,ˈɢuʎʌrʌ,N-I,movement,FROM: *quljârâ* 'to go'
@@ -59,9 +61,11 @@ arrhanjh,ær̥ˈr̥æɲ̊,N-I,journey (by land),FROM: *arrhanjh* 'walk > travel 
 quoźa,ˈɢuo̯ʑæ,N-I,voyage (by sea),FROM: *quoźa* 'swim > travel by sea'
 qumboñanjh,ˈɢumˌbɔɴæɲ̊,N-A,journey (by air); migration,"literally of birds, but metaphorically of any animal;FROM: *qumboñaś* 'fly'"
 
+ljin;qêśśin;ljin;ljienje,ˈʎin;ˈɢeɕɕin;ˈʎin;ˈʎie̯ɲɛ,V-PP;V-PN;V-VP;V-VI,to feel / touch,GEN = thing felt;DAT/ACC = thing touched;ORIG: to wipe;CF: *ljêrâe'* 'hand'
 yañrhê;yañqarrê;yañqref;yañqrênjh,ˈɟæɴ̥r̥e;ˈɟæɴˌɢærre;ˈɟæɴɢrɛf;ˈɟæɴɢreɲ̊,V-PP;V-PN;V-VP;V-VI,to hear,
 jêñgha';jêxieñgha';jêñghaf;jêñghanjh,ˈjeɴɣæʔ;ˈjeˌxie̯ɴɣæʔ;ˈjeɴɣæf;ˈjeɴɣæɲ̊,V-PP;V-PN;V-VP;V-VI,to see,
 qâuga;jêqâuga;qâugancef;qâuganjh,ˈɢɑʊ̯gæ;ˈjeˌɢɑʊ̯gæ;ˈɢɑʊ̯ˌgæɲ̊cɛf;ˈɢɑʊ̯gæɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to know; PERF: to find out,
+qâuga,ˈɢɑʊ̯gæ,V,IMPF: to be acquainted with;PERF: to acquaint / meet / visit,FROM: 'to find (out)'
 qâuanjh;jêqâuanjh;qâunjof;qâuanjh,ˈɢɑʊ̯æɲ̊;ˈjeˌɢɑʊ̯æɲ̊;ˈɢɑʊ̯ɲɔf;ˈɢɑʊ̯æɲ̊,V-PP;V-PN;V-VP;V-VI,IMPF: to think / believe; PERF: to think (up / of),
 vaftce;ündvecce;vatfenjef;vatfeenjh,ˈʋæftcɛ;ˈynˌdʋɛccɛ;ˈʋætˌfɛɲ̊ɛf;ˈʋætˌfɛɛɲ̊,V-PP;V-PN;V-VP;V-VI,to smell,
 qâugoś;jêqâugoś;qâugoś;qâugeśe,ˈɢɑʊ̯gɔɕ;ˈjeˌɢɑʊ̯gɔɕ;ˈɢɑʊ̯gɔɕ;ˈɢɑʊ̯ˌgɛɕɛ,V-PP;V-PN;V-VP;V-VI,IMPF: to be aware of;PERF: to realise,GEN: object,
@@ -74,6 +78,7 @@ pamfianjh,ˈpæm̥ˌfiæɲ̊,N-A,sound,
 jêñgha',ˈjeɴɣæʔ,N-I,sight (sense of),FROM: *jêñgha* 'to see'
 vaftce,ˈʋæftcɛ,N-I,smell (sense of),FROM: *vaftce* 'to smell'
 ħanśanjh,ˈħæn̥ɕæɲ̊,N-A,smell / odour,CF REG: *ħanħaśxanjh* 'smoke'
+qumvośenjh,ˈɢumʋɔɕɛɲ̊,N-A,whiff,also used metaphorically for 'small taste/sample';FROM: *qumvoś* 'to float'
 qâugge,ˈɢɑʊ̯ggɛ,N-D,knowledge,FROM: *qâuga* 'to know'
 qâuañge,ˈɢɑʊ̯ˌæɴgɛ,N-D,thinking / thought,FROM: *qâuanjh* 'to think'
 qâuñkögge,ˈɢɑʊ̯ɴ̥ˌkøgɛ,N-D,thought,FROM: *qâuanjh* 'to think'
@@ -128,8 +133,8 @@ quttśo;qu'fittśe;quttśo;quttśee,ˈɢucc͡ɕɔ;ˈɢuʔˌficc͡ɕɛ;ˈɢucc͡�
 qompëñ;qoxfmëñ;qompëñ;qompuo,ˈɢɔm̥pɤɴ;ˈɢɔxfmɤɴ;ˈɢɔm̥pɤɴ;ˈɢɔm̥ˌpuɔ,V-PP;V-PN;V-VP;V-VI,to eat,
 quñonj;quźjiñonj;quñonj;quomâenjo,ˈɢuɴɔɲ;ˈɢuʑˌjiɴɔɲ;ˈɢuɴɔɲ;ˈɢuo̯ˌmɑe̯ɲɔ,V-PP;V-PN;V-VP;V-VI,to bite,
 vaħħoñ;ümoñ;vaħħoñ;vaħħaoe,ˈʋæħħɔɴ;ˈymɔɴ;ˈʋæħħɔɴ;ˈʋæħˌħæo̯ɛ,V-PP;V-PN;V-VP;V-VI,to say / tell / talk (about),ACC: words;DAT or LOC-PRN: listener;GEN: topic of talking;ORIG: to ask
-qomë;yi'ħempê;qemieñef;qomëñ,ˈɢɔmɤ;ˈɟiʔˌħɛm̥pe;ˈɢɛˌmie̯ɴɛf;ˈɢɔmɤɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to live;PERF: to survive,PART-NEG is equivalent to 'to be dead';REG: qghomë;CF: *yi'ħêmpê* 'to die'
-vatfanjh;ündvanjh;vatfñef;vatfañh,ˈʋætfæɲ̊;ˈyndʋæɲ̊;ˈʋætfɴ̥ɛf;ˈʋætfæɴ̥,V-PP;V-PN;V-VP;V-VI,IMPF: to be alive;PERF: to come to life,
+qomë;yi'ħempê;qemieñef;qomëñ,ˈɢɔmɤ;ˈɟiʔˌħɛm̥pe;ˈɢɛˌmie̯ɴɛf;ˈɢɔmɤɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to live;PERF: to survive,PART-NEG is equivalent to 'to be dead';REG: qghomë;CF: *yi'ħêmpê* 'to die';PF-HAB = to endure/stand (GEN object)
+vatfanjh;ündvanjh;vatfñef;vatfañh,ˈʋætfæɲ̊;ˈyndʋæɲ̊;ˈʋætfɴ̥ɛf;ˈʋætfæɴ̥,V-PP;V-PN;V-VP;V-VI,IMPF: to be alive;PERF: to come to life,ORIG: to breathe
 yi'ħêmpê;yicceghemê;yi'ħêmbieñef;yi'ħêmpêñ,ˈɟiʔˌħem̥pe;ˈɟicˌcɛɣɛme;ˈɟiʔħemˌbie̯ɴɛf;ˈɟiʔˌħem̥peɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to be dead;PERF: to die,CF: *qjomë* 'to live'
 peffi'ħê;jêmvi'ħê;peffi'ħeiñef;peffi'ħêñ,ˈpɛfˌfiʔħe;ˈjemˌʋiʔħe;ˈpɛffiʔˌħei̯ɴɛf;ˈpɛfˌfiʔħeɴ,V-PP;V-PN;V-VP;V-VI,IMPF: to sleep;PERF: to go to sleep,
 uonjë';quħħuonjë';uonjë';uocie,ˈuo̯ɲɤʔ;ˈɢuħˌħuo̯ɲɤʔ;ˈuo̯ɲɤʔ;ˈuo̯ˌciɛ,V-PP;V-PN;V-VP;V-VI,to cut,
@@ -153,7 +158,7 @@ kuinjë;jêkuinjë;kuinjë;kuinjo,ˈkuɪ̯ɲɤ;ˈjeˌkuɪ̯ɲɤ;ˈkuɪ̯ɲɤ
 faorva;jêñvaorva;faorva;faorvae,ˈfæo̯rʋæ;ˈjeɴˌʋæo̯rʋæ;ˈfæo̯rʋæ;ˈfæo̯rˌʋæɛ,V-PP;V-PN;V-VP;V-VI,to shake,
 
 
-gharke,ˈɣær̥kɛ,N-D,life
+gharke,ˈɣær̥kɛ,N-D,life,FROM: *ghar* 'alive'
 kusko,ˈkuskɔ,N-D,plentitude / abundance,merged form w/ *kusko* 'summer';CF: *kuppa* 'many'
 vifke,ˈʋifkɛ,N-D,victory,
 mi'ürhikke,ˈmiʔyˌr̥ikkɛ,N-D,power,
@@ -171,15 +176,6 @@ ljighmanjh,ˈʎiɣmæɲ̊,N-A,shadow,FROM: *ljixxamh* 'back'
 yasrhuoljanjh,ˈɟæsˌr̥uo̯ʎæɲ̊,N-A,reflection / image
 suncamh;sunjmonjh;sunjmonj;sunjke,ˈsuɲ̊cæm̥;ˈsuɲ̊m̥ɔɲ̊;ˈsuɲ̊m̥ɔɲ;ˈsuɲ̊kɛ,N-I;N-A;N-H;N-D,other / other one
 ten;tenh;ten;tenge,ˈtɛn;ˈtɛn̥;ˈtɛn;ˈtɛngɛ,N-I;N-A;N-H;N-D,same / self / same one
-kuinjaś,ˈkuɪ̯ɲæɕ,N-I,size
-muoñvoś,ˈmuo̯ɴʋɔɕ,N-I,loudness,CF: *feś* 'hard'
-muoħośë',ˈmuo̯ˌħɔɕɤʔ,N-I,freshness,CF: *ħaśi'* 'fresh'
-moarmuñ,ˈmoɐ̯rmuɴ,N-I,strength,CF: *ârmuñ* 'strong'
-muźmo',ˈmuʑmɔʔ,N-I,weakness,CF: *źmo'* 'weak'
-munünjin,ˈmuˌnyɲin,N-I,scarcity / rarity,CF: *yünjin* 'sparse'
-muoñoljoś,ˈmuo̯ɴɔʎɔɕ,N-I,speed,CF: *śeś* 'fast'
-muoriemüħ,ˈmuo̯ˌrie̯myħ,N-I,distance,CF: *iemh* 'faraway';CF: *erriemaofa* 'far-ly'
-muoddźa',ˈmuo̯ɟɟ͡ʑæʔ,N-I,brightness,CF: *śa'* 'bright'
 xekke',ˈxɛkkɛʔ,N-I,damage,CF *xek* 'to damage'
 ee',ˈɛɛʔ,N-I,danger,
 
@@ -197,8 +193,19 @@ xam,ˈxæm,ADV,up,CF REG: *ârrhâem* 'high'
 pur,ˈpur,ADV,down,CF: *pur* 'low'
 feŕe,ˈfɛɹɛ,ADV,together,FROM: *feś-rhe* 'as-one'
 
+uruzqâu;nüruzqâu;uruzqâu;uruzqâuo,ˈuruzɢɑʊ̯;ˈnyˌruzɢɑʊ̯;ˈuruzɢɑʊ̯;ˈuruzˌɢɑʊ̯ɔ,V-PP;V-PN;V-VP;V-VI,to darken (trans),CF: *uruź* 'dark'
+âumuzqâu;nealuzqâu;âumuzqâu;âumuzqâuo,ɑʊ̯ˈmuzɢɑʊ̯;ˈneɐ̯ˌluzɢɑʊ̯;ɑʊ̯ˈmuzɢɑʊ̯;ɑʊ̯ˈmuzˌɢɑʊ̯ɔ,V-PP;V-PN;V-VP;V-VI,to slow (trans),MERGED: 'to soften' (but not neg);CF: *âumuź* 'slow'
+âumuzqâu;eamñuzqâu;âumuzqâu;âumuzqâuo,ɑʊ̯ˈmuzɢɑʊ̯;ˈeɐ̯ˌmɴuzɢɑʊ̯;ɑʊ̯ˈmuzɢɑʊ̯;ɑʊ̯ˈmuzˌɢɑʊ̯ɔ,V-PP;V-PN;V-VP;V-VI,to soften (trans),soften feel/volume;MERGED: 'to slow' (but not neg);CF: *âumuź* 'soft'
+nealuzqâu,ˈneɐ̯ˌluzɢɑʊ̯,V,to not slow (common) (neg = to slow)
+eamñuzqâu,ˈeɐ̯ˌmɴuzɢɑʊ̯,V,to not soften (common) (neg = to soften)
+uruifqâu;nürêifqâu;uruifqâu;uruëfqâuo,ˈuruˌifɢɑʊ̯;ˈnyreˌifɢɑʊ̯;ˈuruˌifɢɑʊ̯;ˈuruɤfˌɢɑʊ̯ɔ,V-PP;V-PN;V-VP;V-VI,to sadden (trans),CF: *uruë* 'sad'
+śaoifqâu;jêddźoifqâu;śaoifqâu;śaoifqâuo,ˈɕæo̯ˌifɢɑʊ̯;ˈjeɟɟ͡ʑɔˌifɢɑʊ̯;ˈɕæo̯ˌifɢɑʊ̯;ˈɕæo̯ifˌɢɑʊ̯ɔ,V-PP;V-PN;V-VP;V-VI,to cheer (trans),CF: *śoħuo* 'happy'
+tfâemqâu;jêtfaomqâu;tfâemqâu;tfâemqâuo,ˈtfɑe̯mɢɑʊ̯;ˈjeˌtfæo̯mɢɑʊ̯;ˈtfɑe̯mɢɑʊ̯;ˈtfɑe̯mˌɢɑʊ̯ɔ,V-PP;V-PN;V-VP;V-VI,to calm (trans),CF: *tfâemo* 'calm'
+iħħöqâu;jêñeuqâu;iħħöqâu;iħħöqâuo,ˈiħˌħøɢɑʊ̯;ˈjeɴˌøʊ̯ɢɑʊ̯;ˈiħˌħøɢɑʊ̯;ˈiħħøˌɢɑʊ̯ɔ,V-PP;V-PN;V-VP;V-VI,to agitate (trans),CF: *iħħöni* 'agitated'
+
+
 pur,ˈpur,ADJ,low,CF: *pur* 'down'
-ârrhâem,ʌr̥ˈr̥ɑe̯m,ADJ,high,CF: *xam* 'up'
+ârrhâem,ʌr̥ˈr̥ɑe̯m,ADJ,high / tall,CF: *xam* 'up'
 mefe,ˈmɛfɛ,ADJ,big (common),
 meccafe,ˈmɛcˌcæfɛ,ADJ,big (formal),
 pefe,ˈpɛfɛ,ADJ,small,
@@ -229,9 +236,10 @@ quovjë,ˈɢuo̯ʋjɤ,ADJ,rotten,
 ħâero,ˈħɑe̯rɔ,ADJ,dirty,
 uonjâenjh,ˈuo̯ɲɑe̯ɲ̊,ADJ,sharp,
 ârrôźyë,ʌrˈroʑɟɤ,ADJ,dull,
-pumfë,ˈpum̥fɤ,ADJ,correct,
-uloħħrha,ˈulɔħħr̥æ,ADJ,wrong / mistaken,FROM: *ulo-vaħħrha* 'with-mistake'
+pumfë,ˈpum̥fɤ,ADJ,correct,"used only for the answer, not the person;you are correct > your words are correct"
+uloħħrha,ˈulɔħħr̥æ,ADJ,wrong / mistaken,"used only for the answer, not the person;FROM: *ulo-vaħħrha* 'with-mistake'"
 frhi,ˈfr̥i,ADJ,other,
+tuolja,ˈtuo̯ʎæ,ADJ,different,FROM: verb
 tene,ˈtɛnɛ,ADJ,same / self,CF: *ten* 'same one'
 marrhê,ˈmær̥r̥e,ADJ,useful,
 ârrônjë,ʌrˈroɲɤ,ADJ,powerful,
@@ -255,6 +263,31 @@ ârmuñ,ʌrˈmuɴ,ADJ,sturdy / strong,CF: *moarmuñ* 'strength'
 źmo',ˈʑmɔʔ,ADJ,frail / weak,CF: *muźmo'* 'weakness'
 vincin,ˈʋiɲ̊cin,ADJ,dense / rich (in resources),
 yünjin,ˈɟyɲin,ADJ,sparse / poor (in resources),CF: *munünjin* 'scarcity'
+
+môrhâm,ˈmor̥ʌm,N-I,height,CF: *ârrhâem* 'high'
+kuinjaś,ˈkuɪ̯ɲæɕ,N-I,size
+muomro,ˈmuo̯mrɔ,N-I,heat;temperature,CF: *rhe* 'hot'
+mua'ü',ˈmuˌæʔyʔ,N-I,cold(ness),CF: *ya'ü'* 'cold'
+muovof,ˈmuo̯ʋɔf,N-I,(measure of/) fullness,CF: *vif* 'full'
+muoñmuś,ˈmuo̯ɴmuɕ,N-I,emptiness,CF: *qmuś* 'empty'
+muete',ˈmuˌɛtɛʔ,N-I,newness,CF: *ete'* 'new'
+muuomvo,ˈmuˌuo̯mʋɔ,N-I,oldness,CF: *vômvo* 'old'
+muu'ħa'e,ˈmuuʔˌħæʔɛ,N-I,length,CF: *qu'ħa'e* 'long'
+muoarânjo,ˈmuˌoɐ̯rʌɲɔ,N-I,width,CF: *qoarânjo* 'wide'
+muħou,ˈmuħou̯,N-I,goodness / morality,CF: *ħou* 'good'
+muuonjâenjh,ˈmuˌuo̯ɲɑe̯ɲ̊,N-I,sharpness,CF: *uonjâenjh* 'sharp'
+muomrâ,ˈmuo̯mrʌ,N-I,usefulness,CF: *marrhê* 'useful'
+muoñratarh,ˈmuo̯ɴˌrætær̥,N-I,weight,CF: *êrrhatarh* 'heavy'
+muomjeare,ˈmuo̯mˌjeɐ̯rɛ,N-I,difficulty,CF: *mjeare* 'difficult'
+muomom,ˈmuo̯mɔm,N-I,ease / easiness,CF: *pâem* 'easy'
+muoñvoś,ˈmuo̯ɴʋɔɕ,N-I,loudness,CF: *feś* 'hard'
+muoħośë',ˈmuo̯ˌħɔɕɤʔ,N-I,freshness,CF: *ħaśi'* 'fresh'
+moarmuñ,ˈmoɐ̯rmuɴ,N-I,strength,CF: *ârmuñ* 'strong'
+muźmo',ˈmuʑmɔʔ,N-I,weakness,CF: *źmo'* 'weak'
+munünjin,ˈmuˌnyɲin,N-I,scarcity / rarity,CF: *yünjin* 'sparse'
+muoñoljoś,ˈmuo̯ɴɔʎɔɕ,N-I,speed,CF: *śeś* 'fast'
+muoriemüħ,ˈmuo̯ˌrie̯myħ,N-I,distance,CF: *iemh* 'faraway';CF: *erriemaofa* 'far-ly'
+muoddźa',ˈmuo̯ɟɟ͡ʑæʔ,N-I,brightness,CF: *śa'* 'bright'
 
 fieñe,ˈfie̯ɴɛ,ADV,in all / in total,ORIG: all
 ħeffa,ˈħɛffæ,ADV,well,FROM: *ħou-afa* 'good-ly';REG: ħeffafa
@@ -310,10 +343,11 @@ quonj,ˈɢuo̯ɲ,N-Postpos,inside,
 vaoñ,ˈʋæo̯ɴ,N-Postpos,outside,
 ñieñ,ˈɴie̯ɴ,N-Postpos,through / throughout / during / over,
 ñêr,ˈɴer,N-Postpos,surrounds / around,
-yêrh,ˈɟer̥,N-Postpos,result,
-itfe,ˈitfɛ,N-Postpos,cause,
+yêrh,ˈɟer̥,N-Postpos,result / intention,
+itfe,ˈitfɛ,N-Postpos,cause / reason,
 ao,ˈæo̯,N-Postpos,before / beginning
 färh,ˈfar̥,N-Postpos,after
+ten,ˈtɛn,N-Postpos,same (manner/likeness),INS = like
 
 ħuom,ˈħuo̯m,CONJ,and,
 vorhâr,ˈʋɔr̥ʌr,CONJ,or,
