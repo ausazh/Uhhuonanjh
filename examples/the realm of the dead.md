@@ -14,7 +14,7 @@ Child: Ok, I suppose you're right Elder.  I can barely stand the hot summers in 
 
 ## Uhhuonanj Version
 
-Cfärrhânj: Ulompërä'! Arrhanjh ħuomënj Yeħkix ñieñêra puoëx färhñaħ vâurmo!  Uir jêñghaf ħuomënj qeaħenjêrh yikkemh Vaoñdvikkix tenêra vâur!
+Cfärrhânj: Ulompërä'! Arrhanjh ħuomënj Yeħkix ñieñêra puoëx färhñaħ vâurmo!  Uir jêñghaf ħuomënj qeaħenjêrh yikkemh Vaoñdvikkix ten tenêra vâur!
 
 Ulompënj: Qâeñ vâe yikkiś arrhanjte qâenj, fix cfärrhârä'.  Vaoñganjh ħâuo ghancêrh śu': arrhancef ârvo Ljanêrmononj aśu'.  Verh, minj arrhainjh ljakkix ħanħśikke ljañix.
 
@@ -28,11 +28,11 @@ Cfärrhânj: Qâe, pumfëqoñ zuomanjh qâenj, Ulompërä'.  Qemieñef mu 
 
 *Child: Elder!  I want to go travel the world when I grow up!  I want to go everywhere and see everything, just like Lady Vaoñdvikke!*
 
-Cfärrhânj: Ulompërä'! Arrhanjh ħuomënj Yeħkix ñieñêra puoëx färhñaħ vâurmo!  Uir jêñghaf huomënj qeaħenjêrh yikkemh Vaoñdvikkix tenêra vâur!
+Cfärrhânj: Ulompërä'! Arrhanjh ħuomënj Yeħkix ñieñêra puoëx färhñaħ vâurmo!  Uir jêñghaf huomënj qeaħenjêrh yikkemh Vaoñdvikkix ten tenêra vâur!
 
 Child: Wise (you)!  I intend to be travelling so much out there throughout the World after growing up!  (I) intend to go and see everywhere/thing just like Lady Vaoñdvikke!
 
-/ˈcfar̥r̥ʌɲ || ˈulɔm̥pɤˈraʔ || ær̥ˈr̥æɲ̊ ˈħuo̯mɤɲ ˈɟɛħkix ˈɴie̯ɴeræ ˈpuo̯ɤx ˈfar̥ɴæħ ˈʋɑʊ̯rmɔ || ˈuɪ̯r ˈjeɴɣæf ˈħuo̯mɤɲ ˈɢeɐ̯ħɛɲer̥ ˈɟikkɛm̥ ˈʋæo̯ɴˌdʋikkix ˈtɛneræ ˈʋɑʊ̯r/
+/ˈcfar̥r̥ʌɲ || ˈulɔm̥pɤˈraʔ || ær̥ˈr̥æɲ̊ ˈħuo̯mɤɲ ˈɟɛħkix ˈɴie̯ɴeræ ˈpuo̯ɤx ˈfar̥ɴæħ ˈʋɑʊ̯rmɔ || ˈuɪ̯r ˈjeɴɣæf ˈħuo̯mɤɲ ˈɢeɐ̯ħɛɲer̥ ˈɟikkɛm̥ ˈʋæo̯ɴˌdʋikkix ˈtɛn ˈtɛneræ ˈʋɑʊ̯r/
 
 ```
 cfärrhâ-nj: ulompë-rä'! arrhanjh  ħuo-mënj Yeħ-kix   ñieñ-êra
