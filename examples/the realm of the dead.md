@@ -56,7 +56,7 @@ Ulompënj: Qâeñ vâe yikkiś arrhanjte qâenj, fix cfärrhârä'.  Vaoñ
 
 Wise person: (It) might be a great journey, my childish (you).  You, remember so much that: you must never travel to Ljanêrmonj.  Because, over there, (it is said that) the ancestors' spirits are walking around.
 
-/ˈulɔm̥pɤɲ ˈɢɑe̯ɴ ˈʋɑe̯ ˈɟikkiɕ ær̥ˈr̥æɲ̊te ˈɢɑe̯ɲ ˈfix ˈcfar̥r̥ʌˈraʔ || ˈʋæo̯ɴgæɲ̊ ˈħɑʊ̯ɔ ˈɣæɲ̊cer̥ ɕuʔ | ær̥ˈr̥æɲ̊cɛf ˈʌrʋɔ ˈʎæˌnermɔnɔɲ æɕuʔ || ˈʋɛr̥ | ˈmiɲ ær̥ˈr̥æɪ̯ɲ̊ ˈʎækkix ˈħæn̥ˌħɕikkɛ ʎæɴix/
+/ˈulɔm̥pɤɲ || ˈɢɑe̯ɴ ˈʋɑe̯ ˈɟikkiɕ ær̥ˈr̥æɲ̊te ˈɢɑe̯ɲ | ˈfix ˈcfar̥r̥ʌˈraʔ || ˈʋæo̯ɴgæɲ̊ ˈħɑʊ̯ɔ ˈɣæɲ̊cer̥ ɕuʔ | ær̥ˈr̥æɲ̊cɛf ˈʌrʋɔ ˈʎæˌnermɔnɔɲ æɕuʔ || ˈʋɛr̥ | ˈmiɲ ær̥ˈr̥æɪ̯ɲ̊ ˈʎækkix ˈħæn̥ˌħɕikkɛ ʎæɴix/
 
 ```
 ulompë-nj:  qâeñ   vâe  yikkiś  arrhanj-te  qâenj, fix    cfärrhârä'
