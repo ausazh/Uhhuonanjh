@@ -39,6 +39,11 @@ SECTION_HEADER = '''
 |----------|-------------|--------------|-------|-------------------|
 '''
 
+def quote(x):
+    if ',' in x:
+        x = '"' + x + '"'
+    return x
+
 def tablify ():
     data = []
 
@@ -69,7 +74,7 @@ def tablify ():
                 # first 3 separate into distinct entries; final into multiple columns
                 lst = []
                 for i in range(len(line)):
-                    print(line[i])
+                    # print(line[i])
                     if i == 0:
                         sublines = line[i].split(';')
                         for j in range(len(sublines)):
@@ -82,6 +87,6 @@ def tablify ():
                         for j in range(len(sublines)):
                             lst[j].append(line[i])
                 for l in lst:
-                    f.write(','.join(l))
+                    f.write(','.join([quote(x) for x in l]))
                     f.write('\n')
 tablify()

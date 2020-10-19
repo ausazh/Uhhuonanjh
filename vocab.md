@@ -689,7 +689,7 @@
 |tfuolj|ˈtfuo̯ʎ|N-I|fork||
 |tfuonulj|ˈtfuo̯nuʎ|N-I|knife||
 |ârâu|ˈʌrɑʊ̯|N-I|spoon||
-|fiśśêr|ˈfiɕɕer|N-I|drying rack|fisôr|ˈfissɘːr|
+|fiśśêr|ˈfiɕɕer|N-I|drying rack||
 |ñieña|ˈɴie̯ɴæ|N-I|meat (to eat)||
 |eama|ˈeɐ̯mæ|N-I|egg||
 |meccieźya|ˈmɛcˌcie̯ʑɟæ|N-I|salt||

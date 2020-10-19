@@ -176,7 +176,7 @@ Cfärrhânj: Qâe, pumfëqoñ zuomanjh qâenj, Ulompërä'.  Qemieñef mu 
 
 Child: Yes, I think your words are correct, Wise (you).  I barely endure the hot summers here in this town.
 
-/ˈcfar̥r̥ʌɲ || ˈɢɑe̯ ˈpum̥fɤɢɔɴ ˈzuo̯mæɲ̊ ˈɢɑe̯ɲ || ˈɢɛˌmie̯ɴɛf mu ˈr̥ɛ ˈkuskɔɤx ˈei̯n ˈɤɪ̯ɔɴæħ ˈmjeɐ̯ˌræo̯fæ ɢæɲmɔ/
+/ˈcfar̥r̥ʌɲ || ˈɢɑe̯ | ˈpum̥fɤɢɔɴ ˈzuo̯mæɲ̊ ˈɢɑe̯ɲ | ˈulɔm̥pɤˈraʔ || ˈɢɛˌmie̯ɴɛf mu ˈr̥ɛ ˈkuskɔɤx ˈei̯n ˈɤɪ̯ɔɴæħ ˈmjeɐ̯ˌræo̯fæ ɢæɲmɔ/
 
 ```
 qâe,   pumfë-qo-ñ     zuoma-njh qâenj, ulompërä'

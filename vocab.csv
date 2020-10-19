@@ -34,8 +34,8 @@ uqqo,ˈuɢɢɔ,N-I,existence,ORIG: to be;CF: *qâe* 'to be'
 âulgo,ˈɑʊ̯lgɔ,N-D,future,FROM: *âulqo* 'to become';CF: *xerke/xeagge* 'past/present'
 xerke,ˈxɛr̥kɛ,N-D,past (time),FROM: *xea-ârh* 'there was';CF: *âulgo/xeagge* 'future/present'
 xeagge,ˈxeɐ̯ggɛ,N-D,present (time),FROM: *xea* 'there is';CF: *âulgo/xerke* 'future/past'
-qâe,ˈɢɑe̯,PHR,yes,lit. 'being', used when no obvious verb to repeat
-jêño,ˈjeɴɔ,PHR,no,lit. 'not being', used when no obvious verb to repeat
+qâe,ˈɢɑe̯,PHR,yes,"lit. 'being', used when no obvious verb to repeat"
+jêño,ˈjeɴɔ,PHR,no,"lit. 'not being', used when no obvious verb to repeat"
 mâerâ,ˈmɑe̯rʌ,V-PP,to come (common),CF REG: *mâenjârâ* 'to come (formal)'
 âempâerâ,ˈɑe̯m̥ˌpɑe̯rʌ,V-PN,to come (common),CF REG: *mâenjârâ* 'to come (formal)'
 mâer,ˈmɑe̯r,V-VP,to come (common),CF REG: *mâenjârâ* 'to come (formal)'
@@ -183,7 +183,7 @@ nêränjh,ˈneraɲ̊,ADJ,sedentary/settled,FROM: 'to travel (neg)'
 quljârâ,ˈɢuʎʌrʌ,N-I,movement,FROM: *quljârâ* 'to go'
 arrhanjh,ær̥ˈr̥æɲ̊,N-I,journey (by land),FROM: *arrhanjh* 'walk > travel by land'
 quoźa,ˈɢuo̯ʑæ,N-I,voyage (by sea),FROM: *quoźa* 'swim > travel by sea'
-qumboñanjh,ˈɢumˌbɔɴæɲ̊,N-A,journey (by air); migration,literally of birds, but metaphorically of any animal;FROM: *qumboñaś* 'fly'
+qumboñanjh,ˈɢumˌbɔɴæɲ̊,N-A,journey (by air); migration,"literally of birds, but metaphorically of any animal;FROM: *qumboñaś* 'fly'"
 ljin,ˈʎin,V-PP,to feel / touch,GEN = thing felt;DAT/ACC = thing touched;ORIG: to wipe;CF: *ljêrâe'* 'hand'
 qêśśin,ˈɢeɕɕin,V-PN,to feel / touch,GEN = thing felt;DAT/ACC = thing touched;ORIG: to wipe;CF: *ljêrâe'* 'hand'
 ljin,ˈʎin,V-VP,to feel / touch,GEN = thing felt;DAT/ACC = thing touched;ORIG: to wipe;CF: *ljêrâe'* 'hand'
@@ -521,8 +521,8 @@ quovjë,ˈɢuo̯ʋjɤ,ADJ,rotten,
 ħâero,ˈħɑe̯rɔ,ADJ,dirty,
 uonjâenjh,ˈuo̯ɲɑe̯ɲ̊,ADJ,sharp,
 ârrôźyë,ʌrˈroʑɟɤ,ADJ,dull,
-pumfë,ˈpum̥fɤ,ADJ,correct,used only for the answer, not the person;you are correct > your words are correct
-uloħħrha,ˈulɔħħr̥æ,ADJ,wrong / mistaken,used only for the answer, not the person;FROM: *ulo-vaħħrha* 'with-mistake'
+pumfë,ˈpum̥fɤ,ADJ,correct,"used only for the answer, not the person;you are correct > your words are correct"
+uloħħrha,ˈulɔħħr̥æ,ADJ,wrong / mistaken,"used only for the answer, not the person;FROM: *ulo-vaħħrha* 'with-mistake'"
 frhi,ˈfr̥i,ADJ,other,
 tuolja,ˈtuo̯ʎæ,ADJ,different,FROM: verb
 tene,ˈtɛnɛ,ADJ,same / self,CF: *ten* 'same one'
@@ -708,7 +708,7 @@ xekka',ˈxɛkkæʔ,N-I,path;way / path taken,,
 ca'icca,ˈcæʔˌiccæ,N-I,dust,
 ħa'üccüa',ˈħæʔycˌcyæʔ,N-I,snow,CF: *ħa'üccünjh* 'falling snow'
 ya'üccüa',ˈɟæʔycˌcyæʔ,N-I,ice,CF: *ya'üccünjh* 'hail';CF: *qu'uccou* 'to freeze'
-jêźikke,ˈjeˌʑikkɛ,N-D,(the) water,water as terrain;(seas, lakes & rivers);CF: *euź* 'water'
+jêźikke,ˈjeˌʑikkɛ,N-D,(the) water,"water as terrain;(seas, lakes & rivers);CF: *euź* 'water'"
 me'ekke,ˈmɛʔˌɛkkɛ,N-D,(the) ground,FROM: *me'eqqa* 'soil'
 yeħħa,ˈɟɛħħæ,N-I,land,
 niñâe,ˈniɴɑe̯,N-I,tundra,FROM: *niño* 'night';ORIG: northern lands;CF: *Ienjeħħonj* 'The Northlands'
@@ -732,7 +732,7 @@ moandvaś,ˈmoɐ̯ndʋæɕ,N-I,pine forest,
 paccantfaś,ˈpæcˌcæn̥tfæs,N-I,oak forest,
 euljêo,ˈøʊ̯ʎeɔ,N-I,desert,FROM: Shch. /ˈevlegɑ/
 Vaoñdunj,ˈʋæo̯ɴduɲ,N-H,Realm of the Living;The Known World,often excluding Ljanêrmonj;FROM: *Vaoñdv(ikke)* 'Goddess of the Living World'
-Yeħke,ˈɟɛħkɛ,N-D,The World,all lands, known or unknown, in practice often synonymous w/ Vaoñdunj;FROM: *yeħħa* 'land'
+Yeħke,ˈɟɛħkɛ,N-D,The World,"all lands, known or unknown, in practice often synonymous w/ Vaoñdunj;FROM: *yeħħa* 'land'"
 Ljiħħeimonj,ˈʎiħˌħei̯mɔɲ,N-H,The Homeland ('Land of Birth'),FROM: *Ljiħħeim(ge)* 'Goddess of Creation/Birth'
 Qamkonj,ˈɢæm̥kɔɲ,N-H,The Homeland ('Land of Ancestors'),FROM: *qamke* '(personal) ancestor'
 Kuskonj,ˈkuskɔɲ,N-H,The Homeland ('Land of Plenty'),FROM: *kusko* 'plenitude'
@@ -909,7 +909,7 @@ Me'rheazge,ˈmɛʔˌr̥eɐ̯zgɛ,N-D,God of the Seas,FROM: 'sea'
 Uħħuquoggo,ˈuħħuˌɢuo̯ggɔ,N-D,The Pair of Humanity/Human Worlds (Vaoñdvikke and Ljaearmikke),FROM: 'tribe'
 Vaoñdvikke,ˈʋæo̯ɴˌdʋikkɛ,N-D,Goddess of Travels/Knowledge/The Living World,FROM: 'road'
 Ljaearmikke,ˈʎæeɐ̯ˌrmikkɛ,N-D,Goddess of the Dead/Ancestors/The Spirit World,FROM: 'ancestor-help'
-Esakkxikke,ˈɛsækˌkxikkɛ,N-D,The Trio of Cycles (Ljiħħeimge, Qunljarge and Jêñghakke),FROM: 'cycle-plur'
+Esakkxikke,ˈɛsækˌkxikkɛ,N-D,"The Trio of Cycles (Ljiħħeimge, Qunljarge and Jêñghakke)",FROM: 'cycle-plur'
 Ljiħħeimge,ˈʎiħˌħei̯mgɛ,N-D,Goddess of Creation/Birth/Health,
 Qunljarge,ˈɢuɲˌʎærgɛ,N-D,God of Destruction/War/Disease,FROM: 'fight'
 Jêñghakke,ˈjeɴˌɣækkɛ,N-D,The Watcher/The Balancer/The Judge,FROM: 'see'
@@ -942,7 +942,7 @@ Vae Rhüge,ˈʋæɛ ˈr̥ygɛ,N-D,The First Melt,celebration at the start of sp
 Vae Yêrrhâugo,ˈʋæɛ ˈɟer̥r̥ɑʊ̯gɔ,N-D,The First Harvest,celebration at the start of autumn
 Ulfärh Yêrrhâugo,ˈulfar̥ ˈɟer̥r̥ɑʊ̯gɔ,N-D,The Final Harvest,celebration at the end of autumn
 rhüźaindükke,ˈr̥yʑæɪ̯nˌdykkɛ,N-H,spring messenger,
-ħanħaśke,ˈħæn̥ˌħæɕkɛ,N-D,incense; smell of incense,used for any aromatic/odorous fume, including cannabis;FROM *ħanħaśxanjh* 'smoke';CF: *ħanśanjh* 'odour'
+ħanħaśke,ˈħæn̥ˌħæɕkɛ,N-D,incense; smell of incense,"used for any aromatic/odorous fume, including cannabis;FROM *ħanħaśxanjh* 'smoke';CF: *ħanśanjh* 'odour'"
 vômdo,ˈʋomdɔ,N-I,feast,
 faondvikke,ˈfæo̯nˌʋikkɛ,N-D,festival;revelry,FROM: *faondva* 'to celebrate'
 vôñoljikke,ˈʋoɴɔˌʎikkɛ,N-D,music,FROM: *vôñolja* 'to play music'
@@ -1062,7 +1062,7 @@ emrôo',ˈɛmˌroɔʔ,N-I,pot,
 tfuolj,ˈtfuo̯ʎ,N-I,fork,
 tfuonulj,ˈtfuo̯nuʎ,N-I,knife,
 ârâu,ˈʌrɑʊ̯,N-I,spoon,
-fiśśêr,ˈfiɕɕer,N-I,drying rack,fisôr,ˈfissɘːr
+fiśśêr,ˈfiɕɕer,N-I,drying rack,
 ñieña,ˈɴie̯ɴæ,N-I,meat (to eat),
 eama,ˈeɐ̯mæ,N-I,egg,
 meccieźya,ˈmɛcˌcie̯ʑɟæ,N-I,salt,
@@ -1536,10 +1536,10 @@ rhaoinjh,ˈr̥æo̯iɲ̊,V-PP,to dye,
 jêmraoinjh,ˈjemˌræo̯iɲ̊,V-PN,to dye,
 rhaoinjh,ˈr̥æo̯iɲ̊,V-VP,to dye,
 rhaoinje,ˈr̥æo̯ˌiɲ̊ɛ,V-VI,to dye,
-ljanśanjh,ˈʎæɲ̊ɕæɲ̊,V-PP,to spin (intrans),CAUS = to spin (trans, e.g. to make yarn)
-qêśnśanjh,ˈɢeɕɲ̊ɕæɲ̊,V-PN,to spin (intrans),CAUS = to spin (trans, e.g. to make yarn)
-ljanśancef,ˈʎæɲ̊ˌɕæɲ̊cɛf,V-VP,to spin (intrans),CAUS = to spin (trans, e.g. to make yarn)
-ljanśanjh,ˈʎæɲ̊ɕæɲ̊,V-VI,to spin (intrans),CAUS = to spin (trans, e.g. to make yarn)
+ljanśanjh,ˈʎæɲ̊ɕæɲ̊,V-PP,to spin (intrans),"CAUS = to spin (trans, e.g. to make yarn)"
+qêśnśanjh,ˈɢeɕɲ̊ɕæɲ̊,V-PN,to spin (intrans),"CAUS = to spin (trans, e.g. to make yarn)"
+ljanśancef,ˈʎæɲ̊ˌɕæɲ̊cɛf,V-VP,to spin (intrans),"CAUS = to spin (trans, e.g. to make yarn)"
+ljanśanjh,ˈʎæɲ̊ɕæɲ̊,V-VI,to spin (intrans),"CAUS = to spin (trans, e.g. to make yarn)"
 indvü,ˈindʋy,V-PP,to weave,
 jêindvü,ˈjeˌindʋy,V-PN,to weave,
 indvü,ˈindʋy,V-VP,to weave,

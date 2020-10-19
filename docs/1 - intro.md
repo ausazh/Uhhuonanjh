@@ -13,7 +13,7 @@ Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* /ˈuo̯ɲɤkˌ
 - Early-Mid Bronze Age - Cities form in the Upper Valley (*Xâeputtśonj*); Kingdoms (*vakkeħħonj*) form in the Lower Valley region
 - Mid Bronze Age - Lower Kingdoms come to dominate the entire *Qamkonj* (homeland) region, building new cities in the region but also triggering local tribes to migrate further afield
 - Late Bronze Age - A combination of invasions and catastrophic floods decimates the Lower Kingdoms, leading to the creation of Upper Valley kingdoms as well as a large emigration from the Lower Valley towards lands outside the *Qamkonj* (homelands).
-- Early Iron Age - The discovery of ironworking propels one particular kingdom in the Upper Valley to harness it for military use, quickly subjugating its neighbours and then unifying the entire *Uonjëkkouonj* (river valley) into the *Fieggeħħuogo* (Central/Divine Kingdom). 
+- Early Iron Age - The discovery of ironworking propels one particular kingdom in the Upper Valley to harness it for military use, quickly subjugating its neighbours and then unifying the entire *Uonjëkkouonj* (river valley) into the *Fieggeħħuogo* (Central/Divine Kingdom).
 - Mid Iron Age - The *Fieggeħħuogo* Kingdom continues to expand through the *Qamkonj* (homeland) region and beyond.  They are able to expand rapidly through the south, but are unable to expand very far north and east due to thick forests and difficult terrain.
 - Late Iron Age - Political troubles, droughts and foreign invasions in the *Fieggeħħuogo* Kingdom lead to its fracture into a number of separate states and a long period of chaos, during which a large portion of *Qamkonj* inhabitants emigrate northward.
 
@@ -44,5 +44,4 @@ Trade routes between Uhhuonanj and Shechageghern lands were common.
   - 5.4 - Determiners
   - 5.5 - Verb, Adverb and Locative Inflections
   - 5.6 - Tag Inflections
- - 6 - Culture
-
+- 6 - Culture
