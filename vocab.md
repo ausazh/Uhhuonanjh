@@ -54,10 +54,19 @@
 |iem<br/>jêñêm<br/>iem<br/>ieme|ˈie̯m<br/>ˈjeɴem<br/>ˈie̯m<br/>ˈie̯mɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to bend||
 |färh<br/>eumärh<br/>färh<br/>färha|ˈfar̥<br/>ˈøʊ̯mar̥<br/>ˈfar̥<br/>ˈfar̥æ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to stop / finish||
 |qaoa<br/>qaorhaoa<br/>qaoa<br/>qaoae|ˈɢæo̯æ<br/>ˈɢæo̯ˌr̥æo̯æ<br/>ˈɢæo̯æ<br/>ˈɢæo̯ˌæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to start / begin||
-|eumärh|ˈøʊ̯mar̥|V|to continue|FROM: *eumärh* 'to not stop'|
 |ca'o<br/>jêddo<br/>ca'o<br/>ca'aoñe|ˈcæʔɔ<br/>ˈjeddɔ<br/>ˈcæʔɔ<br/>ˈcæʔˌæo̯ɴɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to climb|CF: *ca'êr* 'ladder'|
 |fiete'<br/>eumêete'<br/>fiete'<br/>fieñetoo|ˈfiˌɛtɛʔ<br/>ˈøʊ̯meˌɛtɛʔ<br/>ˈfiˌɛtɛʔ<br/>ˈfie̯ɴɛˌtɔɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to return / go back|CF: *etuomva* 'again'<br/>CF: *ete'* 'new'|
 |puo<br/>jêmê<br/>puoñof<br/>puoñ|ˈpuo̯<br/>ˈjeme<br/>ˈpuo̯ɴɔf<br/>ˈpuo̯ɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be grown<br/>PERF: to grow (up) (intrans)|CAUS = to raise/rear|
+|ujöre|ˈuˌjørɛ|V|to stay (common)|FROM: 'to go (neg) (common)'|
+|eumärh|ˈøʊ̯mar̥|V|to continue|FROM: 'to stop (neg)'|
+|ca'o|ˈcæʔɔ|V|to increase|FROM: 'to climb'|
+|jêddo|ˈjeddɔ|V|to decrease|FROM: 'to climb (neg)'|
+|jêñêm|ˈjeɴem|V|to resist/not bend|FROM: 'to bend (neg)'|
+|jêmva|ˈjemʋæ|V|to resist/remain standing|FROM: 'to lie down (neg)'|
+|qêśśanci|ˈɢeɕˌɕæɲ̊ci|V|to go straight|FROM: 'to turn (neg)'|
+|âeñqë|ˈɑe̯ɴɢɤ|V|to idle|FROM: 'to do/work (neg)'|
+|arrhanjh|ær̥ˈr̥æɲ̊|ADJ|nomadic/roaming|FROM: 'to travel'|
+|nêränjh|ˈneraɲ̊|ADJ|sedentary/settled|FROM: 'to travel (neg)'|
 |quljârâ|ˈɢuʎʌrʌ|N-I|movement|FROM: *quljârâ* 'to go'|
 |arrhanjh|ær̥ˈr̥æɲ̊|N-I|journey (by land)|FROM: *arrhanjh* 'walk > travel by land'|
 |quoźa|ˈɢuo̯ʑæ|N-I|voyage (by sea)|FROM: *quoźa* 'swim > travel by sea'|
@@ -723,8 +732,10 @@
 |caśśpattśa|ˈcæɕˈɕpæcc͡ɕæ|N-I|cinnamon tree|
 |murveuź|ˈmurʋøʊ̯ʑ|N-I|myrrh|CF: *tśeuź* 'resin'|
 |mureftśa|ˈmuˌrɛfc͡ɕæ|N-I|myrrh tree|
-|uruzqâugou|ˈuruzˌɢɑʊ̯gou̯|ADJ|blind|FROM: *uruzqâu* 'to darken'|
-|âumuzqâugou|ɑʊ̯ˈmuzˌɢɑʊ̯gou̯|ADJ|deaf|FROM: *âumuzqâu* 'to soften'|
+|uruzqâugou|ˈuruzˌɢɑʊ̯gou̯|ADJ|short- or long-sighted|FROM: *uruzqâu* 'to darken'|
+|âumuzqâugou|ɑʊ̯ˈmuzˌɢɑʊ̯gou̯|ADJ|hard of hearing/nearly deaf|FROM: *âumuzqâu* 'to soften'|
+|jêxieñgha'|ˈjeˌxie̯ɴɣæʔ|ADJ|blind|FROM: 'to see (neg)'|
+|yañqarrê|ˈɟæɴˌɢærre|ADJ|deaf|FROM 'to hear (neg)'|
 |yümömê|ˈɟymøme|ADJ|dumb / mute|FROM: *i-ulompë* 'not-wise'|
 |gharh|ˈɣær̥|ADJ|alive<br/>lively|CF: *gharke* 'life'|
 ## People and Society
@@ -739,7 +750,6 @@
 |cfärrhânj|ˈcfar̥r̥ʌɲ|N-H|child|both general & specific<br/>REG: yarhfärrhânj<br/>CF: *yerrhenj* 'baby'|
 |yerrhenj|ˈɟɛr̥r̥ɛɲ|N-H|baby||
 |yaśtanj|ˈɟæɕtæɲ|N-H|friend|FROM: *yaśta* 'friendly'|
-|ulompënj|ˈulɔm̥pɤɲ|N-H|elder / wise person|FROM: *ulompë* 'wise'|
 |uruum|ˈuruum|N-H|sadness|CF: *uruë* 'sad'|
 |śoħum|ˈɕɔħum|N-H|happiness|CF: *śoħuo* 'happy'|
 |tfâemâego|ˈtfɑe̯ˌmɑe̯gɔ|N-D|tranquility / calmness|CF: *tfâemo* 'calm'|
@@ -755,6 +765,10 @@
 |muijomh|ˈmuɪ̯jɔm̥|N-I|pride|CF: *gheħħemh* 'proud'|
 |moarâljë'|ˈmoɐ̯rʌʎɤʔ|N-I|might|CF: *arralji'* 'mighty'|
 |muikke|ˈmuˌikkɛ|N-D|greatness / magnificence|CF: *yikkiś* 'great'|
+|qâuanjh|ˈɢɑʊ̯æɲ̊|ADJ|civilised / sentient|FROM: 'to think'|
+|jêqâuanjh|ˈjeˌɢɑʊ̯æɲ̊|ADJ|wild / barbarian / non-sentient|FROM: 'to think (neg)'|
+|ârvo'|ʌrˈʋɔʔ|ADJ|ignorant|FROM: 'to ignore'|
+|qâuga|ˈɢɑʊ̯gæ|ADJ|curious / knowledge-thirsty|FROM: 'to find out/know'|
 |gheħħemh|ˈɣɛħħɛm̥|ADJ|proud||
 |arralji'|ærˈræʎiʔ|ADJ|mighty||
 |aśśo|ˈæɕɕɔ|ADJ|smug||
@@ -881,7 +895,13 @@
 |ljyzötênj|ˈʎyzøteɲ|N-H|Shch.​ king|FROM: Shch.​ /ˈlivʐoʈe/|
 |Sêtsaoeren|seˈt͡ʃæo̯ˌɛrɛn|N-H|Shechageghern language/people|FROM: *Shechageghern /ʂeˈʈ͡ʂageɣeɳ/* (endonym)|
 |sighegäxom|siˈɣegaxom|N-I|astronomy|FROM: Shch.​ /ʂiˈɣegaxom/|
-|xidmê|ˈxidme|N-I|accounting|FROM: Shch.​ /ˈhidme/|
+|xidmê|ˈxidme|N-I|accounting / recordkeeping|FROM: Shch.​ /ˈhidme/|
+|xidmênj|ˈxidmeɲ|N-H|recordkeeper|FROM: *xidmê* 'accounting'|
+|ulqâugge|ulˈɢɑʊ̯ggɛ|ADJ|knowledgeable|FROM: *ul-qâugge* 'with-knowledge'|
+|ulompënj|ˈulɔm̥pɤɲ|N-H|elder / wise person<br/>someone with much experience|FROM: *ulompë* 'wise'|
+|ulqâuggenj|ulˈɢɑʊ̯ggɛɲ|ADJ|sage / wise person<br/>someone who knows facts|FROM: *ulqâugge* 'knowledgeable'|
+|ârvo'onj|ʌrˈʋɔʔɔɲ|N-H|ignoramus<br/>(generally) idiot|FROM: *ârvo'* 'to ignore'|
+|qâuganj|ʌrˈʋɔʔɔɲ|N-H|knowledge-seeker|FROM: *qâuga* 'to find out/know'|
 |mâezuk<br/>âempâezuk<br/>mâezuk<br/>mâezuko|ˈmɑe̯zuk<br/>ˈɑe̯m̥ˌpɑe̯zuk<br/>ˈmɑe̯zuk<br/>ˈmɑe̯ˌzukɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to trade in X<br/>PERF: to trade||
 |ħârpë<br/>ienjâerpë<br/>ħârpuoñof<br/>ħârpëñ|ˈħʌr̥pɤ<br/>ˈie̯ˌɲɑe̯r̥pɤ<br/>ˈħʌr̥ˌpuo̯ɴɔf<br/>ˈħʌr̥pɤɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be prosperous<br/>PERF: to prosper||
 |elljeñi|ɛʎˈʎɛɲ̊i|V|to sell|FROM: Shch.​ /ˈɣlɛŋki/|

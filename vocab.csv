@@ -158,7 +158,6 @@ qaoa,ˈɢæo̯æ,V-PP,to start / begin,
 qaorhaoa,ˈɢæo̯ˌr̥æo̯æ,V-PN,to start / begin,
 qaoa,ˈɢæo̯æ,V-VP,to start / begin,
 qaoae,ˈɢæo̯ˌæɛ,V-VI,to start / begin,
-eumärh,ˈøʊ̯mar̥,V,to continue,FROM: *eumärh* 'to not stop'
 ca'o,ˈcæʔɔ,V-PP,to climb,CF: *ca'êr* 'ladder'
 jêddo,ˈjeddɔ,V-PN,to climb,CF: *ca'êr* 'ladder'
 ca'o,ˈcæʔɔ,V-VP,to climb,CF: *ca'êr* 'ladder'
@@ -171,6 +170,16 @@ puo,ˈpuo̯,V-PP,IMPF: to be grown;PERF: to grow (up) (intrans),CAUS = to raise/
 jêmê,ˈjeme,V-PN,IMPF: to be grown;PERF: to grow (up) (intrans),CAUS = to raise/rear
 puoñof,ˈpuo̯ɴɔf,V-VP,IMPF: to be grown;PERF: to grow (up) (intrans),CAUS = to raise/rear
 puoñ,ˈpuo̯ɴ,V-VI,IMPF: to be grown;PERF: to grow (up) (intrans),CAUS = to raise/rear
+ujöre,ˈuˌjørɛ,V,to stay (common),FROM: 'to go (neg) (common)'
+eumärh,ˈøʊ̯mar̥,V,to continue,FROM: 'to stop (neg)'
+ca'o,ˈcæʔɔ,V,to increase,FROM: 'to climb'
+jêddo,ˈjeddɔ,V,to decrease,FROM: 'to climb (neg)'
+jêñêm,ˈjeɴem,V,to resist/not bend,FROM: 'to bend (neg)'
+jêmva,ˈjemʋæ,V,to resist/remain standing,FROM: 'to lie down (neg)'
+qêśśanci,ˈɢeɕˌɕæɲ̊ci,V,to go straight,FROM: 'to turn (neg)'
+âeñqë,ˈɑe̯ɴɢɤ,V,to idle,FROM: 'to do/work (neg)'
+arrhanjh,ær̥ˈr̥æɲ̊,ADJ,nomadic/roaming,FROM: 'to travel'
+nêränjh,ˈneraɲ̊,ADJ,sedentary/settled,FROM: 'to travel (neg)'
 quljârâ,ˈɢuʎʌrʌ,N-I,movement,FROM: *quljârâ* 'to go'
 arrhanjh,ær̥ˈr̥æɲ̊,N-I,journey (by land),FROM: *arrhanjh* 'walk > travel by land'
 quoźa,ˈɢuo̯ʑæ,N-I,voyage (by sea),FROM: *quoźa* 'swim > travel by sea'
@@ -1117,8 +1126,10 @@ caśśpa',ˈcæɕɕpæʔ,N-I,cinnamon,CF: *suppa'* 'tree bark'
 caśśpattśa,ˈcæɕˈɕpæcc͡ɕæ,N-I,cinnamon tree
 murveuź,ˈmurʋøʊ̯ʑ,N-I,myrrh,CF: *tśeuź* 'resin'
 mureftśa,ˈmuˌrɛfc͡ɕæ,N-I,myrrh tree
-uruzqâugou,ˈuruzˌɢɑʊ̯gou̯,ADJ,blind,FROM: *uruzqâu* 'to darken'
-âumuzqâugou,ɑʊ̯ˈmuzˌɢɑʊ̯gou̯,ADJ,deaf,FROM: *âumuzqâu* 'to soften'
+uruzqâugou,ˈuruzˌɢɑʊ̯gou̯,ADJ,short- or long-sighted,FROM: *uruzqâu* 'to darken'
+âumuzqâugou,ɑʊ̯ˈmuzˌɢɑʊ̯gou̯,ADJ,hard of hearing/nearly deaf,FROM: *âumuzqâu* 'to soften'
+jêxieñgha',ˈjeˌxie̯ɴɣæʔ,ADJ,blind,FROM: 'to see (neg)'
+yañqarrê,ˈɟæɴˌɢærre,ADJ,deaf,FROM 'to hear (neg)'
 yümömê,ˈɟymøme,ADJ,dumb / mute,FROM: *i-ulompë* 'not-wise'
 gharh,ˈɣær̥,ADJ,alive;lively,CF: *gharke* 'life'
 xaśonj,ˈxæɕɔɲ,N-H,person (common),CF REG: *arrhaśonj* (frm)
@@ -1129,7 +1140,6 @@ ko'amponj,ˈkɔʔˌæm̥pɔɲ,N-H,man (formal),
 cfärrhânj,ˈcfar̥r̥ʌɲ,N-H,child,both general & specific;REG: yarhfärrhânj;CF: *yerrhenj* 'baby'
 yerrhenj,ˈɟɛr̥r̥ɛɲ,N-H,baby,
 yaśtanj,ˈɟæɕtæɲ,N-H,friend,FROM: *yaśta* 'friendly'
-ulompënj,ˈulɔm̥pɤɲ,N-H,elder / wise person,FROM: *ulompë* 'wise'
 uruum,ˈuruum,N-H,sadness,CF: *uruë* 'sad'
 śoħum,ˈɕɔħum,N-H,happiness,CF: *śoħuo* 'happy'
 tfâemâego,ˈtfɑe̯ˌmɑe̯gɔ,N-D,tranquility / calmness,CF: *tfâemo* 'calm'
@@ -1145,6 +1155,10 @@ muogźa,ˈmuo̯gʑæ,N-I,skillfulness / ability,CF: *kiśśa* 'skillful'
 muijomh,ˈmuɪ̯jɔm̥,N-I,pride,CF: *gheħħemh* 'proud'
 moarâljë',ˈmoɐ̯rʌʎɤʔ,N-I,might,CF: *arralji'* 'mighty'
 muikke,ˈmuˌikkɛ,N-D,greatness / magnificence,CF: *yikkiś* 'great'
+qâuanjh,ˈɢɑʊ̯æɲ̊,ADJ,civilised / sentient,FROM: 'to think'
+jêqâuanjh,ˈjeˌɢɑʊ̯æɲ̊,ADJ,wild / barbarian / non-sentient,FROM: 'to think (neg)'
+ârvo',ʌrˈʋɔʔ,ADJ,ignorant,FROM: 'to ignore'
+qâuga,ˈɢɑʊ̯gæ,ADJ,curious / knowledge-thirsty,FROM: 'to find out/know'
 gheħħemh,ˈɣɛħħɛm̥,ADJ,proud,
 arralji',ærˈræʎiʔ,ADJ,mighty,
 aśśo,ˈæɕɕɔ,ADJ,smug,
@@ -1331,7 +1345,13 @@ jêñghakkuolgo,ˈjeɴɣækˌkuo̯lgɔ,N-D,justice / balance,CF: *jêñghapp
 ljyzötênj,ˈʎyzøteɲ,N-H,Shch. king,FROM: Shch. /ˈlivʐoʈe/
 Sêtsaoeren,seˈt͡ʃæo̯ˌɛrɛn,N-H,Shechageghern language/people,FROM: *Shechageghern /ʂeˈʈ͡ʂageɣeɳ/* (endonym)
 sighegäxom,siˈɣegaxom,N-I,astronomy,FROM: Shch. /ʂiˈɣegaxom/
-xidmê,ˈxidme,N-I,accounting,FROM: Shch. /ˈhidme/
+xidmê,ˈxidme,N-I,accounting / recordkeeping,FROM: Shch. /ˈhidme/
+xidmênj,ˈxidmeɲ,N-H,recordkeeper,FROM: *xidmê* 'accounting'
+ulqâugge,ulˈɢɑʊ̯ggɛ,ADJ,knowledgeable,FROM: *ul-qâugge* 'with-knowledge'
+ulompënj,ˈulɔm̥pɤɲ,N-H,elder / wise person;someone with much experience,FROM: *ulompë* 'wise'
+ulqâuggenj,ulˈɢɑʊ̯ggɛɲ,ADJ,sage / wise person;someone who knows facts,FROM: *ulqâugge* 'knowledgeable'
+ârvo'onj,ʌrˈʋɔʔɔɲ,N-H,ignoramus;(generally) idiot,FROM: *ârvo'* 'to ignore'
+qâuganj,ʌrˈʋɔʔɔɲ,N-H,knowledge-seeker,FROM: *qâuga* 'to find out/know'
 mâezuk,ˈmɑe̯zuk,V-PP,IMPF: to trade in X;PERF: to trade,
 âempâezuk,ˈɑe̯m̥ˌpɑe̯zuk,V-PN,IMPF: to trade in X;PERF: to trade,
 mâezuk,ˈmɑe̯zuk,V-VP,IMPF: to trade in X;PERF: to trade,
