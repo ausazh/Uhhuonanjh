@@ -412,3 +412,62 @@ In addition to this, worship of one's ancestors includes acknowledging and prais
 - Royal Colour of the Seadragon Strait (*Śaśśüħênj*) and River Coast (*Xärrhättśonj*) is Purple (*Jêddźâugou*), derived from crushed seashells (*jêddźâu*)
 - Royal Colour of the Lower River region (*Puruttśonj*) is Turquoise (*Toprhâeë*), derived from minerals containing copper (*tottśof*)
 - Royal Colour of the Upper River region (*Xâeputtśonj*) is Crimson (*paccanjrhaoi*), derived from certain crushed insects (*pa'njanjh*)
+
+### Regions - Yeħħondox
+
+- **Yeħke** - The World - the entire world, known or unknown
+- **Vaoñdunj** - The Living Word
+  - technically excludes *Ljanêrmonj* (Realm of the Dead)
+  - but in practice often synonymous with *Yeħke*
+  - name related to the goddess *Vaoñdvikke*
+- The Homeland
+  - 3 names for the homeland are:
+    - **Qamkonj** - Ancestral Lands
+    - **Ljiħħeimonj** - Homelands
+    - **Kuskonj** - Land of Plenty
+  - Eventually comes to describes the urbanised parts of Uħħuonanj lands
+    - In this definition, it overlaps with parts of other regions
+- **Uonjëkkouonj** - The River Valley
+  - River name is **Vônvënjh**
+  - **Xärrhättśonj** - River Coast region
+  - **Puruttśonj** - Lower River region
+  - **Xâeputtśonj** - Upper River region
+  - **Quoźo'âenqënj** - Twin Rivers region
+  - Mediterranean climate in coast/lower regions
+  - Warm continental climate in upper/twin rivers regions
+- **Pfośħonj** - Albatross Island
+  - Strait between island and mainland is **Śaśśüênj** - Seadragon Strait
+  - name related to the word for 'albatross' *pfośśüenjh*
+  - Oceanic climate facing the strait
+  - Mediterranean climate facing the sea
+- **Ienjeħħonj** - The Northlands
+  - **Śaśśüħênj** - Seadragon Coast region
+  - **Meccêźeamonj** - Lake West region
+  - **Meccêźaorrânj** - Lake East region
+  - **Moanduâenyox** - Pine Forests region
+  - Oceanic climate in coast/west
+  - Cool continental climate in east/forest region
+- **Yinddźaħonj** - The Southlands
+  - **Ghaźbêrrânj** - Olive Coast region
+  - **Meffeśteħħênj** - Elephant Plains region
+  - **Rhiemênj** - The Savannah
+  - **Uttüvâencox** - Fisher Islands
+  - Hot mediterranean climate in coast/plains/islands
+  - Hot semi-arid climate in savannah
+- **Ârrhâfonj** - The Highlands
+  - **Jêiśħeimonj** - Mountain Springs region
+  - **Varcindüaonyex** - Hunter Forests region
+  - **Fienjafrhienyex** - The Foothills
+  - **Ghaonyappaonyex** - Rockbird Mountains
+  - Cool to Mild continental climate throughout
+  - Some alpine areas in mountains
+- **Ljanêrmonj** - Realm of the Dead / The Cursed Desert
+  - Most of these lands are traditionally considered off-limits.  They are all hot desert climates, except *Firca'innjikke* (hot semi-arid)
+  - **Färhemvaonjonj** - The Last Outpost
+    - The only part of the Realm that is traditionally allowed to be travelled to.  Barely inhabited.
+  - **Firca'innjikke** - (Plains of) The Eternal Duststorm
+    - Milder climate but land is wracked by constant duststorms
+  - **Ħancśicceuźikke** - Oasis of Spirits
+    - According to leged, the site of a flourishing tribe that defied the gods and were cursed, with their lands taken over by the Goddess of the Dead.
+  - **Ħa'üħħercakke** - Ashen Mountains
+    - The mythical home of the Flame Bird, *Ħanjmitśko*

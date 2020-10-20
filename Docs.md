@@ -4,16 +4,16 @@
 
 The words *Uħħuononj* and *Uħħuonanjh* simply mean 'tribe' and 'language spoken by a tribe' respectively - the Uħħuononj as a whole were never a united people and there was no specific word to denote them as a group as opposed to other groups.
 
-Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* /ˈuo̯ɲɤkˌkou̯ɔɲ/ region (the river valley) and its surrounds, known variably as *Qamkonj* /ˈɢæm̥kɔɲ/ 'Land of Ancestors', *Ljiħħeimonj* /ˈʎiħˌħei̯mɔɲ/ 'Land of Birth' or *Kuskonj* /ˈkuskɔɲ/ 'Land of Plenty'.  The major river is known as the *Vônvënjh* /ˈʋonʋɤɲ̊/.
+Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* /ˈuo̯ɲɤkˌkou̯ɔɲ/ region (the river valley) and its surrounds, known variably as *Qamkonj* /ˈɢæm̥kɔɲ/ 'Land of Ancestors', *Ljiħħeimonj* /ˈʎiħˌħei̯mɔɲ/ 'Land of Birth' or *Kuskonj* /ˈkuskɔɲ/ 'Land of Plenty'.  The major river is known as the *Vônvënjh* /ˈʋonʋɤɲ̊/.
 
 ## Overview Timeline
 
 - Late Neolithic - Shechageghern migration
-- Early Bronze Age - Cities form in the Lower Valley (*Puruttśonj* and *Xärrhättśonj* regions)
-- Early-Mid Bronze Age - Cities form in the Upper Valley (*Xâeputtśonj*); Kingdoms (*vakkeħħonj*) form in the Lower Valley region
+- Early Bronze Age - Cities form in the Lower Valley (*Puruttśonj* and *Xärrhättśonj* regions)
+- Early-Mid Bronze Age - Cities form in the Upper Valley (*Xâeputtśonj*); Kingdoms (*vakkeħħonj*) form in the Lower Valley region
 - Mid Bronze Age - Lower Kingdoms come to dominate the entire *Qamkonj* (homeland) region, building new cities in the region but also triggering local tribes to migrate further afield
 - Late Bronze Age - A combination of invasions and catastrophic floods decimates the Lower Kingdoms, leading to the creation of Upper Valley kingdoms as well as a large emigration from the Lower Valley towards lands outside the *Qamkonj* (homelands).
-- Early Iron Age - The discovery of ironworking propels one particular kingdom in the Upper Valley to harness it for military use, quickly subjugating its neighbours and then unifying the entire *Uonjëkkouonj* (river valley) into the *Fieggeħħuogo* (Central/Divine Kingdom).
+- Early Iron Age - The discovery of ironworking propels one particular kingdom in the Upper Valley to harness it for military use, quickly subjugating its neighbours and then unifying the entire *Uonjëkkouonj* (river valley) into the *Fieggeħħuogo* (Central/Divine Kingdom).
 - Mid Iron Age - The *Fieggeħħuogo* Kingdom continues to expand through the *Qamkonj* (homeland) region and beyond.  They are able to expand rapidly through the south, but are unable to expand very far north and east due to thick forests and difficult terrain.
 - Late Iron Age - Political troubles, droughts and foreign invasions in the *Fieggeħħuogo* Kingdom lead to its fracture into a number of separate states and a long period of chaos, during which a large portion of *Qamkonj* inhabitants emigrate northward.
 
@@ -21,7 +21,7 @@ Most of the Uħħuononj were concentrated in the *Uonjëkkouonj* /ˈuo̯ɲɤkˌ
 
 Little direct contact with Proto-TU, most trade and contact was done through Shechageghern intermediaries.
 
-Trade routes between Uhhuonanj and Shechageghern lands were common.
+Trade routes between Uħħuonanj and Shechageghern lands were common.
 
 ## Chapters
 
@@ -77,7 +77,7 @@ These are also split into 12 back vowels, 12 front vowels and 1 central vowel, w
 |close    |/i/ /y/|/ie̯/     |   |/uɪ̯/ /u/|/uo̯/     |
 |close-mid|/e/ /ø/|/ei̯/ /øʊ̯/|   |/ɤ/ /o/ |/ɤɪ̯/ /ou̯/|
 |open-mid |/ɛ/    |/eɐ̯/     |   |/ʌ/ /ɔ/ |/oɐ̯/     |
-|open     |/æ/    |/æɪ̯/ /æo̯/|/ä/|        |/ɑʊ̯/ /ɑe̯/|
+|open     |/æ/    |/æɪ̯/ /æo̯/|/ä/|        |/ɑʊ̯/ /ɑe̯/|
 
 ### Consonant Inventory
 
@@ -119,7 +119,7 @@ In writing, vowel diphthongs are not distinguished from vowels in hiatus, though
 | /ie̯/  | ie    | /ei̯/  | ei    | /uo̯/  | uo    | /ou̯/  | ou    |
 | /øʊ̯/  | eu    | /eɐ̯/  | ea    | /ɤɪ̯/  | oi    | /oɐ̯/  | oa    |
 | /æɪ̯/  | ai    | /æo̯/  | ao    | /ɑʊ̯/  | âu    | /ɑe̯/  | âe    |
-| /ä/   | ä     |       |       |       |       |       |       |
+| /ä/   | ä     |       |       |       |       |       |       |
 
 ### Consonants
 
@@ -132,11 +132,11 @@ Palatal digraphs with J, /ɲ̊/, /ɲ/ and /ʎ/, are written without the J when p
 |/m̥/, /m/| m     |/n̥/, /n/| n     |/ɲ̊/, /ɲ/| nj    |/ɴ̥/, /ɴ/| ñ     |
 | /p/    | p     | /b/    | b     | /f/    | f     | /ʋ/    | v     |
 | /t/    | t     | /d/    | d     | /s/    | s     | /z/    | s     |
-| /c/    | c     | /ɟ/    | y     | /ɕ/    | ś     | /ʑ/    | ź     |
+| /c/    | c     | /ɟ/    | y     | /ɕ/    | ś     | /ʑ/    | ź     |
 | /k/    | k     | /g/    | g     | /x/    | x     | /ɣ/    | gh    |
 | /ʔ/    | '     | /ɢ/    | q     | /ħ/    | ħ     |        |       |
-| /t͡ʃ/   | ts    | /d͡ʒ/   | dz    | /c͡ɕ/   | tś    | /ɟ͡ʑ/   | dź    |
-| /ɹ/    | ŕ     | /l/    | l     | /j/    | j     | /ʎ/    | lj    |
+| /t͡ʃ/   | ts    | /d͡ʒ/   | dz    | /c͡ɕ/   | tś    | /ɟ͡ʑ/   | dź    |
+| /ɹ/    | ŕ     | /l/    | l     | /j/    | j     | /ʎ/    | lj    |
 | /r̥/    | rh    | /r/    | r     |        |       |        |       |
 
 ## Prosody
@@ -147,7 +147,7 @@ Palatal digraphs with J, /ɲ̊/, /ɲ/ and /ʎ/, are written without the J when p
 
 The first stress of a word root is the Primary Stress, realised with a high pitch and high volume, or mid-high pitch when no secondary stress is present.  Every other stress is a Secondary Stress, this is realised with a low pitch and equally high volume, or mid-low when another secondary stress follows.  Syllables after the primary and before a secondary stress tend to carry mid-high pitch; all other unstressed syllables carry a mid to mid-low pitch.  Some affixes carry their own Primary Stress, though this is rare (mostly derivational affixes).  An example of stress and pitch:
 
-- Quoźo'âenquëx quo'onjëx fesqampondoxkou
+- Quoźo'âenquëx quo'onjëx fesqampondoxkou
   - 'to the family/ies of the couple from The Twin Rivers'
   - /ˈɢuo̯ʑɔˌʔɑe̯nɢuɤx ˈɢuo̯ʔɔɲɤx ˈfɛsˌɢæm̥pɔnˌdɔxkou̯/
   - /ˈɢuo̯˥ʑɔ˦ˌʔɑe̯n˩ɢu˧ɤx˧ ˈɢuo̯˦ʔɔ˧ɲɤx˧ ˈfɛs˥ˌɢæm̥˨pɔn˧ˌdɔx˩kou̯˧/
@@ -168,7 +168,7 @@ Front stressed syllables tend to lead to fronting of back vowels while Back stre
 
 [back to chapter top](#2-phonology-and-romanisation)
 
-Over the course of phonological evolution, some words picked up an unstressed prefix before an initial trill (note that some initial trills were generated *after* this process and thus don't have one).  This prefix is removed when a prefix is added to the word.  Example: *yiñ + (ar)rhanjh* 'pre- + standing' >> *yiñrhanjh*
+Over the course of phonological evolution, some words picked up an unstressed prefix before an initial trill (note that some initial trills were generated *after* this process and thus don't have one).  This prefix is removed when a prefix is added to the word.  Example: *yiñ + (ar)rhanjh* 'pre- + standing' >> *yiñrhanjh*
 
 ---
 
@@ -242,17 +242,17 @@ Class inflections can be 'added' to words in certain situations, such as in regu
 
 ### Inanimate Class
 
-Example nouns: *püañh* 'meat stew' (front vowel) and *tuñgo* 'sorghum grain' (back vowel)
+Example nouns: *püañh* 'meat stew' (front vowel) and *tuñgo* 'sorghum grain' (back vowel)
 
 The Locative case ending derives from the old Instrumental case ending, instead of the Locative case ending for all other classes.
 
 |case|ending              | example A | IPA         | example B | IPA        |
 |----|------------        |-----------|-------------|-----------|------------|
-|NOM | -te, -to           | püañte    | /ˈpyæɴ̥tɛ/   | tuñgoto   | /ˈtuɴgɔtɔ/ |
-|ACC | no ending          | püañh     | /ˈpyæɴ̥/     | tuñgo     | /ˈtuɴgɔ/   |
-|DAT |-(e)njêrh, -(o)nôrh | püañenjêrh| /ˈpyæɴ̥ɛɲer̥/ | tuñgonôrh | /ˈtuɴgɔnor̥/|
-|GEN | -ix, -ëx           | püañix    | /ˈpyæɴ̥ix/   | tuñgoëx   | /ˈtuɴgɔɤx/ |
-|LOC | -êra, -ôra         | püañêra   | /ˈpyæɴ̥eræ/  | tuñgoôra  | /ˈtuɴgɔoræ/|
+|NOM | -te, -to           | püañte    | /ˈpyæɴ̥tɛ/   | tuñgoto   | /ˈtuɴgɔtɔ/ |
+|ACC | no ending          | püañh     | /ˈpyæɴ̥/     | tuñgo     | /ˈtuɴgɔ/   |
+|DAT |-(e)njêrh, -(o)nôrh | püañenjêrh| /ˈpyæɴ̥ɛɲer̥/ | tuñgonôrh | /ˈtuɴgɔnor̥/|
+|GEN | -ix, -ëx           | püañix    | /ˈpyæɴ̥ix/   | tuñgoëx   | /ˈtuɴgɔɤx/ |
+|LOC | -êra, -ôra         | püañêra   | /ˈpyæɴ̥eræ/  | tuñgoôra  | /ˈtuɴgɔoræ/|
 
 Words with a final glottal stop interact with the suffix to give slightly different inflections.  Example noun: *qâ* 'what'
 
@@ -266,31 +266,31 @@ Words with a final glottal stop interact with the suffix to give slightly differ
 
 ### Animate Class
 
-Example nouns: *ħeianjh* 'pig' (front vowel) and *ħâeljonjh* 'insect' (back vowel)
+Example nouns: *ħeianjh* 'pig' (front vowel) and *ħâeljonjh* 'insect' (back vowel)
 
 Singular:
 
 |case |ending          | example A  | IPA         | example B   | IPA          |
 |-----|------------    |------------|-------------|-----------  |------------  |
-|NOM.s| -njh           | ħeianjh    | /ˈħei̯æɲ̊/    | ħâeljonjh   | /ˈħɑe̯ʎɔɲ̊/    |
-|ACC.s| -ñkeu, -ñkou   | ħeiañkeu   | /ˈħei̯æɴ̥køʊ̯/ | ħâeljoñkou  | /ˈħɑe̯ʎɔɴ̥kou̯/ |
-|DAT.s| -ncêrh, -ntôrh | ħeiancêrh  | /ˈħei̯æɲ̊cer̥/ | ħâeljontôrh | /ˈħɑe̯ʎɔn̥tor̥/ |
-|GEN.s| -njix, -njëx   | ħeianjix   | /ˈħei̯æɲ̊ix/  | ħâeljonjëx  | /ˈħɑe̯ʎɔɲ̊ɤx/  |
-|LOC.s| -ñah           | ħeiañaħ    | /ˈħei̯æɴ̥æħ/  | ħâeljoñaħ   | /ˈħɑe̯ʎɔɴ̥æħ/  |
+|NOM.s| -njh           | ħeianjh    | /ˈħei̯æɲ̊/    | ħâeljonjh   | /ˈħɑe̯ʎɔɲ̊/    |
+|ACC.s| -ñkeu, -ñkou   | ħeiañkeu   | /ˈħei̯æɴ̥køʊ̯/ | ħâeljoñkou  | /ˈħɑe̯ʎɔɴ̥kou̯/ |
+|DAT.s| -ncêrh, -ntôrh | ħeiancêrh  | /ˈħei̯æɲ̊cer̥/ | ħâeljontôrh | /ˈħɑe̯ʎɔn̥tor̥/ |
+|GEN.s| -njix, -njëx   | ħeianjix   | /ˈħei̯æɲ̊ix/  | ħâeljonjëx  | /ˈħɑe̯ʎɔɲ̊ɤx/  |
+|LOC.s| -ñah           | ħeiañaħ    | /ˈħei̯æɴ̥æħ/  | ħâeljoñaħ   | /ˈħɑe̯ʎɔɴ̥æħ/  |
 
 Plural:
 
 |case |ending      | example A   | IPA         | example B   | IPA          |
 |-----|------------|------------ |-------------|-----------  |------------  |
-|NOM.p|-ncex, -ncox| ħeiancex    | /ˈħei̯æɲ̊cɛx/ | ħâeljoncox  | /ˈħɑe̯ʎɔɲ̊cɔx/ |
-|ACC.p|-ntoxkou   |ħeiantoxkou|/ˈħei̯æn̥ˌtɔxkou̯/|ħâeljontoxkou|/ˈħɑe̯ʎɔn̥ˌtɔxkou̯/|
-|DAT.p|-ncienjerh|ħeiancienjerh|/ˈħei̯æɲ̊ˌcie̯ɲɛr̥/|ħâeljoncienjerh|/ˈħɑe̯ʎɔɲ̊ˌcie̯ɲɛr̥/|
-|GEN.p|-ntoxëx     | ħeiantoxëx  |/ˈħei̯æn̥ˌtɔxɤx/|ħâeljontoxëx|/ˈħɑe̯ʎɔn̥ˌtɔxɤx/|
-|LOC.p|-ncâeñaħ   | ħeiancâeñaħ|/ˈħei̯æɲ̊ˌcɑe̯ɴæħ/|ħâeljoncâeñaħ|/ˈħɑe̯ʎɔɲ̊ˌcɑe̯ɴæħ/|
+|NOM.p|-ncex, -ncox| ħeiancex    | /ˈħei̯æɲ̊cɛx/ | ħâeljoncox  | /ˈħɑe̯ʎɔɲ̊cɔx/ |
+|ACC.p|-ntoxkou   |ħeiantoxkou|/ˈħei̯æn̥ˌtɔxkou̯/|ħâeljontoxkou|/ˈħɑe̯ʎɔn̥ˌtɔxkou̯/|
+|DAT.p|-ncienjerh|ħeiancienjerh|/ˈħei̯æɲ̊ˌcie̯ɲɛr̥/|ħâeljoncienjerh|/ˈħɑe̯ʎɔɲ̊ˌcie̯ɲɛr̥/|
+|GEN.p|-ntoxëx     | ħeiantoxëx  |/ˈħei̯æn̥ˌtɔxɤx/|ħâeljontoxëx|/ˈħɑe̯ʎɔn̥ˌtɔxɤx/|
+|LOC.p|-ncâeñaħ   | ħeiancâeñaħ|/ˈħei̯æɲ̊ˌcɑe̯ɴæħ/|ħâeljoncâeñaħ|/ˈħɑe̯ʎɔɲ̊ˌcɑe̯ɴæħ/|
 
 ### Human Class
 
-Example nouns: *źñärhên* 'miner' (front vowel) and *uttum* 'netmaker/fisher' (back vowel)
+Example nouns: *źñärhên* 'miner' (front vowel) and *uttum* 'netmaker/fisher' (back vowel)
 
 Capital 'N' in the following table stands for whichever nasal exists in the original root
 
@@ -300,50 +300,50 @@ Singular:
 
 |case |ending        | example A  | IPA          | example B | IPA         |
 |-----|----------    |------------|--------------|---------  |-----------  |
-|NOM.s| -N           | źñärhên    | /ˈʑɴar̥en/    | uttum     | /ˈuttum/    |
-|ACC.s| -ñgeu, -ñgou | źñärhêñgeu | /ˈʑɴar̥eɴgøʊ̯/ | uttuñgou  | /ˈuttuɴgou̯/ |
-|DAT.s| -nenj, -nonj | źñärhênenj | /ˈʑɴar̥enɛɲ/  | uttunonj  | /ˈuttunɔɲ/  |
-|GEN.s| -njix, -njëx | źñärhênjix | /ˈʑɴar̥eɲix/  | uttunjëx  | /ˈuttuɲɤx/  |
-|LOC.s| -ñah         | źñärhêñaħ  | /ˈʑɴar̥eɴæħ/  | uttuñaħ   | /ˈuttuɴæħ/  |
+|NOM.s| -N           | źñärhên    | /ˈʑɴar̥en/    | uttum     | /ˈuttum/    |
+|ACC.s| -ñgeu, -ñgou | źñärhêñgeu | /ˈʑɴar̥eɴgøʊ̯/ | uttuñgou  | /ˈuttuɴgou̯/ |
+|DAT.s| -nenj, -nonj | źñärhênenj | /ˈʑɴar̥enɛɲ/  | uttunonj  | /ˈuttunɔɲ/  |
+|GEN.s| -njix, -njëx | źñärhênjix | /ˈʑɴar̥eɲix/  | uttunjëx  | /ˈuttuɲɤx/  |
+|LOC.s| -ñah         | źñärhêñaħ  | /ˈʑɴar̥eɴæħ/  | uttuñaħ   | /ˈuttuɴæħ/  |
 
 Dual:
 
 |case |ending   | example A    | IPA             |example B   | IPA            |
 |-----|-------- |------------  |--------------   |--------    |-----------     |
-|NOM.d|-ñqênj, -ñqënj|źñärhêñqênj|/ˈʑɴar̥eɴɢeɲ/ |uttuñqënj   | /ˈuttuɴɢɤɲ/    |
-|ACC.d|-ñquoggou|źñärhêñquoggou|/ˈʑɴar̥eɴˌɢuo̯ggou̯/|uttuñquoggou|/ˈuttuɴˌɢuo̯ggou̯/|
-|DAT.d|-ñquoyyër|źñärhêñquoyyër|/ˈʑɴar̥eɴˌɢuo̯ɟɟɤr/|uttuñquoyyër|/ˈuttuɴˌɢuo̯ɟɟɤr/|
-|GEN.d|-ñquëx   |źñärhêñquëx   |/ˈʑɴar̥eɴˌɢuɤx/   |uttuñquëx   | /ˈuttuɴˌɢuɤx/  |
-|LOC.d|-ñquoñqaħ|źñärhêñquoñqaħ|/ˈʑɴar̥eɴˌɢuo̯ɴɢæħ/|uttuñquoñqaħ|/ˈuttuɴˌɢuo̯ɴɢæħ/|
+|NOM.d|-ñqênj, -ñqënj|źñärhêñqênj|/ˈʑɴar̥eɴɢeɲ/ |uttuñqënj   | /ˈuttuɴɢɤɲ/    |
+|ACC.d|-ñquoggou|źñärhêñquoggou|/ˈʑɴar̥eɴˌɢuo̯ggou̯/|uttuñquoggou|/ˈuttuɴˌɢuo̯ggou̯/|
+|DAT.d|-ñquoyyër|źñärhêñquoyyër|/ˈʑɴar̥eɴˌɢuo̯ɟɟɤr/|uttuñquoyyër|/ˈuttuɴˌɢuo̯ɟɟɤr/|
+|GEN.d|-ñquëx   |źñärhêñquëx   |/ˈʑɴar̥eɴˌɢuɤx/   |uttuñquëx   | /ˈuttuɴˌɢuɤx/  |
+|LOC.d|-ñquoñqaħ|źñärhêñquoñqaħ|/ˈʑɴar̥eɴˌɢuo̯ɴɢæħ/|uttuñquoñqaħ|/ˈuttuɴˌɢuo̯ɴɢæħ/|
 
 Plural:
 
 |case |ending   | example A      | IPA          | example B | IPA         |
 |-----|---------|------------    |--------------|---------  |-----------  |
-|NOM.p|-nyex, -ndox|źñärhênyex |/ˈʑɴar̥eɲɟɛx/  | uttundox   | /ˈuttundɔx/    |
-|ACC.p|-ndoxkou  |źñärhêndoxkou  |/ˈʑɴar̥enˌdɔxkou̯/|uttundoxkou|/ˈuttunˌdɔxkou̯/|
-|DAT.p|-nyienjerh|źñärhênyienjerh|/ˈʑɴar̥eɲˌɟie̯ɲɛr̥/|uttunyienjerh|/ˈuttuɲˌɟie̯ɲɛr̥/|
-|GEN.p|-ndoxëx   |źñärhêndoxëx   |/ˈʑɴar̥enˌdɔxɤx/ | uttundoxëx  | /ˈuttunˌdɔxɤx/  |
-|LOC.p|-nyâeñaħ  |źñärhênyâeñaħ  |/ˈʑɴar̥eɲˌɟɑe̯ɴæħ/|uttunyâeñaħ|/ˈuttuɲˌɟɑe̯ɴæħ/|
+|NOM.p|-nyex, -ndox|źñärhênyex |/ˈʑɴar̥eɲɟɛx/  | uttundox   | /ˈuttundɔx/    |
+|ACC.p|-ndoxkou  |źñärhêndoxkou  |/ˈʑɴar̥enˌdɔxkou̯/|uttundoxkou|/ˈuttunˌdɔxkou̯/|
+|DAT.p|-nyienjerh|źñärhênyienjerh|/ˈʑɴar̥eɲˌɟie̯ɲɛr̥/|uttunyienjerh|/ˈuttuɲˌɟie̯ɲɛr̥/|
+|GEN.p|-ndoxëx   |źñärhêndoxëx   |/ˈʑɴar̥enˌdɔxɤx/ | uttundoxëx  | /ˈuttunˌdɔxɤx/  |
+|LOC.p|-nyâeñaħ  |źñärhênyâeñaħ  |/ˈʑɴar̥eɲˌɟɑe̯ɴæħ/|uttunyâeñaħ|/ˈuttuɲˌɟɑe̯ɴæħ/|
 
 ### Divine Class
 
 - Example nouns:  
   - *qamke* /ˈɢæm̥kɛ/ '(personal) ancestor'
-  - *ghâudokko* /ˈɣɑʊ̯ˌdɔkkɔ/ 'deity'
+  - *ghâudokko* /ˈɣɑʊ̯ˌdɔkkɔ/ 'deity'
   - *ghu'iegge* /ˈɣuʔˌie̯ggɛ/ 'medicinal honey'
-  - *zuñgo* /ˈzuɴgɔ/ 'eulogy'
+  - *zuñgo* /ˈzuɴgɔ/ 'eulogy'
 
 Divine class nouns ending vary by un/voiced and simple/geminate stop, back/front vowel, giving 8 possible endings.  To inflect, follow the attributes of the base noun.  The Locative case is the only case which changes depending on gemination.
 
 |case |ending        | example A| IPA       | example B   | IPA         |
 |-----|----------    |---------|------------|---------    |-----------  |
-| NOM | -ke, -ko     | qamke   | /ˈɢæm̥kɛ/   | ghâudokko   | /ˈɣɑʊ̯ˌdɔkkɔ/ |
-| ACC | -keu, -kou   | qamkeu  | /ˈɢæm̥køʊ̯/  | ghâudokkou  | /ˈɣɑʊ̯ˌdɔkkou̯/ |
-| DAT | -kêrh, -kôrh | qamkêrh | /ˈɢæm̥ker̥/  | ghâudokkôrh | /ˈɣɑʊ̯ˌdɔkkor̥/  |
-| GEN | -kix, -këx   | qamkix  | /ˈɢæm̥kix/  | ghâudokkëx  | /ˈɣɑʊ̯ˌdɔkkɤx/  |
-| LOC | -kaħ, -ñkaħ  | qamkaħ  | /ˈɢæm̥kæħ/  | ghâudoñkaħ  | /ˈɣɑʊ̯ˌdɔɴ̥kæħ/  |
-| LOC | -gaħ, -ñgaħ  | ghu'ieñgaħ | /ˈɣuʔˌie̯ɴgæħ/ | zuñgaħ| /ˈˈzuɴgæħ/  |
+| NOM | -ke, -ko     | qamke   | /ˈɢæm̥kɛ/   | ghâudokko   | /ˈɣɑʊ̯ˌdɔkkɔ/ |
+| ACC | -keu, -kou   | qamkeu  | /ˈɢæm̥køʊ̯/  | ghâudokkou  | /ˈɣɑʊ̯ˌdɔkkou̯/ |
+| DAT | -kêrh, -kôrh | qamkêrh | /ˈɢæm̥ker̥/  | ghâudokkôrh | /ˈɣɑʊ̯ˌdɔkkor̥/  |
+| GEN | -kix, -këx   | qamkix  | /ˈɢæm̥kix/  | ghâudokkëx  | /ˈɣɑʊ̯ˌdɔkkɤx/  |
+| LOC | -kaħ, -ñkaħ  | qamkaħ  | /ˈɢæm̥kæħ/  | ghâudoñkaħ  | /ˈɣɑʊ̯ˌdɔɴ̥kæħ/  |
+| LOC | -gaħ, -ñgaħ  | ghu'ieñgaħ | /ˈɣuʔˌie̯ɴgæħ/ | zuñgaħ| /ˈˈzuɴgæħ/  |
 
 ## Determiners
 
@@ -365,7 +365,7 @@ Along with these proximity levels there is an additional Interrogative / Indefin
 
 |Meaning|Inanimate  |Animate       |Human        |Divine           |
 |-------|---------- |-------       |-----        |------           |
-| PRX   |aoś /ˈæo̯ɕ/ |einjh /ˈei̯ɲ̊/  |ein /ˈei̯n/   |âuśko /ˈɑʊ̯ɕkɔ/   |
+| PRX   |aoś /ˈæo̯ɕ/ |einjh /ˈei̯ɲ̊/  |ein /ˈei̯n/   |âuśko /ˈɑʊ̯ɕkɔ/   |
 | MED   |gha' /ˈɣæʔ/|ghamh /ˈɣæm̥/  |ghom /ˈɣɔm/  |ghaokke /ˈɣæo̯kkɛ/|
 | DST   |mi' /ˈmiʔ/ |meanjh /ˈmeɐ̯ɲ̊/|meunj /ˈmøʊ̯ɲ/|mikke /ˈmikkɛ/   |
 | INT   |qâ' /ˈqʌʔ/ |qâmh /ˈqʌm̥/   |qâem /ˈqɑe̯m/ |qâkke /ˈqʌkkɛ/   |
@@ -373,7 +373,7 @@ Along with these proximity levels there is an additional Interrogative / Indefin
 |Meaning|Animate Plur.      |Human Dual          |Human Plur.        |
 |-------|-------            |-----               |-----              |
 | PRX   |eincex /ˈei̯ɲ̊cɛx/   |eiqênj /ˈei̯ɢeɲ/     |einyex /ˈei̯ɲɟɛx/   |
-| MED   |ghaomcex /ˈɣæo̯m̥cɛx/|ghâemqënj /ˈɣɑe̯mɢɤɲ/|ghâemyox /ˈɣɑe̯mɟɔx/|
+| MED   |ghaomcex /ˈɣæo̯m̥cɛx/|ghâemqënj /ˈɣɑe̯mɢɤɲ/|ghâemyox /ˈɣɑe̯mɟɔx/|
 | DST   |meancex /ˈmeɐ̯ɲ̊cɛx/ |meunqênj /ˈmøʊ̯nɢeɲ/ |meunyex /ˈmøʊ̯ɲɟɛx/ |
 | INT   |qâmtox /ˈqʌm̥tɔx/   |qâemqënj /ˈqɑe̯mɢɤɲ/ |qâemyox /ˈqɑe̯mɟɔx/ |
 
@@ -383,16 +383,16 @@ Quantifiers agree only for the noun's Class, while Numbers are always invariant.
 
 Note that there is little distinction between mass and countable nouns, so there are no different words for countable vs uncountable nouns or grammatical restrictions on the use of these words with 'uncountable' nouns.
 
-The 'Indefinite quantifier' can mean either 'some X' (as in 'some person') or 'any X'.  Deriving from *rhe* 'one', it shares a form when modifying inanimate nouns, thus *rhe tfaśśa* can mean either 'one tree' or 'any tree/some tree'.
+The 'Indefinite quantifier' can mean either 'some X' (as in 'some person') or 'any X'.  Deriving from *rhe* 'one', it shares a form when modifying inanimate nouns, thus *rhe tfaśśa* can mean either 'one tree' or 'any tree/some tree'.
 
 |Meaning| English eg |Inanimate    |Animate         |Human           |Divine           |
 |-------| ---------- |----------   |-------         |-----           |------           |
-| No    | No pigs    |quś /ˈɢuɕ/   |qvanjh /ˈɢʋæɲ̊/  |qvâenj /ˈɢʋɑe̯ɲ/ |quśko /ˈɢuɕkɔ/   |
-| Less  | Less pigs  |quto /ˈɢutɔ/ |qutonjh /ˈɢutɔɲ̊/|qutënj /ˈɢutɤɲ/ |qukke /ˈɢukkɛ/   |
+| No    | No pigs    |quś /ˈɢuɕ/   |qvanjh /ˈɢʋæɲ̊/  |qvâenj /ˈɢʋɑe̯ɲ/ |quśko /ˈɢuɕkɔ/   |
+| Less  | Less pigs  |quto /ˈɢutɔ/ |qutonjh /ˈɢutɔɲ̊/|qutënj /ˈɢutɤɲ/ |qukke /ˈɢukkɛ/   |
 | More  | More pigs  |vete /ˈʋɛtɛ/ |vetenjh /ˈʋɛtɛɲ̊/|vetênj /ˈʋɛteɲ/ |vekko /ˈʋɛkkɔ/   |
 | Few   | Few pigs   |xê /ˈxe/     |xênjh /ˈxeɲ̊/    |xên /ˈxen/      |xêkke /ˈxekkɛ/   |
-| Some  | Some pigs  |xieñ /ˈxie̯ɴ/ |xeñh /ˈxɛɴ̥/     |xieñ /ˈxie̯ɴ/    |xieñge /ˈxie̯ɴgɛ/ |
-| Many  | Many pigs  |ku' /ˈkuʔ/   |kfanjh /ˈkfæɲ̊/  |kfâenj /ˈkfɑe̯ɲ/ |kukko /ˈkukkɔ/   |
+| Some  | Some pigs  |xieñ /ˈxie̯ɴ/ |xeñh /ˈxɛɴ̥/     |xieñ /ˈxie̯ɴ/    |xieñge /ˈxie̯ɴgɛ/ |
+| Many  | Many pigs  |ku' /ˈkuʔ/   |kfanjh /ˈkfæɲ̊/  |kfâenj /ˈkfɑe̯ɲ/ |kukko /ˈkukkɔ/   |
 | Every | Every pig  |qeaħ /ˈɢeɐ̯ħ/ |qeanjh /ˈɢeɐ̯ɲ̊/  |qaonj /ˈɢæo̯ɲ/   |qaikke /ˈɢæɪ̯kkɛ/ |
 | INDEF | Some pig   |rhe /ˈr̥ɛ/    |rhenjh /ˈr̥ɛɲ̊/   |rhenj /ˈr̥ɛɲ/    |rhekke /ˈr̥ɛkkɛ/  |
 
@@ -402,12 +402,12 @@ Numbers will be presented in section 5.5 Semantics - Numbers and Measurement.
 
 | Uħħuonanjh      | English                   |
 |---------------- |--------------------       |
-| xieñ püante     | some meat stew (I)        |
-| xeñh ħâeljonjh  | some insects (A)          |
-| qvâenj uttuñaħ  | with no fishers (H.LOC)   |
+| xieñ püante     | some meat stew (I)        |
+| xeñh ħâeljonjh  | some insects (A)          |
+| qvâenj uttuñaħ  | with no fishers (H.LOC)   |
 | qaikke qamkêrh  | to every ancestor (D.DAT) |
 | ljêr qamke      | five ancestors (D)        |
-| ljêr źñärhênjix | from five miners (H.GEN)  |
+| ljêr źñärhênjix | from five miners (H.GEN)  |
 
 ## Pronouns
 
@@ -430,16 +430,16 @@ The pronouns for 3As (3rd person Animate singular) and 3Hs (3rd person Human sin
 |-----|------------- |---------------|--------  |-------- |-------- |
 | 1s  | mvo /ˈmʋɔ/   | fea /ˈfeɐ̯/    | fêrh     | fix     | faħ     |
 | 1p  | ghâu /ˈɣɑʊ̯/  | poa /ˈpoɐ̯/    | pôrh     | pëx     | paħ     |
-| 2s  | u' /ˈuʔ/     | tśarh /ˈc͡ɕær̥/ | tśarêrh  | tśarix  | tśaraħ  |
+| 2s  | u' /ˈuʔ/     | tśarh /ˈc͡ɕær̥/ | tśarêrh  | tśarix  | tśaraħ  |
 | 2d  | ljarh /ˈʎær̥/ | ghaem /ˈɣɑe̯m/ | ghaemôrh | ghaemëx | ghaemaħ |
-| 2p  | me /ˈmɛ/     | źieñ /ˈʑie̯ɴ/  | źieñêrh  | źieñix  | źieñaħ  |
+| 2p  | me /ˈmɛ/     | źieñ /ˈʑie̯ɴ/  | źieñêrh  | źieñix  | źieñaħ  |
 | 3Is | qâħ /ˈɢʌħ/   | yêr /ˈɟer/    | yerêrh   | yerix   | yeraħ   |
 | 3As | qeñh /ˈɢɛɴ̥/  | yeañh /ˈɟeɐ̯ɴ̥/ | yeañêrh  | yeañix  | yeañaħ  |
-| 3Ap | ñenjh /ˈɴɛɲ̊/ | veañh /ˈʋeɐ̯ɴ̥/ | veañêrh  | veañix  | veañaħ  |
+| 3Ap | ñenjh /ˈɴɛɲ̊/ | veañh /ˈʋeɐ̯ɴ̥/ | veañêrh  | veañix  | veañaħ  |
 | 3Hs | qâuñ /ˈɢɑʊ̯ɴ/ | yeañ /ˈɟeɐ̯ɴ/  | yeañêrh  | yeañix  | yeañaħ  |
 | 3Hd | reunj /ˈrøʊ̯ɲ/|ghuonj /ˈɣuo̯ɲ/ |ghuonjôrh |ghuonjëx |ghuonjaħ |
-| 3Hp | ñâenj /ˈɴɑe̯ɲ/| vaoñ /ˈʋæo̯ɴ/  | vaoñêrh  | vaoñix  | vaoñaħ  |
-| 3D  |ñikke /ˈɴikkɛ/|vehke /ˈʋɛħkɛ/ | vehkêrh  | vehkix  | vehkaħ  |
+| 3Hp | ñâenj /ˈɴɑe̯ɲ/| vaoñ /ˈʋæo̯ɴ/  | vaoñêrh  | vaoñix  | vaoñaħ  |
+| 3D  |ñikke /ˈɴikkɛ/|vehke /ˈʋɛħkɛ/ | vehkêrh  | vehkix  | vehkaħ  |
 
 ### Demonstrative and Interrogative Pronouns
 
@@ -459,10 +459,10 @@ The above interrogative pronoun can be used in the same way as the demonstrative
 | what (A)                                  | qâmh     | ANIM   | NOM |
 | what (A.plur)                             | qâmtox   | INAN.p | NOM |
 | who                                       | qâem     | HUMN   | NOM |
-| whom                                      | qâeñgou  | HUMN   | ACC |
+| whom                                      | qâeñgou  | HUMN   | ACC |
 | to whom, for whom                         | qâenonj  | HUMN   | DAT |
 | from whom, because of whom                | qâenjëx  | HUMN   | GEN |
-| with whom                                 | qâeñaħ   | HUMN   | LOC |
+| with whom                                 | qâeñaħ   | HUMN   | LOC |
 | which 2 people                            | qâemqënj | HUMN.d | NOM |
 | who (H.plur)                              | qâemyox  | HUMN.p | NOM |
 | what (D)                                  | qâkke    | DIVN   | NOM |
@@ -504,11 +504,11 @@ The corresponding meaning of each quantifier is as follows:
 
 | Quantifier   | Meaning                    | INAN-ACC  |
 | ------------ | -------------------------- | --------- |
-| No           | Nothing, No-one            | quś       |
+| No           | Nothing, No-one            | quś       |
 | Less         | Less things, Less people   | quto      |
 | More         | More things, More people   | vete      |
 | Few          | A few (things/people)      | xê        |
-| Some         | Some (things/people)       | xieñ      |
+| Some         | Some (things/people)       | xieñ      |
 | Many         | Many (things/people)       | ku'       |
 | Every        | Everything, Everyone       | qeaħ      |
 | Indefinite   | Some/Anything, Some/Anyone | rhe       |
@@ -532,7 +532,7 @@ Sections (or [back to top](#chapters)):
 
 As the language evolved, the verb system became increasingly complex and unwieldy as affixes were added to the verb from both sides, changing its structure, and after drastic sound changes some of these different verb forms became almost unrecognisable.  To simplify this, the language merged many of the different verb forms and shifted conjugations to other parts of the sentence, primarily Locative Pronouns and Sentence-Final Tags.
 
-Uhhuonanjh now distinguishes 4 roots for the verb itself - **Participle (PART), Negative Participle (NEG.PART), Perfective (PERF) and Imperfective (IMPF)**.  These roots are sometimes quite different among themselves and often are considered separate words rather than different forms of a single word, especially as the mechanisms to derive them no longer exist.  For more information on the different meanings of some verb roots, see Section *5.3 - Syntax - Aspect*.
+Uħħuonanjh now distinguishes 4 roots for the verb itself - **Participle (PART), Negative Participle (NEG.PART), Perfective (PERF) and Imperfective (IMPF)**.  These roots are sometimes quite different among themselves and often are considered separate words rather than different forms of a single word, especially as the mechanisms to derive them no longer exist.  For more information on the different meanings of some verb roots, see Section *5.3 - Syntax - Aspect*.
 
 ### Participles
 
@@ -540,32 +540,32 @@ The **Participle** and **Negative Participle** forms function as either inanimat
 
 When used as a noun, Participles represent the action (e.g. 'singing' in 'singing is difficult'), while when used as an adjective, they signal that the noun is 'performing' the action (e.g. 'singing' in 'the singing man').  The Negative Participle is simply the negated form of the Participle (e.g. 'not singing is difficult', 'the not-singing man').  Unlike English, these can still take arguments as a verb (similar to 'the singing-a-song man').
 
-Note that participles are *not required* to take the Inanimate Nominative ending -te/-to when used as such (though it is allowed); on the other hand they *must* take the ending when nominalised - vônvë(to) 'splitting.NOM' (action) vs vônvëto 'splitting thing.NOM'.
+Note that participles are *not required* to take the Inanimate Nominative ending -te/-to when used as such (though it is allowed); on the other hand they *must* take the ending when nominalised - vônvë(to) 'splitting.NOM' (action) vs vônvëto 'splitting thing.NOM'.
 
-Participles can take an ACC suffix (-keu/-kou) for use as a passive participle - ljomë 'creating' vs ljomëkeu '(being) created'.  They can similarly take any other case suffix when the modifying a word which would take that case if included in the relative clause - uirâ xaśonj 'going person (person who is going)' vs uirâñaħ xaśonj 'going-to person (person who someone is going to)'.  Note that the Locative ending used is based on the modified noun - if the participle modifies an inanimate noun taking -êra/ôra endings in LOC, then the participle uses that instead (*uirâôra aħak* 'the house someone is going to'); similarly for postpositions with LOC-INS distinction.
+Participles can take an ACC suffix (-keu/-kou) for use as a passive participle - ljomë 'creating' vs ljomëkeu '(being) created'.  They can similarly take any other case suffix when the modifying a word which would take that case if included in the relative clause - uirâ xaśonj 'going person (person who is going)' vs uirâñaħ xaśonj 'going-to person (person who someone is going to)'.  Note that the Locative ending used is based on the modified noun - if the participle modifies an inanimate noun taking -êra/ôra endings in LOC, then the participle uses that instead (*uirâôra aħak* 'the house someone is going to'); similarly for postpositions with LOC-INS distinction.
 
 The Participle is derived from the Vuhîñkam verb without any modifications, while the Negative Participle of inherited verbs is derived from the negated form of that verb using the complex infix system - this system itself is no longer productive.  Some examples of inherited participles and their negative counterparts are given below
 
 |English         |Participle |IPA             |Negative Part|IPA             |
 |----------------|-----------|----------------|-------------|----------------|
-|to be (formal)  |qâe        |/ˈɢɑe̯/          |jêño         |/ˈjeɴɔ/         |
+|to be (formal)  |qâe        |/ˈɢɑe̯/          |jêño         |/ˈjeɴɔ/         |
 |to exist        |arrhea     |/ær̥ˈr̥eɐ̯/        |nêre         |/ˈnerɛ/         |
 |to sleep        |peffi'ħê   |/ˈpɛfˌfiʔħe/    |jêmvi'ħê     |/ˈjemˌʋiʔħe/    |
-|to have a child |uiomë      |/ˈuɪ̯ɔmɤ/        |quśħâmpë     |/ˈɢuɕˌħʌm̥pɤ/    |
-|to live         |qghomë     |/ˈɢɣɔmɤ/        |yi'ħempê     |/ˈɟiʔˌħɛm̥pe/    |
-|to swim         |ququoźlja  |/ˈɢuˌɢuo̯ʑʎæ/    |quźjëquoźlja |/ˈɢuʑjɤˌɢuo̯ʑʎæ/ |
+|to have a child |uiomë      |/ˈuɪ̯ɔmɤ/        |quśħâmpë     |/ˈɢuɕˌħʌm̥pɤ/    |
+|to live         |qghomë     |/ˈɢɣɔmɤ/        |yi'ħempê     |/ˈɟiʔˌħɛm̥pe/    |
+|to swim         |ququoźlja  |/ˈɢuˌɢuo̯ʑʎæ/    |quźjëquoźlja |/ˈɢuʑjɤˌɢuo̯ʑʎæ/ |
 |to lie (down)   |peffa      |/ˈpɛffæ/        |jêmva        |/ˈjemʋæ/        |
-|to intend       |vaaś       |/ˈʋææɕ/         |ünyaaś       |/ˈyɲˌɟææɕ/      |
+|to intend       |vaaś       |/ˈʋææɕ/         |ünyaaś       |/ˈyɲˌɟææɕ/      |
 |to laugh        |yatfa      |/ˈɟætfæ/        |yatfa*       |/ˈɟætfæ/        |
-|to drink        |quttśo     |/ˈɢucc͡ɕɔ/       |qu'fittśe    |/ˈɢuʔˌficc͡ɕɛ/   |
-|to eat          |qompëñ     |/ˈɢɔm̥pɤɴ/       |qoxfmëñ      |/ˈɢɔxfmɤɴ/      |
-|to come         |mâenjârâ   |/ˈmɑe̯ɲʌrʌ/      |âempâenjârâ  |/ˈɑe̯m̥ˌpɑe̯ɲʌrʌ/  |
-|to cut          |uonjë'     |/ˈuo̯ɲɤʔ/        |quħħuonjë'   |/ˈɢuħˌħuo̯ɲɤʔ/   |
-|to split        |vônvë      |/ˈʋonʋɤ/        |vôxfienvê    |/ˈʋoxˌfie̯nʋe/   |
-|to turn         |ljanci     |/ˈʎæɲ̊ci/        |qêśśanci     |/ˈɢeɕˌɕæɲ̊ci/    |
-|to push         |ghaśśêra'  |/ˈɣæɕˌɕeræʔ/    |nearaonêra'  |/ˈneɐ̯rˌæo̯neræʔ/ |
-|to bring        |ienjaś     |/ˈie̯ɲæɕ/        |jêienjaś     |/ˈjeˌie̯ɲæɕ/     |
-|to melt         |rhü        |/ˈr̥y/           |jêñreu       |/ˈjeɴrøʊ̯/       |
+|to drink        |quttśo     |/ˈɢucc͡ɕɔ/       |qu'fittśe    |/ˈɢuʔˌficc͡ɕɛ/   |
+|to eat          |qompëñ     |/ˈɢɔm̥pɤɴ/       |qoxfmëñ      |/ˈɢɔxfmɤɴ/      |
+|to come         |mâenjârâ   |/ˈmɑe̯ɲʌrʌ/      |âempâenjârâ  |/ˈɑe̯m̥ˌpɑe̯ɲʌrʌ/  |
+|to cut          |uonjë'     |/ˈuo̯ɲɤʔ/        |quħħuonjë'   |/ˈɢuħˌħuo̯ɲɤʔ/   |
+|to split        |vônvë      |/ˈʋonʋɤ/        |vôxfienvê    |/ˈʋoxˌfie̯nʋe/   |
+|to turn         |ljanci     |/ˈʎæɲ̊ci/        |qêśśanci     |/ˈɢeɕˌɕæɲ̊ci/    |
+|to push         |ghaśśêra'  |/ˈɣæɕˌɕeræʔ/    |nearaonêra'  |/ˈneɐ̯rˌæo̯neræʔ/ |
+|to bring        |ienjaś     |/ˈie̯ɲæɕ/        |jêienjaś     |/ˈjeˌie̯ɲæɕ/     |
+|to melt         |rhü        |/ˈr̥y/           |jêñreu       |/ˈjeɴrøʊ̯/       |
 
 The PART and NEG.PART forms of *yatfa* 'to laugh' have merged through sound changes; while in formal language this is maintained, in common speech the negative participle is constructed through the new regular prefix, becoming quyafta /ɢuˈɟætfæ/
 
@@ -573,13 +573,13 @@ For newly-derived or newly-coined verbs, the Negative Participle simply adds qu-
 
 |English           |Participle |IPA             |Negative Part|IPA             |
 |------------------|-----------|----------------|-------------|----------------|
-|to be (colq)      |qâe        |/ˈɢɑe̯/          |quqâe        |/ɢuˈɢɑe̯/        |
-|to not be (colq)  |jêño       |/ˈjeɴɔ/         |qujêño       |/ɢuˈjeɴɔ/       |
-|to eat            |qompëñ     |/ˈɢɔm̥pɤɴ/       |quqompëñ     |/ɢuˈɢɔm̥pɤɴ/     |
-|to be starving    |qoxfmëñ    |/ˈɢɔxfmɤɴ/      |quqoxfmëñ    |/ɢuˈɢɔxfmɤɴ/    |
-|to intend         |vaaś       |/ˈʋææɕ/         |quvaaś       |/ɢuˈʋææɕ/       |
-|to do unintentionally|ünyaaś  |/ˈyɲˌɟææɕ/      |quünyaaś     |/ɢuˈyɲˌɟææɕ/    |
-|to smoke          |merrhieña  |/ˈmɛr̥ˌr̥ie̯ɴæ/    |qumerrhieña  |/ɢuˈmɛr̥ˌr̥ie̯ɴæ/  |
+|to be (colq)      |qâe        |/ˈɢɑe̯/          |quqâe        |/ɢuˈɢɑe̯/        |
+|to not be (colq)  |jêño       |/ˈjeɴɔ/         |qujêño       |/ɢuˈjeɴɔ/       |
+|to eat            |qompëñ     |/ˈɢɔm̥pɤɴ/       |quqompëñ     |/ɢuˈɢɔm̥pɤɴ/     |
+|to be starving    |qoxfmëñ    |/ˈɢɔxfmɤɴ/      |quqoxfmëñ    |/ɢuˈɢɔxfmɤɴ/    |
+|to intend         |vaaś       |/ˈʋææɕ/         |quvaaś       |/ɢuˈʋææɕ/       |
+|to do unintentionally|ünyaaś  |/ˈyɲˌɟææɕ/      |quünyaaś     |/ɢuˈyɲˌɟææɕ/    |
+|to smoke          |merrhieña  |/ˈmɛr̥ˌr̥ie̯ɴæ/    |qumerrhieña  |/ɢuˈmɛr̥ˌr̥ie̯ɴæ/  |
 |to sweeten        |ghu'ienja  |/ˈɣuʔˌie̯ɲæ/     |qughu'ienja  |/ɢuˈɣuʔˌie̯ɲæ/   |
 |to milk           |yampaoa    |/ˈɟæm̥ˈpæo̯æ/     |quyampaoa    |/ɢuˈɟæm̥ˈpæo̯æ/   |
 |to sow crops      |icca       |/ˈiccæ/         |quicca       |/ɢuˈiccæ/       |
@@ -590,40 +590,40 @@ The **Perfective** and **Imperfective** verb roots form the head of a sentence w
 
 While these forms are less variable than the above participles, they still contain some unpredictable changes and the meanings between Perfective and Imperfective forms are beginning to diverge.
 
-Each pair has a *Base Aspect* which determines its derivation -- Perfective Base verbs have a Perfective form identical to the Participle, while the Imperfective is derived with an additional final vowel or occasionally ñ + vowel.  Imperfective Base verbs derive their Imperfective form through either the addition of a suffix -ñ to the Participle, or more unpredictable mutations usually ending in -anjh, while the Perfective is derived from the Imperfective + suffix -of/-ef.  In all these cases, stress is changed to fit the new pattern (maintaining penultimate position).
+Each pair has a *Base Aspect* which determines its derivation -- Perfective Base verbs have a Perfective form identical to the Participle, while the Imperfective is derived with an additional final vowel or occasionally ñ + vowel.  Imperfective Base verbs derive their Imperfective form through either the addition of a suffix -ñ to the Participle, or more unpredictable mutations usually ending in -anjh, while the Perfective is derived from the Imperfective + suffix -of/-ef.  In all these cases, stress is changed to fit the new pattern (maintaining penultimate position).
 
 |English         |Base|Perfective  |IPA             |English         |Imperfective |IPA            |
 |----------------|----|------------|----------------|----------------|-------------|---------------|
-|to become       |IMPF|qâeñof      |/ˈɢɑe̯ɴɔf/       |to be (copula)  |qâeñ         |/ˈɢɑe̯ɴ/        |
-|to happen       |IMPF|arrheañef   |/ær̥ˈr̥eɐ̯ɴɛf/     |to exist        |arrheañ      |/ær̥ˈr̥eɐ̯ɴ/      |
-|to go to sleep  |IMPF|peffi'ħeiñef|/ˈpɛffiʔˌħei̯ɴɛf/|to sleep        |peffi'ħêñ    |/ˈpɛfˌfiʔħeɴ/  |
-|to give birth   |IMPF|uiomieñef   |/ˈuɪ̯ɔˌmie̯ɴɛf/   |to have children|uiomëñ       |/ˈuɪ̯ɔmɤɴ/      |
-|to work         |IMPF|qghemieñef  |/ˈɢɣɛˌmie̯ɴɛf/   |to live         |qghomëñ      |/ˈɢɣɔmɤɴ/      |
-|to be swimming  |IMPF|quñëźljancef|/ˈɢuɴɤʑˌʎæɲ̊cɛf/ |to be swimming  |ququoźljanjh |/ˈɢuˌɢuo̯ʑʎæɲ̊/  |
+|to become       |IMPF|qâeñof      |/ˈɢɑe̯ɴɔf/       |to be (copula)  |qâeñ         |/ˈɢɑe̯ɴ/        |
+|to happen       |IMPF|arrheañef   |/ær̥ˈr̥eɐ̯ɴɛf/     |to exist        |arrheañ      |/ær̥ˈr̥eɐ̯ɴ/      |
+|to go to sleep  |IMPF|peffi'ħeiñef|/ˈpɛffiʔˌħei̯ɴɛf/|to sleep        |peffi'ħêñ    |/ˈpɛfˌfiʔħeɴ/  |
+|to give birth   |IMPF|uiomieñef   |/ˈuɪ̯ɔˌmie̯ɴɛf/   |to have children|uiomëñ       |/ˈuɪ̯ɔmɤɴ/      |
+|to work         |IMPF|qghemieñef  |/ˈɢɣɛˌmie̯ɴɛf/   |to live         |qghomëñ      |/ˈɢɣɔmɤɴ/      |
+|to be swimming  |IMPF|quñëźljancef|/ˈɢuɴɤʑˌʎæɲ̊cɛf/ |to be swimming  |ququoźljanjh |/ˈɢuˌɢuo̯ʑʎæɲ̊/  |
 |to lie (down)   |IMPF|pefnjef     |/ˈpɛfɲ̊ɛf/       |to be lying down|pefanjh      |/ˈpɛfæɲ̊/       |
 |to mean/intend  |IMPF|vanjef      |/ˈʋæɲ̊ɛf/        |to be intending |vaanjh       |/ˈʋææɲ̊/        |
 |to laugh        |IMPF|yaftnjef    |/ˈɟæftɲ̊ɛf/      |to be laughing  |yaftanjh     |/ˈɟæftæɲ̊/      |
-|to drink        |PERF|quttśo      |/ˈɢucc͡ɕɔ/       |to be drinking  |quttśee      |/ˈɢucˌc͡ɕɛɛ/    |
-|to eat          |PERF|qompëñ      |/ˈɢɔm̥pɤɴ/       |to be eating    |qompuo       |/ˈɢɔm̥ˌpuɔ/     |
-|to come         |PERF|mâenjârâ    |/ˈmɑe̯ɲʌrʌ/      |to be coming    |maonjareañe  |/ˈmæo̯ɲæˌreɐ̯ɴɛ/ |
-|to cut          |PERF|uonjë'      |/ˈuo̯ɲɤʔ/        |to be cutting   |uocie        |/ˈuo̯ˌciɛ/      |
-|to split        |PERF|vônvë       |/ˈʋonʋɤ/        |to be splitting |vônuoño      |/ˈʋonˌuo̯ɴɔ/    |
+|to drink        |PERF|quttśo      |/ˈɢucc͡ɕɔ/       |to be drinking  |quttśee      |/ˈɢucˌc͡ɕɛɛ/    |
+|to eat          |PERF|qompëñ      |/ˈɢɔm̥pɤɴ/       |to be eating    |qompuo       |/ˈɢɔm̥ˌpuɔ/     |
+|to come         |PERF|mâenjârâ    |/ˈmɑe̯ɲʌrʌ/      |to be coming    |maonjareañe  |/ˈmæo̯ɲæˌreɐ̯ɴɛ/ |
+|to cut          |PERF|uonjë'      |/ˈuo̯ɲɤʔ/        |to be cutting   |uocie        |/ˈuo̯ˌciɛ/      |
+|to split        |PERF|vônvë       |/ˈʋonʋɤ/        |to be splitting |vônuoño      |/ˈʋonˌuo̯ɴɔ/    |
 |to turn         |PERF|ljanci      |/ˈʎæɲ̊ci/        |to be turning   |ljancie      |/ˈʎæɲ̊ˌciɛ/     |
-|to push         |PERF|ghaśśêra'   |/ˈɣæɕˌɕeræʔ/    |to be pushing   |ghaśśearhae  |/ˈɣæɕɕeɐ̯ˌr̥æɛ/  |
-|to bring        |PERF|ienjaś      |/ˈie̯ɲæɕ/        |to be bringing  |ninjaśe      |/ˈniˌɲæɕɛ/     |
-|to melt         |PERF|rhü         |/ˈr̥y/           |to be melting   |rhüe         |/ˈr̥yɛ/         |
+|to push         |PERF|ghaśśêra'   |/ˈɣæɕˌɕeræʔ/    |to be pushing   |ghaśśearhae  |/ˈɣæɕɕeɐ̯ˌr̥æɛ/  |
+|to bring        |PERF|ienjaś      |/ˈie̯ɲæɕ/        |to be bringing  |ninjaśe      |/ˈniˌɲæɕɛ/     |
+|to melt         |PERF|rhü         |/ˈr̥y/           |to be melting   |rhüe         |/ˈr̥yɛ/         |
 
 For newly derived or coined verbs, the Perfective is formed by the addition of suffix -f/-of/-ef to the Participle, while the Imperfective is formed by the addition of suffix -o/-e.  These suffixes do not trigger stress changes.
 
 |English              |Participle |Perfective |Imperfective|
 |------------------   |-----------|-----------|------------|
-|to be (colq)         |qâe        |qâef       |qâeo        |
-|to not be (colq)     |jêño       |jêñof      |jêñoo       |
-|to eat               |qompëñ     |qompëñof   |qompëño     |
-|to be starving       |qoxfmëñ    |qoxfmëñof  |qoxfmëño    |
-|to intend            |vaaś       |vaaśef     |vaaśe       |
-|to do unintentionally|ünyaaś     |ünyaaśef   |ünyaaśe     |
-|to smoke             |merrhieña  |merrhieñaf |merrhieñae  |
+|to be (colq)         |qâe        |qâef       |qâeo        |
+|to not be (colq)     |jêño       |jêñof      |jêñoo       |
+|to eat               |qompëñ     |qompëñof   |qompëño     |
+|to be starving       |qoxfmëñ    |qoxfmëñof  |qoxfmëño    |
+|to intend            |vaaś       |vaaśef     |vaaśe       |
+|to do unintentionally|ünyaaś     |ünyaaśef   |ünyaaśe     |
+|to smoke             |merrhieña  |merrhieñaf |merrhieñae  |
 |to sweeten           |ghu'ienja  |ghu'ienjaf |ghu'ienjae  |
 |to milk              |yampaoa    |yampaoaf   |yampaoae    |
 |to sow crops         |icca       |iccaf      |iccae       |
@@ -636,8 +636,8 @@ The full pattern for a regular (new) verb is as follows:
 |-----------|-----------|-----------|------------|
 | -         |qu-        |-(e/o)f    |-o/e        |
 |vetsieñ    |quvetsieñ  |vetsieñof  |vetsieñe    |
-|vaaś       |quvaaś     |vaaśef     |vaaśe       |
-|qâuga      |quqâuga    |qâugaf     |qâugao      |
+|vaaś       |quvaaś     |vaaśef     |vaaśe       |
+|qâuga      |quqâuga    |qâugaf     |qâugao      |
 
 ### Stem Alternation Patterns: Negative
 
@@ -650,77 +650,77 @@ Negative derivation (using inherited pre/infix)
 |A     |yatfa     |ya-**t**-fa          |
 |A     |yarrhaomea|ya-**'**-rhaomea     |
 |Â     |qaoa      |qao-**rha**-oa       |
-|E     |yaorüm    |ya-**i**-örüm        |
-|E     |yeccüa'fo |ye-**xe**-cüa'fo     |
-|Ê     |jêñgha'   |jê-**xie**-ñgha'     |
+|E     |yaorüm    |ya-**i**-örüm        |
+|E     |yeccüa'fo |ye-**xe**-cüa'fo     |
+|Ê     |jêñgha'   |jê-**xie**-ñgha'     |
 |I     |yi'ħêmpê  |yi-**c**ceghemê      |
-|I     |yêrrhâu   |yi-**'**-rhâu        |
+|I     |yêrrhâu   |yi-**'**-rhâu        |
 |Î     |yêre      |yi-**źê**-re         |
-|O     |qompëñ    |qo-**xf**-mëñ        |
-|Ô     |vônjë     |vô-**xfie**-nji      |
+|O     |qompëñ    |qo-**xf**-mëñ        |
+|ô     |vônjë     |vô-**xfie**-nji      |
 |U     |quttśo    |qu-**'fi**-ttśe      |
-|Û     |quñonj    |qu-**źji**-ñonj      |
-|N     |ñärrhör   |**âe**-ñrhoar        |
-|N     |mâenjârâ  |**âe**-mpâenjârâ     |
+|Û     |quñonj    |qu-**źji**-ñonj      |
+|N     |ñärrhör   |**âe**-ñrhoar        |
+|N     |mâenjârâ  |**âe**-mpâenjârâ     |
 |T     |peffa     |**jê**-mva           |
 |T     |camħe     |**jê**-camħe         |
-|T (-) |rhü       |**jê**-ñreu          |
+|T (-) |rhü       |**jê**-ñreu          |
 |T (-) |ienjaś    |**jê**-ienjaś        |
-|S (F) |färh      |**eum**-ärh          |
-|S (V) |vaħħoñ    |**üm**-oñ            |
-|S     |sħoñuo    |**ni**-źgheñei       |
+|S (F) |färh      |**eum**-ärh          |
+|S (V) |vaħħoñ    |**üm**-oñ            |
+|S     |sħoñuo    |**ni**-źgheñei       |
 |S (SH)|xek       |**ni**-ghek          |
-|S (X) |arrhaonj  |**nê**-räonj         |
-|S (G) |ârmâenj   |**nea**-rmonj        |
+|S (X) |arrhaonj  |**nê**-räonj         |
+|S (G) |ârmâenj   |**nea**-rmonj        |
 |S (GJ)|gheanjh   |**nea**-rgheanjh     |
 |S (H) |ħaqqe'    |**i**-gheqe          |
-|S (GH)|âulqo     |**ienj**-aolqe       |
+|S (GH)|âulqo     |**ienj**-aolqe       |
 |L (W) |vaonvra   |**qê**-ħħaonvra      |
 |L (R) |erraonja' |**qê**-rrhaonja'     |
 |L     |ljanci    |**qê**-śśanci        |
-|L     |uiomë     |**qu**-śħâmpë        |
-|L (J) |niŕe      |**qê**-xxiŕe         |
+|L     |uiomë     |**qu**-śħâmpë        |
+|L (J) |niŕe      |**qê**-xxiŕe         |
 
 ### Stem Alternation Patterns: Ptcp > Perf > Imperf
 
-Generally, Perfective-base verbs will have an identical Participle and Perfective verb form.  The Imperfective is formed with the addition of an stress-changing suffix: usually -(ñ)e/o; -(ñ)a/â after a former uvular trill; this suffix sometimes deletes a final vowel.
+Generally, Perfective-base verbs will have an identical Participle and Perfective verb form.  The Imperfective is formed with the addition of an stress-changing suffix: usually -(ñ)e/o; -(ñ)a/â after a former uvular trill; this suffix sometimes deletes a final vowel.
 
 |Participle|Perfective|IPA        |Imperfective     |IPA         |
 |----------|----------|---------- |-----------------|------------|
 |qaoa      |qaoa      |ˈɢæo̯æ      |qa**oa**-*e*     |ˈɢæo̯ˌæɛ     |
-|färh      |färh      |ˈfar̥       |färh-*a*         |ˈfar̥æ       |
-|ca'o      |ca'o      |ˈcæʔɔ      |ca'**ao**-*ñe*   |ˈcæʔˌæo̯ɴɛ   |
-|fiete'    |fiete'    |ˈfiˌɛtɛʔ   |fieñe**to**-*o*  |ˈfie̯ɴɛˌtɔɔ  |
+|färh      |färh      |ˈfar̥       |färh-*a*         |ˈfar̥æ       |
+|ca'o      |ca'o      |ˈcæʔɔ      |ca'**ao**-*ñe*   |ˈcæʔˌæo̯ɴɛ   |
+|fiete'    |fiete'    |ˈfiˌɛtɛʔ   |fieñe**to**-*o*  |ˈfie̯ɴɛˌtɔɔ  |
 |ljin      |ljin      |ˈʎin       |ljienj-*e*       |ˈʎie̯ɲɛ      |
-|qompëñ    |qompëñ    |ˈɢɔm̥pɤɴ    |qom**pu**-*o*    |ˈɢɔm̥ˌpuɔ    |
-|uonjë'    |uonjë'    |ˈuo̯ɲɤʔ     |uo**ci**-*e*     |ˈuo̯ˌciɛ     |
-|maonyi    |maonyi    |ˈmæo̯ɲɟi    |maon**yi**-*ñe*  |ˈmæo̯ɲˌɟiɴɛ  |
-|vônvë     |vônvë     |ˈʋonʋɤ     |vôn**uo**-*ño*   |ˈʋonˌuo̯ɴɔ   |
-|qunduomoa |qunduomoa |ˈɢunˌduo̯moɐ̯|qunu**mâe**-*o*  |ˈɢunuˌmɑe̯ɔ  |
-|źmoar     |źmoar     |ˈʑmoɐ̯r     |źmoar-*â*        |ˈʑmoɐ̯rʌ     |
+|qompëñ    |qompëñ    |ˈɢɔm̥pɤɴ    |qom**pu**-*o*    |ˈɢɔm̥ˌpuɔ    |
+|uonjë'    |uonjë'    |ˈuo̯ɲɤʔ     |uo**ci**-*e*     |ˈuo̯ˌciɛ     |
+|maonyi    |maonyi    |ˈmæo̯ɲɟi    |maon**yi**-*ñe*  |ˈmæo̯ɲˌɟiɴɛ  |
+|vônvë     |vônvë     |ˈʋonʋɤ     |vôn**uo**-*ño*   |ˈʋonˌuo̯ɴɔ   |
+|qunduomoa |qunduomoa |ˈɢunˌduo̯moɐ̯|qunu**mâe**-*o*  |ˈɢunuˌmɑe̯ɔ  |
+|źmoar     |źmoar     |ˈʑmoɐ̯r     |źmoar-*â*        |ˈʑmoɐ̯rʌ     |
 
 ### Stem Alternation Patterns: Ptcp > Imperf > Perf
 
-Imperfective-base verbs derive their Imperfective form with one of several methods - a non-stress-changing suffix (often -ñ), altering the last syllable to either insert a k- beginning the syllable (later elided) and/or end with an -njh, or the addition of a stress-changing suffix (often -anjh).  Some Imperfective forms are identical to their participles.
+Imperfective-base verbs derive their Imperfective form with one of several methods - a non-stress-changing suffix (often -ñ), altering the last syllable to either insert a k- beginning the syllable (later elided) and/or end with an -njh, or the addition of a stress-changing suffix (often -anjh).  Some Imperfective forms are identical to their participles.
 
 Perfective forms of these words are usually formed with a suffix -ef/of onto the Imperfective form.  This suffix combines with the imperfective ending if possible, meaning it doesn't tend to add stress if the Imperfective suffix already did.
 
 |Participle|IPA        |Imperfective      |IPA        |Perfective       |IPA         |
 |----------|---------- |--------------    |---------- |-----------------|------------|
-|xea       |ˈxeɐ̯       |xea-*ñ*           |ˈxeɐ̯ɴ      |xeañ-*ef*        |ˈxeɐ̯ɴɛf     |
-|qâe       |ˈɢɑe̯       |qâe-*ñ*           |ˈɢɑe̯ɴ      |qâeñ-*of*        |ˈɢɑe̯ɴɔf     |
-|yetfo     |ˈɟɛtfɔ     |yetfo-*ñ*         |ˈɟɛtfɔɴ    |yet**faoñ**-*ef* |ˈɟɛˌtfæo̯ɴɛf |
+|xea       |ˈxeɐ̯       |xea-*ñ*           |ˈxeɐ̯ɴ      |xeañ-*ef*        |ˈxeɐ̯ɴɛf     |
+|qâe       |ˈɢɑe̯       |qâe-*ñ*           |ˈɢɑe̯ɴ      |qâeñ-*of*        |ˈɢɑe̯ɴɔf     |
+|yetfo     |ˈɟɛtfɔ     |yetfo-*ñ*         |ˈɟɛtfɔɴ    |yet**faoñ**-*ef* |ˈɟɛˌtfæo̯ɴɛf |
 |arrhanjh  |ær̥ˈr̥æɲ̊     |arrhanjh          |ær̥ˈr̥æɲ̊     |arrhanc-*ef*     |ær̥ˈr̥æɲ̊cɛf   |
-|qâuanjh   |ˈɢɑʊ̯æɲ̊     |qâuanjh           |ˈɢɑʊ̯æɲ̊     |qâunj-*of*       |ˈɢɑʊ̯ɲɔf     |
+|qâuanjh   |ˈɢɑʊ̯æɲ̊     |qâuanjh           |ˈɢɑʊ̯æɲ̊     |qâunj-*of*       |ˈɢɑʊ̯ɲɔf     |
 |arrhaonj  |ær̥ˈr̥æɔɲ    |arrh*ainjh*       |ˈʋɛɲ̊m̥ɛɲ̊    |venj**menc**-*ef*|ˈʋɛɲ̊ˌm̥ɛɲ̊cɛf |
-|venmenjh  |ˈʋɛn̥m̥ɛɲ̊    |ve*nj*menjh       |ˈɟɛtfɔɴ    |yet**faoñ**-*ef* |ˈɟɛˌtfæo̯ɴɛf |
+|venmenjh  |ˈʋɛn̥m̥ɛɲ̊    |ve*nj*menjh       |ˈɟɛtfɔɴ    |yet**faoñ**-*ef* |ˈɟɛˌtfæo̯ɴɛf |
 |peffa     |ˈpɛffæ     |pe*f*a-*njh*      |ˈpɛfæɲ̊     |pefnj-*ef*       |ˈpɛfɲ̊ɛf     |
-|jêñgha'   |ˈjeɴɣæʔ    |jêñgha-*njh*      |ˈjeɴɣæɲ̊    |jêñgha-*f*       |ˈjeɴɣæf     |
-|ququośśa  |ˈɢuˌɢuo̯ɕɕæ |ququośśa-*njh*    |ˈɢuˌɢuo̯ɕɕæɲ̊|quñ**śanc**-*ef* |ˈɢuɴ̥ˌɕæɲ̊cɛf |
-|qâuga     |ˈɢɑʊ̯gæ     |qâuga-*njh*       |ˈɢɑʊ̯gæɲ̊    |qâu**ganc**-*ef* |ˈɢɑʊ̯ˌgæɲ̊cɛf |
+|jêñgha'   |ˈjeɴɣæʔ    |jêñgha-*njh*      |ˈjeɴɣæɲ̊    |jêñgha-*f*       |ˈjeɴɣæf     |
+|ququośśa  |ˈɢuˌɢuo̯ɕɕæ |ququośśa-*njh*    |ˈɢuˌɢuo̯ɕɕæɲ̊|quñ**śanc**-*ef* |ˈɢuɴ̥ˌɕæɲ̊cɛf |
+|qâuga     |ˈɢɑʊ̯gæ     |qâuga-*njh*       |ˈɢɑʊ̯gæɲ̊    |qâu**ganc**-*ef* |ˈɢɑʊ̯ˌgæɲ̊cɛf |
 |ħaqqe'    |ˈħæɢɢɛʔ    |ħaq**qo**-*anjh*  |ˈħæɢˌɢɔæɲ̊  |ħaqqonj-*of*     |ˈħæɢˌɢɔɲ̊ɔf  |
 |yêre      |ˈɟerɛ      |yea**rai**-*anjh* |ˈɟeɐ̯ˌræɪ̯æɲ̊ |yearainj-*ef*    |ˈɟeɐ̯ˌræɪ̯ɲɛf |
-|qaoi'ħêmh |ˈɢæo̯ˌiʔħem̥ |qaoi'**ħê**-*ñanjh*|ˈɢæo̯iʔˌħeɴ̥æɲ̊|qaoi'ħênc-*ef* |ˈɢæo̯iʔˌħeɲ̊cɛf|
+|qaoi'ħêmh |ˈɢæo̯ˌiʔħem̥ |qaoi'**ħê**-*ñanjh*|ˈɢæo̯iʔˌħeɴ̥æɲ̊|qaoi'ħênc-*ef* |ˈɢæo̯iʔˌħeɲ̊cɛf|
 
 ## Locative Pronouns
 
@@ -734,17 +734,17 @@ Locative pronouns themselves are considered grammatically to be special inanimat
 
 |Distance|Positive|IPA        |Negative|IPA        |Emphatic|IPA           |
 |--------|--------|-----------|--------|-----------|--------|--------------|
-| INF    |quo     |/ˈɢuo̯/     |jêñ     |/ˈjeɴ/     |huñə    |/ˈħuɴɤ/       |
+| INF    |quo     |/ˈɢuo̯/     |jêñ     |/ˈjeɴ/     |huñə    |/ˈħuɴɤ/       |
 | PRX    |mu      |/ˈmu/      |tsimpü  |/ˈt͡ʃim̥py/  |huomu   |/ˈħuo̯mu/      |
 | MED    |vâe     |/ˈʋɑe̯/     |ârvo    |/ˈʌrʋɔ/    |hâuo    |/ˈħɑʊ̯ɔ/       |
 | DST    |minj    |/ˈmiɲ/     |ienjinj |/ˈie̯ɲiɲ/   |huomënj |/ˈħuo̯mɤɲ/     |
 
 Examples of verb + locative
 
-- *arrheañef quo* 'to happen / happens somewhere / anywhere'
-- *arrheañef tħimpy* 'doesn't happen here/near me'
-- *arrheañef hâuo* 'happens there/near you' (emphatic)
-- *arrheañ jêñ* 'to not exist / doesn't exist somewhere / anywhere'
+- *arrheañef quo* 'to happen / happens somewhere / anywhere'
+- *arrheañef tħimpy* 'doesn't happen here/near me'
+- *arrheañef hâuo* 'happens there/near you' (emphatic)
+- *arrheañ jêñ* 'to not exist / doesn't exist somewhere / anywhere'
 - *iccaf minj* 'sows over there/somewhere else'
 - *iccae ârvo* 'isn't sowing there/near you'
 
@@ -758,13 +758,13 @@ One common attached meaning is of topic pronoun, with Proximal referring to a 1s
 
 Note that these examples contain final tags to form proper sentences, see the next section for details
 
-- *qompëñ mu qâ*
+- *qompëñ mu qâ*
   - lit. 'eats here'
   - also commonly meaning 'I/we eat' or 'as for me/us, (I/we) eat'
-- *qompëñ mu quʔ*
+- *qompëñ mu quʔ*
   - lit. 'you.s eat here'
   - also commonly meaning 'with me/us, you eat'
-- *qompëñ quo qâ*
+- *qompëñ quo qâ*
   - lit. 'eats somewhere'
   - also commonly meaning 'someone/anyone eats' or 'somewhere, eating happens'
 
@@ -809,14 +809,14 @@ There are 9 moods expressible using different tags.  These are:
       - 'if you came, then you would be rewarded' (unknown past state, present effect)
       - 'if you had come, then you would have been rewarded' (counterfactual)
     - If there is no other indication, then consecutive/coordianted Conditional clauses are considered to be Condition > Effect
-      - e.g. *qompëñ vâe nji, mu nji*
+      - e.g. *qompëñ vâe nji, mu nji*
       - lit. 'eat there CON, here CON'
       - translated as 'if you eat, then I eat'
     - If there is no other indication, a Conditional coordinated with a non-conditional clause will take on the role of Condition
-      - e.g. *mâenjârâ mu nju', qompëñ vâe vâur*
+      - e.g. *mâenjârâ mu nju', qompëñ vâe vâur*
         - lit. 'come here CON.you, eat there NEC'
         - translated as 'if you come here, you should eat!'
-      - e.g. *qompëñ mu vâur, vâe nji*
+      - e.g. *qompëñ mu vâur, vâe nji*
         - lit. 'eat here COM, there CON'
         - translated as 'I will/intend to eat if you eat'
   - **Necessitative - NEC** - Used for things which would in English begin with 'it would be good if...' or contain 'should'.  Past tense is counterfactual, as in 'it would have been good if...' or 'should have'
@@ -825,12 +825,12 @@ There are 9 moods expressible using different tags.  These are:
   - **Prohibitive -- PRH** - Used for prohibitions / negative commands.  No polite form exists, instead use the Imperative.
     - Using the prohibitive still requires the locative pronoun to be negative, however it also allows the loc.pron to be dropped.  The loc.pron is usually maintained only if there is significant distance between the verb and the tag.
       - ljanji (ârvo) śa - use without *ârvo* is more common
-      - ljanji (ârvo) ulârrhâ xaśonenj śa - use with *ârvo* is more common
+      - ljanji (ârvo) ulârrhâ xaśonenj śa - use with *ârvo* is more common
   - **Speculative -- SPC** - Used to speculate about future events out of one's control - e.g. he might come tomorrow, it might rain tomorrow - or past/current events whose state we are unsure of - e.g. he might be coming now, it might be raining over there.
   - **Commissive -- COM** - Used to state non-past intentions or speak about future events which one has some control over - I will go there; it will happen (I will make it happen/make sure it happens).  Can be combined with other tags to speak about past intentions.
     - The 'committer' is necessarily the topic of this tag.  If the sentence as a whole has a different topic, then this tag should use a suffix for the 'committer' in order to keep its meaning.  An extra tag may be added to accomplish this.
-    - *qunyiśnjef mu vâurmotśarh* - 'I will fight you'
-    - *qunyiśnjef mu tśarh vâurmo qâtśarh* - 'You, I will fight'
+    - *qunyiśnjef mu vâurmotśarh* - 'I will fight you'
+    - *qunyiśnjef mu tśarh vâurmo qâtśarh* - 'You, I will fight'
 
 ### Forms
 
@@ -840,21 +840,21 @@ Note that tags can be chained in order to make use of multiple ones.  Usually on
 
 |Mood |Tense  |Common      |IPA       |Formal      |IPA       |
 |---- |-------|------------|----------|------------|----------|
-| IND | NPST  | q(â)       | /ɢʌ/     | qâe        | /ˈɢɑe̯/   |
+| IND | NPST  | q(â)       | /ɢʌ/     | qâe        | /ˈɢɑe̯/   |
 | IND | PAST  | qârh       | /ɢʌr̥/    | qârh       | /ˈɢʌr̥/   |
 | NAR | NPST  | ñe         | /ɴɛ/     | jarh       | /ˈɟær̥/   |
 | NAR | PAST  | lj(a)      | /ʎæ/     | lja(k)     | /ˈʎæk/   |
 | INT | NPST  | âenjh (-nc)| /ˈɑe̯ɲ̊c/  | âenca      | /ˈɑe̯ɲ̊cæ/ |
-| INT | PAST  | âencârh    | /ˈɑe̯ɲ̊cʌr̥/| âencârh    | /ˈɑe̯ɲ̊cʌr̥/|
+| INT | PAST  | âencârh    | /ˈɑe̯ɲ̊cʌr̥/| âencârh    | /ˈɑe̯ɲ̊cʌr̥/|
 | CON | NPST  | nj(i)      | /ɲi/     | ni         | /ˈni/    |
 | CON | PAST  | njêrh      | /ɲer̥/    | ienjarh    | /ˈie̯ɲær̥/ |
-| NEC | NPST  | ħâunjh (-i)| /ˈħɑʊ̯ɲ̊i/ | ħeuvin     | /ˈħøʊ̯ʋin/|
-| NEC | PAST  | ħâunjêrh   | /ˈħɑʊ̯ɲer̥/| ħeunjarh   | /ˈħøʊ̯ɲær̥/|
-| IMP |       | ś(a)       | /ɕæ/     | yaś        | /ˈɟæɕ/   |
-| IMP-POL |   | śanjh (-nc)| /ˈɕæɲ̊c/  | yaonja     | /ˈɟæo̯ɲæ/ |
-| PRH |       | aś         | /æɕ/     | ghâenh     | /ˈɣɑe̯ɲ/  |
-| SPC |       | qâenj      | /ˈɢɑe̯ɲ/  | mârâ       | /ˈmʌrʌ/  |
-| COM |       | vâur       | /ˈʋɑʊ̯r/  | muljâr     | /ˈmuʎʌr/ |
+| NEC | NPST  | ħâunjh (-i)| /ˈħɑʊ̯ɲ̊i/ | ħeuvin     | /ˈħøʊ̯ʋin/|
+| NEC | PAST  | ħâunjêrh   | /ˈħɑʊ̯ɲer̥/| ħeunjarh   | /ˈħøʊ̯ɲær̥/|
+| IMP |       | ś(a)       | /ɕæ/     | yaś        | /ˈɟæɕ/   |
+| IMP-POL |   | śanjh (-nc)| /ˈɕæɲ̊c/  | yaonja     | /ˈɟæo̯ɲæ/ |
+| PRH |       | aś         | /æɕ/     | ghâenh     | /ˈɣɑe̯ɲ/  |
+| SPC |       | qâenj      | /ˈɢɑe̯ɲ/  | mârâ       | /ˈmʌrʌ/  |
+| COM |       | vâur       | /ˈʋɑʊ̯r/  | muljâr     | /ˈmuʎʌr/ |
 
 ## Aspect and Person Conjugation
 
@@ -864,7 +864,7 @@ The tag forms above can take a number of agglutinative suffixes, these suffixes 
 
 ### Aspect suffixes
 
-The exact meaning of aspect suffixes changes depending on whether the verb used is Perfective or Imperfective.  Aspect suffixes always appear before person suffixes; use of multiple aspect suffixes is allowed and common.  They may change form depending on front/back vowel of the attaching tag, while a glottal stop is inserted to break hiatuses between aspect suffixes and verb tags - optional vowel and optional stop are both dropped if they both exist, e.g. q(â) + (')anj > qanj.  Suffixes always appear the following order:
+The exact meaning of aspect suffixes changes depending on whether the verb used is Perfective or Imperfective.  Aspect suffixes always appear before person suffixes; use of multiple aspect suffixes is allowed and common.  They may change form depending on front/back vowel of the attaching tag, while a glottal stop is inserted to break hiatuses between aspect suffixes and verb tags - optional vowel and optional stop are both dropped if they both exist, e.g. q(â) + (')anj > qanj.  Suffixes always appear the following order:
 
 - lji/ljë
   - (not technically an aspect, but it fits in the suffix category)
@@ -888,35 +888,35 @@ Person suffixes on tags are optional, but usually used if the person doesn't cor
 
 - There are 3 distinct uses for person suffixes - Argument/Topic, Vocative and Tag Reference
   - **Argument suffixes** are used to reinforce or specify the arguments of a verb.  They use Nominative for the subject/agent and Accusative for the object/patient of the verb (even if the object itself is in another case).  If one of these arguments a Topic, then this one goes first; otherwise order is free.  By promoting the verb object to Topic position a passive-like construction can be formed.  The suffix marking the topic can be stressed or emphasised if required.
-    - *qompëñ mu* >>
+    - *qompëñ mu* >>
       - *... qâ* '(I/We) eat here' (IND)
       - *... qâghâ* 'We eat here' (IND-1p.NOM)
       - *... quyyêr* 'You eat it here' (IND-2s.NOM-3I.ACC)
-      - *... ħaoñma quyyêr* 'You eat bread here' (IND-2s.NOM-3I.ACC)
-      - *... ħaoñma qâyêru'* 'Bread is eaten here by you' (IND-3I.ACC-2s.NOM)
+      - *... ħaoñma quyyêr* 'You eat bread here' (IND-2s.NOM-3I.ACC)
+      - *... ħaoñma qâyêru'* 'Bread is eaten here by you' (IND-3I.ACC-2s.NOM)
   - **Vocative suffixes** are used to address the sentence to someone.  They always use the Nominative form and always come last.  They are indistinguishable from nominative argument suffixes when placed last, though context is usually enough to clear it up.  A tag may include both a Nominative Argument *and* a Vocative suffix, in which case the final one is the vocative.  Vocative suffixes generally cannot be used with Reference suffixes.
-    - *qompëñ mu qu'* 'You eat here' OR 'Hey you, (I/We) eat here'
-    - *qompëñ mu qu'u'* 'Hey you, you eat here.'
+    - *qompëñ mu qu'* 'You eat here' OR 'Hey you, (I/We) eat here'
+    - *qompëñ mu qu'u'* 'Hey you, you eat here.'
   - **Tag reference/perspective suffixes** are used only with the SPC (Speculative) and COM (Commissive) tags.  They use the Nominative form, come first, and indicate the party whose view is expressed with those tags - in other words, *qâenjmo* 'SPC-1s.NOM' means 'I think'; *vâurqonj* 'COM-3Hs.NOM' means 's/he intends'.  This suffix generally *does not co-occur* with a Vocative suffix, but it *can* co-occur with Argument suffixes, including another nominative suffix.
-    - *qompëñ mu qâenju'* '(I think) You might eat here' OR 'You think (I) might eat here'
-    - *qompëñ mu qâenju'mo* 'You think I might eat here.'
+    - *qompëñ mu qâenju'* '(I think) You might eat here' OR 'You think (I) might eat here'
+    - *qompëñ mu qâenju'mo* 'You think I might eat here.'
 
 Note that the final glottal stop of 2s.PRI *u'* assimilates to any following suffixes, e.g. *u' + fê* > *uffê*.
 
 |Person| Nominative |IPA       | Accusative |IPA       |
 |------|------------|----------|------------|----------|
 | 1s   | mo         | /mɔ/     | fê         | /fe/     |
-| 1p   | ghâ        | /ɣʌ/     | pô         | /po/     |
-| 2s   | u'         | /uʔ/     | tśarh      | /c͡ɕær̥/   |
-| 2d   | ljarh      | /ʎær̥/    | râm        | /rʌm/    |
-| 2p   | me         | /mɛ/     | źiñ        | /ʑiɴ/    |
-| 3I   | qâ         | /ɢʌ/     | yêr        | /ɟer/    |
+| 1p   | ghâ        | /ɣʌ/     | pô         | /po/     |
+| 2s   | u'         | /uʔ/     | tśarh      | /c͡ɕær̥/   |
+| 2d   | ljarh      | /ʎær̥/    | râm        | /rʌm/    |
+| 2p   | me         | /mɛ/     | źiñ        | /ʑiɴ/    |
+| 3I   | qâ         | /ɢʌ/     | yêr        | /ɟer/    |
 | 3As  | qenjh      | /ɢɛɲ̊/    | yênjh      | /ɟeɲ̊/    |
-| 3Ap  | ñenjh      | /ɴɛɲ̊/    | venjh      | /ʋɛɲ̊/    |
+| 3Ap  | ñenjh      | /ɴɛɲ̊/    | venjh      | /ʋɛɲ̊/    |
 | 3Hs  | qonj       | /ɢɔɲ/    | yênj       | /ɟeɲ/    |
 | 3Hd  | rjonj      | /rjɔɲ/   | ghonj      | /ɣɔɲ/    |
-| 3Hp  | ñânj       | /ɴʌɲ/    | vonj       | /ʋɔɲ/    |
-| 3D   | ñix        | /ɴix/    | veħ        | /ʋɛħ/    |
+| 3Hp  | ñânj       | /ɴʌɲ/    | vonj       | /ʋɔɲ/    |
+| 3D   | ñix        | /ɴix/    | veħ        | /ʋɛħ/    |
 
 ## Example Verb-Locative-Tag sentences
 
@@ -924,78 +924,78 @@ Note that the final glottal stop of 2s.PRI *u'* assimilates to any following suf
 
 ### Different tags
 
-- *qompëñ mu qâ* - 'eats here', 'I/we eat'
-- *qompëñ mu qâe* - 'eats here', 'I/we eat' (formal)
-- *qompëñ mu qârh* - 'ate here', 'I/we ate'
-- *qompëñ mu ñe* - '(apparently) ate here'
+- *qompëñ mu qâ* - 'eats here', 'I/we eat'
+- *qompëñ mu qâe* - 'eats here', 'I/we eat' (formal)
+- *qompëñ mu qârh* - 'ate here', 'I/we ate'
+- *qompëñ mu ñe* - '(apparently) ate here'
   - the Narrative mood *generally* doesn't use first person topics
-- *qompëñ mu ñeqonj* - '(apparently) s/he ate here'
-- *qompëñ mu ljaqonj* - '(it is said that) s/he ate here'
-- *qompëñ mu âenjh* - 'eats here?', 'do I/we eat?'
-- *qompëñ mu nji* - 'if/then eats here', 'if/then I/we eat'
-  - *qompëñ vâe njêrh, tħimpy njêrh* - 'if you had eaten, then I wouldn't have (eaten)'
+- *qompëñ mu ñeqonj* - '(apparently) s/he ate here'
+- *qompëñ mu ljaqonj* - '(it is said that) s/he ate here'
+- *qompëñ mu âenjh* - 'eats here?', 'do I/we eat?'
+- *qompëñ mu nji* - 'if/then eats here', 'if/then I/we eat'
+  - *qompëñ vâe njêrh, tħimpy njêrh* - 'if you had eaten, then I wouldn't have (eaten)'
 - *Hortatives (NEC/IMP/PRH)*
-  - *qompëñ mu ħâunjh* - 'should eat here', '(you) should eat here/with me/us'
-  - *qompëñ vâe ħâunjh* - 'should eat there', 'you should eat'
-  - *qompëñ vâe ħeunjarh* - 'should have eaten there', 'you should have eaten' (formal)
-  - *qompëñ vâe śa!* - 'eat there!', '(you) eat!'
-  - *qompëñ ârvo aś!* - 'don't eat there!', '(you) don't eat!'
-  - *qompëñ vâe śànjh?* - 'can you eat there?', '(you) please eat'
-  - *qompëñ ârvo śànjh?* - 'can you not eat there?', '(you) please don't eat'
-- *qompëñ mu qâenj* - 'might eat here', 'I might eat (but it's not up to me)'
-- *qompëñ mu vâur* - 'will eat here', 'I will eat'
+  - *qompëñ mu ħâunjh* - 'should eat here', '(you) should eat here/with me/us'
+  - *qompëñ vâe ħâunjh* - 'should eat there', 'you should eat'
+  - *qompëñ vâe ħeunjarh* - 'should have eaten there', 'you should have eaten' (formal)
+  - *qompëñ vâe śa!* - 'eat there!', '(you) eat!'
+  - *qompëñ ârvo aś!* - 'don't eat there!', '(you) don't eat!'
+  - *qompëñ vâe śànjh?* - 'can you eat there?', '(you) please eat'
+  - *qompëñ ârvo śànjh?* - 'can you not eat there?', '(you) please don't eat'
+- *qompëñ mu qâenj* - 'might eat here', 'I might eat (but it's not up to me)'
+- *qompëñ mu vâur* - 'will eat here', 'I will eat'
 
 ### Aspect suffix examples
 
-- *qompëñ mu qâljë* - 'makes eat here', 'I/we make X eat' OR 'X makes me/us eat'
-  - *qompëñ mu qâljëmo* - 'I/we make X eat'
-  - *qompëñ mu qâljëfê* - 'X makes me/us eat'
-- *qompëñ mu qanj* - '(sometimes) eats here', 'I/we sometimes eat'
+- *qompëñ mu qâljë* - 'makes eat here', 'I/we make X eat' OR 'X makes me/us eat'
+  - *qompëñ mu qâljëmo* - 'I/we make X eat'
+  - *qompëñ mu qâljëfê* - 'X makes me/us eat'
+- *qompëñ mu qanj* - '(sometimes) eats here', 'I/we sometimes eat'
 - *qompuo mu qanj* - 'starts eating here', 'I/we start eating'
-- *qompëñ mu qâfä* - 'eats here a bit', 'I/we sometimes eat a bit'
+- *qompëñ mu qâfä* - 'eats here a bit', 'I/we sometimes eat a bit'
 - *qompuo mu qâfä* - 'stops eating here', 'I/we stop eating'
 
 ### Person suffixes examples
 
-- *qompëñ mu qu'* - 'you eat here/with me/us'
-- *qompëñ mu qâtśarh* - 'you are eaten here/by me/us'
-- *qompëñ mu quyyêr* - 'you eat it here/with me/us'
-- *qompëñ mu qâyêru'* - 'it is eaten by you here/with me/us'
-- *qompëñ mu śu'* - 'eat here, you!'
-- *qompëñ minj śuyyêr* - 'eat this over there, you!'
-- *qompëñ mu âenjcuyyêr* - 'Do you eat it?'
-- *qompëñ mu âenjyêrcu'*
+- *qompëñ mu qu'* - 'you eat here/with me/us'
+- *qompëñ mu qâtśarh* - 'you are eaten here/by me/us'
+- *qompëñ mu quyyêr* - 'you eat it here/with me/us'
+- *qompëñ mu qâyêru'* - 'it is eaten by you here/with me/us'
+- *qompëñ mu śu'* - 'eat here, you!'
+- *qompëñ minj śuyyêr* - 'eat this over there, you!'
+- *qompëñ mu âenjcuyyêr* - 'Do you eat it?'
+- *qompëñ mu âenjyêrcu'*
   - no stress: '(hey you), do I eat it?'
   - stress on âenj**yêr**cu': 'this thing, do you eat it?'
   - stress on âenjyêrc**u'**: '(hey you), do you eat it?'
-- *qompëñ mu âenjmo* - '(I wonder), do I eat?'
+- *qompëñ mu âenjmo* - '(I wonder), do I eat?'
 
 ### Mixed tags and suffixes
 
 - '(it is said that) s/he would eat here'
   - eat.PERF PRX NAR.PAST-HAB-3Hs.NOM
-  - *qompëñ mu ljanjqonj*
+  - *qompëñ mu ljanjqonj*
 
 - 'if you eat, then I don't eat'
   - eat.PERF MED CON, PRX.NEG CON
-  - *qompëñ vâe nji, tsimpü nji*
+  - *qompëñ vâe nji, tsimpü nji*
 
 - *if I go (to him/her), do y'all think (s/he) will start helping me?*
   - Option A:
-    - **Quljârâ minj njimo, yearäme minj qâenjanj âenj*fê*me?**
+    - **Quljârâ minj njimo, yearäme minj qâenjanj âenj*fê*me?**
     - 'go o.there if-I, helping o.there might-start yes/no-me, y'all?'
     - go.PERF DST CON-1s.NOM, help.IMPF DST SPC-INCH INT-1s.ACC-2p.NOM
       - stress on *fê*
   - Option B:
-    - **Quljârâ minj njimo, yearäme qâenjanjfêqonj âenjme?**
+    - **Quljârâ minj njimo, yearäme qâenjanjfêqonj âenjme?**
     - 'go o.there if-I, helping might-start-me-s/he yes/no, y'all?'
     - go.PERF DST CON-1s.NOM, help.IMPF SPC-INCH-1s.ACC-3Hs.NOM INT-2p.NOM
 
 - *if you weren't planning to come (here) and help a bit, you should have just said something to me*
   - come.PERF help.PERF PRX.NEG COM CON.PAST-DELIM-2s.NOM, say.PERF PRX.EMPH something.ACC NEC.PAST-2s.NOM
   - 'come help not-here planning-to if-you-were-a-bit, say well-here something you-should-have'
-  - **Mâenjârâ yêrämh tsimpü vâur njêrfäu', vaħħoñ huomu rhe ħâunjêrhu'.** (Common form)
-  - **Mâenjârâ yêrämh tsimpü muljâr ienjarfäu', vaħħoñ huomu rhe ħeunjarhu'.** (Formal form)
+  - **Mâenjârâ yêrämh tsimpü vâur njêrfäu', vaħħoñ huomu rhe ħâunjêrhu'.** (Common form)
+  - **Mâenjârâ yêrämh tsimpü muljâr ienjarfäu', vaħħoñ huomu rhe ħeunjarhu'.** (Formal form)
 
 ---
 
@@ -1018,7 +1018,7 @@ Adjectives can be used in 3 main ways:
 
 - Attributively (on a noun or a pronoun)
   - *ħou aħak* - good house
-  - *ħourä' u'* - *good you
+  - *ħourä' u'* - *good you
 - Predicatively (as a verb)
   - *aħak ħouqo* - the house being good
   - *aħak quħouqo* - the house not being good
@@ -1041,12 +1041,12 @@ When adjectives take a Number suffix in front of a noun, it can be dropped from 
 - *ħouñënj uttum* - two good fishers
   - *ħouñënj uttuñqënj* - **two** good fishers
   - *quonj ħouñënj uttum/-ñqënj* - two or so two good fishers
-- *ghâemqënj ħou uttum* - these two good fishers
-  - *ghâemqënj ħouñënj uttum/-ñqënj* - these **two** good fishers
+- *ghâemqënj ħou uttum* - these two good fishers
+  - *ghâemqënj ħouñënj uttum/-ñqënj* - these **two** good fishers
 - *ħounox uttum* - good fishers
   - *ħounox uttunox* - good fishers **plural**
-- *źü ħou uttum* - six good fishers
-  - *źü ħounox uttum/-ndox* - six or so good fishers
+- *źü ħou uttum* - six good fishers
+  - *źü ħounox uttum/-ndox* - six or so good fishers
 
 Example words are: *ħou* 'good', *ete'* 'new', *uttum* 'netmaker/fisher'
 
@@ -1059,10 +1059,10 @@ Example words are: *ħou* 'good', *ete'* 'new', *uttum* 'netmaker/fisher'
 | 1.p | -njex, -nox  | ħounox ghâu      |/ˈħou̯nɔx ˈɣɑʊ̯/      | etencex ghâu     |/ˈɛtɛɲ̊cɛx ˈɣɑʊ̯/     |
 | 2.s | -rä'         | ħourä' u'        |/ˈħou̯raʔ ˈuʔ/       | eterrä' u'       |/ˈɛtɛrraʔ ˈuʔ/      |
 | 2.d | -räqqënj     | ħouräqqënj ljarh |/ˈħou̯ˌraɢɢɤɲ ˈʎær̥/  | eterräqqënj ljarh|/ˈɛtɛrˌraɢɢeɲ ˈʎær̥/ |
-| 2.p | -raccex      | ħouräccex me     |/ˈħou̯ˌraccɛx ˈmɛ/   | eterräccex me    |/ˈɛtɛˌraccɛx ˈmɛ/   |
+| 2.p | -raccex      | ħouräccex me     |/ˈħou̯ˌraccɛx ˈmɛ/   | eterräccex me    |/ˈɛtɛˌraccɛx ˈmɛ/   |
 | 3.s | -(')arh      | ħou'arh qâħ      |/ˈħou̯ʔær̥ ˈɢʌħ/      | ete'arh qâħ      |/ˈɛtɛʔær̥ ˈɢʌħ/      |
 | 3.d | -(')arhqênj  |ħou'arhqênj reunj|/ˈħou̯ʔær̥ɢeɲ ˈrøʊ̯ɲ/ | ete'arhqênj reunj|/ˈɛtɛʔær̥ɢeɲ ˈrøʊ̯ɲ/|
-| 3.p | -(')arcex    |ħou'arcex ñâenj   |/ˈħou̯ʔær̥cɛx ˈɴɑe̯ɲ/| ete'arcex ñâenj  |/ˈɛtɛɲ̊cɛx ˈɴɑe̯ɲ/   |
+| 3.p | -(')arcex    |ħou'arcex ñâenj   |/ˈħou̯ʔær̥cɛx ˈɴɑe̯ɲ/| ete'arcex ñâenj  |/ˈɛtɛɲ̊cɛx ˈɴɑe̯ɲ/   |
 
 ### Pronominal Adjectives and Politeness
 
@@ -1072,21 +1072,21 @@ Adjectives don't take case suffixes, meaning that this usage is restricted to No
 
 - Adjectives
   - 1st person
-    - *pefśe* 'humble' is common when speaking politely to one's elders
-    - *yaśta* 'friendly' is common when speaking politely to one's peers.
+    - *pefśe* 'humble' is common when speaking politely to one's elders
+    - *yaśta* 'friendly' is common when speaking politely to one's peers.
   - 2nd and 3rd person
-    - *ħou* 'good' and *ħouźo* 'good-natured' are common to address/speak about others in all situations
+    - *ħou* 'good' and *ħouźo* 'good-natured' are common to address/speak about others in all situations
     - *vae* 'foremost' and *aoa* 'senior' is commonly used for/towards one's elders
-    - *yikkiś* 'magnificent' and *arralji'* 'mighty' are commonly used for/towards rulers and gods
-  - such 'pronominal adjectives' can also be used to insult, as in *ârrôźyë* 'dull' or *ħâero* 'dirty'
+    - *yikkiś* 'magnificent' and *arralji'* 'mighty' are commonly used for/towards rulers and gods
+  - such 'pronominal adjectives' can also be used to insult, as in *ârrôźyë* 'dull' or *ħâero* 'dirty'
 - Politeness examples
-  - *uir vâe (u') ħâunju'* - 'you should go there'
-    - Polite: *uirâ vâe ħourä' ħâunju'* - lit. 'good (you) should go there'
-  - *ienjaś minj (mvo) (tśarh) vâurmotśarh'* - 'I'll bring you over there'
-    - Polite to elders: *ienjaś minj pefśe aoarä' vâurmotśarh* - lit. 'humble (I) will bring senior (you) over there'
-    - Polite to peers: *ienjaś minj yaśta ħouźorä' vâurmotśarh* - lit. 'friendly (I) will bring good-natured (you) over there'
-- Irreverant: *jêñghanjh minj (qâuñ) qâqon* - '(the king) he sees it/over there'
-  - Reverent: *jêñghanjh minj yikkiś'arh qâqon* - lit. 'magnificent (him) sees it/over there'
+  - *uir vâe (u') ħâunju'* - 'you should go there'
+    - Polite: *uirâ vâe ħourä' ħâunju'* - lit. 'good (you) should go there'
+  - *ienjaś minj (mvo) (tśarh) vâurmotśarh'* - 'I'll bring you over there'
+    - Polite to elders: *ienjaś minj pefśe aoarä' vâurmotśarh* - lit. 'humble (I) will bring senior (you) over there'
+    - Polite to peers: *ienjaś minj yaśta ħouźorä' vâurmotśarh* - lit. 'friendly (I) will bring good-natured (you) over there'
+- Irreverant: *jêñghanjh minj (qâuñ) qâqon* - '(the king) he sees it/over there'
+  - Reverent: *jêñghanjh minj yikkiś'arh qâqon* - lit. 'magnificent (him) sees it/over there'
 
 Such polite speech is common among strangers and acquaintances, towards customers/patrons or from people of a lower status to those of a higher one (generation/age, work, etc).
 
@@ -1098,19 +1098,19 @@ Adjectives can be used predicatively by converting them into verbs using the suf
 
 Note that there is a distinction between using an adjective and using its predicate participle attributively, i.e. between *ħounox uttum* 'the good fishers' and *quħouqonox uttum* 'the being-good fishers'.  The distinction is similar to the essence-vs-state distinction of Iberian languages - that is, *ħounox uttum* describes fishers who are, by their nature/essence, good, while *quħouqonox uttum* describes fishers who are currently being, or considered right now to be, good.
 
-The construction of all 4 verb stems of the predicate adjective is regular.  Predicate adjectives do not need to agree with a noun when used as a verb, but when a participle is used attributively (uncommon, as explained above), it will take agreement suffixes after the verb suffix.
+The construction of all 4 verb stems of the predicate adjective is regular.  Predicate adjectives do not need to agree with a noun when used as a verb, but when a participle is used attributively (uncommon, as explained above), it will take agreement suffixes after the verb suffix.  The suffix introduces a secondary stress to a previous syllable if that syllable doesn't already have stress.
 
 |Form|English           |Affix   |Example A |IPA         |Example B  |IPA          |
 |----|------------------|--------|----------|------------|-----------|-------------|
-|PART|being good/new    | -qo    | ħouqo    |/ˈħou̯ɢɔ/    | eteqqo    |/ˈɛtɛɢɢɔ/    |
-|NEGP|not being good/new| qu-qo  | quħouqo  |/ɢuˈħou̯ɢɔ/  | queteqqo  |/ɢuˈɛtɛɢɢɔ/  |
-|IMPF|is good/new       | -qoñ   | ħouqoñ   |/ˈħou̯ɢɔɴ/   | eteqqoñ   |/ˈɛtɛɢɢɔɴ/   |
-|PERF|becomes good/new  | -qoñof | ħouqoñof |/ˈħou̯ɢɔɴɔf/ | eteqqoñof |/ˈɛtɛɢɢɔɴɔf/ |
+|PART|being good/new    | -qo    | ħouqo    |/ˈħou̯ɢɔ/    | eteqqo    |/ˈɛˌtɛɢɢɔ/   |
+|NEGP|not being good/new| qu-qo  | quħouqo  |/ɢuˈħou̯ɢɔ/  | queteqqo  |/ɢuˈɛˌtɛɢɢɔ/ |
+|IMPF|is good/new       | -qoñ   | ħouqoñ   |/ˈħou̯ɢɔɴ/   | eteqqoñ   |/ˈɛˌtɛɢɢɔɴ/  |
+|PERF|becomes good/new  | -qoñof | ħouqoñof |/ˈħou̯ɢɔɴɔf/ | eteqqoñof |/ˈɛˌtɛɢɢɔɴɔf/|
 
 Examples of use:
 
 - PART: *ljanjin mu, aħak **eteqqo**njêrh, qâ* - 'I like my house being/becoming new'
-- PART: *qâeñ hounox uttum **quħouqo**arcex (ñâenj) qârh* - 'the good fishers were not being good (fishers)', lit. 'the good fishers were not-good-being (them)'
+- PART: *qâeñ hounox uttum **quħouqo**arcex (ñâenj) qârh* - 'the good fishers were not being good (fishers)', lit. 'the good fishers were not-good-being (them)'
 - IMPF: _**ħouqoñ** mu aħak qâ_ - 'my house is good'
 - PERF: _**ħouqoñof** mu aħak qâ_ - 'my house becoming good'
 
@@ -1131,10 +1131,10 @@ These can be used the same as any noun.  They tend to take indefinite meanings, 
 
 - Fist person/Noun dual and plural endings (beginning in a nasal) combine with an adjective's final nasal or glottal stop to produce a nasal-stop cluster
   - ete' + -njex > etencex 'new (plural)'
-  - ârrhâem + -ñënj > ârrhâeñqënj 'high (you & I)'
+  - ârrhâem + -ñënj > ârrhâeñqënj 'high (you & I)'
   - Note that this only occurs with adjective inflections, not with nasal suffixes generally
     - ete' + -njix > etennjix 'new thing (animate genitive)'
-    - ârrhâem + -ñah > ârrhâemñah 'new thing (animate/human locative)'
+    - ârrhâem + -ñah > ârrhâemñah 'new thing (animate/human locative)'
 - Second person endings (beginning in an R) combine with an adjective's final rhotic or glottal stop to produce a geminated rhotic
   - ete' + -rä' > eterrä' 'new (you)'
   - njarh + -räccex > njarräccex 'narrow (you\.pl)'
@@ -1164,7 +1164,7 @@ There are a number of adjectives formed using Vuhîñkam sources of regular adje
 New adjectives are commonly derived through prefixes which evolved from Vuhîñkam prepositions.
 
 - *quttampa'* /ˈɢutˌtæm̥pæʔ/ 'rope' > *quttampâeo* /ˈɢuttæm̥ˌpɑe̯ɔ/ 'made of rope' through a Vuhîñkam suffix
-- *źñärhä* /ˈʑɴar̥a/ 'metal' > irźñärhä /irˈʑɴar̥a/ 'metallic, forged from metal' through an Uħħuonanjh prefix
+- *źñärhä* /ˈʑɴar̥a/ 'metal' > irźñärhä /irˈʑɴar̥a/ 'metallic, forged from metal' through an Uħħuonanjh prefix
 
 ---
 
@@ -1188,17 +1188,17 @@ Adverbs can be used to modify either verbs, other adjectives / adverbs or apply 
 
 The imperfective and perfective suffixes *can* also be used when the adverb is modifying participles or clauses headed by participles, and it is common to use a dummy adverb (commonly *ħeffa* 'well') to mark this when a participle represents a verb with quite different imperfective and perfective meanings, if the meaning is not evident from context or needs particular emphasis.  It can also be used to clarify the aspect when tag aspect suffixes are used in relative clauses (since HAB-INCH and DELIM-TERM can be quite different).
 
-While the use of a specific intensifier adverb such as *meccafa heffa/ñêra* 'very well/round' does happen when modifying adjectives and adverbs, it is also common to simply duplicate the adverb (if modifying an adverb) or duplicate the adjective and turn it into an adverb - *heffa heffa* 'very well', lit. 'well well' and *ñêrafa ñêra* 'very round', lit. 'roundly round'.
+While the use of a specific intensifier adverb such as *meccafa heffa/ñêra* 'very well/round' does happen when modifying adjectives and adverbs, it is also common to simply duplicate the adverb (if modifying an adverb) or duplicate the adjective and turn it into an adverb - *heffa heffa* 'very well', lit. 'well well' and *ñêrafa ñêra* 'very round', lit. 'roundly round'.
 
 ### Agreement and Inflection
 
-Example words are: *ħeffa* 'well', *xam* 'up(wards)', *uirâ - uir - uirñe* 'to go (PART - PERF - IMPF)'
+Example words are: *ħeffa* 'well', *xam* 'up(wards)', *uirâ - uir - uirñe* 'to go (PART - PERF - IMPF)'
 
 |Form   |Affix   |Example A     |IPA         |Example B    |IPA          |
 |----   |--------|--------------|------------|-------------|-------------|
-|neutral| -      | ħeffa uirâ   |/ˈħɛffæ/    | xam uirâ    |/ˈxæm/       |
+|neutral| -      | ħeffa uirâ   |/ˈħɛffæ/    | xam uirâ    |/ˈxæm/       |
 |PERF   | -(a/â)f| ħeffaf uir   |/ˈħɛffæf/   | xamaf uir   |/ˈxæmæf/     |
-|IMPF   | -(a/â)ñ| ħeffañ uirñe |/ˈħɛffæɴ/   | xamañ uirñe |/ˈxæmæɴ/     |
+|IMPF   | -(a/â)ñ| ħeffañ uirñe |/ˈħɛffæɴ/   | xamañ uirñe |/ˈxæmæɴ/     |
 
 ## Derivation (Adverbs)
 
@@ -1209,37 +1209,37 @@ An unstressed version of the inherited suffix is still productive in Uħħuonanj
 - Stressed version
   - *ħou* 'good' > *ħeffa* 'well'
   - *vif* 'full' > *vieffa* 'fully / completely'
-  - *pumfë* 'correct'
+  - *pumfë* 'correct'
     - *pumfa* 'correctly (common)'
     - *pumfofa* /ˈpum̥ˌfɔfæ/ 'correctly (formal)'
   - *njarh* 'narrow'
     - *njarfa* 'narrowly / just  (common)'
-    - *njarrhäfa* /ˈɲær̥ˌr̥afæ/ 'narrowly / just  (formal)'
+    - *njarrhäfa* /ˈɲær̥ˌr̥afæ/ 'narrowly / just  (formal)'
 - Unstressed version: -fa/-va after a voiced final consonant
-  - *pefśe* 'humble' > *pefśefa* /ˈpɛfɕɛfæ/ 'humbly'
-  - *yikkiś* 'magnificent' > *yikkiśfa* /ˈɟikkiɕfæ/ 'magnificently'
+  - *pefśe* 'humble' > *pefśefa* /ˈpɛfɕɛfæ/ 'humbly'
+  - *yikkiś* 'magnificent' > *yikkiśfa* /ˈɟikkiɕfæ/ 'magnificently'
   - *gheħħemh* 'proud' > *gheħħemhfa* /ˈɣɛħħɛm̥fæ/ 'proudly'
-  - *qompëñ* 'eating' > *qompëñva* /ˈɢɔm̥pɤɴʋæ/ 'while eating' (lit. 'eatingly')
+  - *qompëñ* 'eating' > *qompëñva* /ˈɢɔm̥pɤɴʋæ/ 'while eating' (lit. 'eatingly')
 
 ## Adverb Examples
 
 [back to chapter top](#35-morphology---adverbs)
 
-- *ħeffa qomë varħaccin* 'the hunter who lives/survives well'
-  - *ħeffaf qomë varħaccin* 'the hunter who survives well'
-  - *ħeffañ qomë varħaccin* 'the hunter who lives well'
-  - *ħeffa ħeffa qomë varħaccin* 'the hunter who lives/survives very well'
-- *ħeffaf qemieñef mu varħaccin qâ* 'the hunter survives well here'
-- *ħeffañ qomëñ mu varħaccin qâ* 'the hunter lives well here'
-- *vieffa ljomëkou uttë* 'correctly/well made net'
-  - *vieffa pumfa ljomëkou uttë* 'completely correctly made net'
-- *qompëñva vaħħoñ mu varħaccin qâ* 'the hunter speaks to me eatingly (speaks while eating)'
+- *ħeffa qomë varħaccin* 'the hunter who lives/survives well'
+  - *ħeffaf qomë varħaccin* 'the hunter who survives well'
+  - *ħeffañ qomë varħaccin* 'the hunter who lives well'
+  - *ħeffa ħeffa qomë varħaccin* 'the hunter who lives/survives very well'
+- *ħeffaf qemieñef mu varħaccin qâ* 'the hunter survives well here'
+- *ħeffañ qomëñ mu varħaccin qâ* 'the hunter lives well here'
+- *vieffa ljomëkou uttë* 'correctly/well made net'
+  - *vieffa pumfa ljomëkou uttë* 'completely correctly made net'
+- *qompëñva vaħħoñ mu varħaccin qâ* 'the hunter speaks to me eatingly (speaks while eating)'
 
 ---
 
 # 4.1: Sentence Structure
 
-This section will go through methods of constructing proper sentences in Uhhuonanjh.
+This section will go through methods of constructing proper sentences in Uħħuonanjh.
 
 Sections (or [back to top](#chapters)):
 
@@ -1261,24 +1261,24 @@ Word order in dependent clauses is Noun Phrases-(Locative)-(Topic)-(Tag)-Verb; n
 
 [back to chapter top](#41-sentence-structure)
 
-Uhhuonanjh is a Topic-Prominent language, tending to place the sentence Topic directly before the verb.  Other noun phrases can appear in any order as long as they are between the Verb/Locative pronoun and the Sentence-final Tag of a main clause, or before the verb (and after a comma) of a dependent clause.
+Uħħuonanjh is a Topic-Prominent language, tending to place the sentence Topic directly before the verb.  Other noun phrases can appear in any order as long as they are between the Verb/Locative pronoun and the Sentence-final Tag of a main clause, or before the verb (and after a comma) of a dependent clause.
 
 Topic prominence is also expressed through the conjugation of sentence-final tags, where arguments are usually placed topic-first.
 
-|English                                |Uhhuonanjh                                   |
+|English                                |Uħħuonanjh                                   |
 |---------------------------------------|---------------------------------------------|
-|I brought a pear home for you (formal) |ienjaś mu urumva camħencêrh tśarêrh qârh     |
-|I brought a pear home for you (common) |ienjaś mu urumva camħencêrh tśarêrh qârhmoyêr|
-|Me, I brought a pear home for you      |mvo ienjaś mu urumva camħencêrh tśarêrh qârhmoyêr|
-|The pear I brought it home for you     |urumva ienjaś mu camħencêrh tśarêrh qârhyêrmo|
-|Home, I brought the pear for you       |camħencêrh ienjaś mu urumva tśarêrh qârhyêrmo|
-|For you, I brought the pear home       |tśarêrh ienjaś mu urumva camħencêrh qârhtśarhmo|
+|I brought a pear home for you (formal) |ienjaś mu urumva camħencêrh tśarêrh qârh     |
+|I brought a pear home for you (common) |ienjaś mu urumva camħencêrh tśarêrh qârhmoyêr|
+|Me, I brought a pear home for you      |mvo ienjaś mu urumva camħencêrh tśarêrh qârhmoyêr|
+|The pear I brought it home for you     |urumva ienjaś mu camħencêrh tśarêrh qârhyêrmo|
+|Home, I brought the pear for you       |camħencêrh ienjaś mu urumva tśarêrh qârhyêrmo|
+|For you, I brought the pear home       |tśarêrh ienjaś mu urumva camħencêrh qârhtśarhmo|
 
 ## Copular Constructions
 
 [back to chapter top](#41-sentence-structure)
 
-The copula is expressed with the imperfective verb *qâeñ* (*qâe, jêño* participles).  When equating two noun phrases, both are used in the Nominative case.
+The copula is expressed with the imperfective verb *qâeñ* (*qâe, jêño* participles).  When equating two noun phrases, both are used in the Nominative case.
 
 The copula is not used as a separate verb for adjectives.  Instead, it is suffixed to the adjective (as *-qoñ*) to convert the adjective into a verb meaning 'to be X'.
 
@@ -1291,7 +1291,7 @@ Conjunctions such as *ħuom* 'and' can link sentences, coming between them with 
 Conjunctions include:
 
 - *ħuom* 'and' - used both as a conjunction and to link noun phrases
-- *vorhâr* 'or' - used both as a conjunction and to link all kinds of phrases (noun, verb or descriptor)
+- *vorhâr* 'or' - used both as a conjunction and to link all kinds of phrases (noun, verb or descriptor)
 - *rhu* 'if' - generally restricted to formal use as its function has largely been replaced by the Conditional Mood
 - *verh* 'because'
 - *fezzo* 'so, then'
@@ -1300,7 +1300,7 @@ Sentences can also simply link to each other with no conjunction in between, wit
 
 e.g. 'I sit and you eat', while it could be rendered as 'I sit, *huom*, you eat', would more commonly simply be rendered as 'I sit, you eat'.  Same for 'he saw us so he knows', which could more commonly be 'he saw us, he knows' rather than explicitly using the conjunction *fezzo*.
 
-The usual alternative to using words like 'because', 'so', 'when', etc to form adverbial clauses, when the relationship between these sentences is necessary to explain, is to use a noun phrase instead - 'he saw us so he knows' becomes 'from him seeing us, he knows', with the noun phrase placed in topic position if required.  In cases where the phrase would be too long, or in cases where a full sentence is desired, they may be placed in separate main clauses, with the first clause referred to in the topic of the second using the pronoun *aoś* 'this' - 'he saw that we had arrived home, so he knows' becomes 'he saw that we had arrived home, from this, he knows.'
+The usual alternative to using words like 'because', 'so', 'when', etc to form adverbial clauses, when the relationship between these sentences is necessary to explain, is to use a noun phrase instead - 'he saw us so he knows' becomes 'from him seeing us, he knows', with the noun phrase placed in topic position if required.  In cases where the phrase would be too long, or in cases where a full sentence is desired, they may be placed in separate main clauses, with the first clause referred to in the topic of the second using the pronoun *aoś* 'this' - 'he saw that we had arrived home, so he knows' becomes 'he saw that we had arrived home, from this, he knows.'
 
 ## Content Clauses
 
@@ -1336,17 +1336,17 @@ When multiple arguments are present of the same case, it is simply assumed that 
   - *verxanjh mu qâmoyêr* - I rain it here
     - Unusual usage, perhaps using 'rain' metaphorically, e.g. in the sense 'spread widely'
 - *xea* 'to exist' - usually takes 1 argument (NOM)
-  - *xeañ quo qâ* - exists somewhere
+  - *xeañ quo qâ* - exists somewhere
     - Unusual usage without context, equivalent to 'something exists somewhere'
     - Not unusual usage with context, equivalent to '(X,) it exists somewhere'
-  - *xeañ mu qâ* - exists here
+  - *xeañ mu qâ* - exists here
     - Common usage for when the thing that exists is known/obvious or irrelevant
     - Also common usage without context, where the locative 'mu' suggests a first person subject
-  - *xeañ mu qâmo* - I exist here
+  - *xeañ mu qâmo* - I exist here
     - Standard usage
-  - *xeañ mu mvo muqqaśte urumvate qâ(ghâ)* - Me, a peach and a pear exist here
+  - *xeañ mu mvo muqqaśte urumvate qâ(ghâ)* - Me, a peach and a pear exist here
     - Standard usage
-  - *xeañ mu qâmoyêr* - I exist it here
+  - *xeañ mu qâmoyêr* - I exist it here
     - Unusual usage.  Use of additional ACC argument implies that 'it' has been changed/affected by my existence here.
 - *ljêra'* 'to pull' - usually takes 2 arguments (NOM and ACC)
   - *ljêra' quo qâ* - pulls somewhere
@@ -1359,14 +1359,14 @@ When multiple arguments are present of the same case, it is simply assumed that 
   - *ljêra' mu yerêrh qâmo* - I pull to it here
     - Not unusual usage where the object is not considered to have changed/been affected by the action
       - e.g. 'I pulled the rock but it didn't budge', 'the rock' would be DAT instead of ACC to mark that it hasn't changed state/been affected
-- *vaħħoñ* 'to say/tell' - takes up to 3-4 arguments (NOM, ACC/GEN, DAT)
-  - *vaħħoñ quo qâ* - Someone somewhere talks
-  - *vaħħoñ mu qâ(mo)* - (I) talk here
-  - *vaħħoñ mu qâmoyêr* - I say it here
-  - *vaħħoñ mu yerix qâmo* - I talk about it here
-  - *vaħħoñ mu tśarêrh qâmoyêr* - I tell you it here
-  - *vaħħoñ mu tśarêrh yerix qâmo* - I talk to you about it here
-  - *vaħħoñ mu yêr tśarêrh yerix qâmo* - I say it to you about him/her here
+- *vaħħoñ* 'to say/tell' - takes up to 3-4 arguments (NOM, ACC/GEN, DAT)
+  - *vaħħoñ quo qâ* - Someone somewhere talks
+  - *vaħħoñ mu qâ(mo)* - (I) talk here
+  - *vaħħoñ mu qâmoyêr* - I say it here
+  - *vaħħoñ mu yerix qâmo* - I talk about it here
+  - *vaħħoñ mu tśarêrh qâmoyêr* - I tell you it here
+  - *vaħħoñ mu tśarêrh yerix qâmo* - I talk to you about it here
+  - *vaħħoñ mu yêr tśarêrh yerix qâmo* - I say it to you about him/her here
 
 ## Adverbial Use of Cases
 
@@ -1376,7 +1376,7 @@ Nouns inflected in DAT/GEN/LOC cases are commonly used as simple adverbials.
 
 Nouns in NOM or ACC case can be placed before the verb as a disjoint Topic (one that doesn't play any explicit role in the sentence other than to set the context).  It is common to place inanimate topics in ACC and all other topics in NOM, though this can be inverted to place an emphasis on the agency of an inanimate noun or the non-agency of others.
 
-Adverbials can be suffixed with -qo/ñ/of to turn into a verb 'to be X', in the same way as adjectives, e.g. *ħuoñdvaśêra* 'in the forest' > *ħuoñdvaśêraqo* 'to be in the forest'.  (The use of this suffix for verb arguments is rarer and tends to be restricted to informal speech)
+Adverbials can be suffixed with -qo/ñ/of to turn into a verb 'to be X', in the same way as adjectives, e.g. *ħuoñdvaśêra* 'in the forest' > *ħuoñdvaśêraqo* 'to be in the forest'.  (The use of this suffix for verb arguments is rarer and tends to be restricted to informal speech)
 
 Some examples of simple adverbials:
 
@@ -1406,21 +1406,21 @@ Some examples of simple adverbials:
 
 While Genitive case is the most commonly used for possession, it's not the only way to express the relationship, and is usually only used when the possessor has is a greater or equal party in the relaionship.  When the possessor is commonly seen as a lesser party, it is common to use Dative instead.  If the relationship could be described better as Locative, then that is used.  The decision of which case to use is a purely semantic choice, all choices are equally correct grammatically.
 
-- The person's dog - xaśonjëx fimtśanjh - person.GEN dog
-- The dog's owner - fimtśancêrh ħakkeuöm - dog.DAT person
-- the person's family - xaśonenj fesqampaonyex - person.DAT family
-- the person's family (descendants) - xaśonjëx fesqampaonyex - person.GEN family
-- The island's forest - üâeñaħ ħuoñdvaś - island.LOC forest
+- The person's dog - xaśonjëx fimtśanjh - person.GEN dog
+- The dog's owner - fimtśancêrh ħakkeuöm - dog.DAT person
+- the person's family - xaśonenj fesqampaonyex - person.DAT family
+- the person's family (descendants) - xaśonjëx fesqampaonyex - person.GEN family
+- The island's forest - üâeñaħ ħuoñdvaś - island.LOC forest
 
 ## Postpositional Phrases
 
 [back to chapter top](#42-noun-phrases)
 
-Postpositions are a special type of noun, often used to form noun phrases analogous to English prepositional noun phrases.  They give more specific information of the relationship/direction/movement of nouns than cases.  While normal nouns can be used in a similar manner to form noun phrases, postpositions are unique in that they maintain a distinction between Locative case (LOC) ending in -ñah and Instrumentative (INS) case ending in -êra/-ôra.
+Postpositions are a special type of noun, often used to form noun phrases analogous to English prepositional noun phrases.  They give more specific information of the relationship/direction/movement of nouns than cases.  While normal nouns can be used in a similar manner to form noun phrases, postpositions are unique in that they maintain a distinction between Locative case (LOC) ending in -ñah and Instrumentative (INS) case ending in -êra/-ôra.
 
 When using postpositions, the original noun is inflected in a case to relate it to the postposition (commonly GEN), while the postposition is now considered the head of the phrase and inflected for the relationship to the clause as a whole (e.g. 'on top of the table' > table.GEN top.LOC).  The postposition can also be used as a normal noun, simply referring to some part, space or relation to the modified noun (e.g. *the inside* of the house, *the top/surface* of the table)
 
-Common postpositions are listed in the following tables.  If not specified, the modified noun will be in GEN case.  Postpositions can generally take any relevant case, not just the ones listed. As an example, *fśeaz* 'front of' can be used in any case - NOM (the front of the box is yellow), ACC (they hit the front of the box), DAT (they walk in front of me \[and stays there]), GEN (they walk from in front of me), LOC (they are in front of me) and INS (they pass by in front of me \[and are no longer there]).
+Common postpositions are listed in the following tables.  If not specified, the modified noun will be in GEN case.  Postpositions can generally take any relevant case, not just the ones listed. As an example, *fśeaz* 'front of' can be used in any case - NOM (the front of the box is yellow), ACC (they hit the front of the box), DAT (they walk in front of me \[and stays there]), GEN (they walk from in front of me), LOC (they are in front of me) and INS (they pass by in front of me \[and are no longer there]).
 
 Note that postpositions commonly abbreviate Dative case endings to -njêrh (with the nasal assimilating stem-final nasals) - this is common informally for many inanimate words, but also common in normal language in postpositions.
 
@@ -1428,49 +1428,49 @@ Note that postpositions commonly abbreviate Dative case endings to -njêrh (with
 
 |Word         |Case|Meaning        |Example                    |Example Meaning                 |
 |-------------|----|---------------|---------------------------|--------------------------------|
-|fśeaz        | LOC| in front of   | fix fśeazñaħ arrhanjh     |to stand in front of me         |
-|fśeaz        | INS| via front of  | fix fśeazêra xarrhenj     |to pass by in front of me       |
-|ljix         | LOC| behind        | tfaśśaix ljixñaħ arrhanjh |to stand behind the tree        |
-|ljix         | INS| behind        | tfaśśaix ljixêra xarrhenj |to pass behind the tree         |
+|fśeaz        | LOC| in front of   | fix fśeazñaħ arrhanjh     |to stand in front of me         |
+|fśeaz        | INS| via front of  | fix fśeazêra xarrhenj     |to pass by in front of me       |
+|ljix         | LOC| behind        | tfaśśaix ljixñaħ arrhanjh |to stand behind the tree        |
+|ljix         | INS| behind        | tfaśśaix ljixêra xarrhenj |to pass behind the tree         |
 |pon          | DAT| next to       | pëx pononôrh gheanjh      |to sit down next to us          |
-|pon          | LOC|next to/beside | pëx ponñaħ gheanjh        |to be sitting next to us        |
+|pon          | LOC|next to/beside | pëx ponñaħ gheanjh        |to be sitting next to us        |
 |pon          | INS| beside        | pëx ponôra xarrhenj       |to pass beside us               |
-|DAT + vaś    | DAT| above         | munôrh vaśnjêrh jêñgha'   |to look above this place/here   |
-|DAT + vaś    | LOC| above         | munôrh vaśñaħ qurhiħa     |to float above here             |
+|DAT + vaś    | DAT| above         | munôrh vaśnjêrh jêñgha'   |to look above this place/here   |
+|DAT + vaś    | LOC| above         | munôrh vaśñaħ qurhiħa     |to float above here             |
 |xacca        | LOC| above         | muëx xaccañaħ qurhiħa     |to float above here             |
 |xacca        | INS| over          | arrhacca'ix xaccaêra      |over the mountain               |
-|qunjh        | GEN|from on top of | erreqqaix qunjëx ioña'    |to take from on top of the rock |
+|qunjh        | GEN|from on top of | erreqqaix qunjëx ioña'    |to take from on top of the rock |
 |qunjh        | LOC| on/on top of  | erreqqaix qunjñaħ quttunjh|to put on top of the rock       |
-|DAT + mekke  | LOC| underneath    | fix feñxanjêrh mekkeñah   |underneath my foot              |
-|DAT + mekke  | DAT|below/beneath  | fix feñxanjêrh mekkenjêrh |below/under my food             |
-|ghêamh       | LOC|hanging from   |tfaśśaix ghêamñaħ arrêamh|the leaf hanging from the tree  |
-|ghêamh       | GEN|off of/off from|tfaśśaix ghêamix vônluum   |to break off of the tree        |
-|LOC + qâu    | LOC|near           |tfaśśaêra qâuñaħqo         |to be near the tree             |
-|riem         | LOC|far from       |tfaśśaix riemñaħqo         |to be far from the tree         |
-|âur          | LOC|right of       |tfaśśaix âurñaħqo          |to be on the right of the tree  |
-|ħeim         | LOC|left of        |tfaśśaix ħeimñaħqo         |to be on the left of the tree   |
-|ħaie         | INS|along          |kixeźix ħaieêra arrhaonj   |to walk along the beach         |
-|puoñh        | INS|across         |quieźanjix puoñôra arrhaonj|to walk across the river        |
-|moa'         | LOC|opposite/across|quieźanjix moaññaħ         |on the other side of the river  |
+|DAT + mekke  | LOC| underneath    | fix feñxanjêrh mekkeñah   |underneath my foot              |
+|DAT + mekke  | DAT|below/beneath  | fix feñxanjêrh mekkenjêrh |below/under my food             |
+|ghêamh       | LOC|hanging from   |tfaśśaix ghêamñaħ arrêamh|the leaf hanging from the tree  |
+|ghêamh       | GEN|off of/off from|tfaśśaix ghêamix vônluum   |to break off of the tree        |
+|LOC + qâu    | LOC|near           |tfaśśaêra qâuñaħqo         |to be near the tree             |
+|riem         | LOC|far from       |tfaśśaix riemñaħqo         |to be far from the tree         |
+|âur          | LOC|right of       |tfaśśaix âurñaħqo          |to be on the right of the tree  |
+|ħeim         | LOC|left of        |tfaśśaix ħeimñaħqo         |to be on the left of the tree   |
+|ħaie         | INS|along          |kixeźix ħaieêra arrhaonj   |to walk along the beach         |
+|puoñh        | INS|across         |quieźanjix puoñôra arrhaonj|to walk across the river        |
+|moa'         | LOC|opposite/across|quieźanjix moaññaħ         |on the other side of the river  |
 |moa'        | INS|opposite/against|fix moa'êra qunljar        |to fight against me             |
-|LOC + quonj  | DAT|into/in/inside |aħakêra quonnjêrh uirâ     |to go into the house            |
+|LOC + quonj  | DAT|into/in/inside |aħakêra quonnjêrh uirâ     |to go into the house            |
 |LOC + quonj  | LOC|in/inside      |aħakêra quonjñaħqo         |to be inside the house          |
-|LOC + vaoñ   | GEN|out of/from    |aħakêra vaonnjêrh uirâ     |to go out of the house          |
+|LOC + vaoñ   | GEN|out of/from    |aħakêra vaonnjêrh uirâ     |to go out of the house          |
 |LOC + vaoñ   | LOC|out/outisde    |aħakêra vaoññaħqo          |to be outside the house         |
-|ñieñ         | INS|through        |yeħħonjix ñieñêra arrhanjh |to travel through the territory |
-|ñieñ     | LOC|through/during|yeħħonjix ñieññaħ jêñghakkeu|to be seen throughout the territory|
-|ñêr          | GEN|around/about   |zuiëx ñêrix xaśonj         |about seven people              |
-|ñêr| LOC|around/surrounding |qu'njonjëx ñêrñaħ ħuoñdvaś |the forest surrounding the settlement|
+|ñieñ         | INS|through        |yeħħonjix ñieñêra arrhanjh |to travel through the territory |
+|ñieñ     | LOC|through/during|yeħħonjix ñieññaħ jêñghakkeu|to be seen throughout the territory|
+|ñêr          | GEN|around/about   |zuiëx ñêrix xaśonj         |about seven people              |
+|ñêr| LOC|around/surrounding |qu'njonjëx ñêrñaħ ħuoñdvaś |the forest surrounding the settlement|
 
-- vaś and xacca are synonymous, deriving from 'sky' and 'mountain' respectively.  Some communities favour one or the other, others use both equally.
-- while 'above' and 'on top of' have separate postpositions, the opposite 'below' and 'right underneath / on the bottom of' share the same word.  'Mekkenjêrh' can have locative meanings (we sit below/under/beneath the stars), despite itself being in dative case.  'Mekkeñah' can similarly have dative meanings (we attach it to the bottom of the box).
+- vaś and xacca are synonymous, deriving from 'sky' and 'mountain' respectively.  Some communities favour one or the other, others use both equally.
+- while 'above' and 'on top of' have separate postpositions, the opposite 'below' and 'right underneath / on the bottom of' share the same word.  'Mekkenjêrh' can have locative meanings (we sit below/under/beneath the stars), despite itself being in dative case.  'Mekkeñah' can similarly have dative meanings (we attach it to the bottom of the box).
 
 ### Context and Logical Relations
 
 |Word         |Case|Meaning        |Example                    |Example Meaning                 |
 |-------------|----|---------------|---------------------------|--------------------------------|
-|qâu          | LOC|about/regarding| fix qâuñaħ yeañix arrhaiix|his attitude regarding me       |
-|yêrh         | NOM|result/intention of| aoś arrhaiix yêrh     |(intended) result of this attitude|
+|qâu          | LOC|about/regarding| fix qâuñaħ yeañix arrhaiix|his attitude regarding me       |
+|yêrh         | NOM|result/intention of| aoś arrhaiix yêrh     |(intended) result of this attitude|
 |yêrh         | INS|as a result of | ħanjmanjix yêrhêra        |because of the fire             |
 |itfe         | NOM|cause/reason for| ħanjmanjix itfe          |cause/reason for the fire       |
 |itfe         | DAT|as a cause of  | ħanjmanjix itfenjêrh      |leading to the fire             |
@@ -1484,11 +1484,11 @@ Adverbial clauses do not occur in the language, instead they tend to be replaced
   - I saw the king when I got home
     - 'I saw the king at arriving home'
     - see DST king.DAT, home-DAT arriving-LOC, IND.PAST-1s.NOM
-    - jêñghaf minj vakkênênj, camħencêrh xaśanjêra, qârhmoyênj
+    - jêñghaf minj vakkênênj, camħencêrh xaśanjêra, qârhmoyênj
   - I saw the king after I got home
     - 'I saw the king at **end of** arriving home'
     - see DST king.ACC, my home-DAT arriving-GEN **end-LOC**, IND.PAST-1s.NOM
-    - jêñghaf minj vakkênênj, camħencêrh xaśanjix **färhñaħ**, qârhmoyênj
+    - jêñghaf minj vakkênênj, camħencêrh xaśanjix **färhñaħ**, qârhmoyênj
 - X, because Y / X, for Y > X with cause Y.noun
   - You can't stay, because she is tired
     - 'You can't stay, from cause of her being tired'
@@ -1528,14 +1528,14 @@ Multiple verbs can be chained wherever they are used.  The resulting meaning is 
 
 For the second meaning 'X until Y', it is common to use an adjective + verb ending -qoñ.
 
-|Uhhuonanjh|Gloss|English|
+|Uħħuonanjh|Gloss|English|
 |----------|-----|-------|
-|Mâenjârâ mu quljârâ vâe qanjqonj|come.PERF PRX go.PERF MED IND-HAB-3Hs.NOM|S/he (sometimes) comes (here) and goes (there)|
-|Qompuo quttśee mu qâghâ|eat.IMPF drink.IMPF PRX IND-1p.NOM|We are eating and drinking|
-|Mâenjârâ qompëñ mu śancu'!|come.PERF eat.PERF mu IMP.POL-2s.NOM|(You,) come (here) and eat here!|
-|Varħanjef qompëñ minj qanjqonj|hunt.PERF eat.PERF DST IND-HAB-3Hs.NOM|S/he hunts and eats OR S/he hunts to eat|
-|Vâeoñqof paomvaqoñ mu qârfê|shock.PERF white-be.IMPF PRX IND.PAST-1s.ACC|I was shocked (until I was) pale/white in the face|
-|Qompëñ vifqoñ minj qârhqonj|eat.PERF full-be.IMPF DST IND.PAST-3s.NOM|He ate until he was full|
+|Mâenjârâ mu quljârâ vâe qanjqonj|come.PERF PRX go.PERF MED IND-HAB-3Hs.NOM|S/he (sometimes) comes (here) and goes (there)|
+|Qompuo quttśee mu qâghâ|eat.IMPF drink.IMPF PRX IND-1p.NOM|We are eating and drinking|
+|Mâenjârâ qompëñ mu śancu'!|come.PERF eat.PERF mu IMP.POL-2s.NOM|(You,) come (here) and eat here!|
+|Varħanjef qompëñ minj qanjqonj|hunt.PERF eat.PERF DST IND-HAB-3Hs.NOM|S/he hunts and eats OR S/he hunts to eat|
+|Vâeoñqof paomvaqoñ mu qârfê|shock.PERF white-be.IMPF PRX IND.PAST-1s.ACC|I was shocked (until I was) pale/white in the face|
+|Qompëñ vifqoñ minj qârhqonj|eat.PERF full-be.IMPF DST IND.PAST-3s.NOM|He ate until he was full|
 
 ## Participles and Relative Clauses
 
@@ -1553,9 +1553,9 @@ Some examples of participle use.  Anywhere that a participle can be used, a rela
   - *arralnjin mu gheanjenjêrh qâ* 'I love sitting' (noun)
   - *gheanjenj ko'amponj* 'the sitting man / the man who is sitting' (attributive adjective)
 - *qunljar* 'fighting / to fight'
-  - *jêñghanjef minj qunljarix qâmo* 'I look away from the fighting' (noun)
-  - *qunljarñênj ghomoñqaħ* 'with/at/by the fighting women' (attributive adjective)
-  - *qunljarrä' u'* 'you, who is fighting' (attributive adjective on pronoun)
+  - *jêñghanjef minj qunljarix qâmo* 'I look away from the fighting' (noun)
+  - *qunljarñênj ghomoñqaħ* 'with/at/by the fighting women' (attributive adjective)
+  - *qunljarrä' u'* 'you, who is fighting' (attributive adjective on pronoun)
   - *qunljarte* 'fighting thing' (adjective nominalised as Inanimate.Nominative)
   - *qunljarqoñ* 'to be fighting' (predicative adjective)
 
@@ -1573,40 +1573,40 @@ Relative clauses may contain a Tag, placed in directly *before* the verb in this
 - arralnjin quo, me'ekkeñaħ gheanjenjêrh, qâmo
   - `love.IMPF INDEF.LOC, ground-LOC sit.PART, IND-1s.NOM`
   - I love sitting on the ground
-- tśarh vônlunjh
+- tśarh vônlunjh
   - `2s.ACC hit.PART`
   - hitting you
-- jêñghaanjh vâe, tśarh vônlunjenjêrh, qâmo
+- jêñghaanjh vâe, tśarh vônlunjenjêrh, qâmo
   - `see.IMPF DIST, 2s.ACC hit.PART, IND-1s.NOM`
   - I see you getting hit / I see that you get hit
-- tśarh vônlunjh xaśonj
+- tśarh vônlunjh xaśonj
   - `2s.ACC hit.PART person`
   - the person (who is) hitting you OR the person who hit you
-- mvo qaoi'ħêmh xaśonj
+- mvo qaoi'ħêmh xaśonj
   - `1s.NOM fear.PART person`
   - the person who I fear
-- qârmo qaoi'ħêmh xaśonj
+- qârmo qaoi'ħêmh xaśonj
   - `IND.PAST-1s.NOM fear.PART person`
   - the person who I feared/used to fear
-- tśimpü qâr qaoi'ħêmh xaśonj
+- tśimpü qâr qaoi'ħêmh xaśonj
   - `NEG.PRX IND.PAST fear.PART person`
   - the person who didn't fear me
-- huomënj vâurtśarh yêräncox xaśonj
+- huomënj vâurtśarh yêräncox xaśonj
   - `EMPH.DST COM-2s.ACC help.PART-pl person`
   - the people who will definitely help you
-- huomënj vâurtśarh yêränyex
+- huomënj vâurtśarh yêränyex
   - `EMPH.DST COM-2s.ACC help.PART-H.pl`
   - those/the ones who will definitely help you
-- qâuganjh mu, huomënj vâurtśarh yêränyex, qâmo
+- qâuganjh mu, huomënj vâurtśarh yêränyex, qâmo
   - `know.IMPF PRX, EMPH.DST COM-2s.ACC help.PART-H.pl, IND-1s.NOM`
   - I know the ones who will definitely help you
-- ħouqoñ quo, tśarh yêrämh, qâ
+- ħouqoñ quo, tśarh yêrämh, qâ
   - `good-be.IMPF INDEF.LOC, 2s.ACC help.PART, IND`
   - Helping you is good
-- tśarh yêrämh ħouqoñ
+- tśarh yêrämh ħouqoñ
   - `2s.ACC help.PART good-be.PART`
   - Helping you being good / (the fact) that helping you is good
-- qâuganjh mu, tśarh yêrämh ħouqoñ, qâmo
+- qâuganjh mu, tśarh yêrämh ħouqoñ, qâmo
   - `know.IMPF PRX, 2s.ACC help.PART good-be.PART, IND-1s.NOM`
   - I know that helping you is good
 
@@ -1633,10 +1633,10 @@ These affixes don't take or alter stress when creating new words, however many w
   - NOUN > ADJ -- adjective relating to noun
     - equiv. '-ish, -ic, -y, -al'
   - turns into ir /ir/ before a voiced stop/fric/trill
-  - niño /ˈniɴɔ/ 'night' >> **irhniño** /ir̥ˈniɴɔ/ 'nocturnal'
-    - c.f. niñoëx (night.GEN) 'of *the* night'
-  - źñärhä /ˈʑɴar̥a/ 'metal' >> **irźñärhä** /irˈʑɴar̥a/ 'metallic, forged from metal'
-    - c.f. źñärhäëx (metal.GEN) 'of/from *the* metal'
+  - niño /ˈniɴɔ/ 'night' >> **irhniño** /ir̥ˈniɴɔ/ 'nocturnal'
+    - c.f. niñoëx (night.GEN) 'of *the* night'
+  - źñärhä /ˈʑɴar̥a/ 'metal' >> **irźñärhä** /irˈʑɴar̥a/ 'metallic, forged from metal'
+    - c.f. źñärhäëx (metal.GEN) 'of/from *the* metal'
 - **From - ħum** /ħum/
   - NOUN > ADJ -- adjective relating to having an origin in/being from noun
     - equiv. '-ish, -ic, -ese, -i/an'
@@ -1647,29 +1647,29 @@ These affixes don't take or alter stress when creating new words, however many w
 - **With - ul** /ul/
   - NOUN > ADJ -- adjective relating to containing or having properties of noun
     - equiv. '-ful'
-  - meccieźya /ˈmɛcˌcie̯ʑɟæ/ 'salt' >> ulmeccieźya /ulˈmɛcˌcie̯ʑɟæ/ 'salty'
-  - źimqonj /ˈʑim̥ɢɔɲ/ 'husband' >> ulźimqonj /ulˈʑim̥ɢɔɲ/ 'married (with a husband)'
+  - meccieźya /ˈmɛcˌcie̯ʑɟæ/ 'salt' >> ulmeccieźya /ulˈmɛcˌcie̯ʑɟæ/ 'salty'
+  - źimqonj /ˈʑim̥ɢɔɲ/ 'husband' >> ulźimqonj /ulˈʑim̥ɢɔɲ/ 'married (with a husband)'
   - vaħrha /ˈʋæħr̥æ/ 'mistake > flaw' >> ulvaħrha /ulˈʋæħr̥æ/ 'flawed, imperfect'
     - c.f. uloħħrha /ˈulɔħħr̥æ/ 'wrong, mistaken', from ul- + vaħrha, combined before sound changes
-- **Like/As - feś** /fɛɕ/
+- **Like/As - feś** /fɛɕ/
   - NOUN > ADJ -- adjective relating to role/manner/method as noun
     - equiv. '-y, -ly, -ive'
   - turns into feź /-ʑ/ before an unvoiced stop/fric/trill
-  - ka'monj /ˈkæʔm̥ɔɲ/ 'mother' >> feśka'monj /fɛɕˈkæʔm̥ɔɲ/ 'motherly'
-  - ghâeñ 'to prevent'
-    - ghâeñte /ˈɣɑe̯ɴte/ 'preventing thing' >> feśghâeñte /fɛɕˈɣɑe̯ɴte/ 'preventative', lit. acting as a preventing thing
-- **Before - yiñ** /ɟiɴ/
+  - ka'monj /ˈkæʔm̥ɔɲ/ 'mother' >> feśka'monj /fɛɕˈkæʔm̥ɔɲ/ 'motherly'
+  - ghâeñ 'to prevent'
+    - ghâeñte /ˈɣɑe̯ɴte/ 'preventing thing' >> feśghâeñte /fɛɕˈɣɑe̯ɴte/ 'preventative', lit. acting as a preventing thing
+- **Before - yiñ** /ɟiɴ/
   - X > X -- word of the same type, referring to a period or action before
     - equiv. 'pre-, fore-, before-'
   - nasal assimilates to noun stem voicing
-  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> yiñquźjinljar /ɟiɴˈɢuʑˌjiɲʎær/ 'to instigate / to perform a preemptive strike'
-  - ħa'üccüa' /ˈħæʔycˌcyæʔ/ 'snow' >> yiñħa'üccüa' /ɟiɴˈħæʔycˌcyæʔ/ 'pre-winter: period before winter where preparations must be made'
+  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> yiñquźjinljar /ɟiɴˈɢuʑˌjiɲʎær/ 'to instigate / to perform a preemptive strike'
+  - ħa'üccüa' /ˈħæʔycˌcyæʔ/ 'snow' >> yiñħa'üccüa' /ɟiɴˈħæʔycˌcyæʔ/ 'pre-winter: period before winter where preparations must be made'
 - **After - zo** /zɔ/
   - X > X -- word of the same type, referring to a period or action after or in response to
     - equiv. 'post-, after-'
   - verxenjh /ˈʋɛr̥xɛɲ̊/ 'heavy rain' >> zoverxenjh /zɔˈʋɛr̥xɛɲ̊/ 'period after heavy rain'
   - gharke /ˈɣær̥kɛ/ 'life' >> zogharke /zɔˈɣær̥kɛ/ 'afterlife'
-  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> zoquźjinljar /zɔˈɢuʑˌjiɲʎær/ 'to retaliate'
+  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> zoquźjinljar /zɔˈɢuʑˌjiɲʎær/ 'to retaliate'
 
 ## Other Derivation
 
@@ -1678,13 +1678,13 @@ These affixes don't take or alter stress when creating new words, however many w
 - **Adverb - -fa**
   - Also can mean 'while (also) doing X'
   - *ulokku* /ˈulɔkku/ 'rich' > *ulokkufa* /ˈulɔkkufæ/ 'richly'
-  - *ghärrhänjh* /ˈɣar̥r̥aɲ̊/ 'to wait' > *ghärrhänjhfa* /ˈɣar̥r̥aɲ̊fæ/ 'while waiting'
+  - *ghärrhänjh* /ˈɣar̥r̥aɲ̊/ 'to wait' > *ghärrhänjhfa* /ˈɣar̥r̥aɲ̊fæ/ 'while waiting'
 
 - **Piece - -sħôn** /sˈħon/
   - Countable (I) portion noun 'piece/portion/section of'
   - yeħħa /ˈɟɛħħæ/ 'land (mass) (I)' > yeħħaisħôn /ˈɟɛħħæisˈħon/ 'a land, piece of land, region (I)'
-  - źñärhä /ˈʑɴar̥a/ 'metal (mass) (I)' > źñärhäisħôn /ˈʑɴar̥aisˈħon/ 'metal ingot (I)'
-  - quieźanjh /ˈɢuˌie̯ʑæɲ̊/ 'river (A)' > quieźanjisħôn /ˈɢuˌie̯ʑæɲ̊isˈħon/ 'section of a river (I)'
+  - źñärhä /ˈʑɴar̥a/ 'metal (mass) (I)' > źñärhäisħôn /ˈʑɴar̥aisˈħon/ 'metal ingot (I)'
+  - quieźanjh /ˈɢuˌie̯ʑæɲ̊/ 'river (A)' > quieźanjisħôn /ˈɢuˌie̯ʑæɲ̊isˈħon/ 'section of a river (I)'
 
 - **Person who does X (verb)**
   - Use participle, suffix -(o/e)nj
@@ -1723,14 +1723,14 @@ Sections (or [back to top](#chapters)):
 
 |case|ending              | example A | IPA         | example B | IPA        |
 |----|------------        |-----------|-------------|-----------|------------|
-|NOM | -te, -to           | püañte    | /ˈpyæɴ̥tɛ/   | tuñgoto   | /ˈtuɴgɔtɔ/ |
-|ACC | no ending          | püañh     | /ˈpyæɴ̥/     | tuñgo     | /ˈtuɴgɔ/   |
-|DAT |-(e)njêrh, -(o)nôrh | püañenjêrh| /ˈpyæɴ̥ɛɲer̥/ | tuñgonôrh | /ˈtuɴgɔnor̥/|
-|GEN | -ix, -ëx           | püañix    | /ˈpyæɴ̥ix/   | tuñgoëx   | /ˈtuɴgɔɤx/ |
-|LOC | -êra, -ôra         | püañêra   | /ˈpyæɴ̥eræ/  | tuñgoôra  | /ˈtuɴgɔoræ/|
-|LOC2| -ñah               |\*püaññah   |  |\*tuñgoñah  |  |
+|NOM | -te, -to           | püañte    | /ˈpyæɴ̥tɛ/   | tuñgoto   | /ˈtuɴgɔtɔ/ |
+|ACC | no ending          | püañh     | /ˈpyæɴ̥/     | tuñgo     | /ˈtuɴgɔ/   |
+|DAT |-(e)njêrh, -(o)nôrh | püañenjêrh| /ˈpyæɴ̥ɛɲer̥/ | tuñgonôrh | /ˈtuɴgɔnor̥/|
+|GEN | -ix, -ëx           | püañix    | /ˈpyæɴ̥ix/   | tuñgoëx   | /ˈtuɴgɔɤx/ |
+|LOC | -êra, -ôra         | püañêra   | /ˈpyæɴ̥eræ/  | tuñgoôra  | /ˈtuɴgɔoræ/|
+|LOC2| -ñah               |\*püaññah   |  |\*tuñgoñah  |  |
 
-Postpositions use -êra, -ôra for the Instrumental Case and -ñah for the Locative Case.  All other words use -êra, -ôra for the Locative Case (which merges with the Instrumental).
+Postpositions use -êra, -ôra for the Instrumental Case and -ñah for the Locative Case.  All other words use -êra, -ôra for the Locative Case (which merges with the Instrumental).
 
 NOM ending is not required for participles (still required for nominalised participles)
 
@@ -1752,21 +1752,21 @@ NOM ending is not required for participles (still required for nominalised parti
 
 |case |ending          | example A  | IPA         | example B   | IPA          |
 |-----|------------    |------------|-------------|-----------  |------------  |
-|NOM.s| -njh           | ħeianjh    | /ˈħei̯æɲ̊/    | ħâeljonjh   | /ˈħɑe̯ʎɔɲ̊/    |
-|ACC.s| -ñkeu, -ñkou   | ħeiañkeu   | /ˈħei̯æɴ̥køʊ̯/ | ħâeljoñkou  | /ˈħɑe̯ʎɔɴ̥kou̯/ |
-|DAT.s| -ncêrh, -ntôrh | ħeiancêrh  | /ˈħei̯æɲ̊cer̥/ | ħâeljontôrh | /ˈħɑe̯ʎɔn̥tor̥/ |
-|GEN.s| -njix, -njëx   | ħeianjix   | /ˈħei̯æɲ̊ix/  | ħâeljonjëx  | /ˈħɑe̯ʎɔɲ̊ɤx/  |
-|LOC.s| -ñah           | ħeiañaħ    | /ˈħei̯æɴ̥æħ/  | ħâeljoñaħ   | /ˈħɑe̯ʎɔɴ̥æħ/  |
+|NOM.s| -njh           | ħeianjh    | /ˈħei̯æɲ̊/    | ħâeljonjh   | /ˈħɑe̯ʎɔɲ̊/    |
+|ACC.s| -ñkeu, -ñkou   | ħeiañkeu   | /ˈħei̯æɴ̥køʊ̯/ | ħâeljoñkou  | /ˈħɑe̯ʎɔɴ̥kou̯/ |
+|DAT.s| -ncêrh, -ntôrh | ħeiancêrh  | /ˈħei̯æɲ̊cer̥/ | ħâeljontôrh | /ˈħɑe̯ʎɔn̥tor̥/ |
+|GEN.s| -njix, -njëx   | ħeianjix   | /ˈħei̯æɲ̊ix/  | ħâeljonjëx  | /ˈħɑe̯ʎɔɲ̊ɤx/  |
+|LOC.s| -ñah           | ħeiañaħ    | /ˈħei̯æɴ̥æħ/  | ħâeljoñaħ   | /ˈħɑe̯ʎɔɴ̥æħ/  |
 
 ### Animate Plural
 
 |case |ending      | example A   | IPA         | example B   | IPA          |
 |-----|------------|------------ |-------------|-----------  |------------  |
-|NOM.p|-ncex, -ncox| ħeiancex    | /ˈħei̯æɲ̊cɛx/ | ħâeljoncox  | /ˈħɑe̯ʎɔɲ̊cɔx/ |
-|ACC.p|-ntoxkou   |ħeiantoxkou|/ˈħei̯æn̥ˌtɔxkou̯/|ħâeljontoxkou|/ˈħɑe̯ʎɔn̥ˌtɔxkou̯/|
-|DAT.p|-ncienjerh|ħeiancienjerh|/ˈħei̯æɲ̊ˌcie̯ɲɛr̥/|ħâeljoncienjerh|/ˈħɑe̯ʎɔɲ̊ˌcie̯ɲɛr̥/|
-|GEN.p|-ntoxëx     | ħeiantoxëx  |/ˈħei̯æn̥ˌtɔxɤx/|ħâeljontoxëx|/ˈħɑe̯ʎɔn̥ˌtɔxɤx/|
-|LOC.p|-ncâeñaħ   | ħeiancâeñaħ|/ˈħei̯æɲ̊ˌcɑe̯ɴæħ/|ħâeljoncâeñaħ|/ˈħɑe̯ʎɔɲ̊ˌcɑe̯ɴæħ/|
+|NOM.p|-ncex, -ncox| ħeiancex    | /ˈħei̯æɲ̊cɛx/ | ħâeljoncox  | /ˈħɑe̯ʎɔɲ̊cɔx/ |
+|ACC.p|-ntoxkou   |ħeiantoxkou|/ˈħei̯æn̥ˌtɔxkou̯/|ħâeljontoxkou|/ˈħɑe̯ʎɔn̥ˌtɔxkou̯/|
+|DAT.p|-ncienjerh|ħeiancienjerh|/ˈħei̯æɲ̊ˌcie̯ɲɛr̥/|ħâeljoncienjerh|/ˈħɑe̯ʎɔɲ̊ˌcie̯ɲɛr̥/|
+|GEN.p|-ntoxëx     | ħeiantoxëx  |/ˈħei̯æn̥ˌtɔxɤx/|ħâeljontoxëx|/ˈħɑe̯ʎɔn̥ˌtɔxɤx/|
+|LOC.p|-ncâeñaħ   | ħeiancâeñaħ|/ˈħei̯æɲ̊ˌcɑe̯ɴæħ/|ħâeljoncâeñaħ|/ˈħɑe̯ʎɔɲ̊ˌcɑe̯ɴæħ/|
 
 ## Human Inflection
 
@@ -1776,31 +1776,31 @@ NOM ending is not required for participles (still required for nominalised parti
 
 |case |ending        | example A  | IPA          | example B | IPA         |
 |-----|----------    |------------|--------------|---------  |-----------  |
-|NOM.s| -N           | źñärhên    | /ˈʑɴar̥en/    | uttum     | /ˈuttum/    |
-|ACC.s| -ñgeu, -ñgou | źñärhêñgeu | /ˈʑɴar̥eɴgøʊ̯/ | uttuñgou  | /ˈuttuɴgou̯/ |
-|DAT.s| -nenj, -nonj | źñärhênenj | /ˈʑɴar̥enɛɲ/  | uttunonj  | /ˈuttunɔɲ/  |
-|GEN.s| -njix, -njëx | źñärhênjix | /ˈʑɴar̥eɲix/  | uttunjëx  | /ˈuttuɲɤx/  |
-|LOC.s| -ñah         | źñärhêñaħ  | /ˈʑɴar̥eɴæħ/  | uttuñaħ   | /ˈuttuɴæħ/  |
+|NOM.s| -N           | źñärhên    | /ˈʑɴar̥en/    | uttum     | /ˈuttum/    |
+|ACC.s| -ñgeu, -ñgou | źñärhêñgeu | /ˈʑɴar̥eɴgøʊ̯/ | uttuñgou  | /ˈuttuɴgou̯/ |
+|DAT.s| -nenj, -nonj | źñärhênenj | /ˈʑɴar̥enɛɲ/  | uttunonj  | /ˈuttunɔɲ/  |
+|GEN.s| -njix, -njëx | źñärhênjix | /ˈʑɴar̥eɲix/  | uttunjëx  | /ˈuttuɲɤx/  |
+|LOC.s| -ñah         | źñärhêñaħ  | /ˈʑɴar̥eɴæħ/  | uttuñaħ   | /ˈuttuɴæħ/  |
 
 ### Human Dual
 
 |case |ending   | example A    | IPA             |example B   | IPA            |
 |-----|-------- |------------  |--------------   |--------    |-----------     |
-|NOM.d|-ñqênj, -ñqënj|źñärhêñqênj|/ˈʑɴar̥eɴɢeɲ/ |uttuñqënj   | /ˈuttuɴɢɤɲ/    |
-|ACC.d|-ñquoggou|źñärhêñquoggou|/ˈʑɴar̥eɴˌɢuo̯ggou̯/|uttuñquoggou|/ˈuttuɴˌɢuo̯ggou̯/|
-|DAT.d|-ñquoyyër|źñärhêñquoyyër|/ˈʑɴar̥eɴˌɢuo̯ɟɟɤr/|uttuñquoyyër|/ˈuttuɴˌɢuo̯ɟɟɤr/|
-|GEN.d|-ñquëx   |źñärhêñquëx   |/ˈʑɴar̥eɴˌɢuɤx/   |uttuñquëx   | /ˈuttuɴˌɢuɤx/  |
-|LOC.d|-ñquoñqaħ|źñärhêñquoñqaħ|/ˈʑɴar̥eɴˌɢuo̯ɴɢæħ/|uttuñquoñqaħ|/ˈuttuɴˌɢuo̯ɴɢæħ/|
+|NOM.d|-ñqênj, -ñqënj|źñärhêñqênj|/ˈʑɴar̥eɴɢeɲ/ |uttuñqënj   | /ˈuttuɴɢɤɲ/    |
+|ACC.d|-ñquoggou|źñärhêñquoggou|/ˈʑɴar̥eɴˌɢuo̯ggou̯/|uttuñquoggou|/ˈuttuɴˌɢuo̯ggou̯/|
+|DAT.d|-ñquoyyër|źñärhêñquoyyër|/ˈʑɴar̥eɴˌɢuo̯ɟɟɤr/|uttuñquoyyër|/ˈuttuɴˌɢuo̯ɟɟɤr/|
+|GEN.d|-ñquëx   |źñärhêñquëx   |/ˈʑɴar̥eɴˌɢuɤx/   |uttuñquëx   | /ˈuttuɴˌɢuɤx/  |
+|LOC.d|-ñquoñqaħ|źñärhêñquoñqaħ|/ˈʑɴar̥eɴˌɢuo̯ɴɢæħ/|uttuñquoñqaħ|/ˈuttuɴˌɢuo̯ɴɢæħ/|
 
 ### Human Plural
 
 |case |ending   | example A      | IPA          | example B | IPA         |
 |-----|---------|------------    |--------------|---------  |-----------  |
-|NOM.p|-nyex, -ndox|źñärhênyex |/ˈʑɴar̥eɲɟɛx/  | uttundox   | /ˈuttundɔx/    |
-|ACC.p|-ndoxkou  |źñärhêndoxkou  |/ˈʑɴar̥enˌdɔxkou̯/|uttundoxkou|/ˈuttunˌdɔxkou̯/|
-|DAT.p|-nyienjerh|źñärhênyienjerh|/ˈʑɴar̥eɲˌɟie̯ɲɛr̥/|uttunyienjerh|/ˈuttuɲˌɟie̯ɲɛr̥/|
-|GEN.p|-ndoxëx   |źñärhêndoxëx   |/ˈʑɴar̥enˌdɔxɤx/ | uttundoxëx  | /ˈuttunˌdɔxɤx/  |
-|LOC.p|-nyâeñaħ  |źñärhênyâeñaħ  |/ˈʑɴar̥eɲˌɟɑe̯ɴæħ/|uttunyâeñaħ|/ˈuttuɲˌɟɑe̯ɴæħ/|
+|NOM.p|-nyex, -ndox|źñärhênyex |/ˈʑɴar̥eɲɟɛx/  | uttundox   | /ˈuttundɔx/    |
+|ACC.p|-ndoxkou  |źñärhêndoxkou  |/ˈʑɴar̥enˌdɔxkou̯/|uttundoxkou|/ˈuttunˌdɔxkou̯/|
+|DAT.p|-nyienjerh|źñärhênyienjerh|/ˈʑɴar̥eɲˌɟie̯ɲɛr̥/|uttunyienjerh|/ˈuttuɲˌɟie̯ɲɛr̥/|
+|GEN.p|-ndoxëx   |źñärhêndoxëx   |/ˈʑɴar̥enˌdɔxɤx/ | uttundoxëx  | /ˈuttunˌdɔxɤx/  |
+|LOC.p|-nyâeñaħ  |źñärhênyâeñaħ  |/ˈʑɴar̥eɲˌɟɑe̯ɴæħ/|uttunyâeñaħ|/ˈuttuɲˌɟɑe̯ɴæħ/|
 
 ## Divine Inflection
 
@@ -1808,12 +1808,12 @@ NOM ending is not required for participles (still required for nominalised parti
 
 |case |ending        | example A| IPA       | example B   | IPA         |
 |-----|----------    |---------|------------|---------    |-----------  |
-| NOM | -ke, -ko     | qamke   | /ˈɢæm̥kɛ/   | ghâudokko   | /ˈɣɑʊ̯ˌdɔkkɔ/ |
-| ACC | -keu, -kou   | qamkeu  | /ˈɢæm̥køʊ̯/  | ghâudokkou  | /ˈɣɑʊ̯ˌdɔkkou̯/ |
-| DAT | -kêrh, -kôrh | qamkêrh | /ˈɢæm̥ker̥/  | ghâudokkôrh | /ˈɣɑʊ̯ˌdɔkkor̥/  |
-| GEN | -kix, -këx   | qamkix  | /ˈɢæm̥kix/  | ghâudokkëx  | /ˈɣɑʊ̯ˌdɔkkɤx/  |
-| LOC | -kaħ, -ñkaħ  | qamkaħ  | /ˈɢæm̥kæħ/  | ghâudoñkaħ  | /ˈɣɑʊ̯ˌdɔɴ̥kæħ/  |
-| LOC | -gaħ, -ñgaħ  | ghu'ieñgaħ | /ˈɣuʔˌie̯ɴgæħ/ | zuñgaħ| /ˈˈzuɴgæħ/  |
+| NOM | -ke, -ko     | qamke   | /ˈɢæm̥kɛ/   | ghâudokko   | /ˈɣɑʊ̯ˌdɔkkɔ/ |
+| ACC | -keu, -kou   | qamkeu  | /ˈɢæm̥køʊ̯/  | ghâudokkou  | /ˈɣɑʊ̯ˌdɔkkou̯/ |
+| DAT | -kêrh, -kôrh | qamkêrh | /ˈɢæm̥ker̥/  | ghâudokkôrh | /ˈɣɑʊ̯ˌdɔkkor̥/  |
+| GEN | -kix, -këx   | qamkix  | /ˈɢæm̥kix/  | ghâudokkëx  | /ˈɣɑʊ̯ˌdɔkkɤx/  |
+| LOC | -kaħ, -ñkaħ  | qamkaħ  | /ˈɢæm̥kæħ/  | ghâudoñkaħ  | /ˈɣɑʊ̯ˌdɔɴ̥kæħ/  |
+| LOC | -gaħ, -ñgaħ  | ghu'ieñgaħ | /ˈɣuʔˌie̯ɴgæħ/ | zuñgaħ| /ˈˈzuɴgæħ/  |
 
 ## Adverbial Derivation
 
@@ -1854,10 +1854,10 @@ Sections (or [back to top](#chapters)):
 | 1.p | -njex, -nox  | ħounox ghâu      |/ˈħou̯nɔx ˈɣɑʊ̯/      | etencex ghâu     |/ˈɛtɛɲ̊cɛx ˈɣɑʊ̯/     |
 | 2.s | -rä'         | ħourä' u'        |/ˈħou̯raʔ ˈuʔ/       | eterrä' u'       |/ˈɛtɛrraʔ ˈuʔ/      |
 | 2.d | -räqqënj     | ħouräqqënj ljarh |/ˈħou̯ˌraɢɢɤɲ ˈʎær̥/  | eterräqqënj ljarh|/ˈɛtɛrˌraɢɢeɲ ˈʎær̥/ |
-| 2.p | -raccex      | ħouräccex me     |/ˈħou̯ˌraccɛx ˈmɛ/   | eterräccex me    |/ˈɛtɛˌraccɛx ˈmɛ/   |
+| 2.p | -raccex      | ħouräccex me     |/ˈħou̯ˌraccɛx ˈmɛ/   | eterräccex me    |/ˈɛtɛˌraccɛx ˈmɛ/   |
 | 3.s | -(')arh      | ħou'arh qâħ      |/ˈħou̯ʔær̥ ˈɢʌħ/      | ete'arh qâħ      |/ˈɛtɛʔær̥ ˈɢʌħ/      |
 | 3.d | -(')arhqênj  |ħou'arhqênj reunj|/ˈħou̯ʔær̥ɢeɲ ˈrøʊ̯ɲ/ | ete'arhqênj reunj|/ˈɛtɛʔær̥ɢeɲ ˈrøʊ̯ɲ/|
-| 3.p | -(')arcex    |ħou'arcex ñâenj   |/ˈħou̯ʔær̥cɛx ˈɴɑe̯ɲ/| ete'arcex ñâenj  |/ˈɛtɛɲ̊cɛx ˈɴɑe̯ɲ/   |
+| 3.p | -(')arcex    |ħou'arcex ñâenj   |/ˈħou̯ʔær̥cɛx ˈɴɑe̯ɲ/| ete'arcex ñâenj  |/ˈɛtɛɲ̊cɛx ˈɴɑe̯ɲ/   |
 
 ## Predicative Inflection
 
@@ -1865,10 +1865,10 @@ Sections (or [back to top](#chapters)):
 
 |Form|English           |Affix   |Example A |IPA         |Example B  |IPA          |
 |----|------------------|--------|----------|------------|-----------|-------------|
-|PART|being good/new    | -qo    | ħouqo    |/ˈħou̯ɢɔ/    | eteqqo    |/ˈɛtɛɢɢɔ/    |
-|NEGP|not being good/new| qu-qo  | quħouqo  |/ɢuˈħou̯ɢɔ/  | queteqqo  |/ɢuˈɛtɛɢɢɔ/  |
-|IMPF|is good/new       | -qoñ   | ħouqoñ   |/ˈħou̯ɢɔɴ/   | eteqqoñ   |/ˈɛtɛɢɢɔɴ/   |
-|PERF|becomes good/new  | -qoñof | ħouqoñof |/ˈħou̯ɢɔɴɔf/ | eteqqoñof |/ˈɛtɛɢɢɔɴɔf/ |
+|PART|being good/new    | -qo    | ħouqo    |/ˈħou̯ɢɔ/    | eteqqo    |/ˈɛˌtɛɢɢɔ/    |
+|NEGP|not being good/new| qu-qo  | quħouqo  |/ɢuˈħou̯ɢɔ/  | queteqqo  |/ɢuˈɛˌtɛɢɢɔ/  |
+|IMPF|is good/new       | -qoñ   | ħouqoñ   |/ˈħou̯ɢɔɴ/   | eteqqoñ   |/ˈɛˌtɛɢɢɔɴ/   |
+|PERF|becomes good/new  | -qoñof | ħouqoñof |/ˈħou̯ɢɔɴɔf/ | eteqqoñof |/ˈɛˌtɛɢɢɔɴɔf/ |
 
 ## Nominalised Inflection
 
@@ -1913,16 +1913,16 @@ Sections (or [back to top](#chapters)):
 |-----|------------- |---------------|--------  |-------- |-------- |
 | 1s  | mvo /ˈmʋɔ/   | fea /ˈfeɐ̯/    | fêrh     | fix     | faħ     |
 | 1p  | ghâu /ˈɣɑʊ̯/  | poa /ˈpoɐ̯/    | pôrh     | pëx     | paħ     |
-| 2s  | u' /ˈuʔ/     | tśarh /ˈc͡ɕær̥/ | tśarêrh  | tśarix  | tśaraħ  |
+| 2s  | u' /ˈuʔ/     | tśarh /ˈc͡ɕær̥/ | tśarêrh  | tśarix  | tśaraħ  |
 | 2d  | ljarh /ˈʎær̥/ | ghaem /ˈɣɑe̯m/ | ghaemôrh | ghaemëx | ghaemaħ |
-| 2p  | me /ˈmɛ/     | źieñ /ˈʑie̯ɴ/  | źieñêrh  | źieñix  | źieñaħ  |
+| 2p  | me /ˈmɛ/     | źieñ /ˈʑie̯ɴ/  | źieñêrh  | źieñix  | źieñaħ  |
 | 3Is | qâħ /ˈɢʌħ/   | yêr /ˈɟer/    | yerêrh   | yerix   | yeraħ   |
 | 3As | qeñh /ˈɢɛɴ̥/  | yeañh /ˈɟeɐ̯ɴ̥/ | yeañêrh  | yeañix  | yeañaħ  |
-| 3Ap | ñenjh /ˈɴɛɲ̊/ | veañh /ˈʋeɐ̯ɴ̥/ | veañêrh  | veañix  | veañaħ  |
+| 3Ap | ñenjh /ˈɴɛɲ̊/ | veañh /ˈʋeɐ̯ɴ̥/ | veañêrh  | veañix  | veañaħ  |
 | 3Hs | qâuñ /ˈɢɑʊ̯ɴ/ | yeañ /ˈɟeɐ̯ɴ/  | yeañêrh  | yeañix  | yeañaħ  |
 | 3Hd | reunj /ˈrøʊ̯ɲ/|ghuonj /ˈɣuo̯ɲ/ |ghuonjôrh |ghuonjëx |ghuonjaħ |
-| 3Hp | ñâenj /ˈɴɑe̯ɲ/| vaoñ /ˈʋæo̯ɴ/  | vaoñêrh  | vaoñix  | vaoñaħ  |
-| 3D  |ñikke /ˈɴikkɛ/|veħke /ˈʋɛħkɛ/ | veħkêrh  | veħkix  | veħkaħ  |
+| 3Hp | ñâenj /ˈɴɑe̯ɲ/| vaoñ /ˈʋæo̯ɴ/  | vaoñêrh  | vaoñix  | vaoñaħ  |
+| 3D  |ñikke /ˈɴikkɛ/|veħke /ˈʋɛħkɛ/ | veħkêrh  | veħkix  | veħkaħ  |
 
 ## Demonstrative / Interrogative Pronoun Reference
 
@@ -1932,7 +1932,7 @@ These pronouns inflect for case as regular nouns, see *5.1* for noun inflections
 
 |Meaning|Inanimate  |Animate       |Human        |Divine           |
 |-------|---------- |-------       |-----        |------           |
-| PRX   |aoś /ˈæo̯ɕ/ |einjh /ˈei̯ɲ̊/  |ein /ˈei̯n/   |âuśko /ˈɑʊ̯ɕkɔ/   |
+| PRX   |aoś /ˈæo̯ɕ/ |einjh /ˈei̯ɲ̊/  |ein /ˈei̯n/   |âuśko /ˈɑʊ̯ɕkɔ/   |
 | MED   |gha' /ˈɣæʔ/|ghamh /ˈɣæm̥/  |ghom /ˈɣɔm/  |ghaokke /ˈɣæo̯kkɛ/|
 | DST   |mi' /ˈmiʔ/ |meanjh /ˈmeɐ̯ɲ̊/|meunj /ˈmøʊ̯ɲ/|mikke /ˈmikkɛ/   |
 | INT   |qâ' /ˈqʌʔ/ |qâmh /ˈqʌm̥/   |qâem /ˈqɑe̯m/ |qâkke /ˈqʌkkɛ/   |
@@ -1940,7 +1940,7 @@ These pronouns inflect for case as regular nouns, see *5.1* for noun inflections
 |Meaning|Animate Plur.      |Human Dual          |Human Plur.        |
 |-------|-------            |-----               |-----              |
 | PRX   |eincex /ˈei̯ɲ̊cɛx/   |eiqênj /ˈei̯ɢeɲ/     |einyex /ˈei̯ɲɟɛx/   |
-| MED   |ghaomcex /ˈɣæo̯m̥cɛx/|ghâemqënj /ˈɣɑe̯mɢɤɲ/|ghâemyox /ˈɣɑe̯mɟɔx/|
+| MED   |ghaomcex /ˈɣæo̯m̥cɛx/|ghâemqënj /ˈɣɑe̯mɢɤɲ/|ghâemyox /ˈɣɑe̯mɟɔx/|
 | DST   |meancex /ˈmeɐ̯ɲ̊cɛx/ |meunqênj /ˈmøʊ̯nɢeɲ/ |meunyex /ˈmøʊ̯ɲɟɛx/ |
 | INT   |qâmtox /ˈqʌm̥tɔx/   |qâemqënj /ˈqɑe̯mɢɤɲ/ |qâemyox /ˈqɑe̯mɟɔx/ |
 
@@ -1960,12 +1960,12 @@ These pronouns inflect for case as regular nouns, see *5.1* for noun inflections
 
 | Meaning                    |Inanimate    |Animate         |Human           |Divine           |
 | -------------------------- |----------   |-------         |-----           |------           |
-| Nothing, No-one            |quś /ˈɢuɕ/   |qvanjh /ˈɢʋæɲ̊/  |qvâenj /ˈɢʋɑe̯ɲ/ |quśko /ˈɢuɕkɔ/   |
-| Less things, Less people   |quto /ˈɢutɔ/ |qutonjh /ˈɢutɔɲ̊/|qutënj /ˈɢutɤɲ/ |qukke /ˈɢukkɛ/   |
+| Nothing, No-one            |quś /ˈɢuɕ/   |qvanjh /ˈɢʋæɲ̊/  |qvâenj /ˈɢʋɑe̯ɲ/ |quśko /ˈɢuɕkɔ/   |
+| Less things, Less people   |quto /ˈɢutɔ/ |qutonjh /ˈɢutɔɲ̊/|qutënj /ˈɢutɤɲ/ |qukke /ˈɢukkɛ/   |
 | More things, More people   |vete /ˈʋɛtɛ/ |vetenjh /ˈʋɛtɛɲ̊/|vetênj /ˈʋɛteɲ/ |vekko /ˈʋɛkkɔ/   |
 | A few (things/people)      |xê /ˈxe/     |xênjh /ˈxeɲ̊/    |xên /ˈxen/      |xêkke /ˈxekkɛ/   |
-| Some (things/people)       |xieñ /ˈxie̯ɴ/ |xeñh /ˈxɛɴ̥/     |xieñ /ˈxie̯ɴ/    |xieñge /ˈxie̯ɴgɛ/ |
-| Many (things/people)       |ku' /ˈkuʔ/   |kfanjh /ˈkfæɲ̊/  |kfâenj /ˈkfɑe̯ɲ/ |kukko /ˈkukkɔ/   |
+| Some (things/people)       |xieñ /ˈxie̯ɴ/ |xeñh /ˈxɛɴ̥/     |xieñ /ˈxie̯ɴ/    |xieñge /ˈxie̯ɴgɛ/ |
+| Many (things/people)       |ku' /ˈkuʔ/   |kfanjh /ˈkfæɲ̊/  |kfâenj /ˈkfɑe̯ɲ/ |kukko /ˈkukkɔ/   |
 | Everything, Everyone       |qeaħ /ˈɢeɐ̯ħ/ |qeanjh /ˈɢeɐ̯ɲ̊/  |qaonj /ˈɢæo̯ɲ/   |qaikke /ˈɢæɪ̯kkɛ/ |
 | Some/Anything, Some/Anyone |rhe /ˈr̥ɛ/    |rhenjh /ˈr̥ɛɲ̊/   |rhenj /ˈr̥ɛɲ/    |rhekke /ˈr̥ɛkkɛ/  |
 
@@ -1989,7 +1989,7 @@ Sections (or [back to top](#chapters)):
 
 |Meaning|Inanimate  |Animate       |Human        |Divine           |
 |-------|---------- |-------       |-----        |------           |
-| PRX   |aoś /ˈæo̯ɕ/ |einjh /ˈei̯ɲ̊/  |ein /ˈei̯n/   |âuśko /ˈɑʊ̯ɕkɔ/   |
+| PRX   |aoś /ˈæo̯ɕ/ |einjh /ˈei̯ɲ̊/  |ein /ˈei̯n/   |âuśko /ˈɑʊ̯ɕkɔ/   |
 | MED   |gha' /ˈɣæʔ/|ghamh /ˈɣæm̥/  |ghom /ˈɣɔm/  |ghaokke /ˈɣæo̯kkɛ/|
 | DST   |mi' /ˈmiʔ/ |meanjh /ˈmeɐ̯ɲ̊/|meunj /ˈmøʊ̯ɲ/|mikke /ˈmikkɛ/   |
 | INT   |qâ' /ˈqʌʔ/ |qâmh /ˈqʌm̥/   |qâem /ˈqɑe̯m/ |qâkke /ˈqʌkkɛ/   |
@@ -1997,7 +1997,7 @@ Sections (or [back to top](#chapters)):
 |Meaning|Animate Plur.      |Human Dual          |Human Plur.        |
 |-------|-------            |-----               |-----              |
 | PRX   |eincex /ˈei̯ɲ̊cɛx/   |eiqênj /ˈei̯ɢeɲ/     |einyex /ˈei̯ɲɟɛx/   |
-| MED   |ghaomcex /ˈɣæo̯m̥cɛx/|ghâemqënj /ˈɣɑe̯mɢɤɲ/|ghâemyox /ˈɣɑe̯mɟɔx/|
+| MED   |ghaomcex /ˈɣæo̯m̥cɛx/|ghâemqënj /ˈɣɑe̯mɢɤɲ/|ghâemyox /ˈɣɑe̯mɟɔx/|
 | DST   |meancex /ˈmeɐ̯ɲ̊cɛx/ |meunqênj /ˈmøʊ̯nɢeɲ/ |meunyex /ˈmøʊ̯ɲɟɛx/ |
 | INT   |qâmtox /ˈqʌm̥tɔx/   |qâemqënj /ˈqɑe̯mɢɤɲ/ |qâemyox /ˈqɑe̯mɟɔx/ |
 
@@ -2007,12 +2007,12 @@ Sections (or [back to top](#chapters)):
 
 |Meaning| English eg |Inanimate    |Animate         |Human           |Divine           |
 |-------| ---------- |----------   |-------         |-----           |------           |
-| No    | No pigs    |quś /ˈɢuɕ/   |qvanjh /ˈɢʋæɲ̊/  |qvâenj /ˈɢʋɑe̯ɲ/ |quśko /ˈɢuɕkɔ/   |
-| Less  | Less pigs  |quto /ˈɢutɔ/ |qutonjh /ˈɢutɔɲ̊/|qutënj /ˈɢutɤɲ/ |qukke /ˈɢukkɛ/   |
+| No    | No pigs    |quś /ˈɢuɕ/   |qvanjh /ˈɢʋæɲ̊/  |qvâenj /ˈɢʋɑe̯ɲ/ |quśko /ˈɢuɕkɔ/   |
+| Less  | Less pigs  |quto /ˈɢutɔ/ |qutonjh /ˈɢutɔɲ̊/|qutënj /ˈɢutɤɲ/ |qukke /ˈɢukkɛ/   |
 | More  | More pigs  |vete /ˈʋɛtɛ/ |vetenjh /ˈʋɛtɛɲ̊/|vetênj /ˈʋɛteɲ/ |vekko /ˈʋɛkkɔ/   |
 | Few   | Few pigs   |xê /ˈxe/     |xênjh /ˈxeɲ̊/    |xên /ˈxen/      |xêkke /ˈxekkɛ/   |
-| Some  | Some pigs  |xieñ /ˈxie̯ɴ/ |xeñh /ˈxɛɴ̥/     |xieñ /ˈxie̯ɴ/    |xieñge /ˈxie̯ɴgɛ/ |
-| Many  | Many pigs  |ku' /ˈkuʔ/   |kfanjh /ˈkfæɲ̊/  |kfâenj /ˈkfɑe̯ɲ/ |kukko /ˈkukkɔ/   |
+| Some  | Some pigs  |xieñ /ˈxie̯ɴ/ |xeñh /ˈxɛɴ̥/     |xieñ /ˈxie̯ɴ/    |xieñge /ˈxie̯ɴgɛ/ |
+| Many  | Many pigs  |ku' /ˈkuʔ/   |kfanjh /ˈkfæɲ̊/  |kfâenj /ˈkfɑe̯ɲ/ |kukko /ˈkukkɔ/   |
 | Every | Every pig  |qeaħ /ˈɢeɐ̯ħ/ |qeanjh /ˈɢeɐ̯ɲ̊/  |qaonj /ˈɢæo̯ɲ/   |qaikke /ˈɢæɪ̯kkɛ/ |
 | INDEF | Some pig   |rhe /ˈr̥ɛ/    |rhenjh /ˈr̥ɛɲ̊/   |rhenj /ˈr̥ɛɲ/    |rhekke /ˈr̥ɛkkɛ/  |
 
@@ -2024,10 +2024,10 @@ Sections (or [back to top](#chapters)):
 |---|---------- |-----------|---------- |-----------|
 | 1 | rhe       |/ˈr̥ɛ/      | vae       |/ˈʋæɛ/     |
 | 2 | quonj     |/ˈɢuo̯ɲ/    | yêrra     |/ˈɟerræ/   |
-| 3 | oum       |/ˈou̯m/     | âumo      |/ˈɑʊ̯mɔ/    |
-| 4 | se'üś     |/ˈsɛʔyɕ/   | se'uźo    |/ˈsɛʔˌuʑɔ/ |
+| 3 | oum       |/ˈou̯m/     | âumo      |/ˈɑʊ̯mɔ/    |
+| 4 | se'üś     |/ˈsɛʔyɕ/   | se'uźo    |/ˈsɛʔˌuʑɔ/ |
 | 5 | ljêr      |/ˈʎer/     | ljêra     |/ˈʎeræ/    |
-| 6 | źü        |/ˈʑy/      | iseu      |/ˈisøʊ̯/    |
+| 6 | źü        |/ˈʑy/      | iseu      |/ˈisøʊ̯/    |
 | 7 | zui       |/ˈzuɪ̯/     | isei      |/ˈisei̯/    |
 | 8 | erear     |/ɛˈreɐ̯r/   | earer     |/ˈeɐ̯rɛr/   |
 | 9 | oruolj    |/ɔˈruo̯ʎ/   | eareu     |/ˈeɐ̯røʊ̯/   |
@@ -2056,8 +2056,8 @@ Most verbs have irregular stems, the below regular stems apply only to newly coi
 |-----------|-----------|-----------|------------|
 | -         |qu-        |-(e/o)f    |-o/e        |
 |vetsieñ    |quvetsieñ  |vetsieñof  |vetsieñe    |
-|vaaś       |quvaaś     |vaaśef     |vaaśe       |
-|qâuga      |quqâuga    |qâugaf     |qâugao      |
+|vaaś       |quvaaś     |vaaśef     |vaaśe       |
+|qâuga      |quqâuga    |qâugaf     |qâugao      |
 
 ## Participle Inflections
 
@@ -2067,12 +2067,12 @@ Participles, when used attributively for a relative clause, inflect a bit differ
 
 |case|ending              | example   |
 |----|------------        |-----------|
-|NOM |-te, -to (optional) | uirâ(to)  |
-|ACC |-keu, -kou          | uirâkou   |
-|DAT |-(e)njêrh, -(o)nôrh | uirânôrh  |
-|GEN | -ix, -ëx           | uirâëx    |
-|INS | -êra, -ôra         | uirâôra   |
-|LOC | -ñah               | uirâñah   |
+|NOM |-te, -to (optional) | uirâ(to)  |
+|ACC |-keu, -kou          | uirâkou   |
+|DAT |-(e)njêrh, -(o)nôrh | uirânôrh  |
+|GEN | -ix, -ëx           | uirâëx    |
+|INS | -êra, -ôra         | uirâôra   |
+|LOC | -ñah               | uirâñah   |
 
 ## Locative Pronoun Inflections
 
@@ -2080,7 +2080,7 @@ Participles, when used attributively for a relative clause, inflect a bit differ
 
 |Distance|Positive|IPA        |Negative|IPA        |Emphatic|IPA           |
 |--------|--------|-----------|--------|-----------|--------|--------------|
-| INF    |quo     |/ˈɢuo̯/     |jêñ     |/ˈjeɴ/     |ħuñə    |/ˈħuɴɤ/       |
+| INF    |quo     |/ˈɢuo̯/     |jêñ     |/ˈjeɴ/     |ħuñə    |/ˈħuɴɤ/       |
 | PRX    |mu      |/ˈmu/      |tsimpü  |/ˈt͡ʃim̥py/  |ħuomu   |/ˈħuo̯mu/      |
 | MED    |vâe     |/ˈʋɑe̯/     |ârvo    |/ˈʌrʋɔ/    |ħâuo    |/ˈħɑʊ̯ɔ/       |
 | DST    |minj    |/ˈmiɲ/     |ienjinj |/ˈie̯ɲiɲ/   |ħuomënj |/ˈħuo̯mɤɲ/     |
@@ -2091,9 +2091,9 @@ Participles, when used attributively for a relative clause, inflect a bit differ
 
 |Form   |Affix   |Example A     |IPA         |Example B    |IPA          |
 |----   |--------|--------------|------------|-------------|-------------|
-|neutral| -      | ħeffa uirâ   |/ˈħɛffæ/    | xam uirâ    |/ˈxæm/       |
+|neutral| -      | ħeffa uirâ   |/ˈħɛffæ/    | xam uirâ    |/ˈxæm/       |
 |PERF   | -(a/â)f| ħeffaf uir   |/ˈħɛffæf/   | xamaf uir   |/ˈxæmæf/     |
-|IMPF   | -(a/â)ñ| ħeffañ uirñe |/ˈħɛffæɴ/   | xamañ uirñe |/ˈxæmæɴ/     |
+|IMPF   | -(a/â)ñ| ħeffañ uirñe |/ˈħɛffæɴ/   | xamañ uirñe |/ˈxæmæɴ/     |
 
 ---
 
@@ -2105,7 +2105,7 @@ Sections (or [back to top](#chapters)):
 
 - [Moods](#moods-tag-stems)
 - [Non-Person Suffixes](#non-person-suffixes)
-- [Person Suffixes](#person-suffixes)
+- [Person Suffixes](#person-suffixes-simplified-pronouns)
 
 ## Moods (Tag Stems)
 
@@ -2113,21 +2113,21 @@ Sections (or [back to top](#chapters)):
 
 |Mood |Tense  |Common      |IPA       |Formal      |IPA       |
 |---- |-------|------------|----------|------------|----------|
-| IND | NPST  | q(â)       | /ɢʌ/     | qâe        | /ˈɢɑe̯/   |
+| IND | NPST  | q(â)       | /ɢʌ/     | qâe        | /ˈɢɑe̯/   |
 | IND | PAST  | qârh       | /ɢʌr̥/    | qârh       | /ˈɢʌr̥/   |
 | NAR | NPST  | ñe         | /ɴɛ/     | jarh       | /ˈɟær̥/   |
 | NAR | PAST  | lj(a)      | /ʎæ/     | lja(k)     | /ˈʎæk/   |
 | INT | NPST  | âenjh (-nc)| /ˈɑe̯ɲ̊c/  | âenca      | /ˈɑe̯ɲ̊cæ/ |
-| INT | PAST  | âencârh    | /ˈɑe̯ɲ̊cʌr̥/| âencârh    | /ˈɑe̯ɲ̊cʌr̥/|
+| INT | PAST  | âencârh    | /ˈɑe̯ɲ̊cʌr̥/| âencârh    | /ˈɑe̯ɲ̊cʌr̥/|
 | CON | NPST  | nj(i)      | /ɲi/     | ni         | /ˈni/    |
 | CON | PAST  | njêrh      | /ɲer̥/    | ienjarh    | /ˈie̯ɲær̥/ |
-| NEC | NPST  | ħâunjh (-i)| /ˈħɑʊ̯ɲ̊i/ | ħeuvin     | /ˈħøʊ̯ʋin/|
-| NEC | PAST  | ħâunjêrh   | /ˈħɑʊ̯ɲer̥/| ħeunjarh   | /ˈħøʊ̯ɲær̥/|
-| IMP |       | ś(a)       | /ɕæ/     | yaś        | /ˈɟæɕ/   |
-| IMP-POL |   | śanjh (-nc)| /ˈɕæɲ̊c/  | yaonja     | /ˈɟæo̯ɲæ/ |
-| PRH |       | aś         | /æɕ/     | ghâenh     | /ˈɣɑe̯ɲ/  |
-| SPC |       | qâenj      | /ˈɢɑe̯ɲ/  | mârâ       | /ˈmʌrʌ/  |
-| COM |       | vâur       | /ˈʋɑʊ̯r/  | muljâr     | /ˈmuʎʌr/ |
+| NEC | NPST  | ħâunjh (-i)| /ˈħɑʊ̯ɲ̊i/ | ħeuvin     | /ˈħøʊ̯ʋin/|
+| NEC | PAST  | ħâunjêrh   | /ˈħɑʊ̯ɲer̥/| ħeunjarh   | /ˈħøʊ̯ɲær̥/|
+| IMP |       | ś(a)       | /ɕæ/     | yaś        | /ˈɟæɕ/   |
+| IMP-POL |   | śanjh (-nc)| /ˈɕæɲ̊c/  | yaonja     | /ˈɟæo̯ɲæ/ |
+| PRH |       | aś         | /æɕ/     | ghâenh     | /ˈɣɑe̯ɲ/  |
+| SPC |       | qâenj      | /ˈɢɑe̯ɲ/  | mârâ       | /ˈmʌrʌ/  |
+| COM |       | vâur       | /ˈʋɑʊ̯r/  | muljâr     | /ˈmuʎʌr/ |
 
 ## Non-person Suffixes
 
@@ -2146,23 +2146,23 @@ Sections (or [back to top](#chapters)):
 |Person| Nominative |IPA       | Accusative |IPA       |
 |------|------------|----------|------------|----------|
 | 1s   | mo         | /mɔ/     | fê         | /fe/     |
-| 1p   | ghâ        | /ɣʌ/     | pô         | /po/     |
-| 2s   | u'         | /uʔ/     | tśarh      | /c͡ɕær̥/   |
-| 2d   | ljarh      | /ʎær̥/    | râm        | /rʌm/    |
-| 2p   | me         | /mɛ/     | źiñ        | /ʑiɴ/    |
-| 3I   | qâ         | /ɢʌ/     | yêr        | /ɟer/    |
+| 1p   | ghâ        | /ɣʌ/     | pô         | /po/     |
+| 2s   | u'         | /uʔ/     | tśarh      | /c͡ɕær̥/   |
+| 2d   | ljarh      | /ʎær̥/    | râm        | /rʌm/    |
+| 2p   | me         | /mɛ/     | źiñ        | /ʑiɴ/    |
+| 3I   | qâ         | /ɢʌ/     | yêr        | /ɟer/    |
 | 3As  | qenjh      | /ɢɛɲ̊/    | yênjh      | /ɟeɲ̊/    |
-| 3Ap  | ñenjh      | /ɴɛɲ̊/    | venjh      | /ʋɛɲ̊/    |
+| 3Ap  | ñenjh      | /ɴɛɲ̊/    | venjh      | /ʋɛɲ̊/    |
 | 3Hs  | qonj       | /ɢɔɲ/    | yênj       | /ɟeɲ/    |
 | 3Hd  | rjonj      | /rjɔɲ/   | ghonj      | /ɣɔɲ/    |
-| 3Hp  | ñânj       | /ɴʌɲ/    | vonj       | /ʋɔɲ/    |
-| 3D   | ñix        | /ɴix/    | veħ        | /ʋɛħ/    |
+| 3Hp  | ñânj       | /ɴʌɲ/    | vonj       | /ʋɔɲ/    |
+| 3D   | ñix        | /ɴix/    | veħ        | /ʋɛħ/    |
 
 ---
 
 # 6: Culture
 
-This section will detail the culture of the Uhhuononj people through their development in the Bronze and Iron Ages.
+This section will detail the culture of the Uħħuononj people through their development in the Bronze and Iron Ages.
 
 Sections (or [back to top](#chapters)):
 
@@ -2177,7 +2177,7 @@ Sections (or [back to top](#chapters)):
 
 [back to chapter top](#6-culture)
 
-Crop farming had already been developed during the later Vuhinkam (Neolithic) era, especially around the river valley.  Techniques were further developed and new crops were domesticated during the Uhhuononj (Bronze/Iron) era, with agriculture spreading throughout Uhhuononj lands.  Animal domestication happened throughout the Vuhinkam era, and by the Uhhuononj era certain livestock had become commonplace.
+Crop farming had already been developed during the later Vuhinkam (Neolithic) era, especially around the river valley.  Techniques were further developed and new crops were domesticated during the Uħħuononj (Bronze/Iron) era, with agriculture spreading throughout Uħħuononj lands.  Animal domestication happened throughout the Vuhinkam era, and by the Uħħuononj era certain livestock had become commonplace.
 
 ### Crops - Icca
 
@@ -2203,14 +2203,14 @@ Crop names are given as Product name, Plant name - e.g. *icce* refers to the bar
     - **Bok Choy** - *vertfe*
       - lakelands (bronze) > lower river, oceanic & northlands (late bronze)
       - often confused/conflated with Cabbage as they predominate in different areas
-    - **Tree / Jersey Cabbage** - *vertfśa*
+    - **Tree / Jersey Cabbage** - *vertfśa*
       - oceanic lands (late bronze / iron)
   - Root Vegetables
     - **Turnip** - *qaordvnja* or *qaordönja*
       - lakelands (bronze) > river, oceanic, north & highlands (late bronze)
     - **Radish** - *ôrrhôo*
       - coastal and north lands (bronze)
-    - **Daikon (white radish)** - *pâemva'uo*
+    - **Daikon (white radish)** - *pâemva'uo*
       - river plains (late bronze)
   - **Mustard** - *parhêamh* (plant, leaves), *parheamce* (seed)
     - highlands (bronze)
@@ -2218,66 +2218,66 @@ Crop names are given as Product name, Plant name - e.g. *icce* refers to the bar
     - Primitive forms in southern plains (neolithic)
     - Bronze/Iron age forms through south (medit/savannah) and river plains
     - **Pumpkin** - *frhiia*
-    - **Sweet melons** - *źearêa* (watermelon, rockmelon, etc)
-    - **Clear melons** - *jêźiia* (cucumber, zucchini, etc)
-    - **Bitter melon** - *quñonjia*
-  - **Peppers** - *rhêrhä*
+    - **Sweet melons** - *źearêa* (watermelon, rockmelon, etc)
+    - **Clear melons** - *jêźiia* (cucumber, zucchini, etc)
+    - **Bitter melon** - *quñonjia*
+  - **Peppers** - *rhêrhä*
     - Primitive forms in southern plains (neolithic)
     - Bronze/Iron age forms through south (medit/savannah) and river plains
-    - **Capsicum (sweet pepper)** - *źearbrêrhä*
-    - **Chilli (hot pepper)** - *rhe'rhêrhä*
+    - **Capsicum (sweet pepper)** - *źearbrêrhä*
+    - **Chilli (hot pepper)** - *rhe'rhêrhä*
 - Fruit - *yêrħa*
-  - **Fig** - *ghoaâeħ, ghuħħattśa*
+  - **Fig** - *ghoaâeħ, ghuħħattśa*
     - southern coast (bronze) > medit & oceanic coast, southern plains (late bronze)
-  - **Olive** - *arraźba, arraźbitfśa*
+  - **Olive** - *arraźba, arraźbitfśa*
     - mediterranean coast (bronze) > oceanic coast (late bronze)
-  - **Pear** - *urumva, urumvdvaśśa*
+  - **Pear** - *urumva, urumvdvaśśa*
     - lakelands (bronze) > oceanic, north & highlands (late bronze)
-  - **Peach** - *muqqaś, muttśa*
+  - **Peach** - *muqqaś, muttśa*
     - upper river (bronze) > oceanic, medit coast, north & highlands (late bronze)
-  - **Almond** - *to'nja, to'njitfśa*
+  - **Almond** - *to'nja, to'njitfśa*
     - lower river (bronze) > medit & south plains (late bronze)
 - Other crops and plants
-  - **Flax** - *ljierva, ljieröma'*
+  - **Flax** - *ljierva, ljieröma'*
     - river plains (early bronze) > oceanic, medit. & highlands (bronze)
   - **Hemp & Cannabis** - *merhma'* (plant)
     - **Hemp** - *merrhielva* (fibre)
       - north/coastal plains (early bronze) > north, oceanic & inland plains (bronze)
-    - **Cannabis** - *merrhieña* (drug)
+    - **Cannabis** - *merrhieña* (drug)
       - north/coastal plains (early bronze) > everywhere except savannah (late bronze)
 
 ### Livestock & Pets
 
 - **Pig** - *ħeianjh*
-  - wild ancestor: boar - *vôŕanjh*
+  - wild ancestor: boar - *vôŕanjh*
   - products
-    - pork - *ħe'ñieña*
-    - leather - *vôggoś*
+    - pork - *ħe'ñieña*
+    - leather - *vôggoś*
   - feed - many things, commonly soybean, sorghum, cabbage
   - range - river valley (early bronze) > everywhere but savannah (bronze)
 - **Duck** - *qeianjh*
   - wild ancestor: (general) waterfowl - *jêbvaomanjh*
   - products
-    - duck meat - *qe'ñieña*
+    - duck meat - *qe'ñieña*
     - egg - *eama*
     - feather (down) - *errhiħanjh*
   - feed - seeds (many kinds)
   - range - lakelands (early bronze) > river valley (late bronze)
 - **Goat** - *maoanjh*
-  - wild ancestor: ibex - *rhâuganjh*
+  - wild ancestor: ibex - *rhâuganjh*
   - products
-    - goat meat - *maomñieña*
-    - leather - *vôggoś*
-    - wool - *vienjü*
+    - goat meat - *maomñieña*
+    - leather - *vôggoś*
+    - wool - *vienjü*
     - milk - *yampia*
   - feed - all sorts of vegetables and grains
   - range - highlands (early bronze) > everywhere but savannah (late bronze)
-- **Dog** - *fimtśanjh*
+- **Dog** - *fimtśanjh*
   - wild ancestors
     - wolf - *ħrhesħanjh*
     - coyote - *ħrhuonljanjh*
   - range - everywhere
-- **Bee** - *voaźñonjh*
+- **Bee** - *voaźñonjh*
   - products: honey - *ghu'ienja*
   - range - river valley (early bronze) > everywhere (late bronze)
 
@@ -2290,7 +2290,7 @@ Crop names are given as Product name, Plant name - e.g. *icce* refers to the bar
 - Barley >> **Ale / Beer** *cya*
   - discovered in early bronze era
   - methods developed and spread throughout bronze era
-  - common throughout Uhhuononj lands
+  - common throughout Uħħuononj lands
 - Honey >> **Mead** *ienjöa*
   - discovered in bronze era
   - methods developed and spread throughout late bronze/iron era
@@ -2299,18 +2299,18 @@ Crop names are given as Product name, Plant name - e.g. *icce* refers to the bar
 - (Goat's) Milk >> **Cheese** *rhätso*
   - discovered in late bronze era
   - methods developed and spread throughout iron era
-  - common throughout Uhhuononj lands
+  - common throughout Uħħuononj lands
 - Grains >> **Flour** *qotto'o*
   - neolithic using mortar to grind
   - development of millstone *cerrhe'* in the bronze era facilitating mass production
 - Seeds >> **Seed oil**
-  - grinding seeds in millstone was discovered late, and hadn't become widespread by the end of the Uhhuononj era
-- Olives >> **Olive oil** *arraźbe'a*
+  - grinding seeds in millstone was discovered late, and hadn't become widespread by the end of the Uħħuononj era
+- Olives >> **Olive oil** *arraźbe'a*
   - grinding olives in millstone was discovered early, the technique spreading through the range of olives (coastal & mediterranean) by the late bronze era
 
 ### Flavouring
 
-- **Salt** *meccieźya*
+- **Salt** *meccieźya*
   - mined in a few southern plains/highlands towns
   - produced in mediterranean coastal ponds, especially along the coast facing the Fisher Islands
   - expensive in the north and restricted to food preservation
@@ -2326,7 +2326,7 @@ Crop names are given as Product name, Plant name - e.g. *icce* refers to the bar
 
 ### Cooking
 
-- Flour >> **Flatbread** *ħaoñma*
+- Flour >> **Flatbread** *ħaoñma*
   - common through neolithic and bronze eras
   - replaced by leavened bread in southern and river valley areas
   - commonly cooked in small fires and hearths *rhii'o*
@@ -2337,27 +2337,27 @@ Crop names are given as Product name, Plant name - e.g. *icce* refers to the bar
 - Flour + Honey/Fruits >> **Sweetened bread** *sâeŕân*
   - traditionally cooked for festivities everywhere
   - eaten in daily life by upper classes in the Central Kingdom (iron age)
-- Vegetables >> **Vegetable soup** *jereamañh*
+- Vegetables >> **Vegetable soup** *jereamañh*
   - common everywhere using local vegetables (leaf/root veggies in north, gourds & peppers in south)
   - staple of commoners in river kingdoms
   - a watery soup, boiled in a pot
   - often flavoured with a bit of salt or wild herbs, or olive oil
   - sometimes made with eggs (boiled)
   - often eaten alongside bread in river & south lands
-- Meat + Vegetables >> **Meat stew** *püañh*
+- Meat + Vegetables >> **Meat stew** *püañh*
   - common everywhere using local vegetables and meats
   - staple of northern tribes
   - a thick stew, made in a pot
   - often flavoured with chilli or mustard sauce
   - often eaten with flatbread in north & highlands
-- Meat >> **Roast meat** *ħañqieña*
+- Meat >> **Roast meat** *ħañqieña*
   - common everywhere
   - especially common among river kingdom upper classes
   - often flavoured with wild herbs, salt, chilli/mustard sauce and/or honey
 
 ### Medicine
 
-Herbal remedies are widespread and knowledge is passed down through elders and eventually specialised Healers *fiŕin*.  Many different plants and some animal products are used to make medicines and salves.
+Herbal remedies are widespread and knowledge is passed down through elders and eventually specialised Healers *fiŕin*.  Many different plants and some animal products are used to make medicines and salves.
 
 ## Industry
 
@@ -2366,43 +2366,43 @@ Herbal remedies are widespread and knowledge is passed down through elders and e
 ### Textiles
 
 - Material Processing
-  - Wool *vienjü* >> **Felt** - *jêmekkeś*
-    - through a process of Felt Pressing *jêmdlü*, done by a Feltmaker *jêmdlün*
+  - Wool *vienjü* >> **Felt** - *jêmekkeś*
+    - through a process of Felt Pressing *jêmdlü*, done by a Feltmaker *jêmdlün*
     - more common way of processing wool in the north
-  - Fibre >> **Yarn** - *undë* >> **Cloth** - *ujëś*
-    - first process is Spinning *ljanśanjh*, done on a Spinning Wheel *ljanśnjemh*
-    - second process is Weaving *indvü*, done on a Loom *indvê*
-    - both of these processes are done by a Weaver/Texile worker *indvüm*
+  - Fibre >> **Yarn** - *undë* >> **Cloth** - *ujëś*
+    - first process is Spinning *ljanśanjh*, done on a Spinning Wheel *ljanśnjemh*
+    - second process is Weaving *indvü*, done on a Loom *indvê*
+    - both of these processes are done by a Weaver/Texile worker *indvüm*
     - wool is more commonly processed into cloth in the river valley and south
     - types
-      - Wool *vienjü* >> **Wool Yarn** *ħumvienjü undë* >> **Wool Cloth** *ħumvienjü ujëś*
-      - Flax *ljierva* >> **Flax Yarn** *ħumljierva undë* >> **Linen Cloth** *ljieröjiś*
-      - Hemp *merrhielva* >> **Hemp Yarn** *ħummerrhielva undë* >> **Hemp Cloth** *merrhüöjiś*
+      - Wool *vienjü* >> **Wool Yarn** *ħumvienjü undë* >> **Wool Cloth** *ħumvienjü ujëś*
+      - Flax *ljierva* >> **Flax Yarn** *ħumljierva undë* >> **Linen Cloth** *ljieröjiś*
+      - Hemp *merrhielva* >> **Hemp Yarn** *ħummerrhielva undë* >> **Hemp Cloth** *merrhüöjiś*
   - Hemp *merrhielva* >> **Rope** *quttampa'*
 - Products
   - **Rope** - *quttampa'*
-  - **Cloth** - *ujëś*
-  - Yarn >> **(Fishing) Net** - *uttë*
-  - Cloth >> **Clothes** - *ujëśśonj*
-    - made by a Tailor *ujëssum*
+  - **Cloth** - *ujëś*
+  - Yarn >> **(Fishing) Net** - *uttë*
+  - Cloth >> **Clothes** - *ujëśśonj*
+    - made by a Tailor *ujëssum*
     - made of different materials depending on the region and climate
     - common items of clothing
-      - **Robe** - *narrânj*
+      - **Robe** - *narrânj*
         - Cloth Robes: outer clothing, fashionable among upper classes of the River Kingdoms.  Commonly dyed for extra luxury
         - Felt Robes: outer clothing to provide warmth, common in northlands where feltmaking predominates over spinning/weaving
-      - **Coat** - *viñrênj*, outer clothing to provide warmth, common in highlands due to cold climate.  Made from wool cloth.
-      - **Skirt** - *nje'uśśonj*, inner clothing.  Worn by all genders in all areas, the most ubiquitous item of clothing
-      - **Tunic** - *quttśonj*, inner clothing.  Worn in some areas due to weather/climate constraints (to protect from cold or heat/sunburn), can be uncommon in milder areas.  The Central Kingdom made dyed tunics fashionable among the upper classes along with dyed robes and undyed tunics are common among commoners in cities, but not in smaller towns or lands outside that Kingdom.
+      - **Coat** - *viñrênj*, outer clothing to provide warmth, common in highlands due to cold climate.  Made from wool cloth.
+      - **Skirt** - *nje'uśśonj*, inner clothing.  Worn by all genders in all areas, the most ubiquitous item of clothing
+      - **Tunic** - *quttśonj*, inner clothing.  Worn in some areas due to weather/climate constraints (to protect from cold or heat/sunburn), can be uncommon in milder areas.  The Central Kingdom made dyed tunics fashionable among the upper classes along with dyed robes and undyed tunics are common among commoners in cities, but not in smaller towns or lands outside that Kingdom.
 
 ### Pottery, Wood- and Stoneworking
 
 - **Clay** - *me'odv*
-  - makes **Pottery** *ħrhaodva* by a Potter *ħrhâedvum*
+  - makes **Pottery** *ħrhaodva* by a Potter *ħrhâedvum*
     - processes
       - wet clay is Shaped *ljanfa*
       - shaped clay is Dried *frhicco*
       - hard clay is Fired *rhiicco* and becomes pottery
-  - also makes **Bricks** *mette'*, used in construction by a Mason *errettün*
+  - also makes **Bricks** *mette'*, used in construction by a Mason *errettün*
   - firing was done at first in large campfires (bonfires), but moved on to use ovens *ħonjëmaimer* when the technology was learnt from the south
   - clay is abundant in the river valley and coasts, pottery is most commonly there
 - **Wood** - *qotfśo*
@@ -2410,42 +2410,42 @@ Herbal remedies are widespread and knowledge is passed down through elders and e
   - used for firewood
   - used in construction by a Carpenter *oħkum*
   - used by a Joiner *qunduomoam* to make **Furniture** *kaŕa'an* and wooden tools
-  - used by a Wood Carver *ljanfan* to make **Carvings** *ljanfkeu* and **Idols** - *yiźmärrhänjh*
+  - used by a Wood Carver *ljanfan* to make **Carvings** *ljanfkeu* and **Idols** - *yiźmärrhänjh*
   - used to make Wheels *ljancemh*
     - solid wheels at first, spoked wheels in the mid Bronze age
     - spoked wheels allowed the proliferation of Carts *ienjö* and Carriages, facilitating trade and transport
 - **Stone Blocks** - *teqqe*
-  - Cut/Quarried *erreħħuonjë'* from a rockface by a Quarrier *teqqün*
-  - used in construction by a Mason *errettün*
+  - Cut/Quarried *erreħħuonjë'* from a rockface by a Quarrier *teqqün*
+  - used in construction by a Mason *errettün*
   - stone is uncommon in the river valley, hence not widely used
   - stone is more common in the highlands and north, used primarily for construction
   - stone tools are almost entirely replaced by metal tools
 
 ### Metalworking
 
-- Metals - *źñärhä*
-  - **Gold** - *rheśrhä*
+- Metals - *źñärhä*
+  - **Gold** - *rheśrhä*
     - one of the first used metals, easy to use but rare.  Found in nuggets on the Sea Dragon Coast and surrounding lands.
-    - usually simply Hammered *vônjof* into the desired shape by a Metalworker *źñârhôm*
-  - **Tin** - *totfrhä*
+    - usually simply Hammered *vônjof* into the desired shape by a Metalworker *źñârhôm*
+  - **Tin** - *totfrhä*
     - used in the mid-late Vuhinkam era, difficult to process.
-    - The development of the Bellows *uovdvë* allowed Smelting *rheük* to begin
-  - **Copper** - *to'rhä*
+    - The development of the Bellows *uovdvë* allowed Smelting *rheük* to begin
+  - **Copper** - *to'rhä*
     - used in the late Vuhinkam era (Chalcolithic), but difficult to process.
     - The development of the Furnace *rhekkê* allowed easier smelting and copper was commonly used in tools and weapons
     - Copper was rare however, mostly found in the north, encouraging settlement along the north coast
-  - **Bronze** - *qundoarä*
+  - **Bronze** - *qundoarä*
     - the discovery and use of Bronze marks the beginning of the Bronze age, occurring around the same time as the Shech. migrations
     - the smelting industry was concentrated in the lower river valley
     - tools and weapons made with bronze allowed the towns of the lower river to flourish and dominate
-    - Casting *erraonja'* using Casts *orrâeë* was developed as a way to mass produce bronze items
-  - **Iron** - *miśrhä*
-    - (meteoric) iron was used in the Copper/Bronze eras, valued for its toughness but incredibly rare and difficult to work with.  It was called *vaśrhä*, considered a gift from the sky
+    - Casting *erraonja'* using Casts *orrâeë* was developed as a way to mass produce bronze items
+  - **Iron** - *miśrhä*
+    - (meteoric) iron was used in the Copper/Bronze eras, valued for its toughness but incredibly rare and difficult to work with.  It was called *vaśrhä*, considered a gift from the sky
     - as smelting technologies improved, eventually Iron could be smelted successfully.  Iron was rare in the lower river valley, but common in the upper river valley (as well as the northlands and south coast).  Ironworking was first developed in upper river valley kingdoms after the Great Floods, and was what propelled the Central Kingdom to dominance.
 - Products
-  - **Tools** *źñârhâ*
-  - **Idols** *yiźmärrhänjh*
-  - **Weapons** *vônljë*
+  - **Tools** *źñârhâ*
+  - **Idols** *yiźmärrhänjh*
+  - **Weapons** *vônljë*
 
 ### Misc
 
@@ -2463,25 +2463,25 @@ Herbal remedies are widespread and knowledge is passed down through elders and e
   - Monuments:
     - Mud-Brick Tombs *meħħośko*
       - large septagonal tombs *zuiśko* for Monarchs
-      - small hexagonal *źüśko* and pentagonal *ljêsko* tombs for nobility
-      - simple pentagonal or rectangular tombs *se'üśko* for commoners
+      - small hexagonal *źüśko* and pentagonal *ljêsko* tombs for nobility
+      - simple pentagonal or rectangular tombs *se'üśko* for commoners
     - Royal Institutions - Spectacularly dyed buildings of stone
     - Temples
       - Family Temples, common in lower valley and coasts (cult of Qamke), size depending on family size and status
       - Royal Temples, landmarks in main cities of the in Central Kingdom where the people worship the cult of the Ruler's Ancestors
-      - Deity Shrines, common in highlands (cult of Ghâudokko), each community dedicating themselves to one or more deities and building shrines to them
+      - Deity Shrines, common in highlands (cult of Ghâudokko), each community dedicating themselves to one or more deities and building shrines to them
 
 ## Knowledge and Mythology
 
 [back to chapter top](#6-culture)
 
-The Pantheon of Gods was based on stories passed down through elders and solidified into a common set of deities which were respected, though not necessarily worshipped, by the end of the Vuhinkam era.  After the Migration, those that were left explained their ties to the land as worship of their ancestors, in the belief it would grant them powers and a better life.  These two concepts form the core of the Uhhuononj Mythology.
+The Pantheon of Gods was based on stories passed down through elders and solidified into a common set of deities which were respected, though not necessarily worshipped, by the end of the Vuhinkam era.  After the Migration, those that were left explained their ties to the land as worship of their ancestors, in the belief it would grant them powers and a better life.  These two concepts form the core of the Uħħuononj Mythology.
 
-### Pantheon of Gods - *Ghâudokko*
+### Pantheon of Gods - *Ghâudokko*
 
 The Pantheon of Gods was not codified until the start of the Lower River Kingdoms, where each kingdom had their own version of the pantheon; these were united into one official Pantheon in the Central Kingdom.  However, none of these entities worshipped the deities directly - there was no expectation that the deities themselves would pay any attention to mere humans.  This was resolved in two ways.
 
-The first, which spread from the lower kingdoms and eventually dominated most of the Uhhuononj lands, held that each person's Ancestors were responsible for either liaising with the gods, or were granted powers over these gods' domains.  Thus, rather than worshipping the gods, it was more useful to worship one's ancestors, in order for them to intercede on behalf of the person and grant divine favour (or protect them from divine wrath).
+The first, which spread from the lower kingdoms and eventually dominated most of the Uħħuononj lands, held that each person's Ancestors were responsible for either liaising with the gods, or were granted powers over these gods' domains.  Thus, rather than worshipping the gods, it was more useful to worship one's ancestors, in order for them to intercede on behalf of the person and grant divine favour (or protect them from divine wrath).
 
 The second, which was developed in the upper hills and spread throughout the highlands, maintained that through communual dedication to one deity in particular, the gods could be reached.  Thus, many highlands communities nominate a Patron Deity and worship them.  While the Cult of Ancestors still exists, it plays somewhat less of a role, especially in the mountains.
 
@@ -2497,16 +2497,16 @@ The Pantheon listed below is the form codified in the Central Kingdom (thus othe
   - **Xaqqêkke** - God of the Earth/Mountains
   - **Me'rheazge** - God of the Seas
 - **Uħħuquoggo** - The Pair of Humanity/Human Worlds
-  - **Vaoñdvikke** - Goddess of Travels/Knowledge/The Living World
+  - **Vaoñdvikke** - Goddess of Travels/Knowledge/The Living World
   - **Ljaearmikke** - Goddess of the Dead/Ancestors/The Spirit World
 - **Esakkxikke** - The Triad of Cycles
   - **Ljiħħeimge** - Goddess of Creation/Birth
   - **Qunljarge** - God of Destruction/War
-  - **Jêñghakke** - The Watcher/The Balancer/The Judge/The Eye
+  - **Jêñghakke** - The Watcher/The Balancer/The Judge/The Eye
 
 ### Cult of Ancestors
 
-Most communities of Uhhuononj were part of a Cult of Ancestors.  However, the exact naure of the belief could be quite different.
+Most communities of Uħħuononj were part of a Cult of Ancestors.  However, the exact naure of the belief could be quite different.
 
 For most early bronze age communities, it was common to worship a local pantheon of community ancestors, commonly past leaders and important people.  Each community had their own ancestral pantheon (Ljakke).
 
@@ -2518,11 +2518,11 @@ As a result of these different tendencies, the Lower Kingdoms tended to continue
 
 ### Calendar
 
-Sky observations among the Uhhuononj are rather minimal (astronomy was introduced to the Uhhuononj in the Iron Age from the southern Shechageghern people).  However, natural observations (animal migrations, plant reactions, rains, etc) are common, and along with the tendency of the river to flood after Melts, a solar calendar is devised.
+Sky observations among the Uħħuononj are rather minimal (astronomy was introduced to the Uħħuononj in the Iron Age from the southern Shechageghern people).  However, natural observations (animal migrations, plant reactions, rains, etc) are common, and along with the tendency of the river to flood after Melts, a solar calendar is devised.
 
 - Seasons of the Year - *qu'ħuśśaix esa* or *qu'ħuśśaëx esa*
   - **Winter** - *Iske* - season of Night - long nights and a period of rest
-  - **Spring** - *Rhüźakke* - season of the Melt - when snow falling in the Mountain Springs region (*Jêiśħeimonj*) melts and brings floods, along with increased fertility, downriver.  The First Melt is an important annual celebration.
+  - **Spring** - *Rhüźakke* - season of the Melt - when snow falling in the Mountain Springs region (*Jêiśħeimonj*) melts and brings floods, along with increased fertility, downriver.  The First Melt is an important annual celebration.
   - **Summer** - *Kusko* - season of Plenty - where fruits and berries begin to ripen and early harvests bring plenty of food to the table.
   - **Autumn** - *Ħusko* - season of Harvest - where the main annual crops are harvested and communities chip in to help harvest and prepare for winter.  The First Harvest and Final Harvest are important annual celebrations.
 
@@ -2530,12 +2530,12 @@ Sky observations among the Uhhuononj are rather minimal (astronomy was introduce
 
 The weather, domain of the deity *Tfencikke*, is controlled by her child and 5 grandchildren, birds which reside in different environments bringing these conditions to the land.  They are:
 
-- **Vaśnjaontśko** - the Mother Bird, residing in the sky and calming her children, thus calming the weather/winds
+- **Vaśnjaontśko** - the Mother Bird, residing in the sky and calming her children, thus calming the weather/winds
 - **Vônjoutśko** - the Frost Bird, residing in the frozen Northlands, bringing cold, dry winds when agitated
 - **Ħanjmitśko** - the Flame Bird, residing in the scorching Cursed Desert, bringing hot, dry winds when agitated
 - **Verxotśko** - the Rain Bird, residing in the northwestern seas, periodically bringing cool, wet winds
-- **Pâenjattśko** - the Storm Bird, residing in the southwestern seas, bringing strong winds and storms when agitated
-- **Ghâeñoyattśko** - the Mountain Bird, residing in the eastern mountains, never getting agitated
+- **Pâenjattśko** - the Storm Bird, residing in the southwestern seas, bringing strong winds and storms when agitated
+- **Ghâeñoyattśko** - the Mountain Bird, residing in the eastern mountains, never getting agitated
 
 ## Worship and Festivity
 
@@ -2543,19 +2543,19 @@ The weather, domain of the deity *Tfencikke*, is controlled by her child and 5 g
 
 Each community worships the gods and their ancestors differently, however there are some common/widespread celebrations.
 
-Agricultural celebrations dedicated to the *Tośquoggo* are common in river valley communities.  The most important of these are **The First Melt** (*Vae Rhüge*) and **The Final Harvest** (*Ulfärh Yêrrhâugo*).  **The First Harvest** (*Vae Yêrrhâugo*) is also celebrated in many communities, not just along the river.
+Agricultural celebrations dedicated to the *Tośquoggo* are common in river valley communities.  The most important of these are **The First Melt** (*Vae Rhüge*) and **The Final Harvest** (*Ulfärh Yêrrhâugo*).  **The First Harvest** (*Vae Yêrrhâugo*) is also celebrated in many communities, not just along the river.
 
-### The First Melt - *Vae Rhüge*
+### The First Melt - *Vae Rhüge*
 
-*Vae Rhüge* is a celebration that derives from an ancient tradition of welcoming the Spring Messengers.  It is traditional for each community, upon receiving word that the first melting of snow has begun, to send messengers to other communities downstream to warn of the coming floods, allowing them to prepare.  The message originates at the communities living in the Mountain Springs (*Jêiśħeimonj*) and is passed all the way down to the River Coast (*Xärrhättśonj*).  The messengers are termed the Spring Messengers (*Rhüźaindükke*), and are always warmly welcomed even if the respective communities have otherwise bad relations - the tradition plays a vital role in maintaining order in the river valley communities, and no community wants to miss out on receiving the messenger the next year.  This is one of the few celebrations that isn't tied to a specific deity, although it is often associated with *Qu'ħusko* (seasons), *Vaoñdvikke* (travels) and *Yinddźaoge* (day / non-winter).
+*Vae Rhüge* is a celebration that derives from an ancient tradition of welcoming the Spring Messengers.  It is traditional for each community, upon receiving word that the first melting of snow has begun, to send messengers to other communities downstream to warn of the coming floods, allowing them to prepare.  The message originates at the communities living in the Mountain Springs (*Jêiśħeimonj*) and is passed all the way down to the River Coast (*Xärrhättśonj*).  The messengers are termed the Spring Messengers (*Rhüźaindükke*), and are always warmly welcomed even if the respective communities have otherwise bad relations - the tradition plays a vital role in maintaining order in the river valley communities, and no community wants to miss out on receiving the messenger the next year.  This is one of the few celebrations that isn't tied to a specific deity, although it is often associated with *Qu'ħusko* (seasons), *Vaoñdvikke* (travels) and *Yinddźaoge* (day / non-winter).
 
-*Vae Rhüge* is celebrated around the start of spring, the day after the arrival of the first of the Messengers, although the period before that is often used as preparation.  The festivities last for 5 days, though small feasts are often thrown to honour any Messenger who arrives after that time.  The festival is also used as an opportunity for intercommunity diplomacy and to build ties between communities.
+*Vae Rhüge* is celebrated around the start of spring, the day after the arrival of the first of the Messengers, although the period before that is often used as preparation.  The festivities last for 5 days, though small feasts are often thrown to honour any Messenger who arrives after that time.  The festival is also used as an opportunity for intercommunity diplomacy and to build ties between communities.
 
 ### Harvest Festivals
 
-**The First Harvest** (*Vae Yêrrhâugo*) is celebrated among many communities, not just the ones on the river valley.  It is dedicated to both of the *Tośquoggo* and their ancestral representatives, entreating them to grant the community a long and peaceful Autumn in order to have a successful harvest.
+**The First Harvest** (*Vae Yêrrhâugo*) is celebrated among many communities, not just the ones on the river valley.  It is dedicated to both of the *Tośquoggo* and their ancestral representatives, entreating them to grant the community a long and peaceful Autumn in order to have a successful harvest.
 
-**The Final Harvest** (*Ulfärh Yêrrhâugo*) is again primarily celebrated by communities near the river valley, though also by nearby communities in the coastal lands and highlands.  It is dedicated to *Tośquoggo* to thank them for a successful harvest season, and *Ienjaoge* to get on his and his representatives' good sides to avoid their wrath over the Winter.
+**The Final Harvest** (*Ulfärh Yêrrhâugo*) is again primarily celebrated by communities near the river valley, though also by nearby communities in the coastal lands and highlands.  It is dedicated to *Tośquoggo* to thank them for a successful harvest season, and *Ienjaoge* to get on his and his representatives' good sides to avoid their wrath over the Winter.
 
 The two Harvest Festivals are celebrated with feasts and carousal.  The *Tośquoggo* are sometimes revered as God and Goddess of Revelry; other communities revere *Tfencikke* as a Goddess of the Soul / the True Self and believe that drinking to excess allows the Soul/True Self to take control.  
 
@@ -2565,7 +2565,7 @@ Each important ancestor is celebrated around once a year around the time of thei
 
 Families traditionally maintain shrines to their ancestors, with larger and wealthier families maintaining a family temple as well.  In lower river lands, where each person has their own ancestors, this tradition has become somewhat obsolete and people use common temples to worship their own ancestors.  In upper river kingdoms/the Central Kingdom, all temples have been converted to worship the ruler's ancestral pantheon.  In towns and villages elsewhere, the traditional family shrines remain.
 
-In addition to this, worship of one's ancestors includes acknowledging and praising them every so often.  This praising of ancestors made its way into everyday conversation by the late Bronze Era, with common phrases both praising them and serving some other purpose.  For example, the phrase *ulompëqoñ tśarix qamke qâ* 'your ancestors are wise' is commonly used as a greeting (later shortened to *tśar-lom-ke*); *ħouś X* is used as 'you're welcome', substituting X for the name of one's own ancestors, literally 'X (is) good-natured'.
+In addition to this, worship of one's ancestors includes acknowledging and praising them every so often.  This praising of ancestors made its way into everyday conversation by the late Bronze Era, with common phrases both praising them and serving some other purpose.  For example, the phrase *ulompëqoñ tśarix qamke qâ* 'your ancestors are wise' is commonly used as a greeting (later shortened to *tśar-lom-ke*); *ħouś X* is used as 'you're welcome', substituting X for the name of one's own ancestors, literally 'X (is) good-natured'.
 
 ## Social and Civic Culture
 
@@ -2592,6 +2592,65 @@ In addition to this, worship of one's ancestors includes acknowledging and prais
 
 ### Symbolism
 
-- Royal Colour of the Seadragon Strait (*Śaśśüħênj*) and River Coast (*Xärrhättśonj*) is Purple (*Jêddźâugou*), derived from crushed seashells (*jêddźâu*)
-- Royal Colour of the Lower River region (*Puruttśonj*) is Turquoise (*Toprhâeë*), derived from minerals containing copper (*tottśof*)
-- Royal Colour of the Upper River region (*Xâeputtśonj*) is Crimson (*paccanjrhaoi*), derived from certain crushed insects (*pa'njanjh*)
+- Royal Colour of the Seadragon Strait (*Śaśśüħênj*) and River Coast (*Xärrhättśonj*) is Purple (*Jêddźâugou*), derived from crushed seashells (*jêddźâu*)
+- Royal Colour of the Lower River region (*Puruttśonj*) is Turquoise (*Toprhâeë*), derived from minerals containing copper (*tottśof*)
+- Royal Colour of the Upper River region (*Xâeputtśonj*) is Crimson (*paccanjrhaoi*), derived from certain crushed insects (*pa'njanjh*)
+
+### Regions - Yeħħondox
+
+- **Yeħke** - The World - the entire world, known or unknown
+- **Vaoñdunj** - The Living Word
+  - technically excludes *Ljanêrmonj* (Realm of the Dead)
+  - but in practice often synonymous with *Yeħke*
+  - name related to the goddess *Vaoñdvikke*
+- The Homeland
+  - 3 names for the homeland are:
+    - **Qamkonj** - Ancestral Lands
+    - **Ljiħħeimonj** - Homelands
+    - **Kuskonj** - Land of Plenty
+  - Eventually comes to describes the urbanised parts of Uħħuonanj lands
+    - In this definition, it overlaps with parts of other regions
+- **Uonjëkkouonj** - The River Valley
+  - River name is **Vônvënjh**
+  - **Xärrhättśonj** - River Coast region
+  - **Puruttśonj** - Lower River region
+  - **Xâeputtśonj** - Upper River region
+  - **Quoźo'âenqënj** - Twin Rivers region
+  - Mediterranean climate in coast/lower regions
+  - Warm continental climate in upper/twin rivers regions
+- **Pfośħonj** - Albatross Island
+  - Strait between island and mainland is **Śaśśüênj** - Seadragon Strait
+  - name related to the word for 'albatross' *pfośśüenjh*
+  - Oceanic climate facing the strait
+  - Mediterranean climate facing the sea
+- **Ienjeħħonj** - The Northlands
+  - **Śaśśüħênj** - Seadragon Coast region
+  - **Meccêźeamonj** - Lake West region
+  - **Meccêźaorrânj** - Lake East region
+  - **Moanduâenyox** - Pine Forests region
+  - Oceanic climate in coast/west
+  - Cool continental climate in east/forest region
+- **Yinddźaħonj** - The Southlands
+  - **Ghaźbêrrânj** - Olive Coast region
+  - **Meffeśteħħênj** - Elephant Plains region
+  - **Rhiemênj** - The Savannah
+  - **Uttüvâencox** - Fisher Islands
+  - Hot mediterranean climate in coast/plains/islands
+  - Hot semi-arid climate in savannah
+- **Ârrhâfonj** - The Highlands
+  - **Jêiśħeimonj** - Mountain Springs region
+  - **Varcindüaonyex** - Hunter Forests region
+  - **Fienjafrhienyex** - The Foothills
+  - **Ghaonyappaonyex** - Rockbird Mountains
+  - Cool to Mild continental climate throughout
+  - Some alpine areas in mountains
+- **Ljanêrmonj** - Realm of the Dead / The Cursed Desert
+  - Most of these lands are traditionally considered off-limits.  They are all hot desert climates, except *Firca'innjikke* (hot semi-arid)
+  - **Färhemvaonjonj** - The Last Outpost
+    - The only part of the Realm that is traditionally allowed to be travelled to.  Barely inhabited.
+  - **Firca'innjikke** - (Plains of) The Eternal Duststorm
+    - Milder climate but land is wracked by constant duststorms
+  - **Ħancśicceuźikke** - Oasis of Spirits
+    - According to leged, the site of a flourishing tribe that defied the gods and were cursed, with their lands taken over by the Goddess of the Dead.
+  - **Ħa'üħħercakke** - Ashen Mountains
+    - The mythical home of the Flame Bird, *Ħanjmitśko*
