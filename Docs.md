@@ -143,14 +143,14 @@ Palatal digraphs with J, /ɲ̊/, /ɲ/ and /ʎ/, are written without the J when p
 
 [back to chapter top](#2-phonology-and-romanisation)
 
-**Stress** is noticeable but rarely phonemic; very few minimal pairs exist for stress.  Stress primarily exists as a marker of word separation.  Most words have up to 2 stressed syllables by default, although certain affixes carry their own stress.  Speech is primarily stress-timed.  Pitch changes are also noticeable in the language, but entirely tied to stress.
+**Stress** is noticeable but rarely phonemic; very few minimal pairs exist for stress.  Stress primarily exists as a marker of word separation.  Most words have up to 2 stressed syllables by default, although certain affixes carry their own stress.  Speech is primarily stress-timed.  Pitch changes are also noticeable in the language, but entirely tied to stress.  While vowel length is non-phonemic, vowels tend to be lengthened when stressed and in an open syllable.
 
-The first stress of a word root is the Primary Stress, realised with a high pitch and high volume, or mid-high pitch when no secondary stress is present.  Every other stress is a Secondary Stress, this is realised with a low pitch and equally high volume, or mid-low when another secondary stress follows.  Syllables after the primary and before a secondary stress tend to carry mid-high pitch; all other unstressed syllables carry a mid to mid-low pitch.  Some affixes carry their own Primary Stress, though this is rare (mostly derivational affixes).  An example of stress and pitch:
+The first stress of a word root is the Primary Stress, realised with a high pitch and high volume, or mid-high pitch when no secondary stress is present.  Every other stress is a Secondary Stress, this is realised with a low pitch and equally high volume, or mid-low when another secondary stress follows.  Syllables after the primary and before a secondary stress tend to carry mid-high pitch; all other unstressed syllables carry a mid to mid-low pitch.  Some affixes carry their own Primary Stress, though this is rare (mostly derivational affixes).  An example of stress and pitch (with non-phonemic length also marked):
 
-- Quoźo'âenquëx quo'onjëx fesqampondoxkou
+- Quoźo'âenquëx quo'onjëx ħumqampondoxkou
   - 'to the family/ies of the couple from The Twin Rivers'
-  - /ˈɢuo̯ʑɔˌʔɑe̯nɢuɤx ˈɢuo̯ʔɔɲɤx ˈfɛsˌɢæm̥pɔnˌdɔxkou̯/
-  - /ˈɢuo̯˥ʑɔ˦ˌʔɑe̯n˩ɢu˧ɤx˧ ˈɢuo̯˦ʔɔ˧ɲɤx˧ ˈfɛs˥ˌɢæm̥˨pɔn˧ˌdɔx˩kou̯˧/
+  - /ˈɢuo̯ʑɔˌʔɑe̯nɢuɤx ˈɢuo̯ʔɔɲɤx ˈħumˌɢæm̥pɔnˌdɔxkou̯/
+  - \[ˈɢuo̯ː˥ʑɔ˦ˌʔɑe̯n˩ɢu˧ɤx˧ ˈɢuo̯ː˦ʔɔ˧ɲɤx˧ ˈħum˥ˌɢæm̥˨pɔn˧ˌdɔx˩kou̯˧]
 
 Sentence final tags can sometimes contain long strings with no stress; instead stress is inserted wherever necessary, sometimes to emphasise certain points but often arbitrarily.  These 'informal stresses' are generally somewhat softer than secondary stress.
 
@@ -158,11 +158,21 @@ Sentence final tags can sometimes contain long strings with no stress; instead s
 
 [back to chapter top](#2-phonology-and-romanisation)
 
-The maximum syllable size is CLLVCL, with only the central V mandatory.  Most syllables are maximally CLVC, the extra CL occurs due to the split of Vuhinkam affricate TS into TF/DV.  Words generally cannot end in any stops or affricates other than the glottal stop.
+The maximum syllable size is CCLVCL, with only the central V mandatory.  Most syllables are maximally CCVC, the extra CL occurs due to the split of Vuhinkam affricate TS into TF/DV, as well as a few edge cases.  The second C in the initial cluster is usually a nasal, V/H/F (from Vuhinkam W), L/LJ/Ś (from Vuhinkam L), or X/GH (from Vuhinkam J).
+
+Certain phonemes do not occur at the beginning or end of words:
+
+- words cannot start with:
+  - voiced stops and affricates EXCEPT Y /ɟ/ and Q /ɢ/
+  - glottal stop
+  - unvoiced nasals or rhotic
+- words cannot end with:
+  - voiced or unvoiced stops and affricates EXCEPT ' /ʔ/, K /k/, TF /tf/ or DV /dʋ/.
+  - alveolars EXCEPT R/RH (L /l/, S /s/, Z /z/, Ŕ /ɹ/) - these get turned into palatals instead
 
 Primary stress *usually* occurs on the first syllable of a word (barring prefixes), although this is not always the case, especially with *vowel + geminated trill* word initials.  Similarly, secondary stress *usually* occurs on the penultimate syllable of words with more than 3 syllables, but again this is not always the case due to merged or inserted syllables.
 
-Front stressed syllables tend to lead to fronting of back vowels while Back stressed syllables tend to lead to backing of front vowels, though many historical vowels resisted these changes and vowel harmony is particularly strict.  Certain suffixes have both front and back variants - depending on the dialect, these will change either depending on the final vowel or on the last stressed vowel.  If required to agree with central vowel Ä /ä/, these affixes may change arbitrarily and either form would be considered correct.
+Front stressed syllables tend to lead to fronting of back vowels while Back stressed syllables tend to lead to backing of front vowels, though many historical vowels resisted these changes and vowel harmony is not particularly strict.  Certain suffixes have both front and back variants - depending on the dialect, these will change either depending on the final vowel or on the last stressed vowel.  If required to agree with central vowel Ä /ä/, these affixes may change arbitrarily and either form would be considered correct.  In general, the forms given in this doc and examples will agree with the final vowel (whether stressed or unstressed).
 
 ## Alternations
 
