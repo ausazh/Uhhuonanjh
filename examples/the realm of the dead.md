@@ -34,7 +34,7 @@ Child: Wise (you)!  I intend to be travelling so much out there throughout the W
 
 /ˈcfar̥r̥ʌɲ || ˈulɔm̥pɤˈraʔ || ær̥ˈr̥æɲ̊ ˈħuo̯mɤɲ ˈɟɛħkix ˈɴie̯ɴeræ ˈpuo̯ɤx ˈfar̥ɴæħ ˈʋɑʊ̯rmɔ || ˈuɪ̯r ˈjeɴɣæf ˈħuo̯mɤɲ ˈɢeɐ̯ħɛɲer̥ ˈɟikkɛm̥ ˈʋæo̯ɴˌdʋikkix ˈtɛn ˈtɛneræ ˈʋɑʊ̯r/
 
-```
+```text
 cfärrhâ-nj: ulompë-rä'! arrhanjh  ħuo-mënj Yeħ-kix   ñieñ-êra
 child-NOM:  wise-2s!    travel.IM EMP-DST  World-GEN through-INS
 /ˈcfar̥r̥ʌɲ   ˈulɔm̥pɤˈraʔ ær̥ˈr̥æɲ̊    ˈħuo̯mɤɲ  ˈɟɛħkix   ˈɴie̯ɴeræ/
@@ -58,7 +58,7 @@ Wise person: (It) might be a great journey, my childish (you).  You, remember so
 
 /ˈulɔm̥pɤɲ || ˈɢɑe̯ɴ ˈʋɑe̯ ˈɟikkiɕ ær̥ˈr̥æɲ̊te ˈɢɑe̯ɲ | ˈfix ˈcfar̥r̥ʌˈraʔ || ˈʋæo̯ɴgæɲ̊ ˈħɑʊ̯ɔ ˈɣæɲ̊cer̥ ɕuʔ | ær̥ˈr̥æɲ̊cɛf ˈʌrʋɔ ˈʎæˌnermɔnɔɲ æɕuʔ || ˈʋɛr̥ | ˈmiɲ ær̥ˈr̥æɪ̯ɲ̊ ˈʎækkix ˈħæn̥ˌħɕikkɛ ʎæɴix/
 
-```
+```text
 ulompë-nj:  qâeñ   vâe  yikkiś  arrhanj-te  qâenj, fix    cfärrhârä'
 wise-H.NOM: be.IM  MED  great   journey-NOM SPC    1s.GEN childish-2s
 /ˈulɔm̥pɤɲ   ˈɢɑe̯ɴ ˈʋɑe̯  ˈɟikkiɕ ær̥ˈr̥æɲ̊te    ˈɢɑe̯ɲ  ˈfix   ˈcfar̥r̥ʌˈraʔ/
@@ -86,7 +86,7 @@ Child: But, our ancestors are (said to be) helping us, right?  This, it's the re
 
 /ˈcfar̥r̥ʌɲ || ˈt͡ʃɔ | ˈɟeɐ̯ˌram̥ɛ mu ˈpɤx ˈʎækkɛ ʎæɴixpo ˈɑe̯ɲ̊cuʔ || ˈæo̯ɕtɛ ˈɢɑe̯ɴ ˈʋɛħker̥ ˈʋæn̥ˌħæo̯nøriix ˈitfɛ ɢʌ/
 
-```
+```text
 tso,  yearäme   mu  p-ëx   ljak-ke      lja-ñix-pô             âenc-u'
 but,  help.IM   PRX 1p-GEN ancestor-NOM NAR.PAST-3D.NOM-1p.OBL INT.NPST-2s.VOC
 /ˈt͡ʃɔ ˈɟeɐ̯ˌram̥ɛ mu  ˈpɤx   ˈʎækkɛ       ʎæɴixpo                ˈɑe̯ɲ̊cuʔ/
@@ -106,7 +106,7 @@ Wise person: They are helping us, but, they are living differently from us.  The
 
 /ˈulɔm̥pɤɲ || ˈɟeɐ̯ˌram̥ɛ mu ɢʌɴix ˈt͡ʃɔ ˈʋæo̯ɴix ˈtuo̯ʎæfæ ˈɢɔmɤɴ miɲ ʎæ || ˈɴikkɛ ˈcæm̥ħɛɴæx ˈɟɛħħɔndox ˈɢɑe̯ɴ miɲ ˈħæɲ̊ˌm̥ic͡ɕkɤx ˈʋækˌkuo̯ɴæɲ ʎæ | ˈpuo̯ɴ ˈħæɲ̊m̥æɲ̊ix ʎæʋɔɲ | ˈɢɑe̯ɴɔf ˈħuo̯mɤɲ ˈʋætfæɲ̊ ˈr̥ɛɴ̥køʊ̯ ˈħæʔˌuħħɔnor̥ ʎæʎiɟeɲ̊/
 
-```
+```text
 yearäme    mu  qâ-ñix,   tso, vaoñ-ix   tuolja-fa     qomëñ   minj lja
 help.IM    PRX IND.NPST, but, 3H.pl-GEN different-ADV live.IM DST  NAR.PAST
 /ˈɟeɐ̯ˌram̥ɛ mu  ɢʌɴix     ˈt͡ʃɔ ˈʋæo̯ɴix   ˈtuo̯ʎæfæ      ˈɢɔmɤɴ  miɲ  ʎæ/
@@ -134,7 +134,7 @@ Like this, the spirits like (it), but, them (the lands), you and me do not suit.
 
 /ˈfɛɕɕæɕ ˈʎæɲ̊in ˈħæn̥ˌħɕikkɛ ʎæɴix | ˈt͡ʃɔ | ˈʋæo̯ɲ ˈɑʊ̯lˌɢʌɔ ˈie̯ɲiɲ ʎæʋɔɲʎær̥/
 
-```
+```text
 feśśaś    ljanjin   ħanħśik-ke  lja-ñix
 like.this prefer.IM spirit-NOM  NAR.PAST-3D.NOM
 /ˈfɛɕɕæɕ  ˈʎæɲ̊in    ˈħæn̥ˌħɕikkɛ ʎæɴix/
@@ -154,7 +154,7 @@ Qâugaf minj Färhemvaonjononj fix arrhanjêra qârhmo, ljin ħuomënj muomro�
 
 I visited the Last Outpost there in my journeys, I really felt the heat there with my own hands.  The heat there is barely a whiff of the fires of Ljanêrmonj.
 
-```
+```text
 qâuga-f  minj Färhemvaonjo-nonj f-ix   arrhanj-êra qârh-mo
 visit-PF DST  Last.Outpost-DAT  1s.GEN journey-LOC IND.PAST-1s.NOM
 /ˈɢɑʊ̯gæf miɲ  ˈfar̥ɛmˌʋæo̯ɲɔnɔɲ   ˈfix   ær̥ˈr̥æɲ̊eræ   ɢʌr̥mɔ/
@@ -178,7 +178,7 @@ Child: Yes, I think your words are correct, Wise (you).  I barely endure the hot
 
 /ˈcfar̥r̥ʌɲ || ˈɢɑe̯ | ˈpum̥fɤɢɔɴ ˈzuo̯mæɲ̊ ˈɢɑe̯ɲ | ˈulɔm̥pɤˈraʔ || ˈɢɛˌmie̯ɴɛf mu ˈr̥ɛ ˈkuskɔɤx ˈei̯n ˈɤɪ̯ɔɴæħ ˈmjeɐ̯ˌræo̯fæ ɢæɲmɔ/
 
-```
+```text
 qâe,   pumfë-qo-ñ     zuoma-njh qâenj, ulompërä'
 be.PT, correct-COP-IM words-NOM SPC,   wise-2s
 /ˈɢɑe̯  ˈpum̥fɤɢɔɴ      ˈzuo̯mæɲ̊   ˈɢɑe̯ɲ  ˈulɔm̥pɤˈraʔ/

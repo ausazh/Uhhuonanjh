@@ -50,7 +50,7 @@ Xeañ minj, sunjmonjëx ponôra quñëź, quonj quieźanjh ljañenjh.  Ña�
 
 /ˈxeɐ̯ɴ miɲ, ˈsuɲ̊m̥ɔɲ̊ɤx ˈpɔnoræ ˈɢuɴɤʑ ˈɢuo̯ɲ ˈɢuˌie̯ʑæɲ̊ ʎæɴɛɲ̊.  ˈɴar̥r̥ør miɲ ˈʋeɐ̯ɴ̥ix ˈxɛkkættɛ ʎæʎiɢʌʋɛɲ̊, ˈpyʋɔħ ˈɴar̥r̥øreræ ʎæɴɛɲ̊/
 
-```
+```text
 xeañ     minj, sunjmonj-ëx pon-ôra  quñëź,   quonj quieźa-njh lja-ñenjh.
 exist.IM DST,  other.A-GEN side-INS flow.PT, two   river-NOM  NAR.PAST-3Apl.NOM
 /ˈxeɐ̯ɴ   miɲ,  ˈsuɲ̊m̥ɔɲ̊ɤx   ˈpɔnoræ  ˈɢuɴɤʑ   ˈɢuo̯ɲ ˈɢuˌie̯ʑæɲ̊  ʎæɴɛɲ̊/
@@ -74,7 +74,7 @@ Vaħħoñ minj vae quieźanjh ljaqenjh, “Qunduomoa ħârpëñ mu feśqa'r
 
 /ˈʋæħħɔɴ miɲ ˈʋæɛ ˈɢuˌie̯ʑæɲ̊ ʎæɢɛɲ̊, ˈɢunˌduo̯moɐ̯ ˈħʌr̥pɤɴ mu fɛɕˈɢæʔˌr̥aħħɔɲ, ˈʋɛkkɔ ˈmiʔyˌr̥ikkøʊ̯ ˈħæɢɢɛɲ̊cer̥, ˈɟɛħkix ˈɴie̯ɴeræ ˈɢuɴɤʑɔnor̥, ˈħɑʊ̯ɲ̊iʎær̥ˈuʔ/
 
-```
+```text
 vaħħoñ   minj vae   quieźa-njh ljaqenjh
 say.PF   DST  first river-NOM  NAR.PAST-3As
 /ˈʋæħħɔɴ miɲ  ˈʋæɛ  ˈɢuˌie̯ʑæɲ̊  ʎæɢɛɲ̊/
@@ -98,7 +98,7 @@ Yaorüm minj yêrra quieźanjh vaencêrh ljaqenyênjh.  “Jêño, cafħouq
 
 /ˈɟæo̯rym miɲ ˈɟerræ ˈɢuˌie̯ʑæɲ̊ ˈʋæɛɲ̊cer̥ ʎæɢɛɲ̊ɟeɲ̊.  ˈjeɴɔ, cæfˈħou̯ɢɔɴ mu ˈie̯myħ ˈcæm̥ ˈɢɑe̯ɲmo, ˈʋɛr̥, ˈħæo̯ɲ̊ ˈʋɛkkɔ ʌrˈrʌr̥ˌm̥ie̯ggøʊ̯ ˈtɛɴˌɢuɤx ˈɟiʑmar̥ɛɲer̥ ˈɟerɛɲer̥  ˈɢɑe̯ɲmoʎær̥ʋɛħ/
 
-```
+```text
 yaorüm      minj yêrra  quieźa-njh vae-n-cêrh  lja-qen-yênjh
 disagree.PF DST  second river-NOM  first-A-DAT NAR.PAST-3As.NOM-3As.OBL
 /ˈɟæo̯rym    miɲ  ˈɟerræ ˈɢuˌie̯ʑæɲ̊  ˈʋæɛɲ̊cer̥    ʎæɢɛɲ̊ɟeɲ̊/
@@ -122,7 +122,7 @@ Camh minj quonj quieźañkeu püvoħ ljaljivenjqâ, aośêra xarrhenj kompon
 
 /ˈcæm̥ miɲ ˈɢuo̯ɲ ˈɢuˌie̯ʑæɴ̥køʊ̯ ˈpyʋɔħ ʎæʎiʋɛɲ̊ɢʌ, ˈæo̯ɕeræ ˈxær̥r̥ɛɲ ˈkɔm̥pɔɲ ˈɢɑʊ̯ ˈʋæo̯ɴdʋæɴ̥æħ ʎæɢɔɲ.  ˈɢuˌie̯ʑæɲ̊cɛx ˈʎæɲ̊ci ˈɟeɐ̯ɴix ˈmiˌækker̥ ˈʋææɕɛɲer̥ ʎæɴɛɲ̊ɟeɲ/
 
-```
+```text
 camh    minj quonj quieźa-ñkeu  püvoħ-Ø      lja-lji-venj-qâ
 stay.IM DST  two   river-ACC    argue.PT-NOM NAR.PAST-CAUS-3Ap.OBL-3I.NOM
 /ˈcæm̥   miɲ  ˈɢuo̯ɲ ˈɢuˌie̯ʑæɴ̥køʊ̯ ˈpyʋɔħ       ʎæʎiʋɛɲ̊ɢʌ/
@@ -146,7 +146,7 @@ river-pl.NOM  turn.PF 3Hs-GEN wisdom-DAT ask-DAT     NAR.PAST-3Ap.NOM-3Hs.OBL
 
 /ˈulɔm̥pɤraʔ, ˈfɛɹɛ ˈɢunˌduo̯moɐ̯ ˈʋɔr̥ʌr ˈʋonʋɤkou̯nɔx fɛɕˈɢuˌie̯ʑæɲ̊ ˈcæm̥ ˈħɑʊ̯ɲ̊ʎær̥ ˈɑe̯ɲ̊cuʔ, ˈʋæɲ̊ɛf ˈkɔm̥pɔnɔɲ ʎæɴɛɲ̊.  ˈɢuˌie̯ʑæɲ̊cɛx ˈɣɑe̯ɴ ˈʋɑe̯ ɲifamɛ ˈħɛffæf ˈpyʋɔħ ˈʑie̯ɴix ˈuɪ̯rʌ ɢʌɢʌɟerˈmɛ.  ˈfɛɹɛ ˈcæm̥ ɲi ˈɕæɲ̊mɛ, cafˈmær̥r̥eɢɔɴ cafˈroɲɤ ʌrˈrʌɟæɴ̥æħ ɢʌmɛ/
 
-```
+```text
 ulompë-rä', feŕe     qunduomoa   vorhâr vônvë-kou-nox      feś-quieźa-njh camh    mu
 wise-2s,    together join.PF     or     separate.PT-ACC-pl as-river-NOM   stay.IM PRX
 /ˈulɔm̥pɤraʔ ˈfɛɹɛ    ˈɢunˌduo̯moɐ̯ ˈʋɔr̥ʌr ˈʋonʋɤkou̯nɔx       fɛɕˈɢuˌie̯ʑæɲ̊  ˈcæm̥     mu/
@@ -179,7 +179,7 @@ together stay.IM CON IMP.POL-2p.VOC, CMPR-useful-COP-IM CMPR-powerful flow-LOC  
 
 /ˈɢɑe̯, ˈʋæħħɔɴ ˈɢuˌie̯ʑæɲ̊cɛx ʎæ, ˈɣættɛ, mɛfˈħou̯ɢɔɴ ɢʌ.  ˈæo̯ɕix ˈfɛɹɛ ˈɢunˌduo̯moɐ̯ ˈɢæo̯ɴgøʊ̯ ˈɟeram̥ɛɲer̥ ʎæɴɛɲ̊/
 
-```
+```text
 qâe,   vaħħoñ  quieźa-ncex  lja,      ghat-te,     mef-ħou-qo-ñ     qâ
 be.PT, say.PF  river-pl.NOM NAR.PAST, that.IN-NOM, SUPL-good-COP-IM IND.NPST
 /ˈɢɑe̯  ˈʋæħħɔɴ ˈɢuˌie̯ʑæɲ̊cɛx ʎæ        ˈɣættɛ       mɛfˈħou̯ɢɔɴ       ɢʌ/
@@ -200,7 +200,7 @@ Gheħħemqoñ ħuomënj veañix kuinjaśix ljañenjh, eumärhof me'rhencêrh 
 
 /ˈɣɛħħɛm̥ɢɔɴ ˈħuo̯mɤɲ ˈʋeɐ̯ɴ̥ix ˈkuɪ̯ɲæɕix ʎæɴɛɲ̊, ˈʋæʔfɔɲfæ ˈøʊ̯mar̥ɔf ˈmɛʔˌr̥ɛɲ̊cer̥ ʎæɴɛɲ̊,ˈɣæʎæɲ̊in mu ɕæ!  ærˈræʎiɢɢɔɴ ˈkɕæɲ̊ɛ ˈħuo̯mu ˈɟɛccyˌæʔfɔɲer̥ ɢʌɣʌ!  ˈxeɐ̯ɴ miɲ ˈtfæɕɕɛ ɛrˈrɛɢɢæ ˈɢɑe̯ɲ, ˈt͡ʃɔ, ˈʋonluˌie̯ɲɛ ˈporafæ ˈʋɑʊ̯rɣʌɟer.  ˈuɪ̯rʌnor̥ ˈr̥ɛeræ, ˈħʌr̥pɤɴ ˈxæɕɔndɔx ˈʋɑʊ̯rɴʌɲɣʌ, ˈuˌjørɛɲer̥ ˈr̥ɛeræ, ˈmjeɐ̯rɛɢɔɴ ˈɢɔmɤ ɢʌ/
 
-```
+```text
 gheħħem-qo-ñ ħuo-mënj veañ-ix  kuinjaś-ix lja-ñenjh
 proud-COP-IM EMPH-DST 3Apl-GEN size-GEN   NAR.PAST-3Ap.NOM
 /ˈɣɛħħɛm̥ɢɔɴ  ˈħuo̯mɤɲ  ˈʋeɐ̯ɴ̥ix  ˈkuɪ̯ɲæɕix  ʎæɴɛɲ̊/
@@ -236,7 +236,7 @@ Aśśofa pur ququoźnjof minj tfirrhaix kixeźenjêrh xekka'ix ħaieêra feśśa
 
 /ˈæɕɕɔfæ ˈpur ˈɢuˌɢuo̯ʑɲɔf ˈtfir̥r̥æix ˈkixɛʑɛɲer̥ ˈxɛkkæʔ ˈħæɪ̯ɛeræ ˈfɛɕɕæɕ ʎæɴɛɲ̊, ˈt͡ʃɔ, ˈjeɴɣæf miɲ ˈmɛʔˌr̥ɛɲ̊cer̥ ˈxæɕæɲ̊eræ ʎæ, ˈʋɑe̯ˌɔɴɢɔf ˈɢuʎɔɲ̊ ˈħuo̯mɤɲ ˈzuo̯mæɴ̥køʊ̯ ʎæ/
 
-```
+```text
 aśśo-fa   pur  ququoźnjof  minj tfirrha-ix kixeź-enjêrh xekka'-ix ħaie-êra feśśaś  lja-ñenjh
 proud-ADV down flow.PF     DST  hill-GEN   beach-DAT    path-GEN  long-INS thus    NAR.PAST-3Ap.NOM
 /ˈæɕɕɔfæ  ˈpur ˈɢuˌɢuo̯ʑɲɔf miɲ  ˈtfir̥r̥æix  ˈkixɛʑɛɲer̥   ˈxɛkkæʔ   ˈħæɪ̯ɛeræ ˈfɛɕɕæɕ ʎæɴɛɲ̊/
@@ -260,7 +260,7 @@ Qâugoś minj uloħħrhaqoëx erriemaofa ârrônjëqoëx ljañenjh.  Ghär
 
 /ˈɢɑʊ̯gɔɕ miɲ ˈulɔħħr̥æɢɔɤx ɛrˈrie̯mˌæo̯fæ ˈfiˌæfæ ʌrˈroɲɤɢɔɤx ʎæɴɛɲ̊.  ˈɣar̥ˌr̥æɲ̊ɛf miɲ ˈʋifkix ˈɢɔpˌpiɲɛɲ̊ˌcie̯ɲɛr̥ ˈɟæɴ̥r̥eɲer̥ ær̥ˈr̥ærraix ˈħæɪ̯ɛɴæħ ʎæ.  ˈt͡ʃɔ, ˈpɛfɕɛɢɔɴ miɲ ˈɟɛccyˌæʔfɔɴ ˈie̯ɲiɲ ˈmɛfɛ ˈfir̥r̥em ˈmɛʔˌr̥ɛɲ̊ ʎæɢɛɲ̊/
 
-```
+```text
 qâugoś     minj uloħħrha-qo-ëx erriemaofa   ârrônjë-qo-ëx       lja-ñenjh
 realise.PF DST  wrong-COP-GEN  farly        powerful-COP-GEN    NAR.PAST-3Ap.NOM
 /ˈɢɑʊ̯gɔɕ   miɲ  ˈulɔħħr̥æɢɔɤx   ɛrˈrie̯mˌæo̯fæ ˈfiˌæfæ ʌrˈroɲɤɢɔɤx ʎæɴɛɲ̊/

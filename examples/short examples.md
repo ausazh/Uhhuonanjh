@@ -18,7 +18,7 @@ Short glossed and briefly explained examples to demonstrate use of the language
   - Vaħħaoe mu tfaśśaix qâmo.
 - Locative case is not generally used as a verb argument
 
-```
+```text
 xeañ     mu  tfaśśa-te  qâ
 exist.IM PRX tree  -NOM IND.NPST
 /ˈxeɐ̯ɴ   mu  ˈtfæɕɕætɛ  ɢʌ/
@@ -66,7 +66,7 @@ Any noun (inflected or not, including pronouns) or adverb can be topicalised.  T
 - Notes
   - Maximum of 2 argument suffixes allowed on tag; when 'flower' as a topic is added, one must be removed (and used as a full pronoun)
 
-```
+```text
 ljanji  mu  aoś     ma'   -Ø   qâ      -mo    -tśarh
 give.PF PRX this.IN flower-ACC IND.NPST-1s.NOM-2s.OBL
 /ˈʎæɲ̊i  mu  ˈæo̯ɕ    ˈmæʔ       ɢʌmɔc͡ɕær̥/
@@ -87,7 +87,7 @@ flower-NOM give.PF PRX 2s  -DAT IND.NPST-3I.OBL-1s.NOM
 - Ħumicceqoñ mu eśljate qâ - 'Bread here is (made) from barley'
 - \*Aoś ħumicceqoñ mu eśljate qâ - cannot use a definite determiner with a derived adjective
 
-```
+```text
 icce  -ix -qo -ñ  quo   eślja-te  qâ      -qâ
 barley-GEN-COP-IM INDEF bread-NOM IND.NPST-3I.NOM
 /ˈicˌcɛixɢɔɴ      ˈɢuo̯  ˈɛɕʎætɛ   ɢʌɢʌ/
@@ -105,7 +105,7 @@ I see a dog there which has gotten itself onto the roof.  If dogs can't climb la
 
 'I am seeing a dog, having caused self to arrive to a roof.  If dog can't do climbing ladders, how did it arrive there?'
 
-```
+```text
 jêñghanjh vâe  te  -ñkeu   ghâuaś-enjêrh qârh    -ljë  xaśanjh   fimtśa-ncêrh  qâ      -mo
 see.IM    MED  self-AN.ACC roof  -DAT    IND.PAST-CAUS arrive.PT dog   -DAT IND.NPST-1s.NOM
 /ˈjeɴɣæɲ̊  ˈʋɑe̯ ˈtɛɴ̥køʊ̯     ˈɣɑʊ̯æɕɛɲer̥    ɢʌr̥ʎɤ         ˈxæɕæɲ̊    ˈfim̥c͡ɕæɲ̊cer̥   ɢʌmɔ/
