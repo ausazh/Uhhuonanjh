@@ -19,7 +19,7 @@ The Southlands, domain of Yinddźaoge - in these calm lands there are still a nu
 
 ## Uħħuonanjh
 
-Xeañ mu kfanjh qârränjh Yeħkaħ qâe; ljakke ljantürgeucex vaħħoñgounjëxqoñ mu ħakkeu eintoxëx qaikke qâugge qâe.
+Xeañ mu kfanjh yünjin qârränjh Yeħkaħ qâe; ljakke ljantürgeucex vaħħoñgounjëxqoñ mu ħakkeu eintoxëx qaikke qâugge qâe.
 
 Eincex vaħħoñgounjh, yañqrênjh jêñ xieñ erriemaofa qârhvenjqonj, yañqrênjh ħuñë qâuanjh jêñ sunjmondox qârhvenjqonj.  Ljakkix, qamkix miakkeu, ârvonjof vâe ee'ix itfenjêrh mârâveħ.
 
@@ -29,7 +29,7 @@ Me'rhencex, Me'rheazgix vakkuoñanj, yeccüa'fofa ħaonjh minj yikkiś mi'ürh
 
 There are many rare animals here in the World; all of the knowledge we have about them here comes from tales passed down by the ancestors.
 
-Xeañ mu kfanjh qârränjh Yeħkaħ qâe; ljakke ljantürgeucex vaħħoñgounjëxqoñ mu ħakkeu eintoxëx qaikke qâugge qâe.
+Xeañ mu kfanjh yünjin qârränjh Yeħkaħ qâe; ljakke ljantürgeucex vaħħoñgounjëxqoñ mu ħakkeu eintoxëx qaikke qâugge qâe.
 
 /ˈxeɐ̯ɴ mu ˈkfæɲ̊ ˈɟyɲin ˈɢʌrraɲ̊ ˈɟɛħkæħ ˈɢɑe̯ || ˈʎækkɛ ˈʎæn̥tyrgøʊ̯cɛx ˈʋæħħɔɴgou̯ɲ̊ɤxɢɔɴ mu ˈħækkøʊ̯ ˈei̯n̥ˌtɔxɤx ˈɢæɪ̯kkɛ ˈɢɑʊ̯ggɛ ˈɢɑe̯/
 
