@@ -23,7 +23,7 @@ Xeañ mu kfanjh qârränjh Yeħkaħ qâe; ljakke ljantürgeucex vaħħoñgounj�
 
 Eincex vaħħoñgounjh, yañqrênjh jêñ xieñ erriemaofa qârhvenjqonj, yañqrênjh ħuñë qâuanjh jêñ sunjmondox qârhvenjqonj.  Ljakkix, qamkix miakkeu, ârvonjof vâe ee'ix itfenjêrh mârâveħ.
 
-Me'rhencex, Me'rheazgix vakkuoñanj, yeccüa'fofa ħaonjh minj yikkiś mi'ürhikkeu qâuganjêrh kśanjkeu kuinjaś qâeñenjveħ, tfuovnuanjh minj uleencex qârränjh ljañenjh.  Camħeñh minj **ħrhesħajüljancex** arrharräix ghêamñaħ ljañenjh, quźanjh ghärrhänjh minj toto, mârâ arrhaśonjqo, qompëñenjêrh ljak.  Vincinfa camħeñh minj **śaśśörancex** Śaśśüêñah einix ñêrñah ljañenjh, qaoi'ħêncef uttundoxkou uonjâenjh uffarhêra ljaljiñenjvonj.
+Me'rhencex, Me'rheazgix vakkuoñanj, yeccüa'fofa ħaonjh minj yikkiś mi'ürhikkeu qâuganjêrh kśanjkeu kuinjaś qâeñenjveħ, tfuovnuanjh minj uleencex qârränjh ljañenjh.  Camħeñh minj **ħrhesħajüljancex** arrharräix ghêamñaħ ljañenjh, quźanjh ghärrhänjh minj toto, mârâ arrhaśonjqo, qompëñenjêrh ljak.  Vincinfa camħeñh minj **śaśśörancex** Śaśśüêñah einix ñêrñah ljañenjh, qaoi'ħêncef uttundoxkou uonjâenjh uffarhêra ljaljiñenjvonj.  Yünjinqoñ jêñgha' qâe, xeañ minj ljêraljinj me'fośtonjix kuinjaśêra muoñratarhêra qaoi'ħêmhlji **vôŕmośüljagge** xêkke ljakkix ljañix.
 
 ## Line by line
 
@@ -121,7 +121,7 @@ be.in.water.IM wait.IM    DST  next,  SPC.FRM human-NOM-COP.PT, eat.PT-DAT    NA
 ```
 
 - *qompëñ* 'eat.PT' >> meal, lit. eating
-- *ħrhesħa(njh)-jüljanjh* 'wolf-fish' >> *ħrhesħajüljanjh*
+- *ħrhesħa(njh)-jülja(njh)* 'wolf-fish' >> *ħrhesħajüljanjh*
 
 ---
 
@@ -147,7 +147,27 @@ become.afraid.IM fisher-pl.ACC sharp     claw-LOC   NAR.PAST.FRM-CAUS-3A.pl.NOM-
 
 ---
 
-While sightings are rare, a few ancestors tell of the fearsome Mammoth-fish, with the size and weight of a 50 elephants.
+Sightings are rare, but it is said by a few ancestors that there is a fearsome **Mammoth-fish** out there, with the size and weight of 50 elephants.
+
+Yünjinqoñ jêñgha' qâe, xeañ minj ljêraljinj me'fośtonjix kuinjaśêra muoñratarhêra qaoi'ħêmhlji **vôŕmośüljagge** xêkke ljakkix ljañix.
+
+/ˈɟyɲinɢɔɴ ˈjeɴɣæʔ ˈɢɑe̯ | ˈxeɐ̯ɴ ˈmiɲ ˈɢæo̯ˌiʔħem̥ʎi ˈʎeræʎiɲ ˈmɛʔˌfɔɕtɔɲ̊ix ˈkuɪ̯ɲæɕeræ ˈmuo̯ɴˌrætær̥eræ ˈʋoɹmɔˌɕyʎæggɛ ˈxekkɛ ˈʎækkix ˈʎæɴix/
+
+```
+yünjin-qo-ñ jêñgha' qâe
+rare-COP-IM see.PT  IND.NPST
+/ˈɟyɲinɢɔɴ  ˈjeɴɣæʔ ˈɢɑe̯/
+
+xeañ     minj ... qaoi'ħêmh-lji vôŕmośüljag-ge   xêkke  ljak-kix     lja-ñix
+exist.IM DST  ... fear-causing  mammoth.fish-NOM few.DV ancestor-GEN NAR.PAST.FRM-3D.NOM
+/ˈxeɐ̯ɴ   ˈmiɲ ... ˈɢæo̯ˌiʔħem̥ʎi  ˈʋoɹmɔˌɕyʎæggɛ   ˈxekkɛ ˈʎækkix      ˈʎæɴix/
+
+ljêraljinj me'fośto-njix kuinjaś-êra muoñratarh-êra
+fifty      elephant-GEN  size-LOC    weight-LOC
+/ˈʎeræʎiɲ ˈmɛʔˌfɔɕtɔɲ̊ix  ˈkuɪ̯ɲæɕeræ  ˈmuo̯ɴˌrætær̥eræ/
+```
+
+- *vôŕmos(ko)-jülja(njh)* 'mammoth-fish' >> *vôŕmośüljagge*
 
 ---
 

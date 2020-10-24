@@ -257,8 +257,8 @@
 |ħaśi'|ˈħæɕiʔ|ADJ|fresh|CF: *muoħośë'* 'freshness'|
 |ârmuñ|ʌrˈmuɴ|ADJ|sturdy / strong|CF: *moarmuñ* 'strength'|
 |źmo'|ˈʑmɔʔ|ADJ|frail / weak|CF: *muźmo'* 'weakness'|
-|vincin|ˈʋiɲ̊cin|ADJ|dense / rich (in resources)||
-|yünjin|ˈɟyɲin|ADJ|sparse / poor (in resources)|CF: *munünjin* 'scarcity'|
+|vincin|ˈʋiɲ̊cin|ADJ|dense / rich (in resources)<br/>common||
+|yünjin|ˈɟyɲin|ADJ|sparse / poor (in resources)<br/>rare|CF: *munünjin* 'scarcity'|
 |môrhâm|ˈmor̥ʌm|N-I|height|CF: *ârrhâem* 'high'|
 |kuinjaś|ˈkuɪ̯ɲæɕ|N-I|size|
 |muomro|ˈmuo̯mrɔ|N-I|heat<br/>temperature|CF: *rhe* 'hot'|
