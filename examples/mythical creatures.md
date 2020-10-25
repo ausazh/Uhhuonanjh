@@ -15,7 +15,7 @@ The seas, domain of Me'rheazge, they boast of a magnificent power and an unfatho
 
 The mountains, domain of Xaqqêkke - their height and difficult terrain give ample room for mighty creatures to dwell.  While **mammoths** - giant elephants covered in fur - are no longer a regular occurrence, they still pose a threat to mountain settlements.  The ibex, while a nuisance in their modern form, descend from the mighty **Long-Horned Goat**, known for its powerful charge, stabbing and killing many early pioneers with its sharp pair of horns.
 
-The Southlands, domain of Yinddźaoge - in these calm lands there are still a number of dangerous mythical creatures.  While we have learnt to counteract the effects of all common snakes in the plains, there is no human or animal that can survive a bite from the Three-Tongue Snake.  In addition, there are stories of a community of half-human, half-coyote people who are known to feast on humans.
+The Southlands, domain of Yinddźaoge - in these calm lands there are still a number of dangerous mythical creatures.  While we have learnt to counteract the effects of all common snakes in the plains, there is no human or animal that can survive a bite from the **Three-Tongue Snake**.  In addition, there are stories of **Were-coyotes**.  No one knows whether they are human or animal.  They are said to be a tribe who lives and hunts like coyotes and feasts on humans.
 
 ## Uħħuonanjh
 
@@ -25,7 +25,9 @@ Eincex vaħħoñgounjh, yañqrênjh jêñ xieñ erriemaofa qârhvenjqonj, yañqr
 
 Me'rhencex, Me'rheazgix vakkuoñanj, yeccüa'fofa ħaonjh minj yikkiś mi'ürhikkeu qâuganjêrh kśanjkeu kuinjaś qâeñenjveħ, tfuovnuanjh minj uleencex qârränjh ljañenjh.  Camħeñh minj **ħrhesħajüljancex** arrharräix ghêamñaħ ljañenjh, quźanjh ghärrhänjh minj toto, mârâ arrhaśonjqo, qompëñenjêrh ljak.  Vincinfa camħeñh minj **śaśśörancex** Śaśśüêñah einix ñêrñah ljañenjh, qaoi'ħêncef uttundoxkou uonjâenjh uffarhêra ljaljiñenjvonj.  Yünjinqoñ jêñgha' qâe, xeañ minj ljêraljinj me'fośtonjix kuinjaśêra muoñratarhêra qaoi'ħêmhlji **vôŕmośüljagge** xêkke ljakkix ljañix.  Camh minj eincex qârränjh qamke ħouźoqoëx itfeix arrharräix riemñaħ qâeñenjh.  Qâuganjh Vaoñdvikke rhenjh teñah mârâ ñuogou qâ' muxekke'ix mjearaofa qâeñixyêr.
 
-The mountains, domain of Xaqqêkke - the height and difficult terrain have brought a wide land for mighty creatures to dwell.  **Vôŕmosko**, meccafafa meccafe ulvienjü me'fośtonjh, qâeñ ienjinj vincin xea qâeñixqâ.  Tso, qâeñ irrhaccancex qu'njononj ee' vômvofa xeañgaħ qâeñixyêr.  Qâeñ minj rhâuganjh eette xeañgaħ purofa qâeqenjqâ.  Tso, ljanjaoe minj, ârrônjë pôräëx, kfâenj aoa vâeñdvuñgou quonj uonjâenjh arraombanjêra vouuëx qunjoghârömaśix, itfeix vaoñgageu, arralji' **qu'ħa'e ulraombanjh rhâuganjix** qâeqenjyênjh.
+Arrhaccatte, Xaqqêkkix vakkuoñanj, ninjaśe minj môrhâmto mjeare me'ekke qoarânjo yeħħa arraljincex qârränjh camħenjêrh qâeñixyêr.  **Vôŕmosko**, meccafafa meccafe ulvienjü me'fośtonjh, qâeñ ienjinj vincin xea qâeñixqâ.  Tso, qâeñ irrhaccancex qu'njononj ee' vômvofa xeañgaħ qâeñixyêr.  Qâeñ minj rhâuganjh eette xeañgaħ purofa qâeqenjqâ.  Tso, ljanjaoe minj, ârrônjë pôräëx, kfâenj aoa vâeñdvuñgou quonj uonjâenjh arraombanjêra vouuëx qunjoghârömaśix, itfeix vaoñgageu, arralji' **qu'ħa'e ulraombanjh rhâuganjix** qâeqenjyênjh.
+
+Yinddźaħonj, Yinddźaogix vakkuoñanj, ħuomince minj tfâemo yeħħonj xênjh ulee' yünjin qârränjëx qâeqonjyênjh.  Qâuganjh quo qeanjh vincin sittsanjix quñonjëx yêrhix moa'êra kuinjënjêrh qâeyêr, tso, kśanjhe qemieñef jêñ qvâenj qvanjh **oum ulxikrhänjh sittsanjix** quñonjëx qâeqonjyêr.  Feśvete xeañ **ħrhuonljaqoñfonjëx** vaħħoñgouncox qâeñenjh.  Ârvoanjh quo arrhaśonj vorhâr qârränjh qâeëx qâe.  Qâeñ quo, feśħrhuonljanjh qomë varħacci, arrhaśoñgeu ħuñë qompëñ, uħħuononj ljavonj.
 
 ## Line by line
 
@@ -58,12 +60,12 @@ These tales, some haven't heard them at all, others have heard them and do not b
 
 Eincex vaħħoñgounjh, yañqrênjh jêñ xieñ erriemaofa qârhvenjqonj, yañqrênjh ħuñë qâuanjh jêñ sunjmondox qârhvenjqonj.  Ljakkix, qamkix miakkeu, ârvonjof vâe ee'ix itfenjêrh mârâveħ.
 
-/ˈei̯ɲ̊cɛx ˈʋæħħɔɴgou̯ɲ̊cɔx | ˈɟæɴɢreɲ̊ ˈjeɴ ˈxie̯ɴ ɛrˈrie̯mˌæo̯fæ ˈɢʌr̥ʋɛɲ̊ɢɔɲ | ˈɟæɴɢreɲ̊ ˈħuɴɤ ˈɢɑʊ̯æɲ̊ ˈjeɴ ˈsuɲ̊m̥ɔndɔx ˈɢʌr̥ʋɛɲ̊ɢɔɲ || ˈʎækkix | ˈɢæm̥kix ˈmiˌækkøʊ̯ | ʌrˈʋɔɲ̊ɔf ˈʋɑe̯ ˈɛɛʔix ˈitfɛɲer̥ ˈmʌrʌʋɛħ/
+/ˈei̯ɲ̊cɛx ˈʋæħħɔɴgou̯ɲ̊ | ˈɟæɴɢreɲ̊ ˈjeɴ ˈxie̯ɴ ɛrˈrie̯mˌæo̯fæ ˈɢʌr̥ʋɛɲ̊ɢɔɲ | ˈɟæɴɢreɲ̊ ˈħuɴɤ ˈɢɑʊ̯æɲ̊ ˈjeɴ ˈsuɲ̊m̥ɔndɔx ˈɢʌr̥ʋɛɲ̊ɢɔɲ || ˈʎækkix | ˈɢæm̥kix ˈmiˌækkøʊ̯ | ʌrˈʋɔɲ̊ɔf ˈʋɑe̯ ˈɛɛʔix ˈitfɛɲer̥ ˈmʌrʌʋɛħ/
 
 ```
 ei-ncex    vaħħoñ-gou-njh
 this.AN-pl tell.PT-ACC-AN.NOM
-/ˈei̯ɲ̊cɛx   ˈʋæħħɔɴgou̯ɲ̊cɔx/
+/ˈei̯ɲ̊cɛx   ˈʋæħħɔɴgou̯ɲ̊/
 
 yañqrênjh jêñ     xie-ñ       erriemaofa   qârh-venj-qonj
 hear.IM   NEG.INF some.HM-NOM not.at.all   IND.PAST.FRM-3A.s.OBL-3H.s.NOM
@@ -206,9 +208,13 @@ Arrhaccatte, Xaqqêkkix vakkuoñanj, ninjaśe minj môrhâmto mjeare me'ekke qoa
 /ær̥ˈr̥æccættɛ | ˈxæɢˌɢekkix ˈʋækˌkuo̯ɴæɲ | ˈniˌɲæɕɛ miɲ ˈmor̥ʌmtɔ ˈmjeɐ̯rɛ ˈmɛʔˌɛkkɛ ˈɢoɐ̯rʌɲɔ ˈɟɛħħæ ærˈræʎiɲ̊cɛx ˈɢʌrraɲ̊ ˈcæm̥ħɛɲer̥ ˈɢɑe̯ɴixɟer/
 
 ```
-arrhaccat-te, Xaqqêk-kix   vakkuoña-nj, ninjaśe  minj môrhâm-to  mjeare    me'ek-ke
-mountain-NOM, Xaqqêkke-GEN domain-NOM,  bring.IM DST  height-NOM difficult ground-NOM
-/ær̥ˈr̥æccættɛ  ˈxæɢˌɢekkix  ˈʋækˌkuo̯ɴæɲ  ˈniˌɲæɕɛ miɲ  ˈmor̥ʌmtɔ   ˈmjeɐ̯rɛ   ˈmɛʔˌɛkkɛ/
+arrhaccat-te, Xaqqêk-kix   vakkuoña-nj
+mountain-NOM, Xaqqêkke-GEN domain-NOM
+/ær̥ˈr̥æccættɛ  ˈxæɢˌɢekkix  ˈʋækˌkuo̯ɴæɲ/
+
+ninjaśe   minj môrhâm-to  mjeare    me'ek-ke
+bring.IM  DST  height-NOM difficult ground-NOM
+/ˈniˌɲæɕɛ miɲ  ˈmor̥ʌmtɔ   ˈmjeɐ̯rɛ   ˈmɛʔˌɛkkɛ/
 
 qoarânjo  yeħħa-∅  arralji-ncex qârrä-njh  camħe-njêrh qâe-ñix-yêr
 wide      land-ACC mighty-pl    animal-NOM inhabit-DAT IND.NPST.FRM-3D.NOM-3I.OBL
@@ -234,9 +240,13 @@ qâeñ   ienjinj vincin  xea-∅         qâe-ñix-qâ
 be.IM  NEG.DST common  happen.PT-NOM IND.NPST.FRM-3D.NOM-3I.NOM
 /ˈɢɑe̯ɴ ˈie̯ɲiɲ  ˈʋiɲ̊cin ˈxeɐ̯          ˈɢɑe̯ɴixɢʌ/
 
-tso,  qâeñ  ir-rhacca-ncex qu'njononj     ee'    vômvo-fa  xea-ñgaħ    qâe-ñix-yêr
-but,  be.IM of-mountain-pl settlement-DAT danger old-ADV   present-LOC IND.NPST.FRM-3D.NOM-3I.OBL
-/ˈt͡ʃɔ ˈɢɑe̯ɴ ir̥ˈr̥æccæɲ̊cɛx   ˈɢuʔɲ̊ɔnɔɲ      ˈɛɛʔ   ˈʋomˌʋɔfæ ˈxeɐ̯ɴgæħ    ˈɢɑe̯ɴixɟer/
+tso,  qâeñ  ir-rhacca-ncex qu'njononj     ee'
+but,  be.IM of-mountain-pl settlement-DAT danger
+/ˈt͡ʃɔ ˈɢɑe̯ɴ ir̥ˈr̥æccæɲ̊cɛx   ˈɢuʔɲ̊ɔnɔɲ      ˈɛɛʔ/
+
+vômvo-fa   xea-ñgaħ    qâe-ñix-yêr
+old-ADV    present-LOC IND.NPST.FRM-3D.NOM-3I.OBL
+/ˈʋomˌʋɔfæ ˈxeɐ̯ɴgæħ    ˈɢɑe̯ɴixɟer/
 ```
 
 ---
@@ -254,39 +264,101 @@ qâeñ   minj rhâuga-njh eet-te     xea-ñgaħ    puro-fa  qâe-qenj-qâ
 be.IM  DST  ibex-NOM   danger-NOM present-LOC low-ADV  IND.NPST.FRM-3A.s.NOM-3I.NOM
 /ˈɢɑe̯ɴ miɲ  ˈr̥ɑʊ̯gæɲ̊    ˈɛɛttɛ     ˈxeɐ̯ɴgæħ    ˈpuˌrɔfæ ˈɢɑe̯ɢɛɲ̊ɢʌ/
 
-tso,  ljanjaoe   minj, ... arralji' qu'ħa'e   ul-raombanjh rhâuga-njix qâe-qenj-yênjh
-but,  descend.IM DST,  ... mighty   long      with-horn    ibex-GEN    IND.NPST.FRM-3A.s.NOM-3A.s.OBL
-/ˈt͡ʃɔ ˈʎæɲ̊ˌæo̯ɛ   miɲ   ... ærˈræʎiʔ ˈɢuʔˌħæʔɛ ulˈræo̯mbæɲ̊   ˈr̥ɑʊ̯gæɲ̊ix   ˈɢɑe̯ɢɛɲ̊ɟeɲ̊/
-
-ârrônjë  pôrä-ëx,       ... vouu-ëx     qunjoghârömaś-ix itfe-ix   vaoñga-geu
-powerful charge.PT-GEN, ... stab.PT-GEN kill-PT.GEN      cause-GEN remember.PT-ACC
-/ʌrˈroɲɤ ˈporaɤx        ... ˈʋou̯uɤx     ˈɢuɲɔɣʌˌrømæɕix  ˈitfɛix   ˈʋæo̯ɴgægøʊ̯/
+tso,  ljanjaoe   minj, ârrônjë  pôrä-ëx
+but,  descend.IM DST,  powerful charge.PT-GEN
+/ˈt͡ʃɔ ˈʎæɲ̊ˌæo̯ɛ   miɲ   ʌrˈroɲɤ  ˈporaɤx/
 
 kfâenj  aoa     vâeñdvu-ñgou quonj uonjâenjh arraombanj-êra
 many.HM initial pioneer-ACC  two   sharp     horn-LOC
 /ˈkfɑe̯ɲ ˈæo̯æ    ˈʋɑe̯ɴdʋuɴgou̯ ˈɢuo̯ɲ ˈuo̯ɲɑe̯ɲ̊   ærˈræo̯mbæɲ̊eræ/
+
+vouu-ëx     qunjoghârömaś-ix itfe-ix   vaoñga-geu
+stab.PT-GEN kill-PT.GEN      cause-GEN remember.PT-ACC
+ˈʋou̯uɤx     ˈɢuɲɔɣʌˌrømæɕix  ˈitfɛix   ˈʋæo̯ɴgægøʊ̯/
+
+arralji'  qu'ħa'e   ul-raombanjh rhâuga-njix qâe-qenj-yênjh
+mighty    long      with-horn    ibex-GEN    IND.NPST.FRM-3A.s.NOM-3A.s.OBL
+/ærˈræʎiʔ ˈɢuʔˌħæʔɛ ulˈræo̯mbæɲ̊   ˈr̥ɑʊ̯gæɲ̊ix   ˈɢɑe̯ɢɛɲ̊ɟeɲ̊/
 ```
 
 ---
 
-The Southlands, domain of Yinddźaoge - in these calm lands there are still a number of dangerous mythical creatures.
+The Southlands, domain of Yinddźaoge - that calm region counts a few dangerous rare creatures.
+
+Yinddźaħonj, Yinddźaogix vakkuoñanj, ħuomince minj tfâemo yeħħonj xênjh ulee' yünjin qârränjëx qâeqonjyênjh.
+
+/ˈɟiɲɟˌɟ͡ʑæħɔɲ | ˈɟiɲɟˌɟ͡ʑæo̯gix ˈʋækˌkuo̯ɴæɲ | ˈħuo̯ˌmiɲ̊cɛ miɲ ˈtfɑe̯mɔ ˈɟɛħħɔɲ ˈxeɲ̊ ulˈɛɛʔ ˈɟyɲin ˈɢʌrraɲ̊ɤx ˈɢɑe̯ɢɔɲɟeɲ̊/
 
 ```
+Yinddźaħo-nj,   Yinddźao-gix   vakkuoña-nj,
+Southlands-NOM, Yinddźaoge-GEN domain-NOM,
+/ˈɟiɲɟˌɟ͡ʑæħɔɲ   ˈɟiɲɟˌɟ͡ʑæo̯gix  ˈʋækˌkuo̯ɴæɲ/
 
+ħuomince    minj tfâemo  yeħħo-nj
+count.IM    DST  calm    region-NOM
+/ˈħuo̯ˌmiɲ̊cɛ miɲ  ˈtfɑe̯mɔ ˈɟɛħħɔɲ/
+
+xênjh  ul-ee'      yünjin qârrä-njëx qâe-qonj-yênjh
+few.AN with-danger rare   animal-GEN IND.NPST.FRM-3H.s.NOM-3A.s.OBL
+/ˈxeɲ̊  ulˈɛɛʔ      ˈɟyɲin ˈɢʌrraɲ̊ɤx  ˈɢɑe̯ɢɔɲɟeɲ̊/
 ```
 
 ---
 
-While we have learnt to counteract the effects of all common snakes in the plains, there is no human or animal that can survive a bite from the Three-Tongue Snake.
+It is known how to protect against the results of the bites of all common snakes in the plains, but, no human or animal can survive a bite from the **Three-Tongue Snake**.
+
+Qâuganjh quo qeanjh vincin sittsanjix quñonjëx yêrhix moa'êra kuinjënjêrh qâeyêr, tso, kśanjhe qemieñef jêñ qvâenj qvanjh **oum ulxikrhänjh sittsanjix** quñonjëx qâeqonjyêr.
+
+/ˈɢɑʊ̯gæɲ̊ ˈɢuo̯ ˈɢeɐ̯ɲ̊ ˈʋiɲ̊cin ˈsitt͡ʃæɲ̊ix ˈɢuɴɔɲɤx ˈɟer̥ix ˈmoɐ̯ʔeræ ˈkuɪ̯ɲɤɲer̥ ˈɢɑe̯ɟer | ˈt͡ʃɔ | ˈkɕæɲ̊ɛ ˈɢɛˌmie̯ɴɛf ˈjeɴ ˈɢʋɑe̯ɲ ˈɢʋæɲ̊ ˈou̯m ulˈxikr̥aɲ̊ ˈsitt͡ʃæɲ̊ix ˈɢuɴɔɲɤx ˈɢɑe̯ɢɔɲɟer/
 
 ```
+qâuganjh quo   ... moa'-êra     kuinjë-njêrh   qâe-yêr
+know.IM  INDEF ... opposite-INS protect.PT-DAT IND.NPST.FRM-3I.OBL
+/ˈɢɑʊ̯gæɲ̊ ɢuo̯   ... ˈmoɐ̯ʔeræ     ˈkuɪ̯ɲɤɲer̥      ˈɢɑe̯ɟer/
 
+qeanjh   vincin  sittsa-njix quñonj-ëx   yêrh-ix
+every.AN common  snake-GEN   bite.PT-GEN result-GEN
+/ˈɢeɐ̯ɲ̊   ˈʋiɲ̊cin ˈsitt͡ʃæɲ̊ix  ˈɢuɴɔɲɤx    ˈɟer̥ix/
+
+tso,  kśanjh-e qemieñef   jêñ       qvâenj  qvanjh
+but,  can-IM   survive.PF NEG.INDEF none.HM none.AN
+/ˈt͡ʃɔ ˈkɕæɲ̊ɛ   ˈɢɛˌmie̯ɴɛf ˈjeɴ      ˈɢʋɑe̯ɲ  ˈɢʋæɲ̊/
+
+oum   ul-xikrhänjh sittsa-njix quñonj-ëx   qâe-qonj-yêr
+three with-tongue  snake-GEN   bite.PT-GEN IND.NPST.FRM-3H.s.NOM-3I.OBL
+/ˈou̯m ulˈxikr̥aɲ̊    ˈsitt͡ʃæɲ̊ix  ˈɢuɴɔɲɤx    ˈɢɑe̯ɢɔɲɟer/
 ```
+
+- double negation reinforces negation instead of contradicting
 
 ---
 
-In addition, there are stories of a community of half-human, half-coyote people who are known to feast on humans.
+In addition, there are stories of the **were-coyote**.  It is not known whether they are human or animal.  They are said to be a tribe who live and hunt like coyotes and feast on humans.
+
+Feśvete xeañ **ħrhuonljaqoñfonjëx** vaħħoñgouncox qâeñenjh.  Ârvoanjh quo arrhaśonj vorhâr qârränjh qâeëx qâe.  Qâeñ quo, feśħrhuonljanjh qomë varħacci, arrhaśoñgeu ħuñë qompëñ, uħħuononj ljavonj.
+
+/fɛɕˈʋɛtɛ ˈxeɐ̯ɴ ˈħr̥uo̯ɲʎæˌɢɔɴfɔɲɤx ˈʋæħħɔɴgou̯ɲ̊cɔx ˈɢɑe̯ɴɛɲ̊ || ʌrˈʋɔæɲ̊ ɢuo̯ ær̥ˈr̥æɕɔɲ ˈʋɔr̥ʌr ˈɢʌrraɲ̊ ˈɢɑe̯ɤx ˈɢɑe̯ || ˈɢɑe̯ɴ ɢuo̯ | fɛɕˈħr̥uo̯ɲʎæɲ̊ ˈɢɔmɤ ˈʋær̥ˌħæcci | ær̥ˈr̥æɕɔɴgøʊ̯ ˈħuɴɤ ˈɢɔm̥pɤɴ | ˈuħˌħuo̯nɔɲ ˈʎæʋɔɲ/
 
 ```
+feś-vete  xeañ     ħrhuonljaqoñfo-njëx vaħħoñ-gou-ncox       qâe-ñenjh
+like-more exist.IM were.coyote-GEN     tell.PT-ACC-AN.pl.NOM IND.NPST.FRM-3A.s.NOM
+/fɛɕˈʋɛtɛ ˈxeɐ̯ɴ    ˈħr̥uo̯ɲʎæˌɢɔɴfɔɲɤx   ˈʋæħħɔɴgou̯ɲ̊cɔx        ˈɢɑe̯ɴɛɲ̊/
 
+ârvoanjh    quo   arrhaśo-nj vorhâr qârrä-njh  qâe-ëx    qâe
+not.know.IM INDEF person-NOM or     animal-NOM be.IM-GEN IND.NPST.FRM
+/ʌrˈʋɔæɲ̊    ɢuo̯   ær̥ˈr̥æɕɔɲ   ˈʋɔr̥ʌr ˈɢʌrraɲ̊    ˈɢɑe̯ɤx    ˈɢɑe̯/
+
+qâeñ   quo   ... uħħuono-nj lja-vonj
+be.IM  INDEF ... tribe-NOM  NAR.PAST.FRM-3H.pl.NOM
+/ˈɢɑe̯ɴ ɢuo̯   ... ˈuħˌħuo̯nɔɲ ˈʎæʋɔɲ/
+
+feś-ħrhuonljanjh qomë    varħacci
+like-coyote      live.PT hunt.PT
+/fɛɕˈħr̥uo̯ɲʎæɲ̊    ˈɢɔmɤ   ˈʋær̥ˌħæcci/
+
+arrhaśo-ñgeu ħuñë       qompëñ
+person-ACC   EMPH.INDEF eat.PT
+/ær̥ˈr̥æɕɔɴgøʊ̯ ˈħuɴɤ      ˈɢɔm̥pɤɴ/
 ```
+
+- *ħrhuonlja(njh)-qâeñof-onj* 'coyote-become-person' >> *ħrhuonljaqoñfonj* 'were-coyote'

@@ -99,7 +99,7 @@
 |yetfo<br/>yexetfo<br/>yetfaoñef<br/>yetfoñ|ˈɟɛtfɔ<br/>ˈɟɛˌxɛtfɔ<br/>ˈɟɛˌtfæo̯ɴɛf<br/>ˈɟɛtfɔɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be sure of<br/>PERF: to ensure|DAT: thing sure of<br/> ACC: thing ensured<br/>CF REG: *yeccüa'fo* 'boast'|
 |yeccüa'fo<br/>yexecüa'fo<br/>yeccüa'faoñef<br/>yeccüa'foñ|ˈɟɛccyˌæʔfɔ<br/>ˈɟɛxɛcyˌæʔfɔ<br/>ˈɟɛccyæʔˌfæo̯ɴɛf<br/>ˈɟɛccyˌæʔfɔɴ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be confident<br/>PERF: to boast|CF: *yetfo* 'be sure'|
 |ghänjh<br/>nearghänjh<br/>ghänjef<br/>ghänjh|ˈɣaɲ̊<br/>ˈneɐ̯rɣaɲ̊<br/>ˈɣaɲ̊ɛf<br/>ˈɣaɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to expect / hope / anticipate|DAT: object<br/>CF REG: *ghärrhänjh* 'to wait'|
-|kśanjh|ˈkɕæɲ̊|V|IMPF: to be able to / can<br/>PERF: to succeed (at) / achieve / manage to|DAT: ability/outcome<br/>FROM: *xaśanjh* 'to arrive (common)'|
+|kśanjh|ˈkɕæɲ̊|V|IMPF: to be able to / can<br/>PERF: to succeed (at) / achieve / manage to|DAT: ability/outcome<br/>FROM: *xaśanjh* 'to arrive (common)'<br/>can also use serial verb CAN + X|
 |ghäxxe<br/>nearghäxe<br/>ghäñqef<br/>ghäxxänjh|ˈɣaxxɛ<br/>ˈneɐ̯rˌɣaxxɛ<br/>ˈɣaɴɢɛf<br/>ˈɣaxˌxaɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to be unable to do<br/>PERF: to fail|DAT: thing unable<br/>ACC: thing failed<br/>CF REG: *ghärrhe* 'to fall'|
 |ghärrhänjh<br/>nearghärrhänjh<br/>ghärrhanjef<br/>ghärrhänjh|ˈɣar̥r̥aɲ̊<br/>ˈneɐ̯rˌɣar̥r̥aɲ̊<br/>ˈɣar̥ˌr̥æɲ̊ɛf<br/>ˈɣar̥r̥aɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to wait|DAT: thing waited for<br/>CF: *ghänjh* 'wait > expect'|
 |sħoñuo<br/>niźgheñei<br/>sħienjeannjef<br/>sħienjeañanjh|ˈsħɔɴuo̯<br/>ˈniʑˌɣɛɴei̯<br/>ˈsħie̯ˌɲeɐ̯ɲɲɛf<br/>ˈsħie̯ˌɲeɐ̯ɴæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to believe<br/>PERF: to come to believe||
