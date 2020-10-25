@@ -11,9 +11,9 @@ There are many creatures in this world that are so rare that their existence is 
 
 Some may not have heard these tales at all, others have heard them but do not believe.  But the wisdom of the ancestors, of our ancestors, is ignored at your own peril.
 
-The seas, domain of Me'rheazge, they boast of a magnificent power and an unfathomable size, but they also harbour many a dangerous creature.  **Wolf-fish** lurk off many coasts, swimming around waiting for their next meal which could be a human.  **Seadragons** infest the Seadragon Strait and beyond, frightening fishers with their sharp claws.  While sightings are rare, a few ancestors tell of the fearsome Mammoth-fish, with the size and weight of a 50 elephants - thank the Ancestors that these animals stay far away from the coasts, for who knows how much damage just one of them could cause.
+The seas, domain of Me'rheazge, they boast of a magnificent power and an unfathomable size, but they also harbour many a dangerous creature.  **Wolf-fish** lurk off many coasts, swimming around waiting for their next meal which could be a human.  **Seadragons** infest the Seadragon Strait and beyond, frightening fishers with their sharp claws.  While sightings are rare, a few ancestors tell of the fearsome **Mammoth-fish**, with the size and weight of 50 elephants - thank the Ancestors that these animals stay far away from the coasts, for who knows how much damage just one of them could cause.
 
-The mountains, domain of Xaqqêkke - their height and difficult terrain give ample room for mighty creatures to dwell.  While mammoths - giant elephants covered in fur - are no longer a regular occurrence, they still pose a threat to mountain settlements.  The ibex, while a nuisance in their modern form, descend from the mighty Long-Horned Goat, known for its powerful charge, stabbing and killing many early pioneers with its sharp pair of horns.
+The mountains, domain of Xaqqêkke - their height and difficult terrain give ample room for mighty creatures to dwell.  While **mammoths** - giant elephants covered in fur - are no longer a regular occurrence, they still pose a threat to mountain settlements.  The ibex, while a nuisance in their modern form, descend from the mighty **Long-Horned Goat**, known for its powerful charge, stabbing and killing many early pioneers with its sharp pair of horns.
 
 The Southlands, domain of Yinddźaoge - in these calm lands there are still a number of dangerous mythical creatures.  While we have learnt to counteract the effects of all common snakes in the plains, there is no human or animal that can survive a bite from the Three-Tongue Snake.  In addition, there are stories of a community of half-human, half-coyote people who are known to feast on humans.
 
@@ -23,7 +23,9 @@ Xeañ mu kfanjh yünjin qârränjh Yeħkaħ qâe; ljakke ljantürgeucex vaħħ
 
 Eincex vaħħoñgounjh, yañqrênjh jêñ xieñ erriemaofa qârhvenjqonj, yañqrênjh ħuñë qâuanjh jêñ sunjmondox qârhvenjqonj.  Ljakkix, qamkix miakkeu, ârvonjof vâe ee'ix itfenjêrh mârâveħ.
 
-Me'rhencex, Me'rheazgix vakkuoñanj, yeccüa'fofa ħaonjh minj yikkiś mi'ürhikkeu qâuganjêrh kśanjkeu kuinjaś qâeñenjveħ, tfuovnuanjh minj uleencex qârränjh ljañenjh.  Camħeñh minj **ħrhesħajüljancex** arrharräix ghêamñaħ ljañenjh, quźanjh ghärrhänjh minj toto, mârâ arrhaśonjqo, qompëñenjêrh ljak.  Vincinfa camħeñh minj **śaśśörancex** Śaśśüêñah einix ñêrñah ljañenjh, qaoi'ħêncef uttundoxkou uonjâenjh uffarhêra ljaljiñenjvonj.  Yünjinqoñ jêñgha' qâe, xeañ minj ljêraljinj me'fośtonjix kuinjaśêra muoñratarhêra qaoi'ħêmhlji **vôŕmośüljagge** xêkke ljakkix ljañix.
+Me'rhencex, Me'rheazgix vakkuoñanj, yeccüa'fofa ħaonjh minj yikkiś mi'ürhikkeu qâuganjêrh kśanjkeu kuinjaś qâeñenjveħ, tfuovnuanjh minj uleencex qârränjh ljañenjh.  Camħeñh minj **ħrhesħajüljancex** arrharräix ghêamñaħ ljañenjh, quźanjh ghärrhänjh minj toto, mârâ arrhaśonjqo, qompëñenjêrh ljak.  Vincinfa camħeñh minj **śaśśörancex** Śaśśüêñah einix ñêrñah ljañenjh, qaoi'ħêncef uttundoxkou uonjâenjh uffarhêra ljaljiñenjvonj.  Yünjinqoñ jêñgha' qâe, xeañ minj ljêraljinj me'fośtonjix kuinjaśêra muoñratarhêra qaoi'ħêmhlji **vôŕmośüljagge** xêkke ljakkix ljañix.  Camh minj eincex qârränjh qamke ħouźoqoëx itfeix arrharräix riemñaħ qâeñenjh.  Qâuganjh Vaoñdvikke rhenjh teñah mârâ ñuogou qâ' muxekke'ix mjearaofa qâeñixyêr.
+
+The mountains, domain of Xaqqêkke - the height and difficult terrain have brought a wide land for mighty creatures to dwell.  **Vôŕmosko**, meccafafa meccafe ulvienjü me'fośtonjh, qâeñ ienjinj vincin xea qâeñixqâ.  Tso, qâeñ irrhaccancex qu'njononj ee' vômvofa xeañgaħ qâeñixyêr.  Qâeñ minj rhâuganjh eette xeañgaħ purofa qâeqenjqâ.  Tso, ljanjaoe minj, ârrônjë pôräëx, kfâenj aoa vâeñdvuñgou quonj uonjâenjh arraombanjêra vouuëx qunjoghârömaśix, itfeix vaoñgageu, arralji' **qu'ħa'e ulraombanjh rhâuganjix** qâeqenjyênjh.
 
 ## Line by line
 
@@ -31,7 +33,7 @@ There are many rare animals here in the World; all of the knowledge we have abou
 
 Xeañ mu kfanjh yünjin qârränjh Yeħkaħ qâe; ljakke ljantürgeucex vaħħoñgounjëxqoñ mu ħakkeu eintoxëx qaikke qâugge qâe.
 
-/ˈxeɐ̯ɴ mu ˈkfæɲ̊ ˈɟyɲin ˈɢʌrraɲ̊ ˈɟɛħkæħ ˈɢɑe̯ || ˈʎækkɛ ˈʎæn̥tyrgøʊ̯cɛx ˈʋæħħɔɴgou̯ɲ̊ɤxɢɔɴ mu ˈħækkøʊ̯ ˈei̯n̥ˌtɔxɤx ˈɢæɪ̯kkɛ ˈɢɑʊ̯ggɛ ˈɢɑe̯/
+/ˈxeɐ̯ɴ mu ˈkfæɲ̊ ˈɟyɲin ˈɢʌrraɲ̊ ˈɟɛħkæħ ˈɢɑe̯ || ˈʎækkɛ ˈʎæn̥tyrgøʊ̯cɛx ˈʋæħħɔɴgou̯ɲ̊ˌɤxɢɔɴ mu ˈħækkøʊ̯ ˈei̯n̥ˌtɔxɤx ˈɢæɪ̯kkɛ ˈɢɑʊ̯ggɛ ˈɢɑe̯/
 
 ```
 xeañ     mu  kfanjh  yünjin qârrä-njh  Yeħ-kaħ   qâe
@@ -40,7 +42,7 @@ exist.IM PRX many.AN rare   animal-NOM World-LOC IND.NPST.FRM
 
 ljak-ke      ljantür-geu-cex     vaħħoñ-gou-njëx-qo-ñ      mu
 ancestor-NOM pass.down.PT-ACC-pl tell.PT-ACC-AN.GEN-COP-IM PRX
-/ˈʎækkɛ      ˈʎæn̥tyrgøʊ̯cɛx       ˈʋæħħɔɴgou̯ɲ̊ɤxɢɔɴ          mu/
+/ˈʎækkɛ      ˈʎæn̥tyrgøʊ̯cɛx       ˈʋæħħɔɴgou̯ɲ̊ˌɤxɢɔɴ         mu/
 
 ħak-keu     ei-ntox-ëx     qaikke  qâug-ge       qâe
 have.PT-ACC this.AN-pl-GEN all.DV  knowledge-NOM IND.NPST.FRM
@@ -59,9 +61,9 @@ Eincex vaħħoñgounjh, yañqrênjh jêñ xieñ erriemaofa qârhvenjqonj, yañqr
 /ˈei̯ɲ̊cɛx ˈʋæħħɔɴgou̯ɲ̊cɔx | ˈɟæɴɢreɲ̊ ˈjeɴ ˈxie̯ɴ ɛrˈrie̯mˌæo̯fæ ˈɢʌr̥ʋɛɲ̊ɢɔɲ | ˈɟæɴɢreɲ̊ ˈħuɴɤ ˈɢɑʊ̯æɲ̊ ˈjeɴ ˈsuɲ̊m̥ɔndɔx ˈɢʌr̥ʋɛɲ̊ɢɔɲ || ˈʎækkix | ˈɢæm̥kix ˈmiˌækkøʊ̯ | ʌrˈʋɔɲ̊ɔf ˈʋɑe̯ ˈɛɛʔix ˈitfɛɲer̥ ˈmʌrʌʋɛħ/
 
 ```
-ei-ncex vaħħoñ-gou-njh
-this-pl tell.PT-ACC-AN.NOM
-/ˈei̯ɲ̊cɛx ˈʋæħħɔɴgou̯ɲ̊cɔx/
+ei-ncex    vaħħoñ-gou-njh
+this.AN-pl tell.PT-ACC-AN.NOM
+/ˈei̯ɲ̊cɛx   ˈʋæħħɔɴgou̯ɲ̊cɔx/
 
 yañqrênjh jêñ     xie-ñ       erriemaofa   qârh-venj-qonj
 hear.IM   NEG.INF some.HM-NOM not.at.all   IND.PAST.FRM-3A.s.OBL-3H.s.NOM
@@ -86,12 +88,12 @@ The seas, domain of Me'rheazge, they boastingly have a magnificent power and an 
 
 Me'rhencex, Me'rheazgix vakkuoñanj, yeccüa'fofa ħaonjh minj yikkiś mi'ürhikkeu qâuganjêrh kśanjkeu kuinjaś qâeñenjveħ, tfuovnuanjh minj uleencex qârränjh ljañenjh.
 
-/ˈmɛʔˌr̥ɛɲ̊cɛx | ˈmɛʔˌr̥eɐ̯zgox ˈʋækˌkuo̯ɴæɲ | ˈɟɛccyˌæʔfɔfæ ˈħæo̯ɲ̊ ˈmiɲ ˈɟikkiɕ ˈmiʔyˌr̥ikøʊ̯ ˈɢɑʊ̯gæɲer̥ ˈkɕæɲ̊køʊ̯ ˈkuɪ̯ɲæɕ ˈɢɑe̯ɴɛɲ̊ʋɛħ || ˈtfuo̯ʋˌnuæɲ̊ ˈmiɲ ulˈɛɛɲ̊cɛx ˈɢʌrraɲ̊ ˈʎæɴɛɲ̊/
+/ˈmɛʔˌr̥ɛɲ̊cɛx | ˈmɛʔˌr̥eɐ̯zgox ˈʋækˌkuo̯ɴæɲ | ˈɟɛccyˌæʔfɔfæ ˈħæo̯ɲ̊ miɲ ˈɟikkiɕ ˈmiʔyˌr̥ikøʊ̯ ˈɢɑʊ̯gæɲer̥ ˈkɕæɲ̊køʊ̯ ˈkuɪ̯ɲæɕ ˈɢɑe̯ɴɛɲ̊ʋɛħ || ˈtfuo̯ʋˌnuæɲ̊ miɲ ulˈɛɛɲ̊cɛx ˈɢʌrraɲ̊ ˈʎæɴɛɲ̊/
 
 ```
 me'rhe-ncex, Me'rheaz-gix   vakkuoña-nj, yeccüa'fo-fa   ħaonjh  minj
 sea-pl.NOM,  Me'rheazge-GEN domain-NOM,  boast-ADV      have-IM DST
-/ˈmɛʔˌr̥ɛɲ̊cɛx ˈmɛʔˌr̥eɐ̯zgox   ˈʋækˌkuo̯ɴæɲ  ˈɟɛccyˌæʔfɔfæ  ˈħæo̯ɲ̊   ˈmiɲ/
+/ˈmɛʔˌr̥ɛɲ̊cɛx ˈmɛʔˌr̥eɐ̯zgox   ˈʋækˌkuo̯ɴæɲ  ˈɟɛccyˌæʔfɔfæ  ˈħæo̯ɲ̊   miɲ/
 
 yikkiś      mi'ürhik-keu qâuga-njêrh kśanj-keu  kuinjaś-∅ qâe-ñenj-veħ
 magnificent power-ACC    know.PT-DAT can.PT-ACC size-ACC  IND.NPST.FRM-3A.pl.NOM-3D.OBL
@@ -99,7 +101,7 @@ magnificent power-ACC    know.PT-DAT can.PT-ACC size-ACC  IND.NPST.FRM-3A.pl.NOM
 
 tfuovnuanjh     minj ul-een-cex     qârrä-njh  lja-ñenjh
 find.shelter.IM DST  with-danger-pl animal-NOM NAR.PAST.FRM-3A.pl.NOM
-/ˈtfuo̯ʋˌnuæɲ̊    ˈmiɲ ulˈɛɛɲ̊cɛx      ˈɢʌrraɲ̊    ˈʎæɴɛɲ̊/
+/ˈtfuo̯ʋˌnuæɲ̊    miɲ  ulˈɛɛɲ̊cɛx      ˈɢʌrraɲ̊    ˈʎæɴɛɲ̊/
 ```
 
 ---
@@ -108,16 +110,16 @@ find.shelter.IM DST  with-danger-pl animal-NOM NAR.PAST.FRM-3A.pl.NOM
 
 Camħeñh minj **ħrhesħajüljancex** arrharräix ghêamñaħ ljañenjh, quźanjh ghärrhänjh minj toto, mârâ arrhaśonjqo, qompëñenjêrh ljak.
 
-/ˈcæm̥ħɛɴ̥ ˈmiɲ ˈħr̥ɛsħæˌjyʎæɲ̊cɛx ær̥ˈr̥ærraix ˈɣeæm̥ɴæħ ˈʎæɴɛɲ̊ | ˈɢuˌʑæɲ̊ ˈɣar̥r̥aɲ̊ ˈmiɲ ˈtɔtɔ | ˈmʌrʌ ær̥ˈr̥æɕɔɲɢɔ | ˈɢɔm̥pɤɴɛɲer̥ ˈʎæk/
+/ˈcæm̥ħɛɴ̥ miɲ ˈħr̥ɛsħæˌjyʎæɲ̊cɛx ær̥ˈr̥ærraix ˈɣeæm̥ɴæħ ˈʎæɴɛɲ̊ | ˈɢuˌʑæɲ̊ ˈɣar̥r̥aɲ̊ miɲ ˈtɔtɔ | ˈmʌrʌ ær̥ˈr̥æˌɕɔɲɢɔ | ˈɢɔm̥pɤɴɛɲer̥ ˈʎæk/
 
 ```
 camħeñh    minj ħrhesħajülja-ncex arrharrä-ix ghêam-ñaħ lja-ñenjh
 inhabit.IM DST  wolf.fish-NOM.pl  coast-GEN   off-LOC   NAR.PAST.FRM-3A.pl.NOM
-/ˈcæm̥ħɛɴ̥   ˈmiɲ ˈħr̥ɛsħæˌjyʎæɲ̊cɛx  ær̥ˈr̥ærraix  ˈɣeæm̥ɴæħ  ˈʎæɴɛɲ̊/
+/ˈcæm̥ħɛɴ̥   miɲ  ˈħr̥ɛsħæˌjyʎæɲ̊cɛx  ær̥ˈr̥ærraix  ˈɣeæm̥ɴæħ  ˈʎæɴɛɲ̊/
 
 quźanjh        ghärrhänjh minj toto,  mârâ    arrhaśo-nj-qo,    qompëñ-enjêrh ljak
 be.in.water.IM wait.IM    DST  next,  SPC.FRM human-NOM-COP.PT, eat.PT-DAT    NAR.PAST.FRM
-/ˈɢuˌʑæɲ̊       ˈɣar̥r̥aɲ̊    ˈmiɲ ˈtɔtɔ  ˈmʌrʌ   ær̥ˈr̥æɕɔɲɢɔ        ˈɢɔm̥pɤɴɛɲer̥   ˈʎæk/
+/ˈɢuˌʑæɲ̊       ˈɣar̥r̥aɲ̊    miɲ  ˈtɔtɔ  ˈmʌrʌ   ær̥ˈr̥æˌɕɔɲɢɔ        ˈɢɔm̥pɤɴɛɲer̥   ˈʎæk/
 ```
 
 - *qompëñ* 'eat.PT' >> meal, lit. eating
@@ -129,12 +131,12 @@ be.in.water.IM wait.IM    DST  next,  SPC.FRM human-NOM-COP.PT, eat.PT-DAT    NA
 
 Vincinfa camħeñh minj **śaśśörancex** Śaśśüêñah einix ñêrñah ljañenjh, qaoi'ħêncef uttundoxkou uonjâenjh uffarhêra ljaljiñenjvonj.
 
-/ˈʋiɲ̊cinfæ ˈcæm̥ħɛɴ̥ ˈmiɲ ˈɕæɕˌɕøræɲ̊cɛx ˈɕæɕˌɕyeɴæħ ˈei̯nix ˈɴerɴæħ ˈʎæɴɛɲ̊ | ˈɢæo̯iʔˌħeɲ̊cɛf ˈuttunˌdɔxkou̯ ˈuo̯ɲɑe̯ɲ̊ ˈuffær̥eræ ˈʎæʎiɴɛɲ̊vonj/
+/ˈʋiɲ̊cinfæ ˈcæm̥ħɛɴ̥ miɲ ˈɕæɕˌɕøræɲ̊cɛx ˈɕæɕˌɕyeɴæħ ˈei̯nix ˈɴerɴæħ ˈʎæɴɛɲ̊ | ˈɢæo̯iʔˌħeɲ̊cɛf ˈuttunˌdɔxkou̯ ˈuo̯ɲɑe̯ɲ̊ ˈuffær̥eræ ˈʎæʎiɴɛɲ̊vonj/
 
 ```
 vincin-fa  camħeñh    minj śaśśöra-ncex
 dense-ADV  inhabit.IM DST  sea.dragon-pl.NOM
-/ˈʋiɲ̊cinfæ ˈcæm̥ħɛɴ̥    ˈmiɲ ˈɕæɕˌɕøræɲ̊cɛx/
+/ˈʋiɲ̊cinfæ ˈcæm̥ħɛɴ̥    miɲ  ˈɕæɕˌɕøræɲ̊cɛx/
 
 Śaśśüê-ñah   ei-nix     ñêr-ñah       lja-ñenjh
 S.D.S-LOC    this.H-GEN surrounds-LOC NAR.PAST.FRM-3A.pl.NOM
@@ -151,16 +153,16 @@ Sightings are rare, but it is said by a few ancestors that there is a fearsome *
 
 Yünjinqoñ jêñgha' qâe, xeañ minj ljêraljinj me'fośtonjix kuinjaśêra muoñratarhêra qaoi'ħêmhlji **vôŕmośüljagge** xêkke ljakkix ljañix.
 
-/ˈɟyɲinɢɔɴ ˈjeɴɣæʔ ˈɢɑe̯ | ˈxeɐ̯ɴ ˈmiɲ ˈɢæo̯ˌiʔħem̥ʎi ˈʎeræʎiɲ ˈmɛʔˌfɔɕtɔɲ̊ix ˈkuɪ̯ɲæɕeræ ˈmuo̯ɴˌrætær̥eræ ˈʋoɹmɔˌɕyʎæggɛ ˈxekkɛ ˈʎækkix ˈʎæɴix/
+/ˈɟyˌɲinɢɔɴ ˈjeɴɣæʔ ˈɢɑe̯ | ˈxeɐ̯ɴ miɲ ˈɢæo̯ˌiʔħem̥ʎi ˈʎeræʎiɲ ˈmɛʔˌfɔɕtɔɲ̊ix ˈkuɪ̯ɲæɕeræ ˈmuo̯ɴˌrætær̥eræ ˈʋoɹmɔˌɕyʎæggɛ ˈxekkɛ ˈʎækkix ˈʎæɴix/
 
 ```
 yünjin-qo-ñ jêñgha' qâe
 rare-COP-IM see.PT  IND.NPST
-/ˈɟyɲinɢɔɴ  ˈjeɴɣæʔ ˈɢɑe̯/
+/ˈɟyˌɲinɢɔɴ  ˈjeɴɣæʔ ˈɢɑe̯/
 
 xeañ     minj ... qaoi'ħêmh-lji vôŕmośüljag-ge   xêkke  ljak-kix     lja-ñix
 exist.IM DST  ... fear-causing  mammoth.fish-NOM few.DV ancestor-GEN NAR.PAST.FRM-3D.NOM
-/ˈxeɐ̯ɴ   ˈmiɲ ... ˈɢæo̯ˌiʔħem̥ʎi  ˈʋoɹmɔˌɕyʎæggɛ   ˈxekkɛ ˈʎækkix      ˈʎæɴix/
+/ˈxeɐ̯ɴ   miɲ  ... ˈɢæo̯ˌiʔħem̥ʎi  ˈʋoɹmɔˌɕyʎæggɛ   ˈxekkɛ ˈʎækkix      ˈʎæɴix/
 
 ljêraljinj me'fośto-njix kuinjaś-êra muoñratarh-êra
 fifty      elephant-GEN  size-LOC    weight-LOC
@@ -171,28 +173,120 @@ fifty      elephant-GEN  size-LOC    weight-LOC
 
 ---
 
-Thank the Ancestors that these animals stay far away from the coasts, for who knows how much damage just one of them could cause.
+Because our ancestors are good-natured, these animals stay far away from the coasts.  Vaoñdvikke barely knows what amount of damage one by itself might do.
+
+Camh minj eincex qârränjh qamke ħouźoqoëx itfeix arrharräix riemñaħ qâeñenjh.  Qâuganjh minj Vaoñdvikke rhenjh teñah mârâ ñuogou qâ' muxekke'ix mjearaofa qâeñixyêr.
+
+/ˈcæm̥ miɲ ˈei̯ɲ̊cɛx ˈɢʌrraɲ̊ ˈɢæm̥kɛ ˈħou̯ˌʑɔɢɔɤx ˈitfɛix ær̥ˈr̥ærraix ˈrie̯mɴæħ ˈɢɑe̯ɴɛɲ̊ || ˈɢɑʊ̯gæɲ̊ miɲ ˈʋæo̯ɴˌdʋikkɛ ˈr̥ɛɲ̊ ˈtɛɴ̥æħ ˈmʌrʌ ˈɴuo̯gou̯ ˈqʌʔ muˈxɛkkɛʔix ˈmjeɐ̯ˌræo̯fæ ˈɢɑe̯ɴixɟer/
+
+```
+qam-ke       ħouźo-qo-ëx             itfe-ix
+ancestor-NOM good.natured-COP.PT-GEN cause-GEN
+/ˈɢæm̥kɛ      ˈħou̯ˌʑɔɢɔɤx             ˈitfɛix/
+
+camh    minj ei-ncex   qârrä-njh  ... arrharrä-ix riem-ñaħ qâe-ñenjh
+stay.IM DST  this.A-pl animal-NOM ... coast-GEN   far-LOC  IND.NPST.FRM-3A.pl.NOM
+/ˈcæm̥   miɲ  ˈei̯ɲ̊cɛx   ˈɢʌrraɲ̊    ... ær̥ˈr̥ærraix  ˈrie̯mɴæħ ˈɢɑe̯ɴɛɲ̊/
+
+qâuganjh minj Vaoñdvik-ke    ... mjearaofa   qâe-ñix-yêr
+know.IM  DST  Vaoñdvikke-NOM ... barely      IND.NPST.FRM-3D.NOM-3I.OBL
+/ˈɢɑʊ̯gæɲ̊ miɲ  ˈʋæo̯ɴˌdʋikkɛ   ... ˈmjeɐ̯ˌræo̯fæ ˈɢɑe̯ɴixɟer/
+
+rhe-njh    te-ñah   mârâ  ñuo-gou   qâ'      mu-xekke'-ix
+one-AN.NOM self-LOC SPC   do.PT-ACC which.IN amount-damange-GEN
+/ˈr̥ɛɲ̊      ˈtɛɴ̥æħ   ˈmʌrʌ ˈɴuo̯gou̯   ˈqʌʔ     muˈxɛkkɛʔix/
+```
 
 ---
 
-The mountains, domain of Xaqqêkke - their height and difficult terrain give ample room for mighty creatures to dwell.
+The mountains, domain of Xaqqêkke - the height and difficult terrain have brought a wide land for mighty creatures to dwell.
+
+Arrhaccatte, Xaqqêkkix vakkuoñanj, ninjaśe minj môrhâmto mjeare me'ekke qoarânjo yeħħa arraljincex qârränjh camħenjêrh qâeñixyêr.
+
+/ær̥ˈr̥æccættɛ | ˈxæɢˌɢekkix ˈʋækˌkuo̯ɴæɲ | ˈniˌɲæɕɛ miɲ ˈmor̥ʌmtɔ ˈmjeɐ̯rɛ ˈmɛʔˌɛkkɛ ˈɢoɐ̯rʌɲɔ ˈɟɛħħæ ærˈræʎiɲ̊cɛx ˈɢʌrraɲ̊ ˈcæm̥ħɛɲer̥ ˈɢɑe̯ɴixɟer/
+
+```
+arrhaccat-te, Xaqqêk-kix   vakkuoña-nj, ninjaśe  minj môrhâm-to  mjeare    me'ek-ke
+mountain-NOM, Xaqqêkke-GEN domain-NOM,  bring.IM DST  height-NOM difficult ground-NOM
+/ær̥ˈr̥æccættɛ  ˈxæɢˌɢekkix  ˈʋækˌkuo̯ɴæɲ  ˈniˌɲæɕɛ miɲ  ˈmor̥ʌmtɔ   ˈmjeɐ̯rɛ   ˈmɛʔˌɛkkɛ/
+
+qoarânjo  yeħħa-∅  arralji-ncex qârrä-njh  camħe-njêrh qâe-ñix-yêr
+wide      land-ACC mighty-pl    animal-NOM inhabit-DAT IND.NPST.FRM-3D.NOM-3I.OBL
+/ˈɢoɐ̯rʌɲɔ ˈɟɛħħæ   ærˈræʎiɲ̊cɛx  ˈɢʌrraɲ̊    ˈcæm̥ħɛɲer̥   ˈɢɑe̯ɴixɟer/
+```
+
+- note: when using pronouns/person suffixes of multiple classes, use the pronoun with the highest animacy (DV > HM > AN > IN) and dual/plural if available (hence môrhâmto (I) + me'ekke (D) uses Divine)
 
 ---
 
-While mammoths - giant elephants covered in fur - are no longer a regular occurrence, they still pose a threat to mountain settlements.
+The **mammoth** - a giant elephant with wool - is no longer a regular occurrence there. But, they are since long ago and now a danger to mountain settlements.
+
+**Vôŕmosko**, meccafafa meccafe ulvienjü me'fośtonjh, qâeñ ienjinj vincin xea qâeñixqâ.  Tso, qâeñ irrhaccancex qu'njononj ee' vômvofa xeañgaħ qâeñixyêr.
+
+/ˈʋoɹˌmɔskɔ | ˈmɛccæˌfæfæ ˈmɛcˌcæfɛ ulˈʋie̯ɲy ˈmɛʔˌfɔɕtɔɲ̊ | ˈɢɑe̯ɴ ˈie̯ɲiɲ ˈʋiɲ̊cin ˈxeɐ̯ ˈɢɑe̯ɴixɢʌ || ˈt͡ʃɔ | ˈɢɑe̯ɴ ir̥ˈr̥æccæɲ̊cɛx ˈɢuʔɲ̊ɔnɔɲ ˈɛɛʔ ˈʋomˌʋɔfæ ˈxeɐ̯ɴgæħ ˈɢɑe̯ɴixɟer/
+
+```
+vôŕmos-ko,   meccafa-fa  meccafe   ul-vienjü me'fośto-njh,
+mammoth-NOM, big-ADV     big       with-wool elephant-NOM,
+/ˈʋoɹˌmɔskɔ  ˈmɛccæˌfæfæ ˈmɛcˌcæfɛ ulˈʋie̯ɲy  ˈmɛʔˌfɔɕtɔɲ̊/
+
+qâeñ   ienjinj vincin  xea-∅         qâe-ñix-qâ
+be.IM  NEG.DST common  happen.PT-NOM IND.NPST.FRM-3D.NOM-3I.NOM
+/ˈɢɑe̯ɴ ˈie̯ɲiɲ  ˈʋiɲ̊cin ˈxeɐ̯          ˈɢɑe̯ɴixɢʌ/
+
+tso,  qâeñ  ir-rhacca-ncex qu'njononj     ee'    vômvo-fa  xea-ñgaħ    qâe-ñix-yêr
+but,  be.IM of-mountain-pl settlement-DAT danger old-ADV   present-LOC IND.NPST.FRM-3D.NOM-3I.OBL
+/ˈt͡ʃɔ ˈɢɑe̯ɴ ir̥ˈr̥æccæɲ̊cɛx   ˈɢuʔɲ̊ɔnɔɲ      ˈɛɛʔ   ˈʋomˌʋɔfæ ˈxeɐ̯ɴgæħ    ˈɢɑe̯ɴixɟer/
+```
 
 ---
 
-The ibex, while a nuisance in their modern form, descend from the mighty Long-Horned Goat, known for its powerful charge, stabbing and killing many early pioneers with its sharp pair of horns.
+The ibex is not very much a danger at present.  But, they descend from the mighty **Long-Horned Goat**, remembered because of (its) powerful charge, and for (its) stabbing and killing of many early pioneers with (its) two sharp horns.
+
+Qâeñ minj rhâuganjh eette xeañgaħ purofa qâeqenjqâ.  Tso, ljanjaoe minj, ârrônjë pôräëx, kfâenj aoa vâeñdvuñgou quonj uonjâenjh arraombanjêra vouuëx qunjoghârömaśix, itfeix vaoñgageu, arralji' **qu'ħa'e ulraombanjh rhâuganjix** qâeqenjyênjh.
+
+/ˈɢɑe̯ɴ miɲ ˈr̥ɑʊ̯gæɲ̊ ˈɛɛttɛ ˈxeɐ̯ɴgæħ ˈpuˌrɔfæ ˈɢɑe̯ɢɛɲ̊ɢʌ || ˈt͡ʃɔ | ˈʎæɲ̊ˌæo̯ɛ miɲ | ʌrˈroɲɤ ˈporaɤx | ˈkfɑe̯ɲ ˈæo̯æ    ˈʋɑe̯ɴdʋuɴgou̯ ˈɢuo̯ɲ ˈuo̯ɲɑe̯ɲ̊   ærˈræo̯mbæɲ̊eræ ˈʋou̯uɤx ˈɢuɲɔɣʌˌrømæɕix | ˈitfɛix ˈʋæo̯ɴgægøʊ̯ | ærˈræʎiʔ ˈɢuʔˌħæʔɛ ulˈræo̯mbæɲ̊ ˈr̥ɑʊ̯gæɲ̊ix ˈɢɑe̯ɢɛɲ̊ɟeɲ̊/
+
+'Being there ibex a-danger at-present lowly it-does-it.  But, descending there, of powerful charge, many early pioneers with two sharp horns of-stabbing of-killing, because of (these) remembered, mighty **long with-horn ibex** it-does-it.'
+
+```
+qâeñ   minj rhâuga-njh eet-te     xea-ñgaħ    puro-fa  qâe-qenj-qâ
+be.IM  DST  ibex-NOM   danger-NOM present-LOC low-ADV  IND.NPST.FRM-3A.s.NOM-3I.NOM
+/ˈɢɑe̯ɴ miɲ  ˈr̥ɑʊ̯gæɲ̊    ˈɛɛttɛ     ˈxeɐ̯ɴgæħ    ˈpuˌrɔfæ ˈɢɑe̯ɢɛɲ̊ɢʌ/
+
+tso,  ljanjaoe   minj, ... arralji' qu'ħa'e   ul-raombanjh rhâuga-njix qâe-qenj-yênjh
+but,  descend.IM DST,  ... mighty   long      with-horn    ibex-GEN    IND.NPST.FRM-3A.s.NOM-3A.s.OBL
+/ˈt͡ʃɔ ˈʎæɲ̊ˌæo̯ɛ   miɲ   ... ærˈræʎiʔ ˈɢuʔˌħæʔɛ ulˈræo̯mbæɲ̊   ˈr̥ɑʊ̯gæɲ̊ix   ˈɢɑe̯ɢɛɲ̊ɟeɲ̊/
+
+ârrônjë  pôrä-ëx,       ... vouu-ëx     qunjoghârömaś-ix itfe-ix   vaoñga-geu
+powerful charge.PT-GEN, ... stab.PT-GEN kill-PT.GEN      cause-GEN remember.PT-ACC
+/ʌrˈroɲɤ ˈporaɤx        ... ˈʋou̯uɤx     ˈɢuɲɔɣʌˌrømæɕix  ˈitfɛix   ˈʋæo̯ɴgægøʊ̯/
+
+kfâenj  aoa     vâeñdvu-ñgou quonj uonjâenjh arraombanj-êra
+many.HM initial pioneer-ACC  two   sharp     horn-LOC
+/ˈkfɑe̯ɲ ˈæo̯æ    ˈʋɑe̯ɴdʋuɴgou̯ ˈɢuo̯ɲ ˈuo̯ɲɑe̯ɲ̊   ærˈræo̯mbæɲ̊eræ/
+```
 
 ---
 
 The Southlands, domain of Yinddźaoge - in these calm lands there are still a number of dangerous mythical creatures.
 
+```
+
+```
+
 ---
 
 While we have learnt to counteract the effects of all common snakes in the plains, there is no human or animal that can survive a bite from the Three-Tongue Snake.
 
+```
+
+```
+
 ---
 
 In addition, there are stories of a community of half-human, half-coyote people who are known to feast on humans.
+
+```
+
+```

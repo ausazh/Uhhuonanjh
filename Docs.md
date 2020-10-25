@@ -54,13 +54,16 @@ This section will present the phonology and romanisation of the language.
 
 Note that as a language without a formal writing system, there is no 'official orthography'.  The romanisation system is a mostly 1-1 correspondance with pronunciation with a number of simplifications.
 
-Sections (or [back to top](#chapters)):
-
-- [Phonological Inventory](#phonological-inventory)
-- [Romanisation](#romanisation)
-- [Prosody](#prosody)
-- [Phonotactics](#phonotactics)
-- [Alternations](#alternations)
+- [2: Phonology and Romanisation](#2-phonology-and-romanisation)
+  - [Phonological Inventory](#phonological-inventory)
+    - [Vowel Inventory](#vowel-inventory)
+    - [Consonant Inventory](#consonant-inventory)
+  - [Romanisation](#romanisation)
+    - [Vowels](#vowels)
+    - [Consonants](#consonants)
+  - [Prosody](#prosody)
+  - [Phonotactics](#phonotactics)
+  - [Alternations](#alternations)
 
 ## Phonological Inventory
 
@@ -121,6 +124,8 @@ In writing, vowel diphthongs are not distinguished from vowels in hiatus, though
 | /æɪ̯/  | ai    | /æo̯/  | ao    | /ɑʊ̯/  | âu    | /ɑe̯/  | âe    |
 | /ä/   | ä     |       |       |       |       |       |       |
 
+Capital letters - Â - Ä - Ê - Ë - Ô - Ö - Ü
+
 ### Consonants
 
 Voiced and unvoiced nasals are not distinguished in writing unless word-final, in which case the unvoiced nasals have an extra following 'h'.
@@ -138,6 +143,8 @@ Palatal digraphs with J, /ɲ̊/, /ɲ/ and /ʎ/, are written without the J when p
 | /t͡ʃ/   | ts    | /d͡ʒ/   | dz    | /c͡ɕ/   | tś    | /ɟ͡ʑ/   | dź    |
 | /ɹ/    | ŕ     | /l/    | l     | /j/    | j     | /ʎ/    | lj    |
 | /r̥/    | rh    | /r/    | r     |        |       |        |       |
+
+Capital letters - Ħ - Ñ - Ŕ - Ś - Ź
 
 ## Prosody
 
@@ -1628,25 +1635,26 @@ This section will list common affixes used to derive new words.
 
 Sections (or [back to top](#chapters)):
 
-- [Prefixes Derived From Prepositions](#prefixes-derived-from-prepositions)
-- [Other Derivation](#other-derivation)
+- [4.4: Derivational Affixes](#44-derivational-affixes)
+  - [Prefixes Derived From Prepositions](#prefixes-derived-from-prepositions)
+  - [Other derivation](#other-derivation)
 
 ## Prefixes Derived From Prepositions
-
-[back to chapter top](#44-derivational-affixes)
 
 While prepositions have fallen out of use themselves, they have been commonly used to form new words when prefixed.
 
 These affixes don't take or alter stress when creating new words, however many words were created using these prefixes *before* sound changes, thus allowing them to influence the word stem.
 
+Note that these words can be modified by preceding words even when taking prepositions, in which case the modifier can apply either to the original word or the resultant one, though ambiguities are rare - e.g. rhe irhniño 'of hot nights', vieffa irhniño 'completely nocturnal'.
+
 - **Of - irh** /ir̥/
   - NOUN > ADJ -- adjective relating to noun
     - equiv. '-ish, -ic, -y, -al'
   - turns into ir /ir/ before a voiced stop/fric/trill
-  - niño /ˈniɴɔ/ 'night' >> **irhniño** /ir̥ˈniɴɔ/ 'nocturnal'
-    - c.f. niñoëx (night.GEN) 'of *the* night'
-  - źñärhä /ˈʑɴar̥a/ 'metal' >> **irźñärhä** /irˈʑɴar̥a/ 'metallic, forged from metal'
-    - c.f. źñärhäëx (metal.GEN) 'of/from *the* metal'
+  - niño /ˈniɴɔ/ 'night' >> **irhniño** /ir̥ˈniɴɔ/ 'nocturnal'
+    - c.f. niñoëx (night.GEN) 'of *the* night'
+  - źñärhä /ˈʑɴar̥a/ 'metal' >> **irźñärhä** /irˈʑɴar̥a/ 'metallic, forged from metal'
+    - c.f. źñärhäëx (metal.GEN) 'of/from *the* metal'
 - **From - ħum** /ħum/
   - NOUN > ADJ -- adjective relating to having an origin in/being from noun
     - equiv. '-ish, -ic, -ese, -i/an'
@@ -1657,53 +1665,65 @@ These affixes don't take or alter stress when creating new words, however many w
 - **With - ul** /ul/
   - NOUN > ADJ -- adjective relating to containing or having properties of noun
     - equiv. '-ful'
-  - meccieźya /ˈmɛcˌcie̯ʑɟæ/ 'salt' >> ulmeccieźya /ulˈmɛcˌcie̯ʑɟæ/ 'salty'
-  - źimqonj /ˈʑim̥ɢɔɲ/ 'husband' >> ulźimqonj /ulˈʑim̥ɢɔɲ/ 'married (with a husband)'
+  - meccieźya /ˈmɛcˌcie̯ʑɟæ/ 'salt' >> ulmeccieźya /ulˈmɛcˌcie̯ʑɟæ/ 'salty'
+  - źimqonj /ˈʑim̥ɢɔɲ/ 'husband' >> ulźimqonj /ulˈʑim̥ɢɔɲ/ 'married (with a husband)'
   - vaħrha /ˈʋæħr̥æ/ 'mistake > flaw' >> ulvaħrha /ulˈʋæħr̥æ/ 'flawed, imperfect'
     - c.f. uloħħrha /ˈulɔħħr̥æ/ 'wrong, mistaken', from ul- + vaħrha, combined before sound changes
-- **Like/As - feś** /fɛɕ/
+- **Like/As - feś** /fɛɕ/
   - NOUN > ADJ -- adjective relating to role/manner/method as noun
     - equiv. '-y, -ly, -ive'
   - turns into feź /-ʑ/ before an unvoiced stop/fric/trill
-  - ka'monj /ˈkæʔm̥ɔɲ/ 'mother' >> feśka'monj /fɛɕˈkæʔm̥ɔɲ/ 'motherly'
-  - ghâeñ 'to prevent'
-    - ghâeñte /ˈɣɑe̯ɴte/ 'preventing thing' >> feśghâeñte /fɛɕˈɣɑe̯ɴte/ 'preventative', lit. acting as a preventing thing
-- **Before - yiñ** /ɟiɴ/
+  - ka'monj /ˈkæʔm̥ɔɲ/ 'mother' >> feśka'monj /fɛɕˈkæʔm̥ɔɲ/ 'motherly'
+  - ghâeñ 'to prevent'
+    - ghâeñte /ˈɣɑe̯ɴte/ 'preventing thing' >> feśghâeñte /fɛɕˈɣɑe̯ɴte/ 'preventative', lit. acting as a preventing thing
+- **Before - yiñ** /ɟiɴ/
   - X > X -- word of the same type, referring to a period or action before
     - equiv. 'pre-, fore-, before-'
   - nasal assimilates to noun stem voicing
-  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> yiñquźjinljar /ɟiɴˈɢuʑˌjiɲʎær/ 'to instigate / to perform a preemptive strike'
-  - ħa'üccüa' /ˈħæʔycˌcyæʔ/ 'snow' >> yiñħa'üccüa' /ɟiɴˈħæʔycˌcyæʔ/ 'pre-winter: period before winter where preparations must be made'
+  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> yiñquźjinljar /ɟiɴˈɢuʑˌjiɲʎær/ 'to instigate / to perform a preemptive strike'
+  - ħa'üccüa' /ˈħæʔycˌcyæʔ/ 'snow' >> yiñħa'üccüa' /ɟiɴˈħæʔycˌcyæʔ/ 'pre-winter: period before winter where preparations must be made'
 - **After - zo** /zɔ/
   - X > X -- word of the same type, referring to a period or action after or in response to
     - equiv. 'post-, after-'
   - verxenjh /ˈʋɛr̥xɛɲ̊/ 'heavy rain' >> zoverxenjh /zɔˈʋɛr̥xɛɲ̊/ 'period after heavy rain'
   - gharke /ˈɣær̥kɛ/ 'life' >> zogharke /zɔˈɣær̥kɛ/ 'afterlife'
-  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> zoquźjinljar /zɔˈɢuʑˌjiɲʎær/ 'to retaliate'
+  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'to fight' >> zoquźjinljar /zɔˈɢuʑˌjiɲʎær/ 'to retaliate'
+- **Amount - mu** /mu/
+  - NOUN > NOUN -- noun referring to the amount/measure/number of X
+  - xekke' /ˈxɛkkɛʔ/ 'damage' >> muxekke' /muˈxɛkkɛʔ/ 'amount of damage'
+  - vaħrha 'mistake/flaw' >> muvaħrha 'amount/number of mistakes/flaws'
 
-## Other Derivation
-
-[back to chapter top](#44-derivational-affixes)
+## Other derivation
 
 - **Adverb - -fa**
   - Also can mean 'while (also) doing X'
   - *ulokku* /ˈulɔkku/ 'rich' > *ulokkufa* /ˈulɔkkufæ/ 'richly'
-  - *ghärrhänjh* /ˈɣar̥r̥aɲ̊/ 'to wait' > *ghärrhänjhfa* /ˈɣar̥r̥aɲ̊fæ/ 'while waiting'
+  - *ghärrhänjh* /ˈɣar̥r̥aɲ̊/ 'to wait' > *ghärrhänjhfa* /ˈɣar̥r̥aɲ̊fæ/ 'while waiting'
 
 - **Piece - -sħôn** /sˈħon/
   - Countable (I) portion noun 'piece/portion/section of'
   - yeħħa /ˈɟɛħħæ/ 'land (mass) (I)' > yeħħaisħôn /ˈɟɛħħæisˈħon/ 'a land, piece of land, region (I)'
-  - źñärhä /ˈʑɴar̥a/ 'metal (mass) (I)' > źñärhäisħôn /ˈʑɴar̥aisˈħon/ 'metal ingot (I)'
-  - quieźanjh /ˈɢuˌie̯ʑæɲ̊/ 'river (A)' > quieźanjisħôn /ˈɢuˌie̯ʑæɲ̊isˈħon/ 'section of a river (I)'
+  - źñärhä /ˈʑɴar̥a/ 'metal (mass) (I)' > źñärhäisħôn /ˈʑɴar̥aisˈħon/ 'metal ingot (I)'
+  - quieźanjh /ˈɢuˌie̯ʑæɲ̊/ 'river (A)' > quieźanjisħôn /ˈɢuˌie̯ʑæɲ̊isˈħon/ 'section of a river (I)'
 
 - **Person who does X (verb)**
   - Use participle, suffix -(o/e)nj
+  - *ma'ma* 'to dance' > *ma'manj* 'dancer'
+  - *kxâudvui* 'to warn' > *kxâudvuinj* 'harbinger, prophet (of disaster)'
+  - *camħe* 'to inhabit' > *camħenj* 'inhabitant'
+  - *qâuanjh* /ˈɢɑʊ̯æɲ̊/ 'to believe' > *qâuanjenj* /ˈɢɑʊ̯æɲ̊ɛɲ/ 'believer' (also -onj)
 
 - **Person who deals with X (noun)**
-  - Suffix -um
+  - Suffix -um.  
+    - many derivations remove class suffix (-/-njh/-*nasal*/-ke/etc)
+    - some derivations delete final vowels
+  - *uonvë* 'axe' > *uonvum* 'axeman'
+  - *maoa-njh* /ˈmæo̯æɲ̊/ 'goat' > *maoaum* /ˈmæo̯æum/ 'goat farmer, shepherd'
+  - *ma'* 'flower' > *ma'um* 'flower grower; florist'
 
 - **Thing that does X**
   - Use participle, no suffix (-te/to for NOM)
+  - *ljoña'* 'to hold' > *ljoña'* 'container' (NOM: ljoñatte/-tto)
 
 - **To X-en, to make X (adj)**
   - e.g. dark > darken, long > lengthen
@@ -1712,6 +1732,12 @@ These affixes don't take or alter stress when creating new words, however many w
     - NEGP: qu-qâu /ɢu...ɢɑʊ̯/
     - PERF: -qâu /ɢɑʊ̯/
     - IMPF: -qâuo /ˌɢɑʊ̯ɔ/
+
+- **Causing X, making X (verb)**
+  - Suffix -lji/ljë
+  - *qaoi'ħêmh* 'to fear' > *qaoi'ħêmlji* 'causing to fear, fearsome'
+  - *vâeoffa* 'to be in pain' > *vâeoffalji* 'causing to be in pain, painful'
+  - *ghâr* 'to be tired' > *ghârljë* 'causing to be tired, tiring, exhausting'
 
 ---
 

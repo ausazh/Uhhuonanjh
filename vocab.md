@@ -74,7 +74,7 @@
 |ljin<br/>qêśśin<br/>ljin<br/>ljienje|ˈʎin<br/>ˈɢeɕɕin<br/>ˈʎin<br/>ˈʎie̯ɲɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to feel / touch|GEN = thing felt<br/>DAT/ACC = thing touched<br/>ORIG: to wipe<br/>CF: *ljêrâe'* 'hand'|
 |yañrhê<br/>yañqarrê<br/>yañqref<br/>yañqrênjh|ˈɟæɴ̥r̥e<br/>ˈɟæɴˌɢærre<br/>ˈɟæɴɢrɛf<br/>ˈɟæɴɢreɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to hear||
 |jêñgha'<br/>jêxieñgha'<br/>jêñghaf<br/>jêñghanjh|ˈjeɴɣæʔ<br/>ˈjeˌxie̯ɴɣæʔ<br/>ˈjeɴɣæf<br/>ˈjeɴɣæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to see||
-|qâuga<br/>jêqâuga<br/>qâugancef<br/>qâuganjh|ˈɢɑʊ̯gæ<br/>ˈjeˌɢɑʊ̯gæ<br/>ˈɢɑʊ̯ˌgæɲ̊cɛf<br/>ˈɢɑʊ̯gæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to know<br/> PERF: to find out||
+|qâuga<br/>jêqâuga<br/>qâugancef<br/>qâuganjh|ˈɢɑʊ̯gæ<br/>ˈjeˌɢɑʊ̯gæ<br/>ˈɢɑʊ̯ˌgæɲ̊cɛf<br/>ˈɢɑʊ̯gæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to know<br/> PERF: to find out|GEN = thing known|
 |qâuga|ˈɢɑʊ̯gæ|V|IMPF: to be acquainted with<br/>PERF: to acquaint / meet / visit|FROM: 'to find (out)'|
 |qâuanjh<br/>jêqâuanjh<br/>qâunjof<br/>qâuanjh|ˈɢɑʊ̯æɲ̊<br/>ˈjeˌɢɑʊ̯æɲ̊<br/>ˈɢɑʊ̯ɲɔf<br/>ˈɢɑʊ̯æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|IMPF: to think / believe<br/> PERF: to think (up / of)||
 |vaftce<br/>ündvecce<br/>vatfenjef<br/>vatfeenjh|ˈʋæftcɛ<br/>ˈynˌdʋɛccɛ<br/>ˈʋætˌfɛɲ̊ɛf<br/>ˈʋætˌfɛɛɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to smell||
@@ -584,12 +584,12 @@
 |Pâenjattśko|ˈpɑe̯ˌɲæcc͡ɕkɔ|N-D|The Storm Bird|REG: pâenjappuħośko|
 |Ghâeñoyattśko|ˈɣɑe̯ɴɔˌɟæcc͡ɕkɔ|N-D|The Mountain Bird|REG: ghâeñoyappuħośko|
 |Vaśnjaontśko|ˈʋæɕˌɲ̊æo̯ɲ̊c͡ɕkɔ|N-D|The Mother Bird||
-|vôŕmosko|ˈʋoˌɹmɔskɔ|N-D|mammoth (legendary animal)||
+|vôŕmosko|ˈʋoɹˌmɔskɔ|N-D|mammoth (legendary animal)||
 |yiźmärrhänjh|ˈɟiʑˌmar̥r̥aɲ̊|N-A|idol / holy sculpture||
 |ljakke|ˈʎækkɛ|N-D|ancestor (general)|CF *qamke* 'ancestor (personal)'|
 |faondva<br/>ümaondva<br/>faondva<br/>faondvae|ˈfæo̯ndʋæ<br/>ˈyˌmæo̯dnʋæ<br/>ˈfæo̯ndʋæ<br/>ˈfæo̯nˌdʋæɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to celebrate / carouse|CF: *faondvikke* 'revelry'|
 |vôñolja<br/>vôxfieñelja<br/>vôośnjof<br/>vôośanjh|ˈʋoɴɔʎæ<br/>ˈʋoxˌfie̯ɴɛʎæ<br/>ˈʋoˌɔɕɲ̊ɔf<br/>ˈʋoˌɔɕæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to play music|CF: *vôñoljikke* 'music'|
-|mama<br/>âemcma<br/>mamancef<br/>mamanjh|ˈmæʔm̥æ<br/>ˈɑe̯m̥cm̥æ<br/>ˈmæˌm̥æɲ̊cɛf<br/>ˈmæm̥æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to dance|CF: *ma'mikke* 'dance'|
+|ma'ma<br/>âemcma<br/>mamancef<br/>mamanjh|ˈmæʔm̥æ<br/>ˈɑe̯m̥cm̥æ<br/>ˈmæˌm̥æɲ̊cɛf<br/>ˈmæm̥æɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to dance|CF: *ma'mikke* 'dance'|
 |fâendvuś<br/>ümaondvüś<br/>fâendvuśnjof<br/>fâendvuśanjh|ˈfɑe̯ndʋuɕ<br/>ˈyˌmæo̯ndʋyɕ<br/>ˈfɑe̯nˌdʋuɕɲ̊ɔf<br/>ˈfɑe̯nˌdʋuɕæɲ̊|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to enjoy / to have fun||
 |Vae Rhüge|ˈʋæɛ ˈr̥ygɛ|N-D|The First Melt|celebration at the start of spring|
 |Vae Yêrrhâugo|ˈʋæɛ ˈɟer̥r̥ɑʊ̯gɔ|N-D|The First Harvest|celebration at the start of autumn|
@@ -807,9 +807,9 @@
 |loanjombnjofa|ˈloɐ̯ɲɔmˌbɲɔfæ|ADV|violently||
 |loħħanħaoafa|ˈlɔħħæn̥ˌħæo̯æfæ|ADV|angrily||
 |ulompofa|ˈulɔm̥ˌpɔfæ|ADV|wisely||
-|quo'oñqoñ|ˈɢuo̯ˌʔɔɴɢɔɲ|V|IMPF: to be married<br/>PERF: to marry|FROM *quo'onj* 'married couple'|
+|quo'oñqo|ˈɢuo̯ˌʔɔɴɢɔ|V|IMPF: to be married<br/>PERF: to marry|Stems based on -qo suffix<br/>FROM *quo'onj* 'married couple'|
 |ljantür<br/>qêśśantür<br/>ljantür<br/>ljanturo|ˈʎæn̥tyr<br/>ˈɢeɕˌɕæn̥tyr<br/>ˈʎæn̥tyr<br/>ˈʎæn̥ˌturɔ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to pass down||
-|ljanjom<br/>qêśśanjom<br/>ljanjom<br/>ljanjaoe|ˈʎæɲ̊ɔm<br/>ˈɢeɕˌɕæɲ̊ɔm<br/>ˈʎæɲ̊ɔm<br/>ˈʎæɲ̊ˌæo̯ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to inherit||
+|ljanjom<br/>qêśśanjom<br/>ljanjom<br/>ljanjaoe|ˈʎæɲ̊ɔm<br/>ˈɢeɕˌɕæɲ̊ɔm<br/>ˈʎæɲ̊ɔm<br/>ˈʎæɲ̊ˌæo̯ɛ|V-PP<br/>V-PN<br/>V-VP<br/>V-VI|to inherit<br/>to descend from|ACC/DAT: inherited thing<br/>GEN: ancestor|
 |quo'onj|ˈɢuo̯ʔɔɲ|N-H.​d|married couple|FROM *quonj-onj* 'two-person'|
 |vaxxonj|ˈʋæxxɔɲ|N-H|wife||
 |źimqonj|ˈʑim̥ɢɔɲ|N-H|husband||

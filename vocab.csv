@@ -196,10 +196,10 @@ jêñgha',ˈjeɴɣæʔ,V-PP,to see,
 jêxieñgha',ˈjeˌxie̯ɴɣæʔ,V-PN,to see,
 jêñghaf,ˈjeɴɣæf,V-VP,to see,
 jêñghanjh,ˈjeɴɣæɲ̊,V-VI,to see,
-qâuga,ˈɢɑʊ̯gæ,V-PP,IMPF: to know; PERF: to find out,
-jêqâuga,ˈjeˌɢɑʊ̯gæ,V-PN,IMPF: to know; PERF: to find out,
-qâugancef,ˈɢɑʊ̯ˌgæɲ̊cɛf,V-VP,IMPF: to know; PERF: to find out,
-qâuganjh,ˈɢɑʊ̯gæɲ̊,V-VI,IMPF: to know; PERF: to find out,
+qâuga,ˈɢɑʊ̯gæ,V-PP,IMPF: to know; PERF: to find out,GEN = thing known
+jêqâuga,ˈjeˌɢɑʊ̯gæ,V-PN,IMPF: to know; PERF: to find out,GEN = thing known
+qâugancef,ˈɢɑʊ̯ˌgæɲ̊cɛf,V-VP,IMPF: to know; PERF: to find out,GEN = thing known
+qâuganjh,ˈɢɑʊ̯gæɲ̊,V-VI,IMPF: to know; PERF: to find out,GEN = thing known
 qâuga,ˈɢɑʊ̯gæ,V,IMPF: to be acquainted with;PERF: to acquaint / meet / visit,FROM: 'to find (out)'
 qâuanjh,ˈɢɑʊ̯æɲ̊,V-PP,IMPF: to think / believe; PERF: to think (up / of),
 jêqâuanjh,ˈjeˌɢɑʊ̯æɲ̊,V-PN,IMPF: to think / believe; PERF: to think (up / of),
@@ -919,7 +919,7 @@ Verxotśko,ˈʋɛr̥ˌxɔc͡ɕkɔ,N-D,The Rain Bird,REG: verxopüħośko
 Pâenjattśko,ˈpɑe̯ˌɲæcc͡ɕkɔ,N-D,The Storm Bird,REG: pâenjappuħośko
 Ghâeñoyattśko,ˈɣɑe̯ɴɔˌɟæcc͡ɕkɔ,N-D,The Mountain Bird,REG: ghâeñoyappuħośko
 Vaśnjaontśko,ˈʋæɕˌɲ̊æo̯ɲ̊c͡ɕkɔ,N-D,The Mother Bird,
-vôŕmosko,ˈʋoˌɹmɔskɔ,N-D,mammoth (legendary animal),
+vôŕmosko,ˈʋoɹˌmɔskɔ,N-D,mammoth (legendary animal),
 yiźmärrhänjh,ˈɟiʑˌmar̥r̥aɲ̊,N-A,idol / holy sculpture,
 ljakke,ˈʎækkɛ,N-D,ancestor (general),CF *qamke* 'ancestor (personal)'
 faondva,ˈfæo̯ndʋæ,V-PP,to celebrate / carouse,CF: *faondvikke* 'revelry'
@@ -930,7 +930,7 @@ vôñolja,ˈʋoɴɔʎæ,V-PP,to play music,CF: *vôñoljikke* 'music'
 vôxfieñelja,ˈʋoxˌfie̯ɴɛʎæ,V-PN,to play music,CF: *vôñoljikke* 'music'
 vôośnjof,ˈʋoˌɔɕɲ̊ɔf,V-VP,to play music,CF: *vôñoljikke* 'music'
 vôośanjh,ˈʋoˌɔɕæɲ̊,V-VI,to play music,CF: *vôñoljikke* 'music'
-mama,ˈmæʔm̥æ,V-PP,to dance,CF: *ma'mikke* 'dance'
+ma'ma,ˈmæʔm̥æ,V-PP,to dance,CF: *ma'mikke* 'dance'
 âemcma,ˈɑe̯m̥cm̥æ,V-PN,to dance,CF: *ma'mikke* 'dance'
 mamancef,ˈmæˌm̥æɲ̊cɛf,V-VP,to dance,CF: *ma'mikke* 'dance'
 mamanjh,ˈmæm̥æɲ̊,V-VI,to dance,CF: *ma'mikke* 'dance'
@@ -1197,15 +1197,15 @@ ljëñghëmbofa,ˈʎɤɴɣɤmˌbɔfæ,ADV,evidently / clearly,
 loanjombnjofa,ˈloɐ̯ɲɔmˌbɲɔfæ,ADV,violently,
 loħħanħaoafa,ˈlɔħħæn̥ˌħæo̯æfæ,ADV,angrily,
 ulompofa,ˈulɔm̥ˌpɔfæ,ADV,wisely,
-quo'oñqoñ,ˈɢuo̯ˌʔɔɴɢɔɲ,V,IMPF: to be married;PERF: to marry,FROM *quo'onj* 'married couple'
+quo'oñqo,ˈɢuo̯ˌʔɔɴɢɔ,V,IMPF: to be married;PERF: to marry,Stems based on -qo suffix;FROM *quo'onj* 'married couple'
 ljantür,ˈʎæn̥tyr,V-PP,to pass down,
 qêśśantür,ˈɢeɕˌɕæn̥tyr,V-PN,to pass down,
 ljantür,ˈʎæn̥tyr,V-VP,to pass down,
 ljanturo,ˈʎæn̥ˌturɔ,V-VI,to pass down,
-ljanjom,ˈʎæɲ̊ɔm,V-PP,to inherit,
-qêśśanjom,ˈɢeɕˌɕæɲ̊ɔm,V-PN,to inherit,
-ljanjom,ˈʎæɲ̊ɔm,V-VP,to inherit,
-ljanjaoe,ˈʎæɲ̊ˌæo̯ɛ,V-VI,to inherit,
+ljanjom,ˈʎæɲ̊ɔm,V-PP,to inherit;to descend from,ACC/DAT: inherited thing;GEN: ancestor
+qêśśanjom,ˈɢeɕˌɕæɲ̊ɔm,V-PN,to inherit;to descend from,ACC/DAT: inherited thing;GEN: ancestor
+ljanjom,ˈʎæɲ̊ɔm,V-VP,to inherit;to descend from,ACC/DAT: inherited thing;GEN: ancestor
+ljanjaoe,ˈʎæɲ̊ˌæo̯ɛ,V-VI,to inherit;to descend from,ACC/DAT: inherited thing;GEN: ancestor
 quo'onj,ˈɢuo̯ʔɔɲ,N-H.d,married couple,FROM *quonj-onj* 'two-person'
 vaxxonj,ˈʋæxxɔɲ,N-H,wife,
 źimqonj,ˈʑim̥ɢɔɲ,N-H,husband,
