@@ -155,7 +155,7 @@ Sightings are rare, but it is said by a few ancestors that there is a fearsome *
 
 Yünjinqoñ jêñgha' qâe, xeañ minj ljêraljinj me'fośtonjix kuinjaśêra muoñratarhêra qaoi'ħêmhlji **vôŕmośüljagge** xêkke ljakkix ljañix.
 
-/ˈɟyˌɲinɢɔɴ ˈjeɴɣæʔ ˈɢɑe̯ | ˈxeɐ̯ɴ miɲ ˈɢæo̯ˌiʔħem̥ʎi ˈʎeræʎiɲ ˈmɛʔˌfɔɕtɔɲ̊ix ˈkuɪ̯ɲæɕeræ ˈmuo̯ɴˌrætær̥eræ ˈʋoɹmɔˌɕyʎæggɛ ˈxekkɛ ˈʎækkix ˈʎæɴix/
+/ˈɟyˌɲinɢɔɴ ˈjeɴɣæʔ ˈɢɑe̯ | ˈxeɐ̯ɴ miɲ ˈʎeræʎiɲ ˈmɛʔˌfɔɕtɔɲ̊ix ˈkuɪ̯ɲæɕeræ ˈmuo̯ɴˌrætær̥eræ ˈɢæo̯ˌiʔħem̥ʎi ˈʋoɹmɔˌɕyʎæggɛ ˈxekkɛ ˈʎækkix ˈʎæɴix/
 
 ```
 yünjin-qo-ñ jêñgha' qâe
